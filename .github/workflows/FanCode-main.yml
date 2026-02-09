@@ -23,7 +23,7 @@ jobs:
 
       - name: 📥 Install Dependencies
         run: |
-          pip install requests pyzipper
+          pip install requests pyzipper pytz
 
       - name: 🔑 Load ZIP Password
         run: |
