@@ -1,7 +1,7 @@
 import pyzipper
 import os
 
-ZIP_FILE = "Fancode_sm.zip"
+ZIP_FILE = "FanCode_sm.zip"
 EXTRACT_FOLDER = "extracted"
 
 def unzip_main():
