@@ -1,35 +1,50 @@
-name: Update FanCode Live Matches
+name: FanCode Auto Update Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # প্রতি ৩০ মিনিটে রান
+    - cron: "*/30 * * * *"   # ⏱️ প্রতি ৩০ মিনিটে
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 📦 Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install dependencies
+      - name: 📥 Install Dependencies
         run: |
-          pip install requests
+          pip install requests pyzipper
 
-      - name: Run Python script
+      - name: 🔑 Load ZIP Password
         run: |
-          python script.py
+          echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
 
-      - name: Commit and push changes
+      - name: 🔐 Extract ZIP (hidden)
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          python decrypt.py
+
+      - name: ▶ Run hidden FanCode script
+        run: |
+          python extracted/fancode_sm.py
+
+      - name: 🧹 Cleanup temp files
+        run: |
+          rm -rf extracted
+
+      - name: 📤 Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto update live matches & playlist" || echo "No changes"
+          git commit -m "Auto update FanCode data & playlist" || echo "No changes"
           git push
