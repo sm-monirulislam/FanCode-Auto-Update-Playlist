@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_banner.png" alt="⭐ FanCode ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist/blob/main/images/fancode_banner.png" alt="⭐ FanCode ⭐" width="200"></a>
   <br>
   ⭐ FanCode ⭐
   <br>
@@ -18,10 +18,10 @@
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
          alt="Gitter">
   
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
+<a href="https://saythanks.io/to/monirulislam007@gmail.com">
+      <img src="https://img.shields.io/badge/Team_X_SM-%E2%98%BC-green.svg">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
+  <a href="https://play.google.com/store/apps/details?id=com.dream11sportsguru">
     <img src="https://img.shields.io/badge/App-FanCode-red">
   </a>
   </a>
