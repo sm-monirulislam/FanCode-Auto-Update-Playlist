@@ -5,9 +5,9 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist/blob/main/images/fancode_banner.png" alt="⭐ FanCode ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/sm-monirulislam/FanCode-Auto-Update-Playlist/blob/main/fancode_images/fancode_banner.png" alt="🔥 FanCode 🔥" width="200"></a>
   <br>
-  ⭐ FanCode ⭐
+  🔥 FanCode 🔥
   <br>
 </h1>
 
