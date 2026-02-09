@@ -47,7 +47,7 @@ def main():
         "name": "Fancode Live Matches Data in Json",
         "owner": OWNER,
         "telegram": TELEGRAM,
-        "channels_amount": len(live_matches),
+        "match_amount": len(all_matches),
         "last update time": now_time,
         "matches": all_matches
     }
@@ -55,14 +55,14 @@ def main():
     with open(OUT_JSON, "w", encoding="utf-8") as f:
         json.dump(json_output, f, ensure_ascii=False, indent=2)
 
-    # ===== M3U OUTPUT =====
+    # ===== M3U OUTPUT (ONLY LIVE) =====
     with open(OUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         f.write("#=================================\n")
         f.write(f"# 🖥️ Developed by: {OWNER}\n")
         f.write(f"# 🔗 Telegram: {TELEGRAM}\n")
         f.write(f"# 🕒 Last Updated: {now_time} (BD Time)\n")
-        f.write(f"# 📺 Channels Count: {len(live_matches)}\n")
+        f.write(f"# 📺 Live Matches: {len(live_matches)}\n")
         f.write("#=================================\n\n")
 
         for m in live_matches:
