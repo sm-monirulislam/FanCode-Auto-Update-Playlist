@@ -2,18 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:32:08 AM 10-02-2026 (BD Time)
-# 📺 Live Matches: 8
+# 🕒 Last Updated: 05:33:17 AM 10-02-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
-#EXTINF:-1 tvg-name="Villarreal CF vs RCD Espanyol (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131052_5427_VIL_ESL_FC-Web.png" group-title="Football",Villarreal CF vs RCD Espanyol (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131052_english_hls_5165f5be2816905_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Sheffield United F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139352_5489_SHF_MIDD_FC-Web.jpg" group-title="Football",Sheffield United F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139352_english_hls_8bd1d4e21772249_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" group-title="Tennis",World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140194_english_hls_314df8104326579_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" group-title="Tennis",Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140541_english_hls_fecb6abd2f83486_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="South Australia vs New South Wales (One Day Cup, 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg" group-title="Cricket",South Australia vs New South Wales (One Day Cup, 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/133943_english_hls_9eed4fb7a459528_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png" group-title="Tennis",Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140201_english_hls_fbb36ff56921479_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png" group-title="Tennis",Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)
