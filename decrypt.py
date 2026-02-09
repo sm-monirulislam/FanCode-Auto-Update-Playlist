@@ -1,7 +1,7 @@
 import pyzipper
 import os
 
-ZIP_FILE = "toffee_main.zip"
+ZIP_FILE = "fancode_sm.zip"
 EXTRACT_FOLDER = "extracted"
 
 def unzip_main():
@@ -33,4 +33,3 @@ def unzip_main():
 
 if __name__ == "__main__":
     unzip_main()
-
