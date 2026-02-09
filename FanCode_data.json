@@ -3,8 +3,21 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:01:33 AM 09-02-2026",
+  "last update time": "04:37:11 AM 09-02-2026",
   "matches": [
+    {
+      "event_category": "Live Events",
+      "title": "Day 1 vs Delhi (Strikers Cup 2026)",
+      "event_name": "Strikers Cup 2026",
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_2": "Delhi",
+      "status": "LIVE",
+      "match_id": 140315,
+      "startTime": "08:30:00 AM 09-02-2026",
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+      "stream_url": null
+    },
     {
       "event_category": "Football",
       "title": "Al Wahda vs Al-Ahli Saudi FC (AFC Champions League Elite 2025-26)",
@@ -110,16 +123,16 @@
       "stream_url": null
     },
     {
-      "event_category": "Live Events",
-      "title": "Day 1 vs Delhi (Strikers Cup 2026)",
-      "event_name": "Strikers Cup 2026",
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_2": "Delhi",
+      "event_category": "Cricket",
+      "title": "Western Australia vs Tasmania (One Day Cup, 2025-26)",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Western Australia vs Tasmania",
+      "team_1": "Western Australia",
+      "team_2": "Tasmania",
       "status": "UPCOMING",
-      "match_id": 140315,
-      "startTime": "08:30:00 AM 09-02-2026",
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+      "match_id": 133945,
+      "startTime": "11:30:00 AM 10-02-2026",
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/133945_5606_WAU_TAS_fc-web.jpg",
       "stream_url": null
     },
     {
@@ -214,19 +227,6 @@
       "stream_url": null
     },
     {
-      "event_category": "Cricket",
-      "title": "Western Australia vs Tasmania (One Day Cup, 2025-26)",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Western Australia vs Tasmania",
-      "team_1": "Western Australia",
-      "team_2": "Tasmania",
-      "status": "UPCOMING",
-      "match_id": 133945,
-      "startTime": "11:30:00 AM 10-02-2026",
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/133945_5606_WAU_TAS_fc-web.jpg",
-      "stream_url": null
-    },
-    {
       "event_category": "Golf",
       "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
       "event_name": "TGL Season 2",
@@ -237,19 +237,6 @@
       "match_id": 139170,
       "startTime": "05:30:00 AM 10-02-2026",
       "logo": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "stream_url": null
-    },
-    {
-      "event_category": "Live Events",
-      "title": "Day 2 vs Delhi (Strikers Cup 2026)",
-      "event_name": "Strikers Cup 2026",
-      "match_name": "Day 2",
-      "team_1": "Day 2",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "match_id": 140316,
-      "startTime": "08:30:00 AM 10-02-2026",
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
       "stream_url": null
     },
     {
@@ -280,15 +267,15 @@
     },
     {
       "event_category": "Live Events",
-      "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 7",
-      "team_1": "Day 7",
+      "title": "Day 2 vs Delhi (Strikers Cup 2026)",
+      "event_name": "Strikers Cup 2026",
+      "match_name": "Day 2",
+      "team_1": "Day 2",
       "team_2": "Delhi",
       "status": "UPCOMING",
-      "match_id": 140325,
-      "startTime": "12:05:00 PM 10-02-2026",
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "match_id": 140316,
+      "startTime": "08:30:00 AM 10-02-2026",
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
       "stream_url": null
     },
     {
@@ -315,6 +302,19 @@
       "match_id": 136033,
       "startTime": "05:45:00 PM 10-02-2026",
       "logo": "https://www.fancode.com/skillup-uploads/cms-media/136033_5647_SHN_MZ_fc-Web.jpg",
+      "stream_url": null
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 7",
+      "team_1": "Day 7",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "match_id": 140325,
+      "startTime": "12:05:00 PM 10-02-2026",
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
       "stream_url": null
     },
     {
@@ -370,19 +370,6 @@
       "stream_url": null
     },
     {
-      "event_category": "Tennis",
-      "title": "Court 2 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Court 2",
-      "team_1": "Court 2",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "match_id": 140195,
-      "startTime": "04:30:00 PM 10-02-2026",
-      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "stream_url": null
-    },
-    {
       "event_category": "Football",
       "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
       "event_name": "AFC Champions League Elite 2025-26",
@@ -393,6 +380,19 @@
       "match_id": 136083,
       "startTime": "09:30:00 PM 10-02-2026",
       "logo": "https://www.fancode.com/skillup-uploads/cms-media/136083_5647_TFC_SDD_fc-Web.jpg",
+      "stream_url": null
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Court 2 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Court 2",
+      "team_1": "Court 2",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "match_id": 140195,
+      "startTime": "04:30:00 PM 10-02-2026",
+      "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
       "stream_url": null
     },
     {
