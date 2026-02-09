@@ -1,13 +1,19 @@
 import requests
 import json
+from datetime import datetime
 
 API_URL = "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/data.json"
 
-OUT_JSON = "matches_all.json"
-OUT_M3U = "live_matches.m3u"
+# Output files
+OUT_JSON = "FanCode_data.json"
+OUT_M3U = "FanCode.m3u"
+
+OWNER = "Monirul Islam"
+TELEGRAM = "https://t.me/monirul_Islam_SM"
 
 def main():
-    data = requests.get(API_URL, timeout=15).json()
+    response = requests.get(API_URL, timeout=15)
+    data = response.json()
 
     matches = data.get("matches", [])
 
@@ -34,13 +40,31 @@ def main():
         if m.get("status", "").upper() == "LIVE":
             live_matches.append(match_data)
 
-    # save all matches json
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(all_matches, f, ensure_ascii=False, indent=2)
+    now_time = datetime.now().strftime("%I:%M:%S %p %d-%m-%Y")
 
-    # create live playlist
+    # ===== JSON OUTPUT =====
+    json_output = {
+        "name": "Fancode Live Matches Data in Json",
+        "owner": OWNER,
+        "telegram": TELEGRAM,
+        "channels_amount": len(live_matches),
+        "last update time": now_time,
+        "matches": all_matches
+    }
+
+    with open(OUT_JSON, "w", encoding="utf-8") as f:
+        json.dump(json_output, f, ensure_ascii=False, indent=2)
+
+    # ===== M3U OUTPUT =====
     with open(OUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
+        f.write("#=================================\n")
+        f.write(f"# 🖥️ Developed by: {OWNER}\n")
+        f.write(f"# 🔗 Telegram: {TELEGRAM}\n")
+        f.write(f"# 🕒 Last Updated: {now_time} (BD Time)\n")
+        f.write(f"# 📺 Channels Count: {len(live_matches)}\n")
+        f.write("#=================================\n\n")
+
         for m in live_matches:
             f.write(
                 f'#EXTINF:-1 tvg-id="{m["match_id"]}" '
@@ -49,8 +73,8 @@ def main():
             )
             f.write(f'{m["stream_url"]}\n')
 
-    print("✅ matches_all.json created")
-    print("✅ live_matches.m3u created")
+    print("✅ FanCode_data.json created")
+    print("✅ FanCode.m3u created")
 
 if __name__ == "__main__":
     main()
