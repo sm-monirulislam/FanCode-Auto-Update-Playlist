@@ -19,33 +19,34 @@ jobs:
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.10"
 
       - name: 📥 Install Dependencies
         run: |
           pip install requests pyzipper
 
+      # 🔑 Load ZIP password from GitHub Secrets
       - name: 🔑 Load Secrets
         run: |
           echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
-          
-      # 🔐 ZIP extract (তোমার Unzip.py অনুযায়ী)
+
+      # 🔐 ZIP extract (decrypt.py / unzip.py)
       - name: 🔐 Extract FanCode_sm.zip
         run: |
-          python decrypt.
+          python decrypt.py
 
       # ▶ MAIN SCRIPT (ZIP থেকে বের হওয়া ফাইল)
-      - name: ▶ Run Toffee Script
+      - name: ▶ Run FanCode Script
         run: |
           python fancode_sm.py
 
-      # 🧹 Cleanup temp + secret files
+      # 🧹 Cleanup temp folder
       - name: 🧹 Cleanup temp files
         run: |
           rm -rf extracted || true
-          
 
-       - name: Commit and push changes
+      # 📤 Commit & Push changes
+      - name: 📤 Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
