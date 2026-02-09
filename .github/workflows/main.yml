@@ -1,4 +1,4 @@
-name: 🔁 Toffee Auto Update Playlist
+name: FanCode Auto Update Playlist
 
 on:
   schedule:
@@ -30,26 +30,26 @@ jobs:
         run: |
           echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
 
-      # 🔐 ZIP extract (decrypt.py / unzip.py)
+      # 🔐 Extract ZIP (hidden)
       - name: 🔐 Extract FanCode_sm.zip
         run: |
           python decrypt.py
 
-      # ▶ MAIN SCRIPT (ZIP থেকে বের হওয়া ফাইল)
-      - name: ▶ Run FanCode Script
+      # ▶ Run script from extracted folder (hidden)
+      - name: ▶ Run hidden FanCode script
         run: |
-          python fancode_sm.py
+          python extracted/fancode_sm.py
 
-      # 🧹 Cleanup temp folder
+      # 🧹 Cleanup extracted folder
       - name: 🧹 Cleanup temp files
         run: |
-          rm -rf extracted || true
+          rm -rf extracted
 
-      # 📤 Commit & Push changes
+      # 📤 Commit & Push output files
       - name: 📤 Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto update live matches & playlist" || echo "No changes"
+          git commit -m "Auto update FanCode data & playlist" || echo "No changes"
           git push
