@@ -2,20 +2,18 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 07:03:18 PM 10-02-2026 (BD Time)
-# 📺 Live Matches: 9
+# 🕒 Last Updated: 08:41:44 PM 10-02-2026 (BD Time)
+# 📺 Live Matches: 8
 #=================================
 
 #EXTINF:-1 tvg-name="Tasmania vs Western Australia (One Day Cup, 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Tasmania_fc-web.jpg" group-title="Cricket",Tasmania vs Western Australia (One Day Cup, 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/133945_english_hls_a1fc7b8e5440632_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/11_Sanfrecce-Hiroshima-vs-Johor-Darul-Ta'zim_1770634775101.png" group-title="Football",Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/136032_english_hls_c736b054ae9039_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/12_Vissel-Kobe-vs-Seoul_1770634622987.png" group-title="Football",Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/136031_english_hls_7e45d734e439997_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Chengdu Rongcheng vs Buriram United (AFC Champions League Elite 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/13_Chengdu-Rongcheng-vs-Buriram-United_1770634905561.png" group-title="Football",Chengdu Rongcheng vs Buriram United (AFC Champions League Elite 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/136034_english_hls_f87197c36a93613_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Shanghai Shenhua vs Machida Zelvia (AFC Champions League Elite 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/14_Shanghai-Shenhua-vs-Machida_1770635246976.png" group-title="Football",Shanghai Shenhua vs Machida Zelvia (AFC Champions League Elite 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/136033_english_hls_1be6d4e79450911_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140052_5648_ESG_HUS_FC-Web.jpg" group-title="Football",Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140052_english_hls_396fea820c27432_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" group-title="Tennis",World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140543_english_hls_f65455d4a422900_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png" group-title="Tennis",Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)
