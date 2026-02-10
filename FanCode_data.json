@@ -2,8 +2,8 @@
   "name": "Fancode Live Matches Data in Json",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "01:37:09 PM 10-02-2026",
+  "match_amount": 38,
+  "last update time": "02:44:47 PM 10-02-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -134,7 +134,7 @@
     {
       "event_category": "Football",
       "title": "Birmingham City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-vs-West-Bromwich-Albion_fc-web..jpg",
       "team_1": "Birmingham City F.C.",
       "team_2": "West Bromwich Albion F.C.",
       "status": "UPCOMING",
@@ -190,6 +190,30 @@
       "match_name": "Tigres vs Forge",
       "match_id": 140374,
       "startTime": "08:30:00 AM 11-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Gangwon vs Shanghai Port (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/17_Gangwon-vs-Shanghai-Port_1770635891045.png",
+      "team_1": "Gangwon",
+      "team_2": "Shanghai Port",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Gangwon vs Shanghai Port",
+      "match_id": 136036,
+      "startTime": "03:30:00 PM 11-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Ulsan HD vs Melbourne City (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/18_Ulsan-HD-vs-Melbourne-City_1770635792434.png",
+      "team_1": "Ulsan HD",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Ulsan HD vs Melbourne City",
+      "match_id": 136035,
+      "startTime": "03:30:00 PM 11-02-2026"
     },
     {
       "event_category": "Tennis",
@@ -288,30 +312,6 @@
       "startTime": "11:30:00 PM 10-02-2026"
     },
     {
-      "event_category": "Football",
-      "title": "Gangwon vs Shanghai Port (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/17_Gangwon-vs-Shanghai-Port_1770635891045.png",
-      "team_1": "Gangwon",
-      "team_2": "Shanghai Port",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Gangwon vs Shanghai Port",
-      "match_id": 136036,
-      "startTime": "03:30:00 PM 11-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "Ulsan HD vs Melbourne City (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/18_Ulsan-HD-vs-Melbourne-City_1770635792434.png",
-      "team_1": "Ulsan HD",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Ulsan HD vs Melbourne City",
-      "match_id": 136035,
-      "startTime": "03:30:00 PM 11-02-2026"
-    },
-    {
       "event_category": "Live Events",
       "title": "Day 3 vs Delhi (Strikers Cup 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
@@ -322,18 +322,6 @@
       "match_name": "Day 3",
       "match_id": 140317,
       "startTime": "09:00:00 AM 11-02-2026"
-    },
-    {
-      "event_category": "Live Events",
-      "title": "Day 8 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 8",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 8",
-      "match_id": 140326,
-      "startTime": "12:20:00 PM 11-02-2026"
     },
     {
       "event_category": "Football",
@@ -358,6 +346,30 @@
       "match_name": "Ratchaburi vs Persib Bandung",
       "match_id": 140054,
       "startTime": "05:45:00 PM 11-02-2026"
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 8 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "team_1": "Day 8",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 8",
+      "match_id": 140326,
+      "startTime": "12:20:00 PM 11-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140056_5648_ARK_ANF_FC-Web.jpg",
+      "team_1": "FC Arkadag",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "FC Arkadag vs Al-Nassr FC",
+      "match_id": 140056,
+      "startTime": "07:15:00 PM 11-02-2026"
     },
     {
       "event_category": "Tennis",
@@ -396,18 +408,6 @@
       "startTime": "02:30:00 PM 11-02-2026"
     },
     {
-      "event_category": "Football",
-      "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140056_5648_ARK_ANF_FC-Web.jpg",
-      "team_1": "FC Arkadag",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "FC Arkadag vs Al-Nassr FC",
-      "match_id": 140056,
-      "startTime": "07:15:00 PM 11-02-2026"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 1 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
@@ -444,16 +444,28 @@
       "startTime": "11:15:00 PM 11-02-2026"
     },
     {
-      "event_category": "Formula 1",
-      "title": "Day 1 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-      "team_1": "Day 1",
-      "team_2": "Bahrain International Circuit",
+      "event_category": "Football",
+      "title": "Paris FC Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
+      "team_1": "Paris FC Women",
+      "team_2": "Real Madrid Women",
       "status": "UPCOMING",
-      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-      "match_name": "Day 1",
-      "match_id": 139558,
-      "startTime": "08:30:00 PM 11-02-2026"
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Paris FC Women vs Real Madrid Women",
+      "match_id": 140407,
+      "startTime": "01:30:00 AM 12-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Athletic Club vs Real Sociedad (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140522_5806_ATH_RS_FC-Web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "Real Sociedad",
+      "status": "UPCOMING",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Athletic Club vs Real Sociedad",
+      "match_id": 140522,
+      "startTime": "01:30:00 AM 12-02-2026"
     }
   ]
 }
