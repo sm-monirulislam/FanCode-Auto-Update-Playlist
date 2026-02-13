@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:38:57 AM 14-02-2026 (BD Time)
-# 📺 Live Matches: 12
+# 🕒 Last Updated: 02:33:04 AM 14-02-2026 (BD Time)
+# 📺 Live Matches: 13
 #=================================
 
 #EXTINF:-1 tvg-name="Elche CF vs CA Osasuna (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png" group-title="Football",Elche CF vs CA Osasuna (LALIGA 2025-26)
@@ -28,5 +28,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/140538_english_hls_abde6fad6b18281_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Featured Groups - Day 2 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png" group-title="Golf",Featured Groups - Day 2 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140626_english_hls_1c0b3a43136357_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Al-Ittihad vs Al-Fayha FC (Roshn Saudi League 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Fayha-FC_fc-web.jpg" group-title="Football",Al-Ittihad vs Al-Fayha FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139840_english_hls_a4d60de1db72659_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed - Day 2 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png" group-title="Golf",World Feed - Day 2 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)
+https://bddia-mpv2.fancode.com/out/v1/ap-south-1/140045_english_847333/ad-h264/index.m3u8
+#EXTINF:-1 tvg-name="Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)" tvg-logo="  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png" group-title="Tennis",Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140640_english_hls_82b355eb0690566_1ta-di_h264/index.m3u8
