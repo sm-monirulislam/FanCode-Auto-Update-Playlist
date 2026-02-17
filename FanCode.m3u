@@ -2,12 +2,14 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:43:49 AM 18-02-2026 (BD Time)
-# 📺 Live Matches: 9
+# 🕒 Last Updated: 02:32:05 AM 18-02-2026 (BD Time)
+# 📺 Live Matches: 10
 #=================================
 
 #EXTINF:-1 tvg-name="Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg" group-title="Football",Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/140061_english_hls_db731f332072640_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Blackpool vs Mansfield Town (League One 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" group-title="Football",Blackpool vs Mansfield Town (League One 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140017_english_hls_f6bb7dae9e59884_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" group-title="Tennis",Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140648_english_hls_4deb6b7f4433909_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed  vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" group-title="Tennis",World Feed  vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
