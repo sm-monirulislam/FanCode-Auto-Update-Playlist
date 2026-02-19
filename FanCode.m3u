@@ -2,16 +2,10 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:38:50 AM 20-02-2026 (BD Time)
-# 📺 Live Matches: 12
+# 🕒 Last Updated: 04:27:18 AM 20-02-2026 (BD Time)
+# 📺 Live Matches: 10
 #=================================
 
-#EXTINF:-1 tvg-name="Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140419_5720_MUN-W_ATL-W_fc-web.jpg" group-title="Football",Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/140419_english_hls_bcf4961cb435378_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_web-(1).jpg" group-title="Tennis",World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140211_english_hls_e1ffbe35933090_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg" group-title="Tennis",Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140755_english_hls_66f4c33efc95962_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed - Day 1 vs The Riviera Country Club (The Genesis Invitational 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Golf",Main Feed - Day 1 vs The Riviera Country Club (The Genesis Invitational 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140566_english_hls_810880327e13667_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Match 4 vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png" group-title="Tennis",Match 4 vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)
@@ -30,3 +24,5 @@ https://bd-mc-fdlive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di
 https://bd-mc-fdlive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed - Day 1 vs The Riviera Country Club (The Genesis Invitational 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Golf",World Feed - Day 1 vs The Riviera Country Club (The Genesis Invitational 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140068_english_hls_26634f85d55345_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140419_5720_MUN-W_ATL-W_fc-web.jpg" group-title="Football",Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140419_english_hls_bcf4961cb435378_1ta-di_h264/index.m3u8
