@@ -2,11 +2,17 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:54:28 PM 20-02-2026 (BD Time)
-# 📺 Live Matches: 2
+# 🕒 Last Updated: 06:49:35 PM 20-02-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
 #EXTINF:-1 tvg-name="England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" group-title="Cricket",England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)
 https://bd-mc-fdlive.fancode.com/mumbai/140661_english_hls_2f7528d99a95628_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Paarl CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140660_5968_PRC_VDCC_FC-Web.jpg" group-title="Cricket",Paarl CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140660_english_hls_e500227d8f13427_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg" group-title="Formula 1",Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)
 https://bddia-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg" group-title="Tennis",World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140212_english_hls_341b6aef4a2950_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg" group-title="Tennis",Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/index.m3u8
