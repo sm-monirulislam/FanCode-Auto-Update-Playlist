@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "05:50:30 AM 21-02-2026",
+  "last update time": "07:41:18 AM 21-02-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,6 +18,20 @@
       "startTime": "04:30:00 AM 21-02-2026",
       "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8",
       "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Queensland-vs-South-Australia_fc-web.jpg",
+      "team_1": "Queensland",
+      "team_2": "South Australia",
+      "status": "LIVE",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Queensland vs South Australia",
+      "match_id": 133946,
+      "startTime": "05:30:00 AM 21-02-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "event_category": "Golf",
@@ -77,20 +91,6 @@
     },
     {
       "event_category": "Tennis",
-      "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
-      "team_1": "Quadra 1",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 1",
-      "match_id": 140760,
-      "startTime": "12:30:00 AM 21-02-2026",
-      "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140760_english_hls_c612fca3fc69404_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140760_english_hls_c612fca3fc69404_1ta-di_h264/index.m3u8"
-    },
-    {
-      "event_category": "Tennis",
       "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
       "team_1": "World Feed",
@@ -130,18 +130,6 @@
       "startTime": "02:30:00 AM 21-02-2026",
       "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8",
       "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Queensland-vs-South-Australia_fc-web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "match_id": 133946,
-      "startTime": "05:30:00 AM 21-02-2026"
     },
     {
       "event_category": "Cricket",
@@ -289,42 +277,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Auckland",
-      "match_id": 139413,
-      "startTime": "09:30:00 AM 21-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
-      "team_1": "Sydney FC",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Brisbane Roar",
-      "match_id": 139414,
-      "startTime": "11:30:00 AM 21-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-      "team_1": "Melbourne City",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Melbourne Victory",
-      "match_id": 139415,
-      "startTime": "02:05:00 PM 21-02-2026"
-    },
-    {
-      "event_category": "Football",
       "title": "Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg",
       "team_1": "Al-Nassr FC",
@@ -349,6 +301,30 @@
     },
     {
       "event_category": "Football",
+      "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Auckland",
+      "match_id": 139413,
+      "startTime": "09:30:00 AM 21-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
+      "team_1": "Sydney FC",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Brisbane Roar",
+      "match_id": 139414,
+      "startTime": "11:30:00 AM 21-02-2026"
+    },
+    {
+      "event_category": "Football",
       "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
       "team_1": "Atletico de Madrid",
@@ -358,6 +334,18 @@
       "match_name": "Atletico de Madrid vs RCD Espanyol",
       "match_id": 131076,
       "startTime": "01:30:00 AM 22-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+      "team_1": "Melbourne City",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Melbourne Victory",
+      "match_id": 139415,
+      "startTime": "02:05:00 PM 21-02-2026"
     },
     {
       "event_category": "Football",
@@ -465,6 +453,18 @@
       "event_name": "The Genesis Invitational 2026",
       "match_name": "World Feed - Day 3",
       "match_id": 140070,
+      "startTime": "11:30:00 PM 21-02-2026"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
+      "team_1": "World Feed",
+      "team_2": "Doha, Qatar",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "match_name": "World Feed",
+      "match_id": 140213,
       "startTime": "11:30:00 PM 21-02-2026"
     }
   ]
