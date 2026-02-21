@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:37:19 PM 21-02-2026 (BD Time)
-# 📺 Live Matches: 3
+# 🕒 Last Updated: 07:38:40 PM 21-02-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
 #EXTINF:-1 tvg-name="Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg" group-title="Cricket",Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)
@@ -12,3 +12,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/140679_english_hls_64def5c24966429_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/140439_english_hls_949484ff3954082_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140439_5956_EBFC_SCD_fc-web_1771663314740.jpg" group-title="Football",East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)
 https://bd-mc-fdlive.fancode.com/mumbai/140886_bengali_hls_70b2d9a09038078_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Bromwich Albion F.C. vs Coventry City Football Club (EFL Championship 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1771680022371/140123_CASACARDS_APP.png" group-title="Football",West Bromwich Albion F.C. vs Coventry City Football Club (EFL Championship 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Real Sociedad vs Real Oviedo (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131073_5427_RS_RO_FC-Web.png" group-title="Football",Real Sociedad vs Real Oviedo (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131073_english_hls_ae2519e8e23367_1ta-di_h264/index.m3u8
