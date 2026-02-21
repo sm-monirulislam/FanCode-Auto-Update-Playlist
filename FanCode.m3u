@@ -2,18 +2,20 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:00:48 AM 22-02-2026 (BD Time)
-# 📺 Live Matches: 12
+# 🕒 Last Updated: 01:44:15 AM 22-02-2026 (BD Time)
+# 📺 Live Matches: 13
 #=================================
 
 #EXTINF:-1 tvg-name="Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140680_5968_PECC_VDCC_FC-Web.jpg" group-title="Cricket",Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140680_english_hls_5fcde3b05690545_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="CA Osasuna vs Real Madrid (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png" group-title="Football",CA Osasuna vs Real Madrid (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131071_english_hls_3e04b7ad7d46925_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg" group-title="Football",Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140699_english_hls_f68efcb4a190297_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140698_5655_AHS_ITT_fc-web.jpg" group-title="Football",Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2025-2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140698_english_hls_81f4657f403863_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg" group-title="Football",Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140699_english_hls_f68efcb4a190297_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png" group-title="Football",Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131076_english_hls_449104a2d319571_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Golf",Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Golf",Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)
