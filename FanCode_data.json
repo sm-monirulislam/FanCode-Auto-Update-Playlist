@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:18:46 AM 22-02-2026",
+  "last update time": "04:49:09 AM 22-02-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
-      "team_1": "Atletico de Madrid",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs RCD Espanyol",
-      "match_id": 131076,
-      "startTime": "01:30:00 AM 22-02-2026",
-      "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131076_english_hls_449104a2d319571_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131076_english_hls_449104a2d319571_1ta-di_h264/index.m3u8"
-    },
     {
       "event_category": "Golf",
       "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
@@ -325,6 +311,18 @@
     },
     {
       "event_category": "Football",
+      "title": "RC Celta vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
+      "team_1": "RC Celta",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs RCD Mallorca",
+      "match_id": 131079,
+      "startTime": "11:00:00 PM 22-02-2026"
+    },
+    {
+      "event_category": "Football",
       "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/139416_5802_CCM_SYW_1770723544582.png",
       "team_1": "Central Coast Mariners",
@@ -346,18 +344,6 @@
       "match_name": "Newcastle Jets vs Macarthur",
       "match_id": 139417,
       "startTime": "12:30:00 PM 22-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "RC Celta vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
-      "team_1": "RC Celta",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs RCD Mallorca",
-      "match_id": 131079,
-      "startTime": "11:00:00 PM 22-02-2026"
     },
     {
       "event_category": "Football",
@@ -478,6 +464,18 @@
       "match_name": "Center Court",
       "match_id": 140301,
       "startTime": "02:30:00 AM 23-02-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Chennaiyin FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140443_5956_MBSG_CFC_fc-web_1771412946450.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Chennaiyin FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC",
+      "match_id": 140443,
+      "startTime": "07:30:00 PM 23-02-2026"
     }
   ]
 }
