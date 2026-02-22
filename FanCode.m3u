@@ -2,14 +2,16 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:44:04 AM 23-02-2026 (BD Time)
-# 📺 Live Matches: 8
+# 🕒 Last Updated: 02:20:55 AM 23-02-2026 (BD Time)
+# 📺 Live Matches: 9
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Women vs West Indies Women (Sri Lanka Women tour of West Indies, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg" group-title="Cricket",Sri Lanka Women vs West Indies Women (Sri Lanka Women tour of West Indies, 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="RC Celta vs RCD Mallorca (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png" group-title="Football",RC Celta vs RCD Mallorca (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131079_english_hls_fba55e4f0513954_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Villarreal CF vs Valencia CF (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png" group-title="Football",Villarreal CF vs Valencia CF (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131072_english_hls_4406e5224f36759_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Málaga vs Albacete (LALIGA Hypermotion 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1770347072514/140426_CASACARDS_APP.png" group-title="Football",Málaga vs Albacete (LALIGA Hypermotion 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140426_english_hls_4dd6158bfe35817_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png" group-title="Tennis",World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140291_english_hls_e3a36aeb2a1248_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png" group-title="Tennis",Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)
