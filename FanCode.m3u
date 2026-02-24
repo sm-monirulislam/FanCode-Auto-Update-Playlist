@@ -2,10 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:29:41 PM 24-02-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 10:36:47 PM 24-02-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
+#EXTINF:-1 tvg-name="Pakistan Shaheens vs England Lions (England Lions and Pakistan Shaheens tour of UAE)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" group-title="Cricket",Pakistan Shaheens vs England Lions (England Lions and Pakistan Shaheens tour of UAE)
+https://bd-mc-fdlive.fancode.com/mumbai/140663_english_hls_954543269d89050_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Odisha FC vs Inter Kashi FC (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140444_5956_ODS_IK_fc-web_1771412946494.jpg" group-title="Football",Odisha FC vs Inter Kashi FC (ISL 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/140444_english_hls_dba160238263461_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="Tennis",Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)
