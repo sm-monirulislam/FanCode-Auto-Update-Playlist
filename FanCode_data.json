@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:27:01 AM 25-02-2026",
+  "last update time": "05:55:37 AM 25-02-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -202,6 +202,18 @@
       "startTime": "05:30:00 AM 25-02-2026"
     },
     {
+      "event_category": "Cricket",
+      "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
+      "team_1": "Thailand",
+      "team_2": "Bhutan",
+      "status": "UPCOMING",
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Thailand vs Bhutan",
+      "match_id": 140671,
+      "startTime": "07:30:00 AM 26-02-2026"
+    },
+    {
       "event_category": "Tennis",
       "title": "Cancha 2 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -226,16 +238,16 @@
       "startTime": "07:30:00 AM 25-02-2026"
     },
     {
-      "event_category": "Cricket",
-      "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
-      "team_1": "Thailand",
-      "team_2": "Bhutan",
+      "event_category": "Football",
+      "title": "FC Cincinnati vs O&M FC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140386_5954_CIN_OMF_FC-Web.jpg",
+      "team_1": "FC Cincinnati",
+      "team_2": "O&M FC",
       "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Thailand vs Bhutan",
-      "match_id": 140671,
-      "startTime": "07:30:00 AM 26-02-2026"
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "FC Cincinnati vs O&M FC",
+      "match_id": 140386,
+      "startTime": "05:30:00 AM 26-02-2026"
     },
     {
       "event_category": "Tennis",
@@ -284,18 +296,6 @@
       "match_name": "Court 2",
       "match_id": 140897,
       "startTime": "03:30:00 PM 25-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "FC Cincinnati vs O&M FC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140386_5954_CIN_OMF_FC-Web.jpg",
-      "team_1": "FC Cincinnati",
-      "team_2": "O&M FC",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "FC Cincinnati vs O&M FC",
-      "match_id": 140386,
-      "startTime": "05:30:00 AM 26-02-2026"
     },
     {
       "event_category": "Tennis",
