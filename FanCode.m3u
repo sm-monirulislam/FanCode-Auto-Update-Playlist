@@ -2,21 +2,11 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:42:49 AM 25-02-2026 (BD Time)
-# 📺 Live Matches: 7
+# 🕒 Last Updated: 12:57:27 PM 25-02-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Japan vs Thailand (Thailand Open Men's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140669_5970_TL_JPN_fc-web.jpg" group-title="Cricket",Japan vs Thailand (Thailand Open Men's T20I Series 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140669_english_hls_93c7b16a7a13214_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Football Club vs Real España (CONCACAF Champions Cup 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140385_5954_LAF_RE_FC-Web.jpg" group-title="Football",Los Angeles Football Club vs Real España (CONCACAF Champions Cup 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140385_english_hls_7849aa00d516875_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140352_english_hls_2903c9f26958186_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140835_english_hls_b8f11cdafd12590_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140834_english_hls_3d1bf1b7eb48326_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Cancha 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Cancha 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140833_english_hls_0a5ee2ba7581839_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Cancha 2 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Cancha 2 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140832_english_hls_ac5daef3293406_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg" group-title="Cricket",New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2
+#EXTINF:-1 tvg-name="Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140670_5970_BHU_BAH_fc-web.jpg" group-title="Cricket",Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140670_english_hls_cd544372d022564_1ta-di_h264/index.m3u8
