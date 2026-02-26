@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "05:42:30 PM 26-02-2026",
+  "last update time": "07:16:43 PM 26-02-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -22,7 +22,7 @@
     {
       "event_category": "Tennis",
       "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
       "team_1": "World Feed",
       "team_2": "Dubai, United Arab Emirates",
       "status": "LIVE",
@@ -60,6 +60,34 @@
       "startTime": "05:15:00 PM 26-02-2026",
       "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140764_english_hls_f3471073d849721_1ta-di_h264/index.m3u8",
       "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140764_english_hls_f3471073d849721_1ta-di_h264/index.m3u8"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Marquee Group - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "LIVE",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Marquee Group - Day 1",
+      "match_id": 140765,
+      "startTime": "05:45:00 PM 26-02-2026",
+      "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140765_english_hls_6a56e82b3860399_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140765_english_hls_6a56e82b3860399_1ta-di_h264/index.m3u8"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Featured Groups - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "LIVE",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Featured Groups - Day 1",
+      "match_id": 140766,
+      "startTime": "05:45:00 PM 26-02-2026",
+      "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140766_english_hls_92599d6e3a99806_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140766_english_hls_92599d6e3a99806_1ta-di_h264/index.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -167,7 +195,7 @@
       "event_name": "Cognizant Classic in The Palm Beaches 2026",
       "match_name": "Featured Holes - Day 1",
       "match_id": 140767,
-      "startTime": "05:15:00 PM 26-02-2026"
+      "startTime": "06:15:00 PM 26-02-2026"
     },
     {
       "event_category": "Football",
@@ -194,18 +222,6 @@
       "startTime": "05:00:00 PM 27-02-2026"
     },
     {
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
-      "team_1": "Melbourne Victory",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Adelaide United",
-      "match_id": 139418,
-      "startTime": "02:05:00 PM 27-02-2026"
-    },
-    {
       "event_category": "Cricket",
       "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg",
@@ -218,28 +234,28 @@
       "startTime": "05:30:00 PM 27-02-2026"
     },
     {
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Marquee Group - Day 1",
-      "team_2": "PGA National Resort, Florida",
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
+      "team_1": "Melbourne Victory",
+      "team_2": "Adelaide United",
       "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Marquee Group - Day 1",
-      "match_id": 140765,
-      "startTime": "05:45:00 PM 26-02-2026"
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Adelaide United",
+      "match_id": 139418,
+      "startTime": "02:05:00 PM 27-02-2026"
     },
     {
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Featured Groups - Day 1",
-      "team_2": "PGA National Resort, Florida",
+      "event_category": "Football",
+      "title": "Bengaluru FC vs Punjab FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg",
+      "team_1": "Bengaluru FC",
+      "team_2": "Punjab FC",
       "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Featured Groups - Day 1",
-      "match_id": 140766,
-      "startTime": "06:15:00 PM 26-02-2026"
+      "event_name": "ISL 2025-26",
+      "match_name": "Bengaluru FC vs Punjab FC",
+      "match_id": 140447,
+      "startTime": "07:30:00 PM 27-02-2026"
     },
     {
       "event_category": "Tennis",
@@ -264,18 +280,6 @@
       "match_name": "World Feed - Day 1",
       "match_id": 140763,
       "startTime": "11:30:00 PM 26-02-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "Bengaluru FC vs Punjab FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg",
-      "team_1": "Bengaluru FC",
-      "team_2": "Punjab FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Bengaluru FC vs Punjab FC",
-      "match_id": 140447,
-      "startTime": "07:30:00 PM 27-02-2026"
     },
     {
       "event_category": "Tennis",
@@ -398,18 +402,6 @@
       "startTime": "05:15:00 PM 27-02-2026"
     },
     {
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Marquee Group - Day 2",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Marquee Group - Day 2",
-      "match_id": 140772,
-      "startTime": "06:00:00 PM 27-02-2026"
-    },
-    {
       "event_category": "Football",
       "title": "Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140702_5655_ASF_AHS_fc-web.jpg",
@@ -420,6 +412,18 @@
       "match_name": "Al-Shabab FC vs Al Hilal SFC",
       "match_id": 140702,
       "startTime": "12:30:00 AM 28-02-2026"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Marquee Group - Day 2",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Marquee Group - Day 2",
+      "match_id": 140772,
+      "startTime": "06:00:00 PM 27-02-2026"
     },
     {
       "event_category": "Tennis",
