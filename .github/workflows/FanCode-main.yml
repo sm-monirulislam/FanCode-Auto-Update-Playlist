@@ -2,7 +2,7 @@ name: FanCode Auto Update Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # ⏱️ প্রতি ৩০ মিনিটে
+    - cron: "0 * * * *"   # ⏱️ প্রতি ১ ঘণ্টায়
   workflow_dispatch:
 
 permissions:
