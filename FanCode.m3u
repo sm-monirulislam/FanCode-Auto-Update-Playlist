@@ -2,12 +2,14 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 12:51:59 AM 28-02-2026 (BD Time)
-# 📺 Live Matches: 6
+# 🕒 Last Updated: 01:36:22 AM 28-02-2026 (BD Time)
+# 📺 Live Matches: 8
 #=================================
 
 #EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg" group-title="Cricket",Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140689_english_hls_dcb0bee96524847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140702_5655_ASF_AHS_fc-web.jpg" group-title="Football",Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140702_english_hls_b02574fd9a616_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
@@ -18,3 +20,5 @@ https://bd-mc-fdlive.fancode.com/mumbai/140772_english_hls_7d19d0c42281632_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" group-title="Tennis",Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140361_english_hls_19562be86045847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",World Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140768_english_hls_ba4d34cce520969_1ta-di_h264/index.m3u8
