@@ -2,17 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:18:04 AM 28-02-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 11:36:01 AM 28-02-2026 (BD Time)
+# 📺 Live Matches: 7
 #=================================
 
-#EXTINF:-1 tvg-name="Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg" group-title="Cricket",Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)
+#EXTINF:-1 tvg-name="Bhutan vs Thailand (Thailand Open Men's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg" group-title="Cricket",Bhutan vs Thailand (Thailand Open Men's T20I Series 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140675_english_hls_91116a5ec721003_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Hong Kong, China vs Kuwait (Men's T20I Series 2026)" tvg-logo="https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png" group-title="Cricket",Hong Kong, China vs Kuwait (Men's T20I Series 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140881_english_hls_a790c03b7b42383_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Auckland vs Melbourne City (A League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139419_5802_AFC_MLC_1770724032867.png" group-title="Football",Auckland vs Melbourne City (A League 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139419_english_hls_d66694d18114618_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
 https://bd-mc-fdlive.fancode.com/mumbai/140356_english_hls_de8c3b175062685_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
 https://bd-mc-fdlive.fancode.com/mumbai/140843_english_hls_1eaa974a8891278_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140842_english_hls_fa1a4b218162265_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="MotoGP",Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139925_english_hls_97398699b253223_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 1 vs Wollongong Golf Club (Ford Women's NSW Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg" group-title="Golf",Day 1 vs Wollongong Golf Club (Ford Women's NSW Open 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140783_english_hls_20fcdf78d45827_1ta-di_h264/index.m3u8
