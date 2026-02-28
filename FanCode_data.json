@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:30:43 PM 28-02-2026",
+  "last update time": "04:28:31 PM 28-02-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -226,18 +226,6 @@
       "startTime": "10:45:00 AM 01-03-2026"
     },
     {
-      "event_category": "Football",
-      "title": "Castellón vs Racing Club (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1772160982905/140822_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Racing Club",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Racing Club",
-      "match_id": 140822,
-      "startTime": "01:30:00 AM 01-03-2026"
-    },
-    {
       "event_category": "Cricket",
       "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
@@ -248,6 +236,18 @@
       "match_name": "England Lions vs Pakistan Shaheens",
       "match_id": 140665,
       "startTime": "11:30:00 AM 01-03-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Castellón vs Racing Club (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1772160982905/140822_CASACARDS_APP.png",
+      "team_1": "Castellón",
+      "team_2": "Racing Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Racing Club",
+      "match_id": 140822,
+      "startTime": "01:30:00 AM 01-03-2026"
     },
     {
       "event_category": "Cricket",
@@ -275,18 +275,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Australia Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Australia Women",
-      "team_2": "Philippines Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Australia Women vs Philippines Women",
-      "match_id": 140794,
-      "startTime": "02:30:00 PM 01-03-2026"
-    },
-    {
-      "event_category": "Football",
       "title": "Odisha FC vs Chennaiyin FC (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg",
       "team_1": "Odisha FC",
@@ -308,6 +296,18 @@
       "match_name": "Odisha FC vs Chennaiyin FC",
       "match_id": 141089,
       "startTime": "05:00:00 PM 01-03-2026"
+    },
+    {
+      "event_category": "Football",
+      "title": "Australia Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Australia Women",
+      "team_2": "Philippines Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Australia Women vs Philippines Women",
+      "match_id": 140794,
+      "startTime": "02:30:00 PM 01-03-2026"
     },
     {
       "event_category": "Cricket",
@@ -406,6 +406,18 @@
       "startTime": "08:30:00 PM 28-02-2026"
     },
     {
+      "event_category": "Football",
+      "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
+      "team_1": "Elche CF",
+      "team_2": "RCD Espanyol",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs RCD Espanyol",
+      "match_id": 131086,
+      "startTime": "06:30:00 PM 01-03-2026"
+    },
+    {
       "event_category": "Tennis",
       "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
@@ -430,18 +442,6 @@
       "startTime": "06:00:00 AM 01-03-2026"
     },
     {
-      "event_category": "Football",
-      "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "RCD Espanyol",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs RCD Espanyol",
-      "match_id": 131086,
-      "startTime": "06:30:00 PM 01-03-2026"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 2 vs Wollongong Golf Club (Ford Women's NSW Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg",
@@ -454,16 +454,16 @@
       "startTime": "06:30:00 AM 01-03-2026"
     },
     {
-      "event_category": "Tennis",
-      "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-      "team_1": "World Feed",
-      "team_2": "Acapulco, Mexico",
+      "event_category": "Football",
+      "title": "Mumbai City FC vs NorthEast United FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140451_5956_MCFC_NEUFC_fc-web_1772229182804.jpg",
+      "team_1": "Mumbai City FC",
+      "team_2": "NorthEast United FC",
       "status": "UPCOMING",
-      "event_name": "ATP 500 - Abierto Mexicano Telcel",
-      "match_name": "World Feed",
-      "match_id": 140845,
-      "startTime": "08:30:00 AM 01-03-2026"
+      "event_name": "ISL 2025-26",
+      "match_name": "Mumbai City FC vs NorthEast United FC",
+      "match_id": 140451,
+      "startTime": "07:30:00 PM 01-03-2026"
     }
   ]
 }
