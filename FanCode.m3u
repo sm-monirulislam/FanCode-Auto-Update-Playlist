@@ -2,16 +2,14 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:28:06 PM 01-03-2026 (BD Time)
-# 📺 Live Matches: 8
+# 🕒 Last Updated: 10:34:09 PM 01-03-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
-#EXTINF:-1 tvg-name="Mumbai City FC vs NorthEast United FC (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140451_5956_MCFC_NEUFC_fc-web_1772229182804.jpg" group-title="Football",Mumbai City FC vs NorthEast United FC (ISL 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/140451_english_hls_dd1e27ec0836523_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" group-title="Cricket",Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140695_english_hls_befd91410386452_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Valencia CF vs CA Osasuna (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131083_5427_VAL_OSN_FC-Web.png" group-title="Football",Valencia CF vs CA Osasuna (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Real Sociedad vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1772160982911/140824_CASACARDS_APP.png" group-title="Football",Real Sociedad vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/140824_english_hls_63a18503a8455_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Featured Groups - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",Featured Groups - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140781_english_hls_a231eb42595351_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",Main Feed - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
@@ -20,5 +18,3 @@ https://bd-mc-fdlive.fancode.com/mumbai/140779_english_hls_a1d77d46e43033_1ta-di
 https://bd-mc-fdlive.fancode.com/mumbai/140782_english_hls_f4fd2fec2656049_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Featured Holes - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="Golf",Featured Holes - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140780_english_hls_1a4d1e64e556602_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Elche CF vs RCD Espanyol (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" group-title="Football",Elche CF vs RCD Espanyol (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/index.m3u8
