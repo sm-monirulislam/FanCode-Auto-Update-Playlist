@@ -2,15 +2,11 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:57:10 AM 01-03-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 12:57:59 PM 01-03-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140844_english_hls_7178decd1a1626_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 2 vs Wollongong Golf Club (Ford Women's NSW Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg" group-title="Golf",Day 2 vs Wollongong Golf Club (Ford Women's NSW Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140784_english_hls_a19a349aa625330_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="Tennis",World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)
-https://bd-mc-fdlive.fancode.com/mumbai/140845_english_hls_dfdc9e0cfa56365_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Van der Stel Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg" group-title="Cricket",Van der Stel Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140693_english_hls_8792bd839e82242_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Race Day vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="MotoGP",Race Day vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139926_english_hls_7a0a1bdb5962100_1ta-di_h264/index.m3u8
