@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 33,
-  "last update time": "02:52:19 PM 02-03-2026",
+  "last update time": "03:56:06 PM 02-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -11,11 +11,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
       "team_1": "Korea Republic Women",
       "team_2": "IR Iran Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "Korea Republic Women vs IR Iran Women",
       "match_id": 140795,
-      "startTime": "02:30:00 PM 02-03-2026"
+      "startTime": "02:30:00 PM 02-03-2026",
+      "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140795_english_hls_91876c511118795_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140795_english_hls_91876c511118795_1ta-di_h264/index.m3u8"
     },
     {
       "event_category": "Cricket",
