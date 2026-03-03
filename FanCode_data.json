@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "02:49:54 PM 03-03-2026",
+  "last update time": "03:50:12 PM 03-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -166,18 +166,6 @@
       "startTime": "04:30:00 PM 04-03-2026"
     },
     {
-      "event_category": "Cricket",
-      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-      "team_1": "England Lions",
-      "team_2": "Pakistan Shaheens",
-      "status": "UPCOMING",
-      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-      "match_name": "England Lions vs Pakistan Shaheens",
-      "match_id": 140666,
-      "startTime": "11:30:00 AM 04-03-2026"
-    },
-    {
       "event_category": "Football",
       "title": "Rayo Vallecano vs Real Oviedo (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png",
@@ -188,6 +176,18 @@
       "match_name": "Rayo Vallecano vs Real Oviedo",
       "match_id": 131055,
       "startTime": "11:30:00 PM 04-03-2026"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+      "team_1": "England Lions",
+      "team_2": "Pakistan Shaheens",
+      "status": "UPCOMING",
+      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+      "match_name": "England Lions vs Pakistan Shaheens",
+      "match_id": 140666,
+      "startTime": "11:30:00 AM 04-03-2026"
     },
     {
       "event_category": "Cricket",
