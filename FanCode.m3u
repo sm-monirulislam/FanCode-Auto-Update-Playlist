@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:40:24 AM 06-03-2026 (BD Time)
-# 📺 Live Matches: 11
+# 🕒 Last Updated: 04:36:29 AM 06-03-2026 (BD Time)
+# 📺 Live Matches: 12
 #=================================
 
 #EXTINF:-1 tvg-name="Main Feed Day 1 vs Orlando, Florida (Arnold Palmer Invitational 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="Golf",Main Feed Day 1 vs Orlando, Florida (Arnold Palmer Invitational 2026)
@@ -28,3 +28,5 @@ https://bd-mc-fdlive.fancode.com/mumbai/141234_english_hls_f8c5929af437662_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/141233_english_hls_a54dbd2ed712005_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Tennis",C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Practice Session vs Melbourne (F3 AUSTRALIA 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg" group-title="Motorsports",Practice Session vs Melbourne (F3 AUSTRALIA 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139704_english_hls_bdd625e40164292_1ta-di_h264/index.m3u8
