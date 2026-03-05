@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "02:41:52 AM 06-03-2026",
+  "last update time": "03:40:24 AM 06-03-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -280,6 +280,18 @@
       "startTime": "02:05:00 PM 06-03-2026"
     },
     {
+      "event_category": "Motorsports",
+      "title": "Practice Session vs Melbourne (F3 AUSTRALIA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+      "team_1": "Practice Session",
+      "team_2": "Melbourne",
+      "status": "UPCOMING",
+      "event_name": "F3 AUSTRALIA 2026",
+      "match_name": "Practice Session",
+      "match_id": 139704,
+      "startTime": "03:20:00 AM 06-03-2026"
+    },
+    {
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140717_5655_AAS_ITT_fc-web.jpg",
@@ -338,18 +350,6 @@
       "match_name": "Falkirk vs Dundee United",
       "match_id": 141039,
       "startTime": "01:15:00 AM 07-03-2026"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Practice Session vs Melbourne (F3 AUSTRALIA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Melbourne",
-      "status": "UPCOMING",
-      "event_name": "F3 AUSTRALIA 2026",
-      "match_name": "Practice Session",
-      "match_id": 139704,
-      "startTime": "03:20:00 AM 06-03-2026"
     },
     {
       "event_category": "Motorsports",
@@ -424,6 +424,18 @@
       "startTime": "06:00:00 PM 06-03-2026"
     },
     {
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+      "team_1": "Hong Kong, China",
+      "team_2": "Kuwait",
+      "status": "UPCOMING",
+      "event_name": "Men's One Day Series 2026",
+      "match_name": "Hong Kong, China vs Kuwait",
+      "match_id": 140885,
+      "startTime": "06:30:00 AM 07-03-2026"
+    },
+    {
       "event_category": "Golf",
       "title": "Featured Group Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
@@ -446,18 +458,6 @@
       "match_name": "Marquee Feed Day 2",
       "match_id": 140994,
       "startTime": "08:45:00 PM 06-03-2026"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-      "team_1": "Hong Kong, China",
-      "team_2": "Kuwait",
-      "status": "UPCOMING",
-      "event_name": "Men's One Day Series 2026",
-      "match_name": "Hong Kong, China vs Kuwait",
-      "match_id": 140885,
-      "startTime": "06:30:00 AM 07-03-2026"
     },
     {
       "event_category": "Tennis",
