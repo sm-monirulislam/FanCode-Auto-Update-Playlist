@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:38:36 PM 06-03-2026",
+  "last update time": "12:53:45 AM 07-03-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -181,6 +181,18 @@
     },
     {
       "event_category": "Football",
+      "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
+      "team_1": "Blackburn Rovers F.C.",
+      "team_2": "Portsmouth F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
+      "match_id": 140553,
+      "startTime": "06:00:00 PM 07-03-2026"
+    },
+    {
+      "event_category": "Football",
       "title": "Cádiz vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
       "src": "https://images.fancode.com/aig/match/v1772160982912/140825_CASACARDS_APP.png",
       "team_1": "Cádiz",
@@ -205,15 +217,15 @@
     },
     {
       "event_category": "Football",
-      "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
-      "team_1": "Blackburn Rovers F.C.",
-      "team_2": "Portsmouth F.C.",
+      "title": "CA Osasuna vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131091_5427_OSN_MRC_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "RCD Mallorca",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
-      "match_id": 140553,
-      "startTime": "06:00:00 PM 07-03-2026"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs RCD Mallorca",
+      "match_id": 131091,
+      "startTime": "06:30:00 PM 07-03-2026"
     },
     {
       "event_category": "Football",
@@ -226,18 +238,6 @@
       "match_name": "Chinese Taipei Women vs Vietnam Women",
       "match_id": 140804,
       "startTime": "10:30:00 AM 07-03-2026"
-    },
-    {
-      "event_category": "Football",
-      "title": "CA Osasuna vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131091_5427_OSN_MRC_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs RCD Mallorca",
-      "match_id": 131091,
-      "startTime": "06:30:00 PM 07-03-2026"
     },
     {
       "event_category": "Football",
@@ -384,6 +384,18 @@
       "startTime": "12:30:00 AM 08-03-2026"
     },
     {
+      "event_category": "Football",
+      "title": "Athletic Club vs FC Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
+      "team_1": "Athletic Club",
+      "team_2": "FC Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs FC Barcelona",
+      "match_id": 131093,
+      "startTime": "01:30:00 AM 08-03-2026"
+    },
+    {
       "event_category": "Golf",
       "title": "World Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
@@ -453,18 +465,6 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "I Court Feed",
       "match_id": 141238,
-      "startTime": "12:30:00 AM 07-03-2026"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "F Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "F Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "F Court Feed",
-      "match_id": 141237,
       "startTime": "12:30:00 AM 07-03-2026"
     }
   ]
