@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:28:06 AM 06-03-2026 (BD Time)
-# 📺 Live Matches: 12
+# 🕒 Last Updated: 10:45:09 AM 06-03-2026 (BD Time)
+# 📺 Live Matches: 10
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140802_5979_BDW_NK-W_fc-Web_1772191702964.jpg" group-title="Football",Bangladesh Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)
@@ -22,11 +22,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/141008_english_hls_6879d6366531745_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/141007_english_hls_235afc8e7567465_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="F Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Tennis",F Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141240_english_hls_ad208cdc1d4042_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Tennis",E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/141234_english_hls_f8c5929af437662_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Tennis",D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/141233_english_hls_a54dbd2ed712005_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Tennis",C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Practice 1 vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg" group-title="Formula 1",Practice 1 vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139361_english_hls_7515cfda4938873_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session vs Melbourne  (F2 AUSTRALIA 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg" group-title="Motorsports",Qualifying Session vs Melbourne  (F2 AUSTRALIA 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139543_english_hls_b388b82e8c40764_1ta-di_h264/index.m3u8
