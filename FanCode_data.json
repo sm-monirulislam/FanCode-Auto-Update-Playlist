@@ -3,35 +3,35 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "01:20:46 AM 09-03-2026",
+  "last update time": "01:43:11 AM 09-03-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131092_5427_SEV_RVL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Rayo Vallecano",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs Rayo Vallecano",
-      "match_id": 131092,
-      "startTime": "08 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131092_english_hls_08a7ca576019683_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773075921~_GO=Generated~acl=/mumbai/131092_english_hls_08a7ca576019683_1ta-di_h264/*~Signature=AQQqLwSd4vC9_eZCbnzlnGRdB92EZnmLSSoBaX1Gzjx5jZpOtc8uCdbWNsjxyddM_e_R6fmdJdM0UMvHTgMfZ_wFp70O"
-    },
     {
       "event_category": "Cricket",
       "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-Web.jpg",
       "team_1": "Mexico",
       "team_2": "Suriname",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_name": "Mexico vs Suriname",
       "match_id": 140706,
       "startTime": "09 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140706_english_hls_9093d46afb27336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773083946~_GO=Generated~acl=/mumbai/140706_english_hls_9093d46afb27336_1ta-di_h264/*~Signature=AQQqLwSIK3Z7OJNZ-dg7DvJsT3HUjvnxIm4sP7XdQ2gqAH5hWle3ykC0QJd7DQ9bAIA4Q7wDX3_QWHuej4wUEp1In8kK"
+    },
+    {
+      "event_category": "Football",
+      "title": "Valencia CF vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-Web.png",
+      "team_1": "Valencia CF",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia CF vs Deportivo Alaves",
+      "match_id": 131097,
+      "startTime": "09 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131097_english_hls_4f79321ad7914_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773084606~_GO=Generated~acl=/mumbai/131097_english_hls_4f79321ad7914_1ta-di_h264/*~Signature=AQQqLwRsYxMm5RaU_krUjx9plDfn1pXTLnAp3z_uZmpMtQjBxIEI56EjTo_JE1ZabVHsCwEVBJ21NJH-mcPvcxSBHwgB"
     },
     {
       "event_category": "Golf",
@@ -158,20 +158,6 @@
       "startTime": "08 March 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773079521~_GO=Generated~acl=/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/*~Signature=AQQqLwQL1B-j1cTrq3mTD9aMynqrD1x2dh-zRxKNrXQw01mcvvHjmeyNbyYNYCAmgZxtxenwlMeurzNPaiWQXaRKmIkJ"
-    },
-    {
-      "event_category": "Football",
-      "title": "Valencia CF vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-Web.png",
-      "team_1": "Valencia CF",
-      "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia CF vs Deportivo Alaves",
-      "match_id": 131097,
-      "startTime": "09 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Football",
@@ -478,6 +464,20 @@
       "match_name": "Malaysia vs Bahrain",
       "match_id": 141301,
       "startTime": "10 March 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Rajasthan Emperors vs Gujarat Tigers (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Rajasthan Emperors",
+      "team_2": "Gujarat Tigers",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Rajasthan Emperors vs Gujarat Tigers",
+      "match_id": 141185,
+      "startTime": "10 March 2026 12:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
