@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "05:15:29 PM 08-03-2026",
+  "last update time": "05:42:03 PM 08-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,34 +18,6 @@
       "startTime": "08 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141258_english_hls_1f13f5955810654_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773042260~_GO=Generated~acl=/mumbai/141258_english_hls_1f13f5955810654_1ta-di_h264/*~Signature=AQQqLwT10N2VFnmQvXloHjANGMtndhE1CBBJ9iNA49XVmhnzM2TIqXD-m48cxNhZkxetpruNVX_qiCecp5TppYewKiAK"
-    },
-    {
-      "event_category": "Football",
-      "title": "IR Iran Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140807_5979_IRNW_PHI-W_fc-Web_1772191702166.jpg",
-      "team_1": "IR Iran Women",
-      "team_2": "Philippines Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "IR Iran Women vs Philippines Women",
-      "match_id": 140807,
-      "startTime": "08 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773046266~_GO=Generated~acl=/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/*~Signature=AQQqLwTwIcZmjLAY6agRMPkd530dIJvfS4Z6U3gTW3ZiX2ghqpkSwwuRLWUEYRA87rzO7Q-E2uBPW6JyrKZ9aT0QXJoH"
-    },
-    {
-      "event_category": "Football",
-      "title": "Australia Women vs Korea Republic Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140806_5979_AUS-W_KOR-W_fc-Web_1772191702169.jpg",
-      "team_1": "Australia Women",
-      "team_2": "Korea Republic Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Australia Women vs Korea Republic Women",
-      "match_id": 140806,
-      "startTime": "08 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773045847~_GO=Generated~acl=/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/*~Signature=AQQqLwQr1YKR160lRh1HiM2AmtCUG5gdRQA97PNysqzdQYpzeFbNzciXN_KbSdgrqLnZLzSgf1hCfPnf_okJj7Nu9QAJ"
     },
     {
       "event_category": "Football",
@@ -76,20 +48,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Villarreal CF vs Elche CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131099_5427_VIL_ELC_FC-Web.png",
-      "team_1": "Villarreal CF",
-      "team_2": "Elche CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs Elche CF",
-      "match_id": 131099,
-      "startTime": "08 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-Web.jpg",
@@ -100,6 +58,20 @@
       "match_name": "Mexico vs Suriname",
       "match_id": 140706,
       "startTime": "09 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Villarreal CF vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131099_5427_VIL_ELC_FC-Web.png",
+      "team_1": "Villarreal CF",
+      "team_2": "Elche CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal CF vs Elche CF",
+      "match_id": 131099,
+      "startTime": "08 March 2026 06:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -272,6 +244,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
+      "team_1": "Punjab FC",
+      "team_2": "NorthEast United FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "Punjab FC vs NorthEast United FC",
+      "match_id": 140458,
+      "startTime": "09 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Marquee Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
@@ -329,20 +315,6 @@
     },
     {
       "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed vs Indian, United States",
-      "match_id": 141017,
-      "startTime": "08 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
       "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
       "team_1": "World Feed",
@@ -351,20 +323,6 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "World Feed vs Indian, United States",
       "match_id": 141016,
-      "startTime": "08 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "D Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "D Court Feed vs Indian, United States",
-      "match_id": 141248,
       "startTime": "08 March 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": ""
@@ -412,20 +370,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
-      "team_1": "Punjab FC",
-      "team_2": "NorthEast United FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Punjab FC vs NorthEast United FC",
-      "match_id": 140458,
-      "startTime": "09 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Argentina vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140707_5971_ARG_SRN_fc-Web.jpg",
@@ -436,6 +380,34 @@
       "match_name": "Argentina vs Suriname",
       "match_id": 140707,
       "startTime": "09 March 2026 08:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141017,
+      "startTime": "09 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "D Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "D Court Feed vs Indian, United States",
+      "match_id": 141248,
+      "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -505,6 +477,34 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "D Court Feed vs Indian, United States",
       "match_id": 141020,
+      "startTime": "09 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "E Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "E Court Feed vs Indian, United States",
+      "match_id": 141019,
+      "startTime": "09 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141252,
       "startTime": "09 March 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
