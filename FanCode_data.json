@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "01:43:11 AM 09-03-2026",
+  "last update time": "02:17:49 AM 09-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -25,13 +25,27 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-Web.png",
       "team_1": "Valencia CF",
       "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs Deportivo Alaves",
       "match_id": 131097,
       "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131097_english_hls_4f79321ad7914_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773084606~_GO=Generated~acl=/mumbai/131097_english_hls_4f79321ad7914_1ta-di_h264/*~Signature=AQQqLwRsYxMm5RaU_krUjx9plDfn1pXTLnAp3z_uZmpMtQjBxIEI56EjTo_JE1ZabVHsCwEVBJ21NJH-mcPvcxSBHwgB"
+    },
+    {
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1772160982911/140827_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Granada",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Granada",
+      "match_id": 140827,
+      "startTime": "09 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140827_english_hls_18aea827aa36364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773086062~_GO=Generated~acl=/mumbai/140827_english_hls_18aea827aa36364_1ta-di_h264/*~Signature=AQQqLwRCC8Lbx5QmsQh1MovVbAz6A6L6X9cANqekh_uIeCHgJawQBwvmQWMfdfI4aaH7U0igPabQV8jOrLQfLz1DGroE"
     },
     {
       "event_category": "Golf",
@@ -45,7 +59,7 @@
       "match_id": 141000,
       "startTime": "08 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773072312~_GO=Generated~acl=/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/*~Signature=AQQqLwQpQAa5CSIlGVnKNpmtkgi0gAsgx9r-I8iQs66WmWqLj_rHoTU66dNb1S-R2HRF8AVKnE1v-Ocf-DErK5HI9UoK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773087128~_GO=Generated~acl=/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/*~Signature=AQQqLwTDgCKG1B5mGbIWJvR56Vz0oU5CZhRVCpXHBLIhP4BsgUcgJUi-J5peaN20UdxA0iR8ABUZNB7-pGMLzgMu3GkN"
     },
     {
       "event_category": "Golf",
@@ -160,18 +174,32 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773079521~_GO=Generated~acl=/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/*~Signature=AQQqLwQL1B-j1cTrq3mTD9aMynqrD1x2dh-zRxKNrXQw01mcvvHjmeyNbyYNYCAmgZxtxenwlMeurzNPaiWQXaRKmIkJ"
     },
     {
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Granada (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1772160982911/140827_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Granada",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Granada",
-      "match_id": 140827,
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141017,
       "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141017_english_hls_772c63cea66683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773086064~_GO=Generated~acl=/mumbai/141017_english_hls_772c63cea66683_1ta-di_h264/*~Signature=AQQqLwT44F898ge0hLWJRwar7yJStA5On72d4CqnlFBZ4oMLyIol8KXUVzD5qUBNF1NozF_-QmB3UOuEIkdoIcH-2_sA"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "D Court Feed",
+      "team_2": "Indian, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "D Court Feed vs Indian, United States",
+      "match_id": 141248,
+      "startTime": "09 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141248_english_hls_afb5a3f4d465640_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773086067~_GO=Generated~acl=/mumbai/141248_english_hls_afb5a3f4d465640_1ta-di_h264/*~Signature=AQQqLwQP0hH2y_B_dscUPxDp7q93DQGUFyYCzqa6SXIU-Pxo37m3djuhCF15WK3fQKBcQLbywvVRTJ-sjlPo-B1Uk6IB"
     },
     {
       "event_category": "Cricket",
@@ -254,34 +282,6 @@
       "match_name": "Bangladesh Women vs Uzbekistan Women",
       "match_id": 140809,
       "startTime": "09 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed vs Indian, United States",
-      "match_id": 141017,
-      "startTime": "09 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "D Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "D Court Feed vs Indian, United States",
-      "match_id": 141248,
-      "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
