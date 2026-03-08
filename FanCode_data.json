@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "02:47:21 AM 09-03-2026",
+  "last update time": "03:16:43 AM 09-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -46,34 +46,6 @@
       "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140827_english_hls_18aea827aa36364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773086062~_GO=Generated~acl=/mumbai/140827_english_hls_18aea827aa36364_1ta-di_h264/*~Signature=AQQqLwRCC8Lbx5QmsQh1MovVbAz6A6L6X9cANqekh_uIeCHgJawQBwvmQWMfdfI4aaH7U0igPabQV8jOrLQfLz1DGroE"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Main Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-      "team_1": "Main Feed Day 4",
-      "team_2": "Orlando, Florida",
-      "status": "LIVE",
-      "event_name": "Arnold Palmer Invitational 2026",
-      "match_name": "Main Feed Day 4 vs Orlando, Florida",
-      "match_id": 141000,
-      "startTime": "08 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773087128~_GO=Generated~acl=/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/*~Signature=AQQqLwTDgCKG1B5mGbIWJvR56Vz0oU5CZhRVCpXHBLIhP4BsgUcgJUi-J5peaN20UdxA0iR8ABUZNB7-pGMLzgMu3GkN"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Marquee Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-      "team_1": "Marquee Feed Day 4",
-      "team_2": "Orlando, Florida",
-      "status": "LIVE",
-      "event_name": "Arnold Palmer Invitational 2026",
-      "match_name": "Marquee Feed Day 4 vs Orlando, Florida",
-      "match_id": 141002,
-      "startTime": "08 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141002_english_hls_a6f51e8f4a65540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773078674~_GO=Generated~acl=/mumbai/141002_english_hls_a6f51e8f4a65540_1ta-di_h264/*~Signature=AQQqLwTMDCAcNYGk7Y5U07HSOW3Ym5RfIgsIW5OSlCphN6JcYW4HLRYOgV0uZrVgi3Se7kfP2mbDgAdYUUYIDiwzxo8N"
     },
     {
       "event_category": "Golf",
@@ -478,6 +450,34 @@
       "match_name": "Rajasthan Emperors vs Gujarat Tigers",
       "match_id": 141185,
       "startTime": "10 March 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "CAG Delhi vs SPJ Cargo (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "CAG Delhi",
+      "team_2": "SPJ Cargo",
+      "status": "UPCOMING",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "CAG Delhi vs SPJ Cargo",
+      "match_id": 141262,
+      "startTime": "10 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Chennai Warlords vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Chennai Warlords",
+      "team_2": "Tamil Nadu Titans",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Chennai Warlords vs Tamil Nadu Titans",
+      "match_id": 141186,
+      "startTime": "10 March 2026 03:10 PM",
       "dai_url": "",
       "adfree_url": ""
     }
