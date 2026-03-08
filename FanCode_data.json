@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "04:47:23 AM 09-03-2026",
+  "last update time": "05:17:01 AM 09-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-Web.jpg",
-      "team_1": "Mexico",
-      "team_2": "Suriname",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Mexico vs Suriname",
-      "match_id": 140706,
-      "startTime": "09 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140706_english_hls_9093d46afb27336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773083946~_GO=Generated~acl=/mumbai/140706_english_hls_9093d46afb27336_1ta-di_h264/*~Signature=AQQqLwSIK3Z7OJNZ-dg7DvJsT3HUjvnxIm4sP7XdQ2gqAH5hWle3ykC0QJd7DQ9bAIA4Q7wDX3_QWHuej4wUEp1In8kK"
-    },
     {
       "event_category": "Tennis",
       "title": "E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
@@ -478,6 +464,20 @@
       "match_name": "Buriram United vs Melbourne City",
       "match_id": 140857,
       "startTime": "10 March 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+      "team_1": "New Zealand Women",
+      "team_2": "Zimbabwe Women",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+      "match_name": "New Zealand Women vs Zimbabwe Women",
+      "match_id": 140598,
+      "startTime": "11 March 2026 03:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
