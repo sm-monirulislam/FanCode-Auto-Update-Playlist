@@ -2,22 +2,22 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 34,
-  "last update time": "07:23:23 AM 09-03-2026",
+  "match_amount": 35,
+  "last update time": "09:55:00 AM 09-03-2026",
   "matches": [
     {
-      "event_category": "Tennis",
-      "title": "E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "E Court Feed",
-      "team_2": "Indian, United States",
+      "event_category": "Cricket",
+      "title": "A&S Kolkata vs Lightning Legends (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "A&S Kolkata",
+      "team_2": "Lightning Legends",
       "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "E Court Feed vs Indian, United States",
-      "match_id": 141018,
-      "startTime": "08 March 2026 11:30 PM",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "A&S Kolkata vs Lightning Legends",
+      "match_id": 141259,
+      "startTime": "09 March 2026 09:30 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141018_english_hls_6b68568fc210851_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773093487~_GO=Generated~acl=/mumbai/141018_english_hls_6b68568fc210851_1ta-di_h264/*~Signature=AQQqLwQr3ObsySXbchsBazK6FNgXid33W9OVSru37YE-izXeHsmVaeDC1NWdaRWX-zwFdHKR9S1EUpN5ONhX2nlVQA8A"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141259_english_hls_e023413b4e84352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773114665~_GO=Generated~acl=/mumbai/141259_english_hls_e023413b4e84352_1ta-di_h264/*~Signature=AQQqLwTKiqYzABOWQY9tIWFJf-ueWQbmx_0xaM8ra-4Af37NJHxsBJ-d4fMuIxEy8UkGfPrdk7xeyuEgRwWN1uNjCP4G"
     },
     {
       "event_category": "Tennis",
@@ -31,7 +31,7 @@
       "match_id": 141016,
       "startTime": "08 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773093067~_GO=Generated~acl=/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/*~Signature=AQQqLwScqOMxaz63khiSkdl3BbBU512mMHZ1P6kDorIY1iGudV6S8bZ6RAJL5uYskovS-0enZf7p_kl-EZq9rsssNJ8B"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773107886~_GO=Generated~acl=/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/*~Signature=AQQqLwSBifpv1nD9l7Tvu4gy17uRmlU6EW20_0wWTzLv7uAR-jb7q9TDLCczdxJrBpG1YD1G3joeR9JQ_MH6pRWXP2AH"
     },
     {
       "event_category": "Tennis",
@@ -45,35 +45,7 @@
       "match_id": 141247,
       "startTime": "08 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141247_english_hls_9b005c9c4c12083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773093490~_GO=Generated~acl=/mumbai/141247_english_hls_9b005c9c4c12083_1ta-di_h264/*~Signature=AQQqLwQ5P6JwYoXw0oyjfhrxHXuT8r3o5azWw1ZuESPez9E1p2kqvm4P2eFJed6OGdhU6dsv6BCNjFpwmm3I7XkYIskF"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "F Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "F Court Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "F Court Feed vs Indian, United States",
-      "match_id": 141246,
-      "startTime": "08 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141246_english_hls_5eb09d645450025_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773093493~_GO=Generated~acl=/mumbai/141246_english_hls_5eb09d645450025_1ta-di_h264/*~Signature=AQQqLwTBDAM04ZRZV37KgmUXCBBKtbTG5V9OfTf62YEpaS9fmMUF01r8oastepN5KibASAQ6g4p2qQG6ZDkuv99YijoJ"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "B Court Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "B Court Feed vs Indian, United States",
-      "match_id": 141245,
-      "startTime": "08 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773094326~_GO=Generated~acl=/mumbai/141245_english_hls_b527f8598e24207_1ta-di_h264/*~Signature=AQQqLwQdpGPV0DRqp_73VBhSBKFoGDp-RDPiDOMky3UM3CbTEBUe8CRrCkinysaGKXx8kgYfA00hlwXxpb3PSSAZZVYE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141247_english_hls_9b005c9c4c12083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773108310~_GO=Generated~acl=/mumbai/141247_english_hls_9b005c9c4c12083_1ta-di_h264/*~Signature=AQQqLwQDbiu1H4lIMm7dg1OWQnNuLU7nhEtNawIAb9XiWqMHjY4h1xmtXIC_KZ6AtpInR85wnxaRd70No4pU-XOcprIP"
     },
     {
       "event_category": "Tennis",
@@ -88,34 +60,6 @@
       "startTime": "09 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141017_english_hls_772c63cea66683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773100686~_GO=Generated~acl=/mumbai/141017_english_hls_772c63cea66683_1ta-di_h264/*~Signature=AQQqLwQzV-8WS6ApSJJZzRC1j8P501Y40uzxb-5CtfVkhjxaJLSXztFYeHv6E5v_ZINPz7Ht2NA909JDdgRy4BepPC0J"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "D Court Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "D Court Feed vs Indian, United States",
-      "match_id": 141248,
-      "startTime": "09 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141248_english_hls_afb5a3f4d465640_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773100688~_GO=Generated~acl=/mumbai/141248_english_hls_afb5a3f4d465640_1ta-di_h264/*~Signature=AQQqLwTVyK2pHixl4_Bsrmpq3Pow0MhaOUweELE44vwhbdwa5a6Y8Mad8oXa12imjX3vkcTBYwFe902t2nQxF6tPCQQO"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "A&S Kolkata vs Lightning Legends (Tillo Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-      "team_1": "A&S Kolkata",
-      "team_2": "Lightning Legends",
-      "status": "UPCOMING",
-      "event_name": "Tillo Cup 2026",
-      "match_name": "A&S Kolkata vs Lightning Legends",
-      "match_id": 141259,
-      "startTime": "09 March 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -258,6 +202,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Malaysia, 2026",
+      "match_name": "Malaysia vs Bahrain",
+      "match_id": 141301,
+      "startTime": "10 March 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -352,20 +310,6 @@
       "match_name": "World Feed vs Indian, United States",
       "match_id": 141249,
       "startTime": "09 March 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "match_id": 141301,
-      "startTime": "10 March 2026 12:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +422,76 @@
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "match_id": 140598,
       "startTime": "11 March 2026 03:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Stoke City F.C. vs Ipswich Town F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Stoke City F.C.",
+      "team_2": "Ipswich Town F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City F.C. vs Ipswich Town F.C.",
+      "match_id": 140556,
+      "startTime": "11 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "B Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "B Court Feed vs Indian, United States",
+      "match_id": 141024,
+      "startTime": "10 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141023,
+      "startTime": "10 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "D Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "D Court Feed vs Indian, United States",
+      "match_id": 141022,
+      "startTime": "10 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "C Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "C Court Feed vs Indian, United States",
+      "match_id": 141254,
+      "startTime": "10 March 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
