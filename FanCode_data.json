@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 33,
-  "last update time": "01:36:00 AM 10-03-2026",
+  "last update time": "02:25:55 AM 10-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -11,7 +11,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg",
       "team_1": "Mexico",
       "team_2": "Cayman Islands",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_name": "Mexico vs Cayman Islands",
       "match_id": 140708,
@@ -25,13 +25,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131096_5427_ESL_RO_FC-Web.png",
       "team_1": "RCD Espanyol",
       "team_2": "Real Oviedo",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs Real Oviedo",
       "match_id": 131096,
       "startTime": "10 March 2026 01:30 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773084935~_GO=Generated~acl=/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/*~Signature=AQQqLwQY-KpxwjvJ6xFsJtvbDOhObt-xlnDzhcNWdOoVABLHwinqBdS_V9oY8jaF4HkuVS1cxMz4T9NGORhTdCY3Xt8L"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773171427~_GO=Generated~acl=/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/*~Signature=AQQqLwRFGKz7H464Sj5qWx-42PJQzfaIozvcty747JfBrqAUteQvBCLCcaIwYV4noDmzKkOJtxRYZoXhBYqrnUs090MM"
     },
     {
       "event_category": "Football",
