@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 34,
-  "last update time": "04:32:19 PM 10-03-2026",
+  "match_amount": 33,
+  "last update time": "05:27:34 PM 10-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "LIVE",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "match_id": 141301,
-      "startTime": "10 March 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773211865~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQfp739fWP7d68N1faXqqaQ1CoEm417PStP9F3OZEBopLR0f5STne7nc7awRtPmS-_6tRrG-knFuyzUGP26geUI"
-    },
     {
       "event_category": "Cricket",
       "title": "CAG Delhi vs SPJ Cargo Delhi (Tillo Cup 2026)",
@@ -49,17 +35,17 @@
     },
     {
       "event_category": "Football",
-      "title": "India Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140811_5979_INDW_TPE-W_fc-Web_1772191702194.jpg",
-      "team_1": "India Women",
-      "team_2": "Chinese Taipei Women",
+      "title": "Machida Zelvia vs Gangwon (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png",
+      "team_1": "Machida Zelvia",
+      "team_2": "Gangwon",
       "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "India Women vs Chinese Taipei Women",
-      "match_id": 140811,
-      "startTime": "10 March 2026 02:30 PM",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Machida Zelvia vs Gangwon",
+      "match_id": 140856,
+      "startTime": "10 March 2026 03:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140811_english_hls_8e34f18b4876339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773218647~_GO=Generated~acl=/mumbai/140811_english_hls_8e34f18b4876339_1ta-di_h264/*~Signature=AQQqLwTS1SUDeqLmg77fcPJ41-_Ye6wROsVl2urZMaVhLzhL1s34sK5ak7uOUAvznqSKKNd8tYk8gI1CzVliNwR5hbMK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773225863~_GO=Generated~acl=/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/*~Signature=AQQqLwQWSfVs1bgUmBFDBxIDmOprL3zaNUn8Bel1UNrx_chmFL1sDq-00w3VS2d29mIxr-MvOuWRTTx5fpI-w02FgdcN"
     },
     {
       "event_category": "Football",
@@ -67,7 +53,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140810_5979_JPN-W_VET-W_fc-Web_1772191702190.jpg",
       "team_1": "Japan Women",
       "team_2": "Vietnam Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "Japan Women vs Vietnam Women",
       "match_id": 140810,
@@ -86,20 +72,6 @@
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "match_id": 140598,
       "startTime": "11 March 2026 03:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Machida Zelvia vs Gangwon (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png",
-      "team_1": "Machida Zelvia",
-      "team_2": "Gangwon",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Machida Zelvia vs Gangwon",
-      "match_id": 140856,
-      "startTime": "10 March 2026 03:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -174,20 +146,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Philadelphia Union vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
-      "team_1": "Philadelphia Union",
-      "team_2": "Club Am\u00e9rica",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Philadelphia Union vs Club Am\u00e9rica",
-      "match_id": 141093,
-      "startTime": "11 March 2026 04:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Betwa Blasters vs Saryu Smashers (Ayodhya Premier League)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -198,20 +156,6 @@
       "match_name": "Betwa Blasters vs Saryu Smashers",
       "match_id": 141355,
       "startTime": "11 March 2026 12:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Monterrey vs Cruz Azul (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141094_5954_MONT_CRU_1772957308843.png",
-      "team_1": "Monterrey",
-      "team_2": "Cruz Azul",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Monterrey vs Cruz Azul",
-      "match_id": 141094,
-      "startTime": "11 March 2026 06:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -231,15 +175,15 @@
     },
     {
       "event_category": "Football",
-      "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-      "team_1": "Los Angeles Football Club",
-      "team_2": "Alajuelense",
+      "title": "Philadelphia Union vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
+      "team_1": "Philadelphia Union",
+      "team_2": "Club Am\u00e9rica",
       "status": "UPCOMING",
       "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Los Angeles Football Club vs Alajuelense",
-      "match_id": 141095,
-      "startTime": "11 March 2026 08:30 AM",
+      "match_name": "Philadelphia Union vs Club Am\u00e9rica",
+      "match_id": 141093,
+      "startTime": "11 March 2026 04:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -258,6 +202,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Monterrey vs Cruz Azul (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141094_5954_MONT_CRU_1772957308843.png",
+      "team_1": "Monterrey",
+      "team_2": "Cruz Azul",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Monterrey vs Cruz Azul",
+      "match_id": 141094,
+      "startTime": "11 March 2026 06:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Mumbai Spartans vs India Captains (Legends League Cricket, 2026)",
       "src": "https://images.fancode.com/aig/match/v1773065749571/141305_CASACARDS_APP.png",
@@ -268,6 +226,20 @@
       "match_name": "Mumbai Spartans vs India Captains",
       "match_id": 141305,
       "startTime": "11 March 2026 06:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+      "team_1": "Los Angeles Football Club",
+      "team_2": "Alajuelense",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Los Angeles Football Club vs Alajuelense",
+      "match_id": 141095,
+      "startTime": "11 March 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -384,20 +356,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Ratchaburi",
-      "team_2": "Gamba Osaka",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Ratchaburi vs Gamba Osaka",
-      "match_id": 140867,
-      "startTime": "11 March 2026 05:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Suriname vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140709_5971_SRN_CAY_fc-Web.jpg",
@@ -408,6 +366,20 @@
       "match_name": "Suriname vs Cayman Islands",
       "match_id": 140709,
       "startTime": "11 March 2026 08:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Ratchaburi",
+      "team_2": "Gamba Osaka",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Ratchaburi vs Gamba Osaka",
+      "match_id": 140867,
+      "startTime": "11 March 2026 05:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +450,20 @@
       "match_name": "Coventry City Football Club vs Preston North End F.C.",
       "match_id": 140557,
       "startTime": "12 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "South Australian Scorpions vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "South Australian Scorpions",
+      "team_2": "New South Wales Breakers",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "South Australian Scorpions vs New South Wales Breakers",
+      "match_id": 133987,
+      "startTime": "12 March 2026 05:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
