@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "01:12:05 PM 10-03-2026",
+  "last update time": "01:58:56 PM 10-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Delhi Champions vs Punjab Lions (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Delhi Champions",
-      "team_2": "Punjab Lions",
-      "status": "LIVE",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Delhi Champions vs Punjab Lions",
-      "match_id": 141184,
-      "startTime": "10 March 2026 10:10 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
     {
       "event_category": "Cricket",
       "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
@@ -39,27 +25,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
       "team_1": "Rajasthan Emperors",
       "team_2": "Gujarat Tigers",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Thunderbolt T10 League 2026",
       "match_name": "Rajasthan Emperors vs Gujarat Tigers",
       "match_id": 141185,
       "startTime": "10 March 2026 12:45 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141185_english_hls_1fbf6889cd53055_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773212705~_GO=Generated~acl=/mumbai/141185_english_hls_1fbf6889cd53055_1ta-di_h264/*~Signature=AQQqLwQdCuqvOx4ijftLxbmHM836vqTO9NE-GPvzy4idDDY7NmqlGJuqrk3wyaRB_DoB2fzhRLSl9F59GSfeYsn1OaEH"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "Zimbabwe Women",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-      "match_name": "New Zealand Women vs Zimbabwe Women",
-      "match_id": 140598,
-      "startTime": "11 March 2026 03:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -72,6 +44,20 @@
       "match_name": "CAG Delhi vs SPJ Cargo",
       "match_id": 141262,
       "startTime": "10 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141262_english_hls_bf799af95f6989_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773215466~_GO=Generated~acl=/mumbai/141262_english_hls_bf799af95f6989_1ta-di_h264/*~Signature=AQQqLwRoaDKASb2iYdpo3cpPI-wbPtKLTTNcGMiwkXQCnrMj5Utec20ol2aundABK83a5s_5dOv-gjQ2UiU9g3UzPJQL"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+      "team_1": "New Zealand Women",
+      "team_2": "Zimbabwe Women",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+      "match_name": "New Zealand Women vs Zimbabwe Women",
+      "match_id": 140598,
+      "startTime": "11 March 2026 03:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -132,6 +118,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Tasmania vs New South Wales (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
+      "team_1": "Tasmania",
+      "team_2": "New South Wales",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Tasmania vs New South Wales",
+      "match_id": 133949,
+      "startTime": "11 March 2026 08:35 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "India Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140811_5979_INDW_TPE-W_fc-Web_1772191702194.jpg",
@@ -156,20 +156,6 @@
       "match_name": "Japan Women vs Vietnam Women",
       "match_id": 140810,
       "startTime": "10 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Tasmania vs New South Wales (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
-      "team_1": "Tasmania",
-      "team_2": "New South Wales",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Tasmania vs New South Wales",
-      "match_id": 133949,
-      "startTime": "11 March 2026 08:35 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -357,20 +343,6 @@
     },
     {
       "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed vs Indian, United States",
-      "match_id": 141023,
-      "startTime": "10 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
       "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
       "team_1": "C Court Feed",
@@ -394,6 +366,20 @@
       "match_name": "World Feed vs Indian, United States",
       "match_id": 141253,
       "startTime": "10 March 2026 11:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141023,
+      "startTime": "11 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +464,20 @@
       "match_name": "B Court Feed vs Indian, United States",
       "match_id": 141025,
       "startTime": "11 March 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
+      "team_1": "Argentina",
+      "team_2": "Mexico",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Argentina vs Mexico",
+      "match_id": 140710,
+      "startTime": "12 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
