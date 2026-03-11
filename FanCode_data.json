@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "03:32:13 AM 12-03-2026",
+  "match_amount": 34,
+  "last update time": "04:21:00 AM 12-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,20 +20,6 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140710_english_hls_7b0a2ef54889705_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773343146~_GO=Generated~acl=/mumbai/140710_english_hls_7b0a2ef54889705_1ta-di_h264/*~Signature=AR77L-Yw9nhR4sgwpg150CdDdejdbzpwW_A668Z6KSsVbq30DEHuCtH4IOT_QgOTXaSiuqAtiJOuWqDncBE6w-QEPaID"
     },
     {
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Preston North End F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Preston North End F.C.",
-      "match_id": 140557,
-      "startTime": "12 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140557_english_hls_70782d51c799827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773344645~_GO=Generated~acl=/mumbai/140557_english_hls_70782d51c799827_1ta-di_h264/*~Signature=AR77L-aRYX1PdZnSJJhHNb5Hgg8s10kTc-51ooKetQwobvTjliJmBCou-aroPqRKzRODExu2U2pKKEvaDQPTkMDL5yAL"
-    },
-    {
       "event_category": "Tennis",
       "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -45,7 +31,7 @@
       "match_id": 141027,
       "startTime": "11 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773337450~_GO=Generated~acl=/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/*~Signature=AR77L-YYJDQAzHEd59u8Q62bcFtZJgybQEQRL1a2iWD4SK7zzSEwdLWHPLlV0voyKk_Nh8CJKJUTh3j52VBzEp9rfvcH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773352266~_GO=Generated~acl=/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/*~Signature=AR77L-YKWMhEsBqdFMFCEqZlffD1_EnCb_E_JhSc6uRZbPDvVcmdW95hRvHGDBP9oqNu34u96ImSHJlFPAoch1YWB7UP"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +45,7 @@
       "match_id": 141026,
       "startTime": "11 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773337459~_GO=Generated~acl=/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/*~Signature=AR77L-ZaqBaFVopjAW5dUO8e2RVpvS46WB263NUJbEtDoIUt1I60Fz7sd8DzGTfqDeRIt_gjQ2MVsAIzC_SrI6Qw_lYE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773352267~_GO=Generated~acl=/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/*~Signature=AR77L-YAnB81OCqjEHsSgQ6x7LZQohCXNTrNq-81H_ddZ4zC1QbdeUy4TBLtGwuaIBJax3u8fn66O7GvHMtc0kyaq40O"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +59,7 @@
       "match_id": 141025,
       "startTime": "11 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773338292~_GO=Generated~acl=/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/*~Signature=AR77L-YyAkf385sEy8ygMTfUdhgAvsf6jZxrt1oQwTavEc9XjQV10566Q9_R__9vg_AnQvjyK9eDUgxPQO5vFqyKDnsN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773353107~_GO=Generated~acl=/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/*~Signature=AR77L-ZQvZxUSyLlXGd4XX4is_TsTm4J-6Oc3rmb19wrzzhCXbjxZv-KbN8Kccamg_-LeXEX9Wqg4Upkabq161t_4e0C"
     },
     {
       "event_category": "Tennis",
