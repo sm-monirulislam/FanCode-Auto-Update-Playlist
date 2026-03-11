@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "10:08:09 PM 11-03-2026",
+  "last update time": "11:15:20 PM 11-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -35,20 +35,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
-      "team_1": "Argentina",
-      "team_2": "Mexico",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Argentina vs Mexico",
-      "match_id": 140710,
-      "startTime": "12 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Royal Riders Punjab vs India Tigers (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141306_6002_RRP_ING_FC-Web.jpg",
       "team_1": "Royal Riders Punjab",
@@ -58,6 +44,20 @@
       "match_name": "Royal Riders Punjab vs India Tigers",
       "match_id": 141306,
       "startTime": "12 March 2026 07:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
+      "team_1": "Argentina",
+      "team_2": "Mexico",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Argentina vs Mexico",
+      "match_id": 140710,
+      "startTime": "12 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -90,20 +90,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Preston North End F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Preston North End F.C.",
-      "match_id": 140557,
-      "startTime": "12 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
@@ -114,6 +100,20 @@
       "match_name": "Malaysia vs Bahrain",
       "match_id": 141302,
       "startTime": "12 March 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Preston North End F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Preston North End F.C.",
+      "match_id": 140557,
+      "startTime": "12 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -258,34 +258,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Mexico vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140711_5971_MEX_CAY_fc-Web.jpg",
-      "team_1": "Mexico",
-      "team_2": "Cayman Islands",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Mexico vs Cayman Islands",
-      "match_id": 140711,
-      "startTime": "12 March 2026 08:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Tampines Rovers FC vs Bangkok United (AFC Champions League Two 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773230659631/140869_CASACARDS_APP.png",
-      "team_1": "Tampines Rovers FC",
-      "team_2": "Bangkok United",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Tampines Rovers FC vs Bangkok United",
-      "match_id": 140869,
-      "startTime": "12 March 2026 05:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Tennis",
       "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -328,16 +300,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1 vs Koonyonga Club (Women's Australian Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png",
-      "team_1": "Day 1",
-      "team_2": "Koonyonga Club",
+      "event_category": "Cricket",
+      "title": "Mexico vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140711_5971_MEX_CAY_fc-Web.jpg",
+      "team_1": "Mexico",
+      "team_2": "Cayman Islands",
       "status": "UPCOMING",
-      "event_name": "Women's Australian Open 2026",
-      "match_name": "Day 1 vs Koonyonga Club",
-      "match_id": 140787,
-      "startTime": "12 March 2026 07:00 AM",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Mexico vs Cayman Islands",
+      "match_id": 140711,
+      "startTime": "12 March 2026 08:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Tampines Rovers FC vs Bangkok United (AFC Champions League Two 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773230659631/140869_CASACARDS_APP.png",
+      "team_1": "Tampines Rovers FC",
+      "team_2": "Bangkok United",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Tampines Rovers FC vs Bangkok United",
+      "match_id": 140869,
+      "startTime": "12 March 2026 05:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -352,6 +338,20 @@
       "match_name": "Suriname vs Argentina",
       "match_id": 140712,
       "startTime": "13 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1 vs Koonyonga Club (Women's Australian Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png",
+      "team_1": "Day 1",
+      "team_2": "Koonyonga Club",
+      "status": "UPCOMING",
+      "event_name": "Women's Australian Open 2026",
+      "match_name": "Day 1 vs Koonyonga Club",
+      "match_id": 140787,
+      "startTime": "12 March 2026 07:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
