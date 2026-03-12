@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "11:12:48 AM 12-03-2026",
+  "last update time": "12:09:35 PM 12-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -45,7 +45,7 @@
       "match_id": 141302,
       "startTime": "12 March 2026 07:00 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141302_english_hls_11141d15e017152_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773364746~_GO=Generated~acl=/mumbai/141302_english_hls_11141d15e017152_1ta-di_h264/*~Signature=AR77L-acRGD2qNw-6Q_rw1bBFuiE9P4Cz8EwJXOtgZr1LhvKlHlh2vnSv_D02rLiU2Uz0OAw6_evMa7pHXB1PTLDOZEO"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141302_english_hls_11141d15e017152_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773379567~_GO=Generated~acl=/mumbai/141302_english_hls_11141d15e017152_1ta-di_h264/*~Signature=AR77L-Y91yEnDRkJr-257UyeKV1bArJDhXbYQA8iQQI4Etl-vHoDKraARIzWpFeUUnPT06dWwfES1Qy-0Sa-h-SuGv8E"
     },
     {
       "event_category": "Cricket",
@@ -90,20 +90,6 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141190_english_hls_90c893f7ca18784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773375965~_GO=Generated~acl=/mumbai/141190_english_hls_90c893f7ca18784_1ta-di_h264/*~Signature=AR77L-Y1TkMNb7XkQ2XFCsDpWLbqqZfVDu1dfsoY43glOiHixvqm6rx7Sh0VTBWNe3cbLC4sWmqWzNMUvMB8-iDtkiEI"
     },
     {
-      "event_category": "Football",
-      "title": "San Diego vs Toluca (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141098_5954_SD_TOL_1772957309644.png",
-      "team_1": "San Diego",
-      "team_2": "Toluca",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "San Diego vs Toluca",
-      "match_id": 141098,
-      "startTime": "12 March 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141098_english_hls_3517d89f3248501_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773371946~_GO=Generated~acl=/mumbai/141098_english_hls_3517d89f3248501_1ta-di_h264/*~Signature=AR77L-bc3AtDPjuORpKRc6CZalZLFYwT3o1fixQ-8lpx9oSitaXKNKObKBv0MdluvTms2nLlTEMrZwvLtHpFhfgF590J"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 1 vs Koonyonga Club (Women's Australian Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png",
@@ -115,7 +101,7 @@
       "match_id": 140787,
       "startTime": "12 March 2026 07:00 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140787_english_hls_b46a26ae7665543_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773364752~_GO=Generated~acl=/mumbai/140787_english_hls_b46a26ae7665543_1ta-di_h264/*~Signature=AR77L-ZLi9Iuy-dYzde0kwGUAB50aYoky6zLTnwHSggTKRVCJtCAjLL1bkHogLwwnT8xeqC850ABU6kwXpCHcVjPTWQM"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140787_english_hls_b46a26ae7665543_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773379570~_GO=Generated~acl=/mumbai/140787_english_hls_b46a26ae7665543_1ta-di_h264/*~Signature=AR77L-ZFGh8zyNxsF31PJfvdLRkglBO3mRZoju03enG22PSUy5fTxMzWq0WHObRXXQCSQoY3crUFT5jMF5GlOQEyN5cD"
     },
     {
       "event_category": "Cricket",
@@ -492,6 +478,20 @@
       "match_name": "Free Practice vs China",
       "match_id": 139677,
       "startTime": "13 March 2026 06:40 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141307_6002_KSO_SSS_FC-Web.jpg",
+      "team_1": "Konark Suryas Odisha",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Konark Suryas Odisha vs Southern Super Stars",
+      "match_id": 141307,
+      "startTime": "13 March 2026 07:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
