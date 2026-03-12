@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "01:37:48 AM 13-03-2026",
+  "last update time": "02:26:59 AM 13-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -11,7 +11,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140712_5971_SRN_ARG_fc-Web.jpg",
       "team_1": "Suriname",
       "team_2": "Argentina",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_name": "Suriname vs Argentina",
       "match_id": 140712,
@@ -31,7 +31,7 @@
       "match_id": 141136,
       "startTime": "12 March 2026 05:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141136_english_hls_9a5ab4dcfa40624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773416236~_GO=Generated~acl=/mumbai/141136_english_hls_9a5ab4dcfa40624_1ta-di_h264/*~Signature=AR77L-bNUHWt8Jg3NWplnOSxl1KsVErVoYdTtofbsnhYpDoHmOvJFW7uaa62gIMp8mC5bIJSVyJAsh-nYrmqogZgfQEP"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141136_english_hls_9a5ab4dcfa40624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773431060~_GO=Generated~acl=/mumbai/141136_english_hls_9a5ab4dcfa40624_1ta-di_h264/*~Signature=AR77L-Y63DCcN-YDrBOGxfN2RdmlH_o1EhJJvQo2LrpW2sp4-V2QmbOkJcdLwFeujHSKsdC2xdZ9GCL2u8Fz1OWEM0cF"
     },
     {
       "event_category": "Golf",
@@ -45,7 +45,7 @@
       "match_id": 141138,
       "startTime": "12 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773417496~_GO=Generated~acl=/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/*~Signature=AR77L-ZBVha5BKMjbV3o_nZ0sQTCLobfdDgQoRS__d9AsFAV74ubBklnXkHFooNlpm3EZDC3k8TG0gZlrkLYJoRMHdoF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773432312~_GO=Generated~acl=/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/*~Signature=AR77L-YBjB1sBvdMz8Fb0rWHrzuqcdpOZqayLKoCfdVymJMk4aheVBCIGNiPaxmdduInMZRxFSUFdZOIddAie2YUDx8I"
     },
     {
       "event_category": "Golf",
@@ -116,6 +116,20 @@
       "startTime": "12 March 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141415_english_hls_880baf596360190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773423881~_GO=Generated~acl=/mumbai/141415_english_hls_880baf596360190_1ta-di_h264/*~Signature=AR77L-aMPObiCPw8wNr1UdDMNG_3mTULFx7P771FUC5sqPNU1y7tw-Cb79F7hvlSf2rsGrkL0hLIxAcUYnBTY6b42kcP"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Indian, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "A Court Feed vs Indian, United States",
+      "match_id": 141028,
+      "startTime": "13 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141028_english_hls_1062553c9b89516_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773431474~_GO=Generated~acl=/mumbai/141028_english_hls_1062553c9b89516_1ta-di_h264/*~Signature=AR77L-aeL8gpUyqpQoOL3cnXmz2rVTKx4ZjcAfXgr1EO2z7lafW1eTMZfRn3XdZeU181_-YXedwEI-7WS7RA-fDpy5YH"
     },
     {
       "event_category": "Cricket",
@@ -286,20 +300,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed vs Indian, United States",
-      "match_id": 141028,
-      "startTime": "13 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Australia Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -440,20 +440,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Main Feed - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "Main Feed - Day 2",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "Main Feed - Day 2 vs Ponte Vedra Beach, Florida",
-      "match_id": 141140,
-      "startTime": "13 March 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "South Australian Scorpions vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
@@ -478,6 +464,20 @@
       "match_name": "Queensland Fire vs Victoria Women",
       "match_id": 133989,
       "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "UPCOMING",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "Main Feed - Day 2 vs Ponte Vedra Beach, Florida",
+      "match_id": 141140,
+      "startTime": "13 March 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
