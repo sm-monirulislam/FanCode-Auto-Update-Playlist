@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:20:47 AM 13-03-2026",
+  "last update time": "05:48:24 AM 13-03-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -123,13 +123,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141099_5954_CIN_TIG_1772957308865.png",
       "team_1": "FC Cincinnati",
       "team_2": "Tigres",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "FC Cincinnati vs Tigres",
       "match_id": 141099,
       "startTime": "13 March 2026 05:30 AM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141099_english_hls_6865406d4b45702_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773445454~_GO=Generated~acl=/mumbai/141099_english_hls_6865406d4b45702_1ta-di_h264/*~Signature=AR77L-bKzB8oWOxXJawnBsAW14x6xTTXffC2v6h7l1OdU3bUYr-B5y8jJdBa0pPlUyCeX5Z8ju2d8vCQoGkqw_37NvQO"
     },
     {
       "event_category": "Cricket",
@@ -259,20 +259,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Australia Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Australia Women",
-      "team_2": "DPR Korea Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Australia Women vs DPR Korea Women",
-      "match_id": 140812,
-      "startTime": "13 March 2026 03:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Al-Qadsiah FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140719_5655_ALQ_AAS_fc-web.jpg",
       "team_1": "Al-Qadsiah FC",
@@ -282,6 +268,20 @@
       "match_name": "Al-Qadsiah FC vs Al-Ahli Saudi FC",
       "match_id": 140719,
       "startTime": "14 March 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Australia Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Australia Women",
+      "team_2": "DPR Korea Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Australia Women vs DPR Korea Women",
+      "match_id": 140812,
+      "startTime": "13 March 2026 03:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
