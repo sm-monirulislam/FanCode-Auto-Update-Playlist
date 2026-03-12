@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "09:52:43 PM 12-03-2026",
+  "last update time": "10:53:19 PM 12-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -59,7 +59,7 @@
       "match_id": 141138,
       "startTime": "12 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773402882~_GO=Generated~acl=/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/*~Signature=AR77L-aDPNNqdH9nDyLah4U0yiSk2O1FREjqm4vxRwC_MwXHZRX7sbuQx2JR_Ul56fRwFjJ9nCYylMGs0do65RMtvKwN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773417496~_GO=Generated~acl=/mumbai/141138_english_hls_22c71f583141831_1ta-di_h264/*~Signature=AR77L-ZBVha5BKMjbV3o_nZ0sQTCLobfdDgQoRS__d9AsFAV74ubBklnXkHFooNlpm3EZDC3k8TG0gZlrkLYJoRMHdoF"
     },
     {
       "event_category": "Golf",
@@ -73,7 +73,7 @@
       "match_id": 141137,
       "startTime": "12 March 2026 05:45 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141137_english_hls_069b808e7d73276_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773403940~_GO=Generated~acl=/mumbai/141137_english_hls_069b808e7d73276_1ta-di_h264/*~Signature=AR77L-boC7QOPHbw-LTfWZFwYEIzo5UL9YSuHm_eFwWpagtXU53lu7ceU60N_KBBKufEuuYLXo62Hug7-5jKWBWhRXgF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141137_english_hls_069b808e7d73276_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773418756~_GO=Generated~acl=/mumbai/141137_english_hls_069b808e7d73276_1ta-di_h264/*~Signature=AR77L-anMCAXRRY-NxuBl2OWBOEG3Nz8ycdXwQrCJCx0BvGt9EOfmwSruXXQexlBp0Sew43x5YaTW78eABaQf45mIW4K"
     },
     {
       "event_category": "Cricket",
@@ -91,20 +91,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Suriname vs Argentina (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140712_5971_SRN_ARG_fc-Web.jpg",
-      "team_1": "Suriname",
-      "team_2": "Argentina",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Suriname vs Argentina",
-      "match_id": 140712,
-      "startTime": "13 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141307_6002_KSO_SSS_FC-Web.jpg",
       "team_1": "Konark Suryas Odisha",
@@ -114,6 +100,20 @@
       "match_name": "Konark Suryas Odisha vs Southern Super Stars",
       "match_id": 141307,
       "startTime": "13 March 2026 07:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Suriname vs Argentina (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140712_5971_SRN_ARG_fc-Web.jpg",
+      "team_1": "Suriname",
+      "team_2": "Argentina",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Suriname vs Argentina",
+      "match_id": 140712,
+      "startTime": "13 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -244,6 +244,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Golf",
+      "title": "World Feed - Day 1 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "World Feed - Day 1",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "UPCOMING",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "World Feed - Day 1 vs Ponte Vedra Beach, Florida",
+      "match_id": 141135,
+      "startTime": "12 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Brisbane Roar vs Western Sydney Wanderers (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140911_5802_BRB_SYW_fc-web.jpg",
@@ -272,16 +286,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "World Feed - Day 1",
-      "team_2": "Ponte Vedra Beach, Florida",
+      "event_category": "Football",
+      "title": "Al-Qadsiah FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140719_5655_ALQ_AAS_fc-web.jpg",
+      "team_1": "Al-Qadsiah FC",
+      "team_2": "Al-Ahli Saudi FC",
       "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "World Feed - Day 1 vs Ponte Vedra Beach, Florida",
-      "match_id": 141135,
-      "startTime": "12 March 2026 10:30 PM",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Qadsiah FC vs Al-Ahli Saudi FC",
+      "match_id": 140719,
+      "startTime": "14 March 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -384,20 +398,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140719_5655_ALQ_AAS_fc-web.jpg",
-      "team_1": "Al-Qadsiah FC",
-      "team_2": "Al-Ahli Saudi FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Qadsiah FC vs Al-Ahli Saudi FC",
-      "match_id": 140719,
-      "startTime": "14 March 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Motorsports",
       "title": "Qualifying vs China (F1 ACADEMY CHINA 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
@@ -408,20 +408,6 @@
       "match_name": "Qualifying vs China",
       "match_id": 139678,
       "startTime": "13 March 2026 11:40 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Formula 1",
-      "title": "Sprint Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-      "team_1": "Sprint Qualifying",
-      "team_2": "China",
-      "status": "UPCOMING",
-      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
-      "match_name": "Sprint Qualifying vs China",
-      "match_id": 139367,
-      "startTime": "13 March 2026 01:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -450,6 +436,20 @@
       "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
       "match_id": 140951,
       "startTime": "14 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Sprint Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "team_1": "Sprint Qualifying",
+      "team_2": "China",
+      "status": "UPCOMING",
+      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_name": "Sprint Qualifying vs China",
+      "match_id": 139367,
+      "startTime": "13 March 2026 01:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -496,20 +496,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "Featured Groups - Day 2",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida",
-      "match_id": 141141,
-      "startTime": "13 March 2026 06:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Mirand\u00e9s vs C\u00e1diz (LALIGA Hypermotion 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -520,6 +506,20 @@
       "match_name": "Mirand\u00e9s vs C\u00e1diz",
       "match_id": 141221,
       "startTime": "14 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "Featured Groups - Day 2",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "UPCOMING",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida",
+      "match_id": 141141,
+      "startTime": "13 March 2026 06:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
