@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:18:54 AM 13-03-2026",
+  "last update time": "04:50:47 AM 13-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Suriname vs Argentina (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140712_5971_SRN_ARG_fc-Web.jpg",
-      "team_1": "Suriname",
-      "team_2": "Argentina",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Suriname vs Argentina",
-      "match_id": 140712,
-      "startTime": "13 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773429558~_GO=Generated~acl=/mumbai/140712_english_hls_d3753ddffb74491_1ta-di_h264/*~Signature=AR77L-bz4wwU1kALpbLJUqNc_MJnYEp7Ow3M6KZyibNKxr25bZ0gX1OwyIdDVm2_7JEyXjLi9JFfS48NWLUzED3flh0K"
-    },
     {
       "event_category": "Golf",
       "title": "Main Feed - Day 1 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
@@ -101,7 +87,7 @@
       "match_id": 141029,
       "startTime": "12 March 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141029_english_hls_12982f9aeb89944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773425957~_GO=Generated~acl=/mumbai/141029_english_hls_12982f9aeb89944_1ta-di_h264/*~Signature=AR77L-ZEBweMHvrvLbemvynW_zsd08Bm4uXNpCyOM4DuOhLsyphW6wD8aS8J1EpznjFNQI_ehOoKj1EKVCeh0mhD2h4I"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141029_english_hls_12982f9aeb89944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773440771~_GO=Generated~acl=/mumbai/141029_english_hls_12982f9aeb89944_1ta-di_h264/*~Signature=AR77L-ZZxv2ou2k3E9PMfucyVgRquPn5B03T4m3ddgiabH6cXEhUQeDMUyWm7BFaj8s-PYncAhdRRourTnmHdDf2ouIG"
     },
     {
       "event_category": "Tennis",
@@ -412,6 +398,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Malaysia, 2026",
+      "match_name": "Malaysia vs Bahrain",
+      "match_id": 141303,
+      "startTime": "14 March 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Formula 1",
       "title": "Practice 1 vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
@@ -455,15 +455,43 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
+      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+      "team_1": "Tasmania",
+      "team_2": "Queensland",
       "status": "UPCOMING",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "match_id": 141303,
-      "startTime": "14 March 2026 07:00 AM",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Queensland",
+      "match_id": 134043,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+      "team_1": "Victoria",
+      "team_2": "South Australia",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs South Australia",
+      "match_id": 134042,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
+      "team_1": "New South Wales",
+      "team_2": "Western Australia",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Western Australia",
+      "match_id": 134041,
+      "startTime": "14 March 2026 05:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -506,34 +534,6 @@
       "match_name": "Featured Holes - Day 2 vs Ponte Vedra Beach, Florida",
       "match_id": 141142,
       "startTime": "13 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "Featured Groups - Day 2",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida",
-      "match_id": 141141,
-      "startTime": "13 March 2026 06:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
-      "team_1": "Tasmania",
-      "team_2": "Queensland",
-      "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Queensland",
-      "match_id": 134043,
-      "startTime": "14 March 2026 05:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
