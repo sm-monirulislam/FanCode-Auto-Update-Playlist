@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "01:53:19 AM 14-03-2026",
+  "last update time": "02:26:27 AM 14-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -25,7 +25,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131103_5427_ALA_VIL_FC-Web.png",
       "team_1": "Deportivo Alaves",
       "team_2": "Villarreal CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Deportivo Alaves vs Villarreal CF",
       "match_id": 131103,
@@ -39,7 +39,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg",
       "team_1": "Wrexham A.F.C.",
       "team_2": "Swansea City A.F.C.",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
       "match_id": 140951,
@@ -87,7 +87,7 @@
       "match_id": 141142,
       "startTime": "13 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773504309~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-YBi00KhQUMOXGjU_gXpTsosJ1x9DVOA3Ydy-Etr0oZbYVhDeaEAZDkQ4mlNXGVulg26ul6ssj_p8SMnpnMFJwL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773519126~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-ZbP7WPJj02dpav8FGbFS-_7De5q1mg41Nghhy1z-hE1Uf8B7oGCgMciG8XUq30lCdSpAyY2b9YLQWmV5Y211kO"
     },
     {
       "event_category": "Golf",
@@ -384,6 +384,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Leicester City F.C. vs Queens Park Rangers F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140953_5489_LEI_QPR_fc-web.jpg",
+      "team_1": "Leicester City F.C.",
+      "team_2": "Queens Park Rangers F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Leicester City F.C. vs Queens Park Rangers F.C.",
+      "match_id": 140953,
+      "startTime": "14 March 2026 08:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
@@ -427,6 +441,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Atletico de Madrid vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131105_5427_ATL_GEF_FC-Web.png",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Getafe CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Getafe CF",
+      "match_id": 131105,
+      "startTime": "14 March 2026 08:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Wellington Phoenix vs Perth Glory (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
       "team_1": "Wellington Phoenix",
@@ -441,20 +469,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Leicester City F.C. vs Queens Park Rangers F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140953_5489_LEI_QPR_fc-web.jpg",
-      "team_1": "Leicester City F.C.",
-      "team_2": "Queens Park Rangers F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Leicester City F.C. vs Queens Park Rangers F.C.",
-      "match_id": 140953,
-      "startTime": "14 March 2026 08:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Central Coast Mariners vs Adelaide United (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
       "team_1": "Central Coast Mariners",
@@ -464,20 +478,6 @@
       "match_name": "Central Coast Mariners vs Adelaide United",
       "match_id": 140913,
       "startTime": "14 March 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131105_5427_ATL_GEF_FC-Web.png",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Getafe CF",
-      "match_id": 131105,
-      "startTime": "14 March 2026 08:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
