@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:09:57 AM 13-03-2026",
+  "last update time": "12:07:44 PM 13-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141358,
       "startTime": "13 March 2026 09:00 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773459433~_GO=Generated~acl=/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/*~Signature=AR77L-Ylwr9L8UdlnLauXhss6aDdp0pymIHFfyO3Ri5syuj3UbbhWPVZoGyXF963LaldwTZP5s5JaRPyZCVSzhi1vbgJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465471~_GO=Generated~acl=/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/*~Signature=AR77L-avXtjUzo0dP4PlHvPA7qktY5Cub2uJN-UBivcbVAMoyzpMAmeRlT4iiA8oShw72ZSayJtyLs94koqxc4LH6VYL"
     },
     {
       "event_category": "Cricket",
@@ -31,7 +31,21 @@
       "match_id": 141193,
       "startTime": "13 March 2026 10:10 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773462564~_GO=Generated~acl=/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/*~Signature=AR77L-ZnToYTFiX0IOFxR_AM3cVHp4txtnqX-j_vpwlB65n0XKcXRFJOqVKgueetaAZQJnkTHp7FVauLKrTtStLPO-MK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465480~_GO=Generated~acl=/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/*~Signature=AR77L-btSGq94TrinpEdKMxwbHprxWKqw5EwOcbZGpERz3BgpsNJXBvC-Bn3xkj50fWiCkc9OBAMn-y4Tuw6cAWCzVcN"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "ACT Meteors vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "ACT Meteors",
+      "team_2": "Western Australia Women",
+      "status": "LIVE",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "ACT Meteors vs Western Australia Women",
+      "match_id": 133988,
+      "startTime": "13 March 2026 11:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://in-mc-plive.fancode.com/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773467051~_GO=Generated~acl=/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/*~Signature=AR77L-bSHr8WMbGcioDx5t3KsjdClkz-fxH7I7_w0KUa9qGjSr1WBulIYQOMB6sb7h-rxvzs1NNUtukzj1DY1H1ZFNgN"
     },
     {
       "event_category": "Golf",
@@ -45,7 +59,21 @@
       "match_id": 140788,
       "startTime": "13 March 2026 07:00 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773451574~_GO=Generated~acl=/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/*~Signature=AR77L-Y1hRDonNoyq7HPGFEw3CPzvfcnObq0SkkCqsx_ymQ8ZV8fW3iUO4fOlibUonw-WC7L6Gb2VL-1l4Yy7xQLsMoG"
+      "adfree_url": "https://in-mc-plive.fancode.com/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465489~_GO=Generated~acl=/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/*~Signature=AR77L-bgLeKBvLhfoTypyjVssdHh9SMRJWTfvcgtwV_xxv9a7ahnpBh0HOEpSBUxP1puystS0wtw_hY1zYcUnstpVI8I"
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Sprint Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "team_1": "Sprint Qualifying",
+      "team_2": "China",
+      "status": "LIVE",
+      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_name": "Sprint Qualifying vs China",
+      "match_id": 139367,
+      "startTime": "13 March 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139367_english_hls_aeb72cd77f78944_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773468307~_GO=Generated~acl=/mumbai/139367_english_hls_aeb72cd77f78944_1ta-di_h264/*~Signature=AR77L-bqKH3qPz90oe25GVNIEna4f991aAM6SCI1_f4Eh-DxYJ3NgsnRoXNHSg22PJA-droSvOmTpDGgwk0EKFpMid4N"
     },
     {
       "event_category": "Cricket",
@@ -72,20 +100,6 @@
       "match_name": "Konark Suryas Odisha vs Southern Super Stars",
       "match_id": 141307,
       "startTime": "13 March 2026 07:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Western Australia Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "Western Australia Women",
-      "team_2": "ACT Meteors",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Western Australia Women vs ACT Meteors",
-      "match_id": 133988,
-      "startTime": "13 March 2026 11:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -232,7 +246,7 @@
     {
       "event_category": "Football",
       "title": "Australia Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://images.fancode.com/aig/match/v1773379970336/140812_CASACARDS_APP.png",
       "team_1": "Australia Women",
       "team_2": "DPR Korea Women",
       "status": "UPCOMING",
@@ -268,6 +282,20 @@
       "match_name": "Mirand\u00e9s vs C\u00e1diz",
       "match_id": 141221,
       "startTime": "14 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Qualifying vs China (F1 ACADEMY CHINA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
+      "team_1": "Qualifying",
+      "team_2": "China",
+      "status": "UPCOMING",
+      "event_name": "F1 ACADEMY CHINA 2026",
+      "match_name": "Qualifying vs China",
+      "match_id": 139678,
+      "startTime": "13 March 2026 11:40 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -400,7 +428,7 @@
     {
       "event_category": "Football",
       "title": "China PR Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://images.fancode.com/aig/match/v1773380027049/140813_CASACARDS_APP.png",
       "team_1": "China PR Women",
       "team_2": "Chinese Taipei Women",
       "status": "UPCOMING",
@@ -412,30 +440,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Motorsports",
-      "title": "Qualifying vs China (F1 ACADEMY CHINA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
-      "team_1": "Qualifying",
-      "team_2": "China",
+      "event_category": "Cricket",
+      "title": "Yamuna Super Kings vs Hindon Titans (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg",
+      "team_1": "Yamuna Super Kings",
+      "team_2": "Hindon Titans",
       "status": "UPCOMING",
-      "event_name": "F1 ACADEMY CHINA 2026",
-      "match_name": "Qualifying vs China",
-      "match_id": 139678,
-      "startTime": "13 March 2026 11:40 AM",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Yamuna Super Kings vs Hindon Titans",
+      "match_id": 141361,
+      "startTime": "14 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
     {
-      "event_category": "Formula 1",
-      "title": "Sprint Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-      "team_1": "Sprint Qualifying",
-      "team_2": "China",
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Auckland",
       "status": "UPCOMING",
-      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
-      "match_name": "Sprint Qualifying vs China",
-      "match_id": 139367,
-      "startTime": "13 March 2026 01:00 PM",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Auckland",
+      "match_id": 140914,
+      "startTime": "14 March 2026 11:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -482,20 +510,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Yamuna Super Kings vs Hindon Titans (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg",
-      "team_1": "Yamuna Super Kings",
-      "team_2": "Hindon Titans",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Yamuna Super Kings vs Hindon Titans",
-      "match_id": 141361,
-      "startTime": "14 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Tennis",
       "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -519,20 +533,6 @@
       "event_name": "THE PLAYERS Championship 2026",
       "match_name": "World Feed - Day 2 vs Ponte Vedra Beach, Florida",
       "match_id": 141139,
-      "startTime": "13 March 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed vs Indian, United States",
-      "match_id": 141416,
       "startTime": "13 March 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
