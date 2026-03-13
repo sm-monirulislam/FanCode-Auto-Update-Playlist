@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:20:54 AM 14-03-2026",
+  "last update time": "05:49:18 AM 14-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -74,34 +74,6 @@
       "startTime": "14 March 2026 05:00 AM",
       "dai_url": "",
       "adfree_url": "https://in-mc-plive.fancode.com/mumbai/134041_english_hls_327851520335187_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773530359~_GO=Generated~acl=/mumbai/134041_english_hls_327851520335187_1ta-di_h264/*~Signature=AR77L-bhG5MpQTL-oZhhBi_kAi2roCAsniQVe_iKSlgadJZOJ48FnAWVeY8pBEalBHyjIGtQV1IvCKNCfdobxkU7ixQK"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "Featured Holes - Day 2",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "LIVE",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "Featured Holes - Day 2 vs Ponte Vedra Beach, Florida",
-      "match_id": 141142,
-      "startTime": "13 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773519126~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-ZbP7WPJj02dpav8FGbFS-_7De5q1mg41Nghhy1z-hE1Uf8B7oGCgMciG8XUq30lCdSpAyY2b9YLQWmV5Y211kO"
-    },
-    {
-      "event_category": "Golf",
-      "title": "World Feed - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "World Feed - Day 2",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "LIVE",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "World Feed - Day 2 vs Ponte Vedra Beach, Florida",
-      "match_id": 141139,
-      "startTime": "13 March 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141139_english_hls_f4907da7b843381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773521051~_GO=Generated~acl=/mumbai/141139_english_hls_f4907da7b843381_1ta-di_h264/*~Signature=AR77L-YMp9sCI4pYG0DvwFnqYjgQ6xjlORcKURLAIDO3gdkAcg5LJqtYJy4SoOhb-O9wGgigZQ-WRajlW3bbE3QNIhEC"
     },
     {
       "event_category": "Cricket",
@@ -427,20 +399,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-      "team_1": "Korea Republic Women",
-      "team_2": "Uzbekistan Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs Uzbekistan Women",
-      "match_id": 140814,
-      "startTime": "14 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Al-Fateh SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140721_5655_AFF_AHS_fc-web.jpg",
       "team_1": "Al-Fateh SC",
@@ -478,6 +436,20 @@
       "match_name": "Cayman Islands vs Suriname",
       "match_id": 140714,
       "startTime": "15 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
+      "team_1": "Korea Republic Women",
+      "team_2": "Uzbekistan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Korea Republic Women vs Uzbekistan Women",
+      "match_id": 140814,
+      "startTime": "14 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +506,34 @@
       "match_name": "Hong Kong Cricket Club Women vs Craigengower Cricket Club Women",
       "match_id": 140613,
       "startTime": "15 March 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3 vs Koonyonga Club (Women's Australian Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png",
+      "team_1": "Day 3",
+      "team_2": "Koonyonga Club",
+      "status": "UPCOMING",
+      "event_name": "Women's Australian Open 2026",
+      "match_name": "Day 3 vs Koonyonga Club",
+      "match_id": 140789,
+      "startTime": "14 March 2026 06:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Sprint vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "team_1": "Sprint",
+      "team_2": "China",
+      "status": "UPCOMING",
+      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_name": "Sprint vs China",
+      "match_id": 139369,
+      "startTime": "14 March 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
