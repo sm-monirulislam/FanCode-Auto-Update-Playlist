@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "07:46:31 PM 13-03-2026",
+  "last update time": "07:55:39 PM 13-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -90,34 +90,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Deportivo Alaves vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131103_5427_ALA_VIL_FC-Web.png",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Deportivo Alaves vs Villarreal CF",
-      "match_id": 131103,
-      "startTime": "14 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Wrexham A.F.C. vs Swansea City A.F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg",
-      "team_1": "Wrexham A.F.C.",
-      "team_2": "Swansea City A.F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
-      "match_id": 140951,
-      "startTime": "14 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "South Australian Scorpions vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
@@ -142,6 +114,34 @@
       "match_name": "Queensland Fire vs Victoria Women",
       "match_id": 133989,
       "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Deportivo Alaves vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131103_5427_ALA_VIL_FC-Web.png",
+      "team_1": "Deportivo Alaves",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Deportivo Alaves vs Villarreal CF",
+      "match_id": 131103,
+      "startTime": "14 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Wrexham A.F.C. vs Swansea City A.F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg",
+      "team_1": "Wrexham A.F.C.",
+      "team_2": "Swansea City A.F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
+      "match_id": 140951,
+      "startTime": "14 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -259,6 +259,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Delhi Champions vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Delhi Champions",
+      "team_2": "Rajasthan Emperors",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Delhi Champions vs Rajasthan Emperors",
+      "match_id": 141198,
+      "startTime": "14 March 2026 03:10 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "team_1": "Tasmania",
@@ -296,20 +310,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Delhi Champions vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Delhi Champions",
-      "team_2": "Rajasthan Emperors",
-      "status": "UPCOMING",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Delhi Champions vs Rajasthan Emperors",
-      "match_id": 141198,
-      "startTime": "14 March 2026 03:10 PM",
       "dai_url": "",
       "adfree_url": ""
     },
