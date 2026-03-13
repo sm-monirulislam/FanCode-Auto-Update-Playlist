@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "09:36:02 PM 13-03-2026",
+  "last update time": "10:31:38 PM 13-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141407,
       "startTime": "13 March 2026 01:45 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773489488~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-akqOorAybd2EiRLyuPnKjbtMs51pLYHwuKUxI1amH93U4oztbZtrSwRrhuSCmd3heok0ydyuywINy2kq23x9QD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773504306~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-YZnZFKuHpVT5P26zKFssn2lzdCtta1dLcwzTa0xgYt7BkW9vDmTnVM3eSAtRo1iIri3ibNOILP_tszOHbL8NgG"
     },
     {
       "event_category": "Cricket",
@@ -59,7 +59,7 @@
       "match_id": 141142,
       "startTime": "13 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773489490~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-acIJ4NBnO9qcqNENMDM_l-3Wb0HbZKBXnQ3-DN4J1VhoRxOwLN0Iu3j4679HL53z7wrnfs1so4Po6mz4D8znMB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773504309~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-YBi00KhQUMOXGjU_gXpTsosJ1x9DVOA3Ydy-Etr0oZbYVhDeaEAZDkQ4mlNXGVulg26ul6ssj_p8SMnpnMFJwL"
     },
     {
       "event_category": "Golf",
@@ -73,7 +73,21 @@
       "match_id": 141141,
       "startTime": "13 March 2026 06:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141141_english_hls_98f3195a7311900_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773490747~_GO=Generated~acl=/mumbai/141141_english_hls_98f3195a7311900_1ta-di_h264/*~Signature=AR77L-Z9vc86jPoJZVfF_2q0b-vXlewvjRlA_uiMC288hrB5fIXc923V45Qo3ZZuPdbYACnjR_YllmK5xGqoyJas-ZgD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141141_english_hls_98f3195a7311900_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773505568~_GO=Generated~acl=/mumbai/141141_english_hls_98f3195a7311900_1ta-di_h264/*~Signature=AR77L-Y2_wIrEqXTqml1KRH8T455hMuc7JJlpsMFMZVhGZ-rgHvEWGub53GkM0pMxD4cKQSLMc9sGN6RnrMlBp49FhEL"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "India Tigers",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs India Tigers",
+      "match_id": 141308,
+      "startTime": "14 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -189,20 +203,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "India Tigers",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs India Tigers",
-      "match_id": 141308,
-      "startTime": "14 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Gujarat Tigers vs Mumbai Maverics (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
       "team_1": "Gujarat Tigers",
@@ -272,6 +272,48 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Kerala Blasters FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "East Bengal FC vs Kerala Blasters FC",
+      "match_id": 140461,
+      "startTime": "14 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141175_5973_EBFC_KBFC_fc-web.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Kerala Blasters FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "East Bengal FC vs Kerala Blasters FC",
+      "match_id": 141176,
+      "startTime": "14 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141176_5973_EBFC_KBFC_fc-web.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Kerala Blasters FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "East Bengal FC vs Kerala Blasters FC",
+      "match_id": 141175,
+      "startTime": "14 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
@@ -329,48 +371,6 @@
     },
     {
       "event_category": "Football",
-      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "East Bengal FC vs Kerala Blasters FC",
-      "match_id": 140461,
-      "startTime": "14 March 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141175_5973_EBFC_KBFC_fc-web.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "East Bengal FC vs Kerala Blasters FC",
-      "match_id": 141176,
-      "startTime": "14 March 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141176_5973_EBFC_KBFC_fc-web.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "East Bengal FC vs Kerala Blasters FC",
-      "match_id": 141175,
-      "startTime": "14 March 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Central Coast Mariners vs Adelaide United (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
       "team_1": "Central Coast Mariners",
@@ -380,6 +380,20 @@
       "match_name": "Central Coast Mariners vs Adelaide United",
       "match_id": 140913,
       "startTime": "14 March 2026 09:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Southampton F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Southampton F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Southampton F.C.",
+      "match_id": 140952,
+      "startTime": "14 March 2026 06:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -413,20 +427,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Coventry City Football Club vs Southampton F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Southampton F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Southampton F.C.",
-      "match_id": 140952,
-      "startTime": "14 March 2026 06:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Girona FC vs Athletic Club (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131109_5427_GIR_ATH_FC-Web.png",
       "team_1": "Girona FC",
@@ -440,16 +440,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-      "team_1": "Korea Republic Women",
-      "team_2": "Uzbekistan Women",
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "World Feed - Day 2",
+      "team_2": "Ponte Vedra Beach, Florida",
       "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs Uzbekistan Women",
-      "match_id": 140814,
-      "startTime": "14 March 2026 02:30 PM",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "World Feed - Day 2 vs Ponte Vedra Beach, Florida",
+      "match_id": 141139,
+      "startTime": "13 March 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +478,20 @@
       "match_name": "Bengaluru FC vs Mohun Bagan Super Giant",
       "match_id": 141177,
       "startTime": "14 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
+      "team_1": "Korea Republic Women",
+      "team_2": "Uzbekistan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Korea Republic Women vs Uzbekistan Women",
+      "match_id": 140814,
+      "startTime": "14 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -520,20 +534,6 @@
       "match_name": "Atletico de Madrid vs Getafe CF",
       "match_id": 131105,
       "startTime": "14 March 2026 08:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Oviedo vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131108_5427_RO_VAL_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Valencia CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Oviedo vs Valencia CF",
-      "match_id": 131108,
-      "startTime": "14 March 2026 11:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
