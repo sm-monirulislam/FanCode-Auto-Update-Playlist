@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:18:01 PM 14-03-2026",
+  "last update time": "05:44:19 PM 14-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141268,
       "startTime": "14 March 2026 01:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773559148~_GO=Generated~acl=/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/*~Signature=AR77L-Y8eetO0HTEfTOkegzlFXPJ4yl7wzbxXyaYC1ImxHNkiD2hrM1XR3NCOuHMxKbIKyMSnI5pqfjRe6opAxVeKJoH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773573966~_GO=Generated~acl=/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/*~Signature=AR77L-aOTGW1wsj392p7XWSUHq4nx1E3TUyZ9JwaXZSI1OojStUbs4wDLVl_3epmEWNxfPNKzNGfA6iyXh04uJa545YF"
     },
     {
       "event_category": "Cricket",
@@ -53,7 +53,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg",
       "team_1": "East Bengal FC",
       "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ISL 2025-26",
       "match_name": "East Bengal FC vs Kerala Blasters FC",
       "match_id": 140461,
@@ -67,7 +67,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141175_5973_EBFC_KBFC_fc-web.jpg",
       "team_1": "East Bengal FC",
       "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "East Bengal FC vs Kerala Blasters FC",
       "match_id": 141176,
@@ -81,7 +81,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141176_5973_EBFC_KBFC_fc-web.jpg",
       "team_1": "East Bengal FC",
       "team_2": "Kerala Blasters FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "East Bengal FC vs Kerala Blasters FC",
       "match_id": 141175,
@@ -90,23 +90,9 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141175_malayalam_hls_c72faa282927779_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773573135~_GO=Generated~acl=/mumbai/141175_malayalam_hls_c72faa282927779_1ta-di_h264/*~Signature=AR77L-ao6UJZl3-hItt6olcS0FaX77x8v2XOxnLAa5dH1Vv5cvaD-i884yPBUv6lFjkIMO3p4nZ08OWYclXb_Kx1L04N"
     },
     {
-      "event_category": "Football",
-      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-      "team_1": "Korea Republic Women",
-      "team_2": "Uzbekistan Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs Uzbekistan Women",
-      "match_id": 140814,
-      "startTime": "14 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140814_english_hls_4ca2d1cded22292_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773564247~_GO=Generated~acl=/mumbai/140814_english_hls_4ca2d1cded22292_1ta-di_h264/*~Signature=AR77L-ZDgi4dYWfuy-c87K6ERtcemFvmY_XInsOfuIh8C2I1wCkZZa8BaoKVaydyikFodMSe-6-js8mjXPbsbgB8HDQH"
-    },
-    {
       "event_category": "Cricket",
       "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web_1773487500003.jpg",
       "team_1": "Mumbai Spartans",
       "team_2": "India Tigers",
       "status": "UPCOMING",
@@ -128,6 +114,20 @@
       "match_name": "New Zealand Women vs South Africa Women",
       "match_id": 141066,
       "startTime": "15 March 2026 07:15 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Southampton F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Southampton F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Southampton F.C.",
+      "match_id": 140952,
+      "startTime": "14 March 2026 06:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -174,16 +174,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Southampton F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Southampton F.C.",
+      "event_category": "Cricket",
+      "title": "Cayman Islands vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg",
+      "team_1": "Cayman Islands",
+      "team_2": "Suriname",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Southampton F.C.",
-      "match_id": 140952,
-      "startTime": "14 March 2026 06:00 PM",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Cayman Islands vs Suriname",
+      "match_id": 140714,
+      "startTime": "15 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -198,20 +198,6 @@
       "match_name": "Girona FC vs Athletic Club",
       "match_id": 131109,
       "startTime": "14 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Cayman Islands vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg",
-      "team_1": "Cayman Islands",
-      "team_2": "Suriname",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Cayman Islands vs Suriname",
-      "match_id": 140714,
-      "startTime": "15 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -496,6 +482,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "UPCOMING",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "Main Feed - Day 3 vs Ponte Vedra Beach, Florida",
+      "match_id": 141144,
+      "startTime": "14 March 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Mumbai Maverics vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -510,6 +510,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Konark Suryas Odisha vs Royal Riders Punjab (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
+      "team_1": "Konark Suryas Odisha",
+      "team_2": "Royal Riders Punjab",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Konark Suryas Odisha vs Royal Riders Punjab",
+      "match_id": 141309,
+      "startTime": "15 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
       "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
@@ -520,20 +534,6 @@
       "match_name": "Japan Women vs Philippines Women",
       "match_id": 140815,
       "startTime": "15 March 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Konark Suryas Odisha vs Royal Riders Punjab (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web.jpg",
-      "team_1": "Konark Suryas Odisha",
-      "team_2": "Royal Riders Punjab",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Konark Suryas Odisha vs Royal Riders Punjab",
-      "match_id": 141309,
-      "startTime": "15 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
