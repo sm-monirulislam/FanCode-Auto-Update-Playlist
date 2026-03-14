@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "08:52:21 PM 14-03-2026",
+  "last update time": "09:21:00 PM 14-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -32,20 +32,6 @@
       "startTime": "14 March 2026 08:00 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140713_english_hls_f13930d8c23633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773584353~_GO=Generated~acl=/mumbai/140713_english_hls_f13930d8c23633_1ta-di_h264/*~Signature=AR77L-bW3A49Syd0WIsbChauKWHPBKwAaWxlHqCsbYWLfsDmdf2mZ6blzV4AEJTi0ob5EMLiQnncG5JvOXh4RlpRTBwE"
-    },
-    {
-      "event_category": "Football",
-      "title": "Girona FC vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131109_5427_GIR_ATH_FC-Web.png",
-      "team_1": "Girona FC",
-      "team_2": "Athletic Club",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona FC vs Athletic Club",
-      "match_id": 131109,
-      "startTime": "14 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131109_english_hls_ea1716cd6e71536_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773578233~_GO=Generated~acl=/mumbai/131109_english_hls_ea1716cd6e71536_1ta-di_h264/*~Signature=AR77L-bf85ZZPUSycBwt5CdLItQM5ZR_6bb9T3Gyule8WJ98sZS-UI6zdk4xLVkDL0o94KxeUK41mKswcTwmyZeah7kL"
     },
     {
       "event_category": "Football",
@@ -81,7 +67,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140953_5489_LEI_QPR_fc-web.jpg",
       "team_1": "Leicester City F.C.",
       "team_2": "Queens Park Rangers F.C.",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Leicester City F.C. vs Queens Park Rangers F.C.",
       "match_id": 140953,
@@ -130,20 +116,6 @@
       "startTime": "14 March 2026 06:15 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141146_english_hls_fe42beb32191570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773578235~_GO=Generated~acl=/mumbai/141146_english_hls_fe42beb32191570_1ta-di_h264/*~Signature=AR77L-ZNyshmkLYRif7SIoe34Bb3-RRoMhJ7kNvUTUYXySoth5lPHdc3pVdXogerIcDO7s0agh1sLt4RPGeXIT_cSbcB"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Europe - Day 1 vs Le Castellet, France (Ferrari Challenge Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-      "team_1": "Europe - Day 1",
-      "team_2": "Le Castellet, France",
-      "status": "LIVE",
-      "event_name": "Ferrari Challenge Series 2026",
-      "match_name": "Europe - Day 1 vs Le Castellet, France",
-      "match_id": 141353,
-      "startTime": "14 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141353_english_hls_0c4f4314db70100_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773578650~_GO=Generated~acl=/mumbai/141353_english_hls_0c4f4314db70100_1ta-di_h264/*~Signature=AR77L-YC9zNlCDqvQ0tGsU6yJx1vOxT51SSdsq1JX_HMuT6fuDWRNgCIJ5pz-_3G5OIJMYmNshcjMGhh8bSGbFhJjikB"
     },
     {
       "event_category": "Golf",
@@ -315,6 +287,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Konark Suryas Odisha vs Royal Riders Punjab (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
+      "team_1": "Konark Suryas Odisha",
+      "team_2": "Royal Riders Punjab",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Konark Suryas Odisha vs Royal Riders Punjab",
+      "match_id": 141309,
+      "startTime": "15 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Hong Kong Cricket Club vs Pakistan Association Cricket Club (Premier League T20 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
       "team_1": "Hong Kong Cricket Club",
@@ -357,20 +343,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Konark Suryas Odisha vs Royal Riders Punjab (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
-      "team_1": "Konark Suryas Odisha",
-      "team_2": "Royal Riders Punjab",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Konark Suryas Odisha vs Royal Riders Punjab",
-      "match_id": 141309,
-      "startTime": "15 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Bengal Royals vs Delhi Champions (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
       "team_1": "Bengal Royals",
@@ -380,6 +352,20 @@
       "match_name": "Bengal Royals vs Delhi Champions",
       "match_id": 141200,
       "startTime": "15 March 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Betwa Blasters vs Ganga Warriors (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg",
+      "team_1": "Betwa Blasters",
+      "team_2": "Ganga Warriors",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Betwa Blasters vs Ganga Warriors",
+      "match_id": 141363,
+      "startTime": "15 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -427,20 +413,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Betwa Blasters vs Ganga Warriors (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg",
-      "team_1": "Betwa Blasters",
-      "team_2": "Ganga Warriors",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Betwa Blasters vs Ganga Warriors",
-      "match_id": 141363,
-      "startTime": "15 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Mumbai Maverics vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
       "team_1": "Mumbai Maverics",
@@ -469,20 +441,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
-      "team_1": "Japan Women",
-      "team_2": "Philippines Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Japan Women vs Philippines Women",
-      "match_id": 140815,
-      "startTime": "15 March 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "NorthEast United FC vs Jamshedpur FC (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg",
       "team_1": "NorthEast United FC",
@@ -492,6 +450,20 @@
       "match_name": "NorthEast United FC vs Jamshedpur FC",
       "match_id": 140463,
       "startTime": "15 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
+      "team_1": "Japan Women",
+      "team_2": "Philippines Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Japan Women vs Philippines Women",
+      "match_id": 140815,
+      "startTime": "15 March 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +506,34 @@
       "match_name": "Aston Villa Women vs Manchester City Women",
       "match_id": 141154,
       "startTime": "15 March 2026 05:25 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Liverpool Women vs Leicester City Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141153_5826_LIV-W_LEI-W_FC-Web.jpg",
+      "team_1": "Liverpool Women",
+      "team_2": "Leicester City Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Liverpool Women vs Leicester City Women",
+      "match_id": 141153,
+      "startTime": "15 March 2026 05:25 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
+      "team_1": "Melbourne Victory",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Macarthur",
+      "match_id": 140915,
+      "startTime": "15 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
