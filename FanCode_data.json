@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "01:46:46 AM 15-03-2026",
+  "match_amount": 38,
+  "last update time": "02:19:42 AM 15-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -53,27 +53,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131100_5427_RM_ELC_FC-Web.png",
       "team_1": "Real Madrid",
       "team_2": "Elche CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Elche CF",
       "match_id": 131100,
       "startTime": "15 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131100_english_hls_4c88e77cd622395_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773603008~_GO=Generated~acl=/mumbai/131100_english_hls_4c88e77cd622395_1ta-di_h264/*~Signature=AR77L-beWOqXGe0bD11eZlj-14gGpaDz7t4_U09gkE2EywHRfIF5bMH1xGOcPrERomBOFDVVEOPrDNUXTprSGnfAc_AJ"
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Zaragoza vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102733/141220_CASACARDS_APP.png",
-      "team_1": "Real Zaragoza",
-      "team_2": "Almer\u00eda",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs Almer\u00eda",
-      "match_id": 141220,
-      "startTime": "14 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141220_english_hls_8165071ae751937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773595583~_GO=Generated~acl=/mumbai/141220_english_hls_8165071ae751937_1ta-di_h264/*~Signature=AR77L-YNTeXcOeoWrISCyR4wDi7dWGGWdzWen4qZ6cndo9gJQOItiGl-hHryRnBo0f2i_tNGzRlafg4o6WaxGqaTSbYA"
     },
     {
       "event_category": "Golf",
@@ -87,7 +73,7 @@
       "match_id": 141144,
       "startTime": "14 March 2026 05:45 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773590297~_GO=Generated~acl=/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/*~Signature=AR77L-ZVIZifNb2JBm0X2pVgRPZ-PPwnsF7BgWRkwJu6Klv5D77cdWH6NR9yogIfaMgNvT4azp9iM4Y6lb8RR97DHngL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773605107~_GO=Generated~acl=/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/*~Signature=AR77L-aF0w8srWcks4f1rzR-F1vFvwTo68v81P9K-5p38hBflBtdofILTNTwSDIQpbaPNfMq_k7ntLT4UoJ59YVg268C"
     },
     {
       "event_category": "Golf",
@@ -130,6 +116,20 @@
       "startTime": "14 March 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141143_english_hls_2542ab814e62832_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773597918~_GO=Generated~acl=/mumbai/141143_english_hls_2542ab814e62832_1ta-di_h264/*~Signature=AR77L-a26QT4Qod1FAr5rftmPhLdg8yik6-7ctt3Yr8DaMiB9QBM-BTikveLgvYmM6sRtOnN3f3k6FampTcrzcFKIN0C"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Men's Singles: Semi-Final vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "Men's Singles: Semi-Final",
+      "team_2": "Indian, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "Men's Singles: Semi-Final vs Indian, United States",
+      "match_id": 141032,
+      "startTime": "15 March 2026 02:00 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141032_english_hls_b321001aef18522_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773605947~_GO=Generated~acl=/mumbai/141032_english_hls_b321001aef18522_1ta-di_h264/*~Signature=AR77L-avSeF3OZNZ7lJTDML1iTqhl7XAJ8ihk8TXicHbu_mqWuWd7mw3UejOuV200FRqyJz4ikTvzdxakT_TzLn0_RcO"
     },
     {
       "event_category": "Cricket",
@@ -328,48 +328,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
-      "team_1": "Tasmania",
-      "team_2": "Queensland",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Queensland",
-      "match_id": 134043,
-      "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Victoria",
-      "match_id": 134042,
-      "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
-      "team_1": "New South Wales",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Western Australia",
-      "match_id": 134041,
-      "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "London City Lionesses vs Arsenal Women (Women's Super League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141152_5826_LCL_ARS-W_FC-Web.jpg",
@@ -426,6 +384,48 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+      "team_1": "Tasmania",
+      "team_2": "Queensland",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Queensland",
+      "match_id": 134043,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "match_id": 134042,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
+      "team_1": "New South Wales",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Western Australia",
+      "match_id": 134041,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "RCD Mallorca vs RCD Espanyol (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png",
@@ -469,20 +469,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
-      "team_1": "Japan Women",
-      "team_2": "Philippines Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Japan Women vs Philippines Women",
-      "match_id": 140815,
-      "startTime": "15 March 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "FC Barcelona vs Sevilla FC (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
       "team_1": "FC Barcelona",
@@ -492,6 +478,20 @@
       "match_name": "FC Barcelona vs Sevilla FC",
       "match_id": 131106,
       "startTime": "15 March 2026 08:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
+      "team_1": "Japan Women",
+      "team_2": "Philippines Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Japan Women vs Philippines Women",
+      "match_id": 140815,
+      "startTime": "15 March 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -510,16 +510,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Men's Singles: Semi-Final vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "Men's Singles: Semi-Final",
-      "team_2": "Indian, United States",
+      "event_category": "Football",
+      "title": "Real Betis vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
+      "team_1": "Real Betis",
+      "team_2": "RC Celta",
       "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "Men's Singles: Semi-Final vs Indian, United States",
-      "match_id": 141032,
-      "startTime": "15 March 2026 02:00 AM",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs RC Celta",
+      "match_id": 131107,
+      "startTime": "15 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chelsea F.C. Women vs Manchester United Women (Subway Women's League Cup 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773462131183/141424_CASACARDS_APP.png",
+      "team_1": "Chelsea F.C. Women",
+      "team_2": "Manchester United Women",
+      "status": "UPCOMING",
+      "event_name": "Subway Women's League Cup 2025-26",
+      "match_name": "Chelsea F.C. Women vs Manchester United Women",
+      "match_id": 141424,
+      "startTime": "15 March 2026 07:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
