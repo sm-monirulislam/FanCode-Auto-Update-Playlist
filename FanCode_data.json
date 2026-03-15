@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 33,
-  "last update time": "11:51:58 PM 15-03-2026",
+  "match_amount": 34,
+  "last update time": "12:29:06 AM 16-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -464,6 +464,20 @@
       "match_name": "China PR Women vs Australia Women",
       "match_id": 140816,
       "startTime": "17 March 2026 03:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Royal Riders Punjab vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
+      "team_1": "Royal Riders Punjab",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Royal Riders Punjab vs Southern Super Stars",
+      "match_id": 141311,
+      "startTime": "17 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
