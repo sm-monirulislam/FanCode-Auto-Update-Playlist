@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "08:54:04 PM 15-03-2026",
+  "match_amount": 34,
+  "last update time": "09:21:53 PM 15-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -46,20 +46,6 @@
       "startTime": "15 March 2026 08:00 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN"
-    },
-    {
-      "event_category": "Football",
-      "title": "RCD Mallorca vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png",
-      "team_1": "RCD Mallorca",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Mallorca vs RCD Espanyol",
-      "match_id": 131101,
-      "startTime": "15 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131101_english_hls_5ec1aac60a82106_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773664207~_GO=Generated~acl=/mumbai/131101_english_hls_5ec1aac60a82106_1ta-di_h264/*~Signature=AR77L-Y7Ldb6gYltmi5MxgEtj03Oi7eg-dQHbDD9DpqZGZtY_BlKoyu-lCC_B0sbc-_TM7rn3vW6CQxoDCH-t9ASyXQN"
     },
     {
       "event_category": "Football",
@@ -115,7 +101,7 @@
       "match_id": 141148,
       "startTime": "15 March 2026 05:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141148_english_hls_9940de1f0d70792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773659670~_GO=Generated~acl=/mumbai/141148_english_hls_9940de1f0d70792_1ta-di_h264/*~Signature=AR77L-bwYkDFZgMzl5co29mUC76uKIU7FITUmtUAmJUOvmsMvr1OiME9FlnnMvfvRSQ5VGzlpyvNBZNlkUoG3OEdNXQP"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141148_english_hls_9940de1f0d70792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773674353~_GO=Generated~acl=/mumbai/141148_english_hls_9940de1f0d70792_1ta-di_h264/*~Signature=AR77L-ZmLuW3Ve0g5vgWurjGNMvVXtSoSuxGoMIehL4fqiCUh9sEGRfGM9ycfL0OC3ifRCJcvdBeP_OO1enFGCENKFEG"
     },
     {
       "event_category": "Golf",
@@ -273,6 +259,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Ganga Warriors vs Gomti Thunder (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
+      "team_1": "Ganga Warriors",
+      "team_2": "Gomti Thunder",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Ganga Warriors vs Gomti Thunder",
+      "match_id": 141365,
+      "startTime": "16 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "team_1": "Tasmania",
@@ -310,20 +310,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Ganga Warriors vs Gomti Thunder (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
-      "team_1": "Ganga Warriors",
-      "team_2": "Gomti Thunder",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Ganga Warriors vs Gomti Thunder",
-      "match_id": 141365,
-      "startTime": "16 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
