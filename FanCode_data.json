@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "02:28:31 PM 15-03-2026",
+  "last update time": "03:02:12 PM 15-03-2026",
   "matches": [
-    {
-      "event_category": "Formula 1",
-      "title": "Race vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-      "team_1": "Race",
-      "team_2": "China",
-      "status": "LIVE",
-      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
-      "match_name": "Race vs China",
-      "match_id": 139379,
-      "startTime": "15 March 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G"
-    },
     {
       "event_category": "Cricket",
       "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
@@ -109,13 +95,27 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg",
       "team_1": "Betwa Blasters",
       "team_2": "Ganga Warriors",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Ayodhya Premier League",
       "match_name": "Betwa Blasters vs Ganga Warriors",
       "match_id": 141363,
       "startTime": "15 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647052~_GO=Generated~acl=/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/*~Signature=AR77L-Zyvl3gbuvAMSQ-6i7V86brKUdkmv0oUZsAc9VqS5TK4e9wSwyw3-8jhp9On_HsvXu7_MGpdIEzVaAOVoAm9bEH"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+      "team_1": "Tasmania",
+      "team_2": "Queensland",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Queensland",
+      "match_id": 134043,
+      "startTime": "14 March 2026 05:00 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773646164~_GO=Generated~acl=/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/*~Signature=AR77L-aqM_D2sXxuqW2R4pt-36a9VfQRw4GkOMW42CscX3f2O73Jo7rEV5H5JG1PXPiWIia6KWdQAMbozWo74MskLk8H"
     },
     {
       "event_category": "Football",
@@ -132,18 +132,18 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE"
     },
     {
-      "event_category": "Cricket",
-      "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
-      "team_1": "Tasmania",
-      "team_2": "Queensland",
+      "event_category": "Formula 1",
+      "title": "Race vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "team_1": "Race",
+      "team_2": "China",
       "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Queensland",
-      "match_id": 134043,
-      "startTime": "14 March 2026 05:00 AM",
+      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_name": "Race vs China",
+      "match_id": 139379,
+      "startTime": "15 March 2026 12:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773646164~_GO=Generated~acl=/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/*~Signature=AR77L-aqM_D2sXxuqW2R4pt-36a9VfQRw4GkOMW42CscX3f2O73Jo7rEV5H5JG1PXPiWIia6KWdQAMbozWo74MskLk8H"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G"
     },
     {
       "event_category": "Motorsports",
@@ -371,6 +371,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Malaysia, 2026",
+      "match_name": "Malaysia vs Bahrain",
+      "match_id": 141304,
+      "startTime": "16 March 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
       "team_1": "South Australia",
@@ -394,20 +408,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "match_id": 141304,
-      "startTime": "16 March 2026 07:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
