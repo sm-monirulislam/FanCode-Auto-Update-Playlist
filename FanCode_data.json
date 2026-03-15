@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "02:20:37 AM 16-03-2026",
+  "last update time": "02:51:46 AM 16-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -87,7 +87,7 @@
       "match_id": 141149,
       "startTime": "15 March 2026 06:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773678370~_GO=Generated~acl=/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/*~Signature=AR77L-bGnZPbJy93owiR28bUoZj7dlHH9IUaoPniStevV1zaArHulWyTJIoKgH5h8ZASI35ZA5nSIyTofwN7yDZS38kG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773693005~_GO=Generated~acl=/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/*~Signature=AR77L-Ytm8ejU5ZfNKD-CupShK5HXtkL9DpqgUUlBAPpbcxZew5wWE86t7IA4FDoEWDjWX03QrLI6NQIwMP9_Oh4_JEI"
     },
     {
       "event_category": "Golf",
@@ -101,7 +101,21 @@
       "match_id": 141147,
       "startTime": "15 March 2026 10:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773694268~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-brxDTKtW7l5Zmq-ds0PyAcMXvhi-Rtxhk261OlOx2OjgnLLUD5KduPfY9pY-94J1QSaz8Ox4jjOY7WTH8RQBwL"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Men's Singles - Finals vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg",
+      "team_1": "Men's Singles - Finals",
+      "team_2": "Indian, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "Men's Singles - Finals vs Indian, United States",
+      "match_id": 141033,
+      "startTime": "16 March 2026 02:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141033_english_hls_4946d14fc960773_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773694271~_GO=Generated~acl=/mumbai/141033_english_hls_4946d14fc960773_1ta-di_h264/*~Signature=AR77L-aHGhk2u54NUKnUD2VFLjyb8vrBaRGvjF4toby4B6jCbJampcvGUT-RoXg6rijzacp1AXhITFFhDbJea5ft9G0B"
     },
     {
       "event_category": "Cricket",
@@ -254,20 +268,6 @@
       "match_name": "Punjab FC vs FC Goa",
       "match_id": 140465,
       "startTime": "16 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Men's Singles - Finals vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg",
-      "team_1": "Men's Singles - Finals",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "Men's Singles - Finals vs Indian, United States",
-      "match_id": 141033,
-      "startTime": "16 March 2026 02:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
