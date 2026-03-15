@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "10:55:02 PM 15-03-2026",
+  "match_amount": 33,
+  "last update time": "11:21:44 PM 15-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Pakistan",
-      "status": "LIVE",
-      "event_name": "Pakistan tour of Bangladesh, 2026",
-      "match_name": "Bangladesh vs Pakistan",
-      "match_id": 141408,
-      "startTime": "15 March 2026 01:45 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773676267~_GO=Generated~acl=/mumbai/141408_english_hls_916665824985616_1ta-di_h264/*~Signature=AR77L-bFkFmKIJHc0gyFXSbURIy_qAqNYwHqss8_jPCOFurxiW5ncXoShCvonlT8zz-PNg99G48PxLsRafDiMjqG7dEG"
-    },
     {
       "event_category": "Cricket",
       "title": "Royal Riders Punjab vs Konark Suryas Odisha (Legends League Cricket, 2026)",
@@ -49,17 +35,17 @@
     },
     {
       "event_category": "Football",
-      "title": "FC Barcelona vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "team_1": "FC Barcelona",
-      "team_2": "Sevilla FC",
-      "status": "LIVE",
+      "title": "Real Betis vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
+      "team_1": "Real Betis",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Sevilla FC",
-      "match_id": 131106,
-      "startTime": "15 March 2026 08:45 PM",
+      "match_name": "Real Betis vs RC Celta",
+      "match_id": 131107,
+      "startTime": "15 March 2026 11:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672246~_GO=Generated~acl=/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/*~Signature=AR77L-blYLKvhnQJiCRGvmVsToAMEqKkQ8XMH5xnkllFt6HViAHfTGE2EdHwbHQ1eK8QqlDaXDz_kCQMCCWwg2g_L4gP"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB"
     },
     {
       "event_category": "Golf",
@@ -118,20 +104,6 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI"
     },
     {
-      "event_category": "Football",
-      "title": "Real Betis vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
-      "team_1": "Real Betis",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs RC Celta",
-      "match_id": 131107,
-      "startTime": "15 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "India Captains vs Southern Super Stars (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141310_6002_ICN_SSS_FC-Web_1773487499999.jpg",
@@ -160,20 +132,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Real Sociedad vs CA Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png",
-      "team_1": "Real Sociedad",
-      "team_2": "CA Osasuna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs CA Osasuna",
-      "match_id": 131104,
-      "startTime": "16 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
@@ -184,6 +142,20 @@
       "match_name": "Malaysia vs Bahrain",
       "match_id": 141304,
       "startTime": "16 March 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Sociedad vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "CA Osasuna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs CA Osasuna",
+      "match_id": 131104,
+      "startTime": "16 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -245,6 +217,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Punjab Lions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Punjab Lions",
+      "team_2": "Tamil Nadu Titans",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Punjab Lions vs Tamil Nadu Titans",
+      "match_id": 141204,
+      "startTime": "16 March 2026 03:10 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "team_1": "Tasmania",
@@ -282,20 +268,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Punjab Lions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Punjab Lions",
-      "team_2": "Tamil Nadu Titans",
-      "status": "UPCOMING",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Punjab Lions vs Tamil Nadu Titans",
-      "match_id": 141204,
-      "startTime": "16 March 2026 03:10 PM",
       "dai_url": "",
       "adfree_url": ""
     },
