@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "09:50:08 PM 15-03-2026",
+  "match_amount": 34,
+  "last update time": "10:23:40 PM 15-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141408,
       "startTime": "15 March 2026 01:45 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773661468~_GO=Generated~acl=/mumbai/141408_english_hls_916665824985616_1ta-di_h264/*~Signature=AR77L-bLM0LfkKcHG6xy19wO9jDdyNc_GXWeihZzmaMtwNHeMdDPb14EXxV-sXwSpuukRbAROyzJAm67fTs8CkQZPZEN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773676267~_GO=Generated~acl=/mumbai/141408_english_hls_916665824985616_1ta-di_h264/*~Signature=AR77L-bFkFmKIJHc0gyFXSbURIy_qAqNYwHqss8_jPCOFurxiW5ncXoShCvonlT8zz-PNg99G48PxLsRafDiMjqG7dEG"
     },
     {
       "event_category": "Cricket",
@@ -46,20 +46,6 @@
       "startTime": "15 March 2026 08:00 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN"
-    },
-    {
-      "event_category": "Football",
-      "title": "Inter Kashi FC vs Mumbai City FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg",
-      "team_1": "Inter Kashi FC",
-      "team_2": "Mumbai City FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26",
-      "match_name": "Inter Kashi FC vs Mumbai City FC",
-      "match_id": 140464,
-      "startTime": "15 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140464_english_hls_facb766be656513_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773668647~_GO=Generated~acl=/mumbai/140464_english_hls_facb766be656513_1ta-di_h264/*~Signature=AR77L-YzcGRAscNTyczRVszGjRFzTwiX1V52ex7oYS2gi2UHzoVCs1Nh8yeK1H_QEkPkDYhUIaVRGFTdVpDUqnn0IvEP"
     },
     {
       "event_category": "Football",
@@ -115,7 +101,7 @@
       "match_id": 141150,
       "startTime": "15 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141150_english_hls_1da6e708136467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773661475~_GO=Generated~acl=/mumbai/141150_english_hls_1da6e708136467_1ta-di_h264/*~Signature=AR77L-ZyieyLFEqaO14AcNlVSvagYXSWZQI89UGEz4QlQu54RaMSo_DNFZy-hWRaTQScwLzVhbX15tehI99oaDm1910N"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141150_english_hls_1da6e708136467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773676270~_GO=Generated~acl=/mumbai/141150_english_hls_1da6e708136467_1ta-di_h264/*~Signature=AR77L-aEGtWj4KQsyw8joBkY4OrWOzKNFha6d0pVCI4H60WJsiJAcTzj-LftyRF2DSS-J9tsGlStpuTTDDTJZVOA1icI"
     },
     {
       "event_category": "Golf",
@@ -175,6 +161,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "India Captains vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141310_6002_ICN_SSS_FC-Web_1773487499999.jpg",
+      "team_1": "India Captains",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "India Captains vs Southern Super Stars",
+      "match_id": 141310,
+      "startTime": "16 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
       "team_1": "Malaysia",
@@ -198,20 +198,6 @@
       "match_name": "Yamuna Super Kings vs Chambal Chargers",
       "match_id": 141364,
       "startTime": "16 March 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "India Captains vs Southern Super Stars (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141310_6002_ICN_SSS_FC-Web_1773487499999.jpg",
-      "team_1": "India Captains",
-      "team_2": "Southern Super Stars",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "India Captains vs Southern Super Stars",
-      "match_id": 141310,
-      "startTime": "16 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -328,20 +314,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Punjab FC vs FC Goa (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
-      "team_1": "Punjab FC",
-      "team_2": "FC Goa",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Punjab FC vs FC Goa",
-      "match_id": 140465,
-      "startTime": "16 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "World Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
@@ -352,6 +324,20 @@
       "match_name": "World Feed - Day 4 vs Ponte Vedra Beach, Florida",
       "match_id": 141147,
       "startTime": "15 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Punjab FC vs FC Goa (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
+      "team_1": "Punjab FC",
+      "team_2": "FC Goa",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "Punjab FC vs FC Goa",
+      "match_id": 140465,
+      "startTime": "16 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
