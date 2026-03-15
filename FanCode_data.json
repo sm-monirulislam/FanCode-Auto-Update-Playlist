@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 38,
-  "last update time": "04:22:34 PM 15-03-2026",
+  "match_amount": 37,
+  "last update time": "04:55:25 PM 15-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -45,21 +45,7 @@
       "match_id": 141269,
       "startTime": "15 March 2026 12:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773641948~_GO=Generated~acl=/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/*~Signature=AR77L-a_IHgDZ-bnwgyG9teH5CnxP-h0cHxdw562tUbMeNF8_4GpR4QJKTePXjBkJgD0VN12E7tCOpH7Aj7fUGYreIkK"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Betwa Blasters vs Ganga Warriors (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg",
-      "team_1": "Betwa Blasters",
-      "team_2": "Ganga Warriors",
-      "status": "LIVE",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Betwa Blasters vs Ganga Warriors",
-      "match_id": 141363,
-      "startTime": "15 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647052~_GO=Generated~acl=/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/*~Signature=AR77L-Zyvl3gbuvAMSQ-6i7V86brKUdkmv0oUZsAc9VqS5TK4e9wSwyw3-8jhp9On_HsvXu7_MGpdIEzVaAOVoAm9bEH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773656769~_GO=Generated~acl=/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/*~Signature=AR77L-YDZzYWH4mbSuGpXpXpMoUo_rh-8bigJ84-liyuDyVnI2OzptPesW6z6EC2bptwbernbksq3WRgBFJIrY1GW6YJ"
     },
     {
       "event_category": "Cricket",
@@ -104,20 +90,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Suriname vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
-      "team_1": "Suriname",
-      "team_2": "Mexico",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Suriname vs Mexico",
-      "match_id": 140715,
-      "startTime": "15 March 2026 08:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "NorthEast United FC vs Jamshedpur FC (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg",
@@ -128,6 +100,20 @@
       "match_name": "NorthEast United FC vs Jamshedpur FC",
       "match_id": 140463,
       "startTime": "15 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Suriname vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
+      "team_1": "Suriname",
+      "team_2": "Mexico",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Suriname vs Mexico",
+      "match_id": 140715,
+      "startTime": "15 March 2026 08:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -216,20 +202,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "FC Barcelona vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "team_1": "FC Barcelona",
-      "team_2": "Sevilla FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Sevilla FC",
-      "match_id": 131106,
-      "startTime": "15 March 2026 08:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Argentina vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140716_5971_ARG_CAY_fc-Web.jpg",
@@ -240,6 +212,20 @@
       "match_name": "Argentina vs Cayman Islands",
       "match_id": 140716,
       "startTime": "16 March 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "FC Barcelona vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
+      "team_1": "FC Barcelona",
+      "team_2": "Sevilla FC",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Sevilla FC",
+      "match_id": 131106,
+      "startTime": "15 March 2026 08:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -287,6 +273,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Yamuna Super Kings vs Chambal Chargers (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141364_6007_YSK_CC_FC-Web.jpg",
+      "team_1": "Yamuna Super Kings",
+      "team_2": "Chambal Chargers",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Yamuna Super Kings vs Chambal Chargers",
+      "match_id": 141364,
+      "startTime": "16 March 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "team_1": "Tasmania",
@@ -324,20 +324,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Yamuna Super Kings vs Chambal Chargers (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141364_6007_YSK_CC_FC-Web.jpg",
-      "team_1": "Yamuna Super Kings",
-      "team_2": "Chambal Chargers",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Yamuna Super Kings vs Chambal Chargers",
-      "match_id": 141364,
-      "startTime": "16 March 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -398,6 +384,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "Main Feed - Day 4",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "UPCOMING",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "Main Feed - Day 4 vs Ponte Vedra Beach, Florida",
+      "match_id": 141148,
+      "startTime": "15 March 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Ganga Warriors vs Gomti Thunder (Ayodhya Premier League)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
@@ -436,20 +436,6 @@
       "match_name": "India Captains vs Southern Super Stars",
       "match_id": 141310,
       "startTime": "16 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Main Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "Main Feed - Day 4",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "Main Feed - Day 4 vs Ponte Vedra Beach, Florida",
-      "match_id": 141148,
-      "startTime": "15 March 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
