@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 34,
-  "last update time": "10:23:40 PM 15-03-2026",
+  "match_amount": 35,
+  "last update time": "10:55:02 PM 15-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -62,20 +62,6 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672246~_GO=Generated~acl=/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/*~Signature=AR77L-blYLKvhnQJiCRGvmVsToAMEqKkQ8XMH5xnkllFt6HViAHfTGE2EdHwbHQ1eK8QqlDaXDz_kCQMCCWwg2g_L4gP"
     },
     {
-      "event_category": "Football",
-      "title": "Chelsea F.C. Women vs Manchester United Women (Subway Women's League Cup 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773462131183/141424_CASACARDS_APP.png",
-      "team_1": "Chelsea F.C. Women",
-      "team_2": "Manchester United Women",
-      "status": "LIVE",
-      "event_name": "Subway Women's League Cup 2025-26",
-      "match_name": "Chelsea F.C. Women vs Manchester United Women",
-      "match_id": 141424,
-      "startTime": "15 March 2026 07:45 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141424_english_hls_582f6e46a38427_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773669908~_GO=Generated~acl=/mumbai/141424_english_hls_582f6e46a38427_1ta-di_h264/*~Signature=AR77L-aIZ_RDjsrVzv5hivRF116NKyLihpdH84xTss2He-taTX0irce0IbZNYGcDIOb5x9GXe8hKj-aKIqtGEtzilCwP"
-    },
-    {
       "event_category": "Golf",
       "title": "Main Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
@@ -115,7 +101,49 @@
       "match_id": 141149,
       "startTime": "15 March 2026 06:00 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773663549~_GO=Generated~acl=/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/*~Signature=AR77L-ahcPsfxoCjEW5dJ7ER8y11yBxk7VqHyc-BcsnZTYJF1-AeQwn4YaPbG2pwuOCzrWFPgYLITDAkx0Tnl9QMu6EJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773678370~_GO=Generated~acl=/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/*~Signature=AR77L-bGnZPbJy93owiR28bUoZj7dlHH9IUaoPniStevV1zaArHulWyTJIoKgH5h8ZASI35ZA5nSIyTofwN7yDZS38kG"
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+      "team_1": "World Feed - Day 4",
+      "team_2": "Ponte Vedra Beach, Florida",
+      "status": "LIVE",
+      "event_name": "THE PLAYERS Championship 2026",
+      "match_name": "World Feed - Day 4 vs Ponte Vedra Beach, Florida",
+      "match_id": 141147,
+      "startTime": "15 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI"
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Betis vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
+      "team_1": "Real Betis",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs RC Celta",
+      "match_id": 131107,
+      "startTime": "15 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "India Captains vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141310_6002_ICN_SSS_FC-Web_1773487499999.jpg",
+      "team_1": "India Captains",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "India Captains vs Southern Super Stars",
+      "match_id": 141310,
+      "startTime": "16 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -133,20 +161,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Real Betis vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
-      "team_1": "Real Betis",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs RC Celta",
-      "match_id": 131107,
-      "startTime": "15 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Real Sociedad vs CA Osasuna (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png",
       "team_1": "Real Sociedad",
@@ -156,20 +170,6 @@
       "match_name": "Real Sociedad vs CA Osasuna",
       "match_id": 131104,
       "startTime": "16 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "India Captains vs Southern Super Stars (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141310_6002_ICN_SSS_FC-Web_1773487499999.jpg",
-      "team_1": "India Captains",
-      "team_2": "Southern Super Stars",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "India Captains vs Southern Super Stars",
-      "match_id": 141310,
-      "startTime": "16 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -310,20 +310,6 @@
       "match_name": "Sporting de Gij\u00f3n vs Castell\u00f3n",
       "match_id": 141219,
       "startTime": "16 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "World Feed - Day 4 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-      "team_1": "World Feed - Day 4",
-      "team_2": "Ponte Vedra Beach, Florida",
-      "status": "UPCOMING",
-      "event_name": "THE PLAYERS Championship 2026",
-      "match_name": "World Feed - Day 4 vs Ponte Vedra Beach, Florida",
-      "match_id": 141147,
-      "startTime": "15 March 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +464,34 @@
       "match_name": "Bengal Royals vs Tamil Nadu Titans",
       "match_id": 141206,
       "startTime": "17 March 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Betwa Blasters vs Yamuna Super Kings (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
+      "team_1": "Betwa Blasters",
+      "team_2": "Yamuna Super Kings",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Betwa Blasters vs Yamuna Super Kings",
+      "match_id": 141367,
+      "startTime": "17 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sydney FC vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Melbourne City",
+      "match_id": 140916,
+      "startTime": "17 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
