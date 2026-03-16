@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "03:58:03 PM 16-03-2026",
+  "last update time": "04:53:39 PM 16-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -133,6 +133,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Manorama Marvels vs Hindon Titans (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141366_6007_MM_HT_FC-Web.jpg",
+      "team_1": "Manorama Marvels",
+      "team_2": "Hindon Titans",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Manorama Marvels vs Hindon Titans",
+      "match_id": 141366,
+      "startTime": "17 March 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "team_1": "Tasmania",
@@ -170,20 +184,6 @@
       "match_name": "New South Wales vs Western Australia",
       "match_id": 134041,
       "startTime": "14 March 2026 05:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Manorama Marvels vs Hindon Titans (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141366_6007_MM_HT_FC-Web.jpg",
-      "team_1": "Manorama Marvels",
-      "team_2": "Hindon Titans",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Manorama Marvels vs Hindon Titans",
-      "match_id": 141366,
-      "startTime": "17 March 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
