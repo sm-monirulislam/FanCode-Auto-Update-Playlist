@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "04:53:39 PM 16-03-2026",
+  "last update time": "05:41:22 PM 16-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Gomti Thunder vs Ganga Warriors (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141365_6007_GW_GT_FC-Web.jpg",
-      "team_1": "Gomti Thunder",
-      "team_2": "Ganga Warriors",
-      "status": "LIVE",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Gomti Thunder vs Ganga Warriors",
-      "match_id": 141365,
-      "startTime": "16 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141365_english_hls_bd542257ce16067_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773734067~_GO=Generated~acl=/mumbai/141365_english_hls_bd542257ce16067_1ta-di_h264/*~Signature=AR77L-YyOpJToCEtEh7YZa7cHdml3Zz70SR09wpbGhdxN68uuGVoj89MX_ThACXb98VZd6MRz1hq9PB_Jpxj8D7SMfEB"
-    },
     {
       "event_category": "Cricket",
       "title": "Punjab Lions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
@@ -76,6 +62,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Konark Suryas Odisha",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
+      "match_id": 141312,
+      "startTime": "17 March 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Punjab FC vs FC Goa (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
@@ -114,20 +114,6 @@
       "match_name": "Portsmouth F.C. vs Derby County Football Club",
       "match_id": 140954,
       "startTime": "17 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Konark Suryas Odisha",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-      "match_id": 141312,
-      "startTime": "17 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -202,20 +188,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
-      "team_1": "Albacete",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Las Palmas",
-      "match_id": 141222,
-      "startTime": "17 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Bengal Royals vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -226,6 +198,20 @@
       "match_name": "Bengal Royals vs Tamil Nadu Titans",
       "match_id": 141206,
       "startTime": "17 March 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
+      "team_1": "Albacete",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Las Palmas",
+      "match_id": 141222,
+      "startTime": "17 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -455,13 +441,13 @@
     },
     {
       "event_category": "Cricket",
-      "title": "India Captains vs India Tigers (Legends League Cricket, 2026)",
+      "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
-      "team_1": "India Captains",
+      "team_1": "Konark Suryas Odisha",
       "team_2": "India Tigers",
       "status": "UPCOMING",
       "event_name": "Legends League Cricket, 2026",
-      "match_name": "India Captains vs India Tigers",
+      "match_name": "Konark Suryas Odisha vs India Tigers",
       "match_id": 141313,
       "startTime": "18 March 2026 07:30 PM",
       "dai_url": "",
@@ -477,6 +463,20 @@
       "event_name": "ATP Masters Miami Open 2026",
       "match_name": "ATP Miami Open 2026 vs Miami, United States",
       "match_id": 141035,
+      "startTime": "18 March 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP Miami Open 2026",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "ATP Miami Open 2026 vs Miami, United States",
+      "match_id": 141034,
       "startTime": "18 March 2026 05:30 PM",
       "dai_url": "",
       "adfree_url": ""
