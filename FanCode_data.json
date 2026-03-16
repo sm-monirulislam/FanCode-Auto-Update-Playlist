@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "10:34:21 AM 16-03-2026",
+  "last update time": "12:16:22 PM 16-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141304,
       "startTime": "16 March 2026 07:00 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773710771~_GO=Generated~acl=/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/*~Signature=AR77L-b4n3wxQg38nQFevfQrpyW8NQhyZXUw99y0Hr0WKnuMX2nZ3uUPRWACjATymfjNY1ULpSCVuG_NsouD9BLBjjwF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773725407~_GO=Generated~acl=/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/*~Signature=AR77L-aIq3a6SG7S8bljVlXstyX9qefPnb_wtVN6KgMnwhUtOYzy0WL7u2gP-b2ScAWpanuVxJbh4pbR86kOQhn8KjsI"
     },
     {
       "event_category": "Cricket",
@@ -32,20 +32,6 @@
       "startTime": "16 March 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gujarat Tigers vs Chennai Warlords (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Gujarat Tigers",
-      "team_2": "Chennai Warlords",
-      "status": "LIVE",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Gujarat Tigers vs Chennai Warlords",
-      "match_id": 141202,
-      "startTime": "16 March 2026 10:10 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141202_english_hls_4ef1831e7a53760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773721566~_GO=Generated~acl=/mumbai/141202_english_hls_4ef1831e7a53760_1ta-di_h264/*~Signature=AR77L-ZRrXOvX1D80SyK-L0wiYzuRSesiXhBPqGSnFrpEJzod_iu-oZ4NNPu-QZ3nPoEZS_f-LGQwPb3T_aXYJIR2KoN"
     },
     {
       "event_category": "Cricket",
@@ -202,20 +188,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
-      "team_1": "Albacete",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Las Palmas",
-      "match_id": 141222,
-      "startTime": "17 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
@@ -226,6 +198,20 @@
       "match_name": "New Zealand vs South Africa",
       "match_id": 141062,
       "startTime": "17 March 2026 11:45 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
+      "team_1": "Albacete",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Las Palmas",
+      "match_id": 141222,
+      "startTime": "17 March 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -328,20 +314,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
-      "team_1": "China PR Women",
-      "team_2": "Australia Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "China PR Women vs Australia Women",
-      "match_id": 140816,
-      "startTime": "17 March 2026 03:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Royal Riders Punjab vs Southern Super Stars (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
@@ -352,6 +324,20 @@
       "match_name": "Royal Riders Punjab vs Southern Super Stars",
       "match_id": 141311,
       "startTime": "17 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
+      "team_1": "China PR Women",
+      "team_2": "Australia Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "China PR Women vs Australia Women",
+      "match_id": 140816,
+      "startTime": "17 March 2026 03:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +464,20 @@
       "match_name": "Manorama Marvels vs Gomti Thunder",
       "match_id": 141369,
       "startTime": "18 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Punjab Lions vs Chennai Warlords (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Punjab Lions",
+      "team_2": "Chennai Warlords",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Punjab Lions vs Chennai Warlords",
+      "match_id": 141210,
+      "startTime": "18 March 2026 03:10 PM",
       "dai_url": "",
       "adfree_url": ""
     }
