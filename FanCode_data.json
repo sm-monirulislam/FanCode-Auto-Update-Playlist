@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 35,
-  "last update time": "01:50:43 PM 17-03-2026",
+  "last update time": "02:42:19 PM 17-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -34,9 +34,23 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773817390~_GO=Generated~acl=/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/*~Signature=AR77L-ZIHRxTMhK0QeSaFpooB4PJPj3ERwmh72qxwzEVZ5EsvRhrRQBajlMi3tLvBurl-DPLF-m9gR-Wg0EWATmWsOcJ"
     },
     {
+      "event_category": "Cricket",
+      "title": "Yamuna Super Kings vs Betwa Blasters (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
+      "team_1": "Yamuna Super Kings",
+      "team_2": "Betwa Blasters",
+      "status": "LIVE",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Yamuna Super Kings vs Betwa Blasters",
+      "match_id": 141367,
+      "startTime": "17 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH"
+    },
+    {
       "event_category": "Football",
       "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://images.fancode.com/aig/match/v1773733471726/140916_CASACARDS_APP.png",
       "team_1": "Sydney FC",
       "team_2": "Melbourne City",
       "status": "LIVE",
@@ -62,30 +76,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Betwa Blasters vs Yamuna Super Kings (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-      "team_1": "Betwa Blasters",
-      "team_2": "Yamuna Super Kings",
+      "event_category": "Football",
+      "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
+      "team_1": "China PR Women",
+      "team_2": "Australia Women",
       "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Betwa Blasters vs Yamuna Super Kings",
-      "match_id": 141367,
-      "startTime": "17 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
-      "team_1": "New South Wales",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Western Australia",
-      "match_id": 134041,
-      "startTime": "14 March 2026 05:00 AM",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "China PR Women vs Australia Women",
+      "match_id": 140816,
+      "startTime": "17 March 2026 03:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -104,20 +104,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
-      "team_1": "China PR Women",
-      "team_2": "Australia Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "China PR Women vs Australia Women",
-      "match_id": 140816,
-      "startTime": "17 March 2026 03:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Saryu Smashers vs Chambal Chargers (Ayodhya Premier League)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
@@ -128,20 +114,6 @@
       "match_name": "Saryu Smashers vs Chambal Chargers",
       "match_id": 141368,
       "startTime": "18 March 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Barnsley FC",
-      "team_2": "Wigan Athletic",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Barnsley FC vs Wigan Athletic",
-      "match_id": 140949,
-      "startTime": "18 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -161,6 +133,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Barnsley FC",
+      "team_2": "Wigan Athletic",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Barnsley FC vs Wigan Athletic",
+      "match_id": 140949,
+      "startTime": "18 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
       "team_1": "Alajuelense",
@@ -170,20 +156,6 @@
       "match_name": "Alajuelense vs Los Angeles Football Club",
       "match_id": 141101,
       "startTime": "18 March 2026 06:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
-      "team_1": "Cruz Azul",
-      "team_2": "Monterrey",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Cruz Azul vs Monterrey",
-      "match_id": 141102,
-      "startTime": "18 March 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -198,6 +170,20 @@
       "match_name": "Delhi Champions vs Tamil Nadu Titans",
       "match_id": 141209,
       "startTime": "18 March 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
+      "team_1": "Cruz Azul",
+      "team_2": "Monterrey",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Cruz Azul vs Monterrey",
+      "match_id": 141102,
+      "startTime": "18 March 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -230,20 +216,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Korea Republic Women vs Japan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Korea Republic Women",
-      "team_2": "Japan Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs Japan Women",
-      "match_id": 140817,
-      "startTime": "18 March 2026 02:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
       "src": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
@@ -254,6 +226,20 @@
       "match_name": "Konark Suryas Odisha vs India Tigers",
       "match_id": 141313,
       "startTime": "18 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Korea Republic Women vs Japan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Korea Republic Women",
+      "team_2": "Japan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Korea Republic Women vs Japan Women",
+      "match_id": 140817,
+      "startTime": "18 March 2026 02:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -492,6 +478,20 @@
       "match_name": "Club Am\u00e9rica vs Philadelphia Union",
       "match_id": 141104,
       "startTime": "19 March 2026 06:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
+      "team_1": "Ganga Warriors",
+      "team_2": "Yamuna Super Kings",
+      "status": "UPCOMING",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Ganga Warriors vs Yamuna Super Kings",
+      "match_id": 141370,
+      "startTime": "19 March 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
