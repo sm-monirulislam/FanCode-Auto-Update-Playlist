@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "04:42:45 PM 17-03-2026",
+  "last update time": "05:38:38 PM 17-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -90,20 +90,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Barnsley FC",
-      "team_2": "Wigan Athletic",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Barnsley FC vs Wigan Athletic",
-      "match_id": 140949,
-      "startTime": "18 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -119,15 +105,15 @@
     },
     {
       "event_category": "Football",
-      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
-      "team_1": "Alajuelense",
-      "team_2": "Los Angeles Football Club",
+      "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Barnsley FC",
+      "team_2": "Wigan Athletic",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Alajuelense vs Los Angeles Football Club",
-      "match_id": 141101,
-      "startTime": "18 March 2026 06:30 AM",
+      "event_name": "League One 2025-26",
+      "match_name": "Barnsley FC vs Wigan Athletic",
+      "match_id": 140949,
+      "startTime": "18 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -142,6 +128,20 @@
       "match_name": "Manorama Marvels vs Gomti Thunder",
       "match_id": 141369,
       "startTime": "18 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
+      "team_1": "Alajuelense",
+      "team_2": "Los Angeles Football Club",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Alajuelense vs Los Angeles Football Club",
+      "match_id": 141101,
+      "startTime": "18 March 2026 06:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -202,6 +202,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Namibia",
+      "team_2": "Uganda",
+      "status": "UPCOMING",
+      "event_name": "Uganda tour of Namibia, 2026",
+      "match_name": "Namibia vs Uganda",
+      "match_id": 141446,
+      "startTime": "18 March 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
@@ -226,20 +240,6 @@
       "match_name": "Jupiter vs Boston vs Florida",
       "match_id": 139179,
       "startTime": "18 March 2026 06:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Namibia",
-      "team_2": "Uganda",
-      "status": "UPCOMING",
-      "event_name": "Uganda tour of Namibia, 2026",
-      "match_name": "Namibia vs Uganda",
-      "match_id": 141446,
-      "startTime": "18 March 2026 05:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
