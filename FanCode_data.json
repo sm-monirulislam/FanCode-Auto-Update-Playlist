@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 35,
-  "last update time": "01:37:47 PM 17-03-2026",
+  "last update time": "01:50:43 PM 17-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -34,18 +34,18 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773817390~_GO=Generated~acl=/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/*~Signature=AR77L-ZIHRxTMhK0QeSaFpooB4PJPj3ERwmh72qxwzEVZ5EsvRhrRQBajlMi3tLvBurl-DPLF-m9gR-Wg0EWATmWsOcJ"
     },
     {
-      "event_category": "Cricket",
-      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
-      "team_1": "New South Wales",
-      "team_2": "Western Australia",
+      "event_category": "Football",
+      "title": "Sydney FC vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Melbourne City",
       "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Western Australia",
-      "match_id": 134041,
-      "startTime": "14 March 2026 05:00 AM",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Melbourne City",
+      "match_id": 140916,
+      "startTime": "17 March 2026 01:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/134041_english_hls_327851520331139_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819427~_GO=Generated~acl=/mumbai/134041_english_hls_327851520331139_1ta-di_h264/*~Signature=AR77L-alFf_CNPUCE8IewCPZx1y-t6BOFMu-NN8M7S4JzGh-Kaa0Y0PL1iTF0-x8zBB3Ckpe5wFY-qJrS75I1nng8RQC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819849~_GO=Generated~acl=/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/*~Signature=AR77L-bm0sFgsDR-vNKCB9WfMMUmAN85Mqigj8vQv21wUEHo1J6SxkLvqaXTSrIn0LuxSDmq7ybdyinJZkYJ6M0ktNAP"
     },
     {
       "event_category": "Cricket",
@@ -73,19 +73,19 @@
       "match_id": 141367,
       "startTime": "17 March 2026 01:30 PM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH"
     },
     {
-      "event_category": "Football",
-      "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Melbourne City",
-      "match_id": 140916,
-      "startTime": "17 March 2026 01:30 PM",
+      "event_category": "Cricket",
+      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
+      "team_1": "New South Wales",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Western Australia",
+      "match_id": 134041,
+      "startTime": "14 March 2026 05:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
