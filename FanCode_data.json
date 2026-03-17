@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "05:51:31 AM 17-03-2026",
+  "match_amount": 34,
+  "last update time": "07:23:54 AM 17-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -72,20 +72,6 @@
       "match_name": "New Zealand vs South Africa",
       "match_id": 141062,
       "startTime": "17 March 2026 11:45 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Konark Suryas Odisha",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-      "match_id": 141312,
-      "startTime": "17 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -216,20 +202,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
-      "team_1": "Alajuelense",
-      "team_2": "Los Angeles Football Club",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Alajuelense vs Los Angeles Football Club",
-      "match_id": 141101,
-      "startTime": "18 March 2026 06:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Saryu Smashers vs Chambal Chargers (Ayodhya Premier League)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
@@ -240,6 +212,20 @@
       "match_name": "Saryu Smashers vs Chambal Chargers",
       "match_id": 141368,
       "startTime": "18 March 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
+      "team_1": "Alajuelense",
+      "team_2": "Los Angeles Football Club",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Alajuelense vs Los Angeles Football Club",
+      "match_id": 141101,
+      "startTime": "18 March 2026 06:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -300,20 +286,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Jupiter vs Boston",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Jupiter vs Boston vs Florida",
-      "match_id": 139179,
-      "startTime": "18 March 2026 06:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Manorama Marvels vs Gomti Thunder (Ayodhya Premier League)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg",
@@ -324,6 +296,20 @@
       "match_name": "Manorama Marvels vs Gomti Thunder",
       "match_id": 141369,
       "startTime": "18 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Jupiter vs Boston",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Jupiter vs Boston vs Florida",
+      "match_id": 139179,
+      "startTime": "18 March 2026 06:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -370,34 +356,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "team_1": "ATP Miami Open 2026",
-      "team_2": "Miami, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters Miami Open 2026",
-      "match_name": "ATP Miami Open 2026 vs Miami, United States",
-      "match_id": 141035,
-      "startTime": "18 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "team_1": "ATP Miami Open 2026",
-      "team_2": "Miami, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters Miami Open 2026",
-      "match_name": "ATP Miami Open 2026 vs Miami, United States",
-      "match_id": 141034,
-      "startTime": "18 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Al-Kholood Club vs Al-Ittihad (Saudi Kings Cup 2025-2026)",
       "src": "https://images.fancode.com/aig/match/v1771837064104/140948_CASACARDS_APP.png",
@@ -436,6 +394,34 @@
       "match_name": "Chelsea F.C. Women vs Brighton and Hove Albion Women",
       "match_id": 141155,
       "startTime": "19 March 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP Miami Open 2026",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "ATP Miami Open 2026 vs Miami, United States",
+      "match_id": 141035,
+      "startTime": "18 March 2026 08:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP Miami Open 2026",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "ATP Miami Open 2026 vs Miami, United States",
+      "match_id": 141034,
+      "startTime": "18 March 2026 08:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
