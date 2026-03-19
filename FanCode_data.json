@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "11:30:10 PM 19-03-2026",
+  "match_amount": 36,
+  "last update time": "12:09:45 AM 20-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Royal Riders Punjab (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_MSP_RRP_FC-Web_1773487500782.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Royal Riders Punjab",
-      "status": "LIVE",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Royal Riders Punjab",
-      "match_id": 141314,
-      "startTime": "19 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141314_english_hls_0284bafa6d41839_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774013166~_GO=Generated~acl=/mumbai/141314_english_hls_0284bafa6d41839_1ta-di_h264/*~Signature=AYUBS8qTQ3tIX6pIreTkZzLBtx6CWrkh9QJqLmChUBoPcupOgdMMnZ-Q2WaiGBCMu0ydOxnCJJLAtjyPj8_oy4YF0zIA"
-    },
     {
       "event_category": "Golf",
       "title": "Marquee Feed - Day 1\t vs Palm Harbor, Florida (Valspar Championship 2026)",
@@ -87,7 +73,7 @@
       "match_id": 141459,
       "startTime": "19 March 2026 07:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774014254~_GO=Generated~acl=/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/*~Signature=AYUBS8qGbyRuRjfYKHiPdcfqmV796kxUk_y-EfBsgOwWGc8RrTpCXG-247MIbSjyXoQPJ1x1nK5m-eMbv_p-St-n9s4P"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774029067~_GO=Generated~acl=/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/*~Signature=AYUBS8rI75dtWy3iu1uvbidxWCG3nfAzrFdi4CaXau2SlYg3qzvKjJdSrd1vb4mH-WEhOW8pugiKrBc1d6iBGEVZMnYB"
     },
     {
       "event_category": "Tennis",
@@ -101,7 +87,7 @@
       "match_id": 141457,
       "startTime": "19 March 2026 07:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141457_english_hls_0ee39fbd6048699_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774014257~_GO=Generated~acl=/mumbai/141457_english_hls_0ee39fbd6048699_1ta-di_h264/*~Signature=AYUBS8p0MnCwYLxGiLkI8S1MbK1g5aRmGVqHaosZabl9p9MEC0DcwumawNoYCyn0K0OP0ICo6b4uPdkWZ2y8fiOiLe4N"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141457_english_hls_0ee39fbd6048699_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774029069~_GO=Generated~acl=/mumbai/141457_english_hls_0ee39fbd6048699_1ta-di_h264/*~Signature=AYUBS8oeJ6-DrJBAxVJdGlvcrsiIbNpyCNAwochnYqkHY3SVfAnBNf2Lr1vC44N_A2p0DfwrJZIdFwuh0MxT3z7_OqEC"
     },
     {
       "event_category": "Tennis",
@@ -342,20 +328,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Adelaide United",
-      "match_id": 140917,
-      "startTime": "20 March 2026 02:05 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "World Feed - Day 1\t vs Palm Harbor, Florida (Valspar Championship 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
@@ -366,6 +338,20 @@
       "match_name": "World Feed - Day 1\t vs Palm Harbor, Florida",
       "match_id": 141390,
       "startTime": "20 March 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773891100405/140917_CASACARDS_APP.png",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Western Sydney Wanderers vs Adelaide United",
+      "match_id": 140917,
+      "startTime": "20 March 2026 02:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
