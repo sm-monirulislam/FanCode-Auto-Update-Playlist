@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "03:36:18 PM 19-03-2026",
+  "last update time": "04:33:01 PM 19-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Punjab Lions vs Gujarat Tigers (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Punjab Lions",
-      "team_2": "Gujarat Tigers",
-      "status": "LIVE",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Punjab Lions vs Gujarat Tigers",
-      "match_id": 141212,
-      "startTime": "19 March 2026 12:45 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141212_english_hls_c03fd21c3b68711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773990309~_GO=Generated~acl=/mumbai/141212_english_hls_c03fd21c3b68711_1ta-di_h264/*~Signature=AYUBS8qzImwF1S30YAJzjaOG-MFhAome0ifs7ORpthu0TOhMmJkeamjlOimSDD1UgBNyaQAgI6jVccaB3KK-xPJ4RuAA"
-    },
     {
       "event_category": "Cricket",
       "title": "Betwa Blasters vs Hindon Titans (Ayodhya Premier League)",
@@ -32,6 +18,20 @@
       "startTime": "19 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": "https://in-mc-plive.fancode.com/mumbai/141371_english_hls_4234d97ff313187_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773992671~_GO=Generated~acl=/mumbai/141371_english_hls_4234d97ff313187_1ta-di_h264/*~Signature=AYUBS8qJ9c42jN8gBUpVP4A6CqNWOKslNnKPRDScZKlyYT74lTGYqc3nZLJjZvByF0s8P7N5CgXAXaQV8jdj_O445UkK"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mumbai Mavericks vs Punjab Lions (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Mumbai Mavericks",
+      "team_2": "Punjab Lions",
+      "status": "LIVE",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Mumbai Mavericks vs Punjab Lions",
+      "match_id": 141214,
+      "startTime": "19 March 2026 03:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141214_english_hls_c8d37b9f3369575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774000269~_GO=Generated~acl=/mumbai/141214_english_hls_c8d37b9f3369575_1ta-di_h264/*~Signature=AYUBS8r8YiIsaP81BQL-HDJx7JBrTdb41jAByXI3_-dbjHnKa5wLTKOMv3GBAus1zZodnaExbUukx7r9fCb9NBor63QO"
     },
     {
       "event_category": "Football",
@@ -72,20 +72,6 @@
       "match_name": "West Indies Women vs Australia Women",
       "match_id": 141328,
       "startTime": "20 March 2026 04:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "TBC vs TBC",
-      "match_id": 141214,
-      "startTime": "19 March 2026 03:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -204,7 +190,7 @@
     {
       "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141315_6002_KSO_ING_FC-Web_1773487500038.jpg",
       "team_1": "Konark Suryas Odisha",
       "team_2": "India Tigers",
       "status": "UPCOMING",
@@ -519,6 +505,20 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Villarreal CF vs Real Sociedad",
       "match_id": 131112,
+      "startTime": "21 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Preston North End F.C. vs Stoke City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140955_5489_PST_STK_fc-web.jpg",
+      "team_1": "Preston North End F.C.",
+      "team_2": "Stoke City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Preston North End F.C. vs Stoke City F.C.",
+      "match_id": 140955,
       "startTime": "21 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
