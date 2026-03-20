@@ -3,8 +3,22 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 35,
-  "last update time": "11:13:26 AM 20-03-2026",
+  "last update time": "12:10:25 PM 20-03-2026",
   "matches": [
+    {
+      "event_category": "Cricket",
+      "title": "South Africa vs New Zealand (South Africa tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
+      "team_1": "South Africa",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "South Africa tour of New Zealand, 2026",
+      "match_name": "South Africa vs New Zealand",
+      "match_id": 141063,
+      "startTime": "20 March 2026 11:45 AM",
+      "dai_url": "",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774072695~acl=%2f*~id=b2d3677f-ab0e-4387-be59-9515906cfe12~data=hdntl~hmac=69b1e14a6105d8f7350d60237570aea5997e6532901958446560877f39590d8b/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB3M75pAAAAAAu2seyYMK4KqeMZjR8581qRHOLCQI70baQBrvvMff%2fvBysaKT4ukrwp6xhBljg89yJprVo4jIkc&aka_media_format_type=hls"
+    },
     {
       "event_category": "Cricket",
       "title": "Manorama Marvels vs Saryu Smashers (Ayodhya Premier League)",
@@ -18,20 +32,6 @@
       "startTime": "20 March 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774063160~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8rJZ5mKuDDFwMwHDAdA3ZtFgJlo1DAMOl17T4t0vOywxeY9ZcsVCaO3DGeSWHyJ3AzHl6Rmqwqq7uEEfhq-Ha4D"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-      "team_1": "New Zealand",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "South Africa tour of New Zealand, 2026",
-      "match_name": "New Zealand vs South Africa",
-      "match_id": 141063,
-      "startTime": "20 March 2026 11:45 AM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -258,6 +258,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773891100358/140920_CASACARDS_APP.png",
+      "team_1": "Melbourne Victory",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Central Coast Mariners",
+      "match_id": 140920,
+      "startTime": "21 March 2026 11:40 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "MotoGP",
       "title": "Day 1 vs Aut\u00f3dromo Internacional de Goi\u00e2nia \u2013 Ayrton Senna (ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
@@ -338,6 +352,20 @@
       "match_name": "Featured Groups - Day 2\t vs Palm Harbor, Florida",
       "match_id": 141392,
       "startTime": "20 March 2026 06:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Ahmedabad Lions vs Chandigarh Mavericks (Actors Cricket Bash 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_JR_fc-Web.jpg",
+      "team_1": "Ahmedabad Lions",
+      "team_2": "Chandigarh Mavericks",
+      "status": "UPCOMING",
+      "event_name": "Actors Cricket Bash 2026",
+      "match_name": "Ahmedabad Lions vs Chandigarh Mavericks",
+      "match_id": 141336,
+      "startTime": "21 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -440,20 +468,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773891100358/140920_CASACARDS_APP.png",
-      "team_1": "Melbourne Victory",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Central Coast Mariners",
-      "match_id": 140920,
-      "startTime": "21 March 2026 11:40 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "World Feed - Day 2\t vs Palm Harbor, Florida (Valspar Championship 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
@@ -464,20 +478,6 @@
       "match_name": "World Feed - Day 2\t vs Palm Harbor, Florida",
       "match_id": 141395,
       "startTime": "21 March 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Ahmedabad Lions vs Chandigarh Mavericks (Actors Cricket Bash 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_JR_fc-Web.jpg",
-      "team_1": "Ahmedabad Lions",
-      "team_2": "Chandigarh Mavericks",
-      "status": "UPCOMING",
-      "event_name": "Actors Cricket Bash 2026",
-      "match_name": "Ahmedabad Lions vs Chandigarh Mavericks",
-      "match_id": 141336,
-      "startTime": "21 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
