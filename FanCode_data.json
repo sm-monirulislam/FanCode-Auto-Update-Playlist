@@ -2,37 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "09:36:20 PM 20-03-2026",
+  "match_amount": 35,
+  "last update time": "10:34:28 PM 20-03-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Mohun Bagan Super Giant vs Mumbai City FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg",
-      "team_1": "Mohun Bagan Super Giant",
-      "team_2": "Mumbai City FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26",
-      "match_name": "Mohun Bagan Super Giant vs Mumbai City FC",
-      "match_id": 140468,
-      "startTime": "20 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140468_english_hls_623b02d8eb43999_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774101801~_GO=Generated~acl=/mumbai/140468_english_hls_623b02d8eb43999_1ta-di_h264/*~Signature=AYUBS8o-ycWVr9ppt1XzR4aCRJgerV0Qcmwd7LqjzfuRwLPzU0GU2L6bbK-1oTt1CLrQ6u2Xipp-M8QTY_Nep7JV2OEK"
-    },
-    {
-      "event_category": "Football",
-      "title": "Mohun Bagan Super Giant vs Mumbai City FC (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141180_5973_MBSG_MCFC_fc-web.jpg",
-      "team_1": "Mohun Bagan Super Giant",
-      "team_2": "Mumbai City FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "Mohun Bagan Super Giant vs Mumbai City FC",
-      "match_id": 141180,
-      "startTime": "20 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141180_bengali_hls_87963117b249597_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774100672~_GO=Generated~acl=/mumbai/141180_bengali_hls_87963117b249597_1ta-di_h264/*~Signature=AYUBS8oq8PLfXo9vgAhiMPnr20jIah2TcWUeA5tPTozJ9HE1GWukjteV4ZfT1K1VEJa5_sL1eZ6n1pB4q5XLU79Def8J"
-    },
     {
       "event_category": "MotoGP",
       "title": "Day 1 vs Aut\u00f3dromo Internacional de Goi\u00e2nia \u2013 Ayrton Senna (ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026)",
@@ -45,7 +17,7 @@
       "match_id": 139927,
       "startTime": "20 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139927_english_hls_8b6541ace521359_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774093874~_GO=Generated~acl=/mumbai/139927_english_hls_8b6541ace521359_1ta-di_h264/*~Signature=AYUBS8rUQdBe6_k8_3pdNXvWjdlQ1LkI2bbTQ__zdy4QDnChv-b5z0s1Ml8kQRiM5RW5CgRF5Hl28pnATCcITN_Nl4gF"
+      "adfree_url": "https://in-mc-plive.fancode.com/mumbai/139927_english_hls_8b6541ace521359_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774108492~_GO=Generated~acl=/mumbai/139927_english_hls_8b6541ace521359_1ta-di_h264/*~Signature=AYUBS8q-PhMun01vmMwlE94SDLplW7WHJker86Xg-Y-1xq4drN-K9szACj4_6ZK2Tqn4dCEAn1uwdAmSRGRa_m6tU3cD"
     },
     {
       "event_category": "Golf",
@@ -59,7 +31,7 @@
       "match_id": 141394,
       "startTime": "20 March 2026 05:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141394_english_hls_5d6336689690502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774093883~_GO=Generated~acl=/mumbai/141394_english_hls_5d6336689690502_1ta-di_h264/*~Signature=AYUBS8qd6tDNB7k2IxCiXoNszcfFj_hkTV4ZeESXbj4P85E8OJGb4rKyn9CKmZkRPTWyzYzWwvrExJOBUJDEHcxms7QI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141394_english_hls_5d6336689690502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774108506~_GO=Generated~acl=/mumbai/141394_english_hls_5d6336689690502_1ta-di_h264/*~Signature=AYUBS8p6Q8rbks-we6n4dM0jnbbMvWetthZ9tsGiI1j_VG90IkqhSGI9owDwYSo18MYHVY4Qb_vj8ePrSRRnaH8E5hMF"
     },
     {
       "event_category": "Golf",
@@ -202,6 +174,20 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141465_english_hls_7244eeb36f31959_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774104281~_GO=Generated~acl=/mumbai/141465_english_hls_7244eeb36f31959_1ta-di_h264/*~Signature=AYUBS8qmUplg_LE-CU-SZnFowYytLiok9G7qOgq9SPzBQiXbftLzVKSTi-ZS2lfCsBNPdP6AtZE8XwUzxCpYe0ITbb0H"
     },
     {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Miami, United States",
+      "status": "LIVE",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "A Court Feed vs Miami, United States",
+      "match_id": 141040,
+      "startTime": "20 March 2026 09:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141040_english_hls_32fe8db85730848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774108513~_GO=Generated~acl=/mumbai/141040_english_hls_32fe8db85730848_1ta-di_h264/*~Signature=AYUBS8qc-GdYSKUdgyYXbup10xU9s2LoLGcAf8M4cnZRR9pDqMGxh4a_c7jL6IX5_gPlUH_-8YnxjWYvL0cOvL45FOgK"
+    },
+    {
       "event_category": "Cricket",
       "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
       "src": "https://images.fancode.com/aig/match/v1773906801421/133992_CASACARDS_APP.png",
@@ -245,6 +231,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web.jpg",
+      "team_1": "Konark Suryas Odisha",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Konark Suryas Odisha vs Southern Super Stars",
+      "match_id": 141316,
+      "startTime": "21 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Mumbai Aces vs Delhi Titans (Actors Cricket Bash 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141334_6005_MA_DTA_fc-Web.jpg",
       "team_1": "Mumbai Aces",
@@ -268,20 +268,6 @@
       "match_name": "Hindon Titans vs Saryu Smashers",
       "match_id": 141374,
       "startTime": "21 March 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web.jpg",
-      "team_1": "Konark Suryas Odisha",
-      "team_2": "Southern Super Stars",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Konark Suryas Odisha vs Southern Super Stars",
-      "match_id": 141316,
-      "startTime": "21 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -328,20 +314,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Auckland vs Macarthur (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773891100403/140918_CASACARDS_APP.png",
-      "team_1": "Auckland",
-      "team_2": "Macarthur",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Auckland vs Macarthur",
-      "match_id": 140918,
-      "startTime": "21 March 2026 07:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Eagles XI vs Uganda (Uganda tour of Namibia, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
@@ -357,15 +329,15 @@
     },
     {
       "event_category": "Football",
-      "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Wellington Phoenix",
+      "title": "Auckland vs Macarthur (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773891100403/140918_CASACARDS_APP.png",
+      "team_1": "Auckland",
+      "team_2": "Macarthur",
       "status": "UPCOMING",
       "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Wellington Phoenix",
-      "match_id": 140919,
-      "startTime": "21 March 2026 09:30 AM",
+      "match_name": "Auckland vs Macarthur",
+      "match_id": 140918,
+      "startTime": "21 March 2026 07:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -426,16 +398,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Miami, United States",
+      "event_category": "Football",
+      "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
+      "team_1": "Brisbane Roar",
+      "team_2": "Wellington Phoenix",
       "status": "UPCOMING",
-      "event_name": "ATP Masters Miami Open 2026",
-      "match_name": "A Court Feed vs Miami, United States",
-      "match_id": 141040,
-      "startTime": "20 March 2026 09:30 PM",
+      "event_name": "A League 2025-26",
+      "match_name": "Brisbane Roar vs Wellington Phoenix",
+      "match_id": 140919,
+      "startTime": "21 March 2026 09:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Ipswich Town F.C. vs Millwall F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg",
+      "team_1": "Ipswich Town F.C.",
+      "team_2": "Millwall F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Ipswich Town F.C. vs Millwall F.C.",
+      "match_id": 140956,
+      "startTime": "21 March 2026 06:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -464,20 +450,6 @@
       "match_name": "Melbourne Victory vs Central Coast Mariners",
       "match_id": 140920,
       "startTime": "21 March 2026 11:40 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Ipswich Town F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg",
-      "team_1": "Ipswich Town F.C.",
-      "team_2": "Millwall F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Ipswich Town F.C. vs Millwall F.C.",
-      "match_id": 140956,
-      "startTime": "21 March 2026 06:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
