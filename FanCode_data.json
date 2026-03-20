@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 36,
-  "last update time": "01:28:12 PM 20-03-2026",
+  "match_amount": 35,
+  "last update time": "02:01:12 PM 20-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -21,17 +21,17 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Manorama Marvels vs Saryu Smashers (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
-      "team_1": "Manorama Marvels",
-      "team_2": "Saryu Smashers",
+      "title": "Chambal Chargers vs Gomti Thunder (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
+      "team_1": "Chambal Chargers",
+      "team_2": "Gomti Thunder",
       "status": "LIVE",
       "event_name": "Ayodhya Premier League",
-      "match_name": "Manorama Marvels vs Saryu Smashers",
-      "match_id": 141372,
-      "startTime": "20 March 2026 09:00 AM",
+      "match_name": "Chambal Chargers vs Gomti Thunder",
+      "match_id": 141373,
+      "startTime": "20 March 2026 01:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774063160~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8rJZ5mKuDDFwMwHDAdA3ZtFgJlo1DAMOl17T4t0vOywxeY9ZcsVCaO3DGeSWHyJ3AzHl6Rmqwqq7uEEfhq-Ha4D"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141373_english_hls_bfc1937bec35894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774079052~_GO=Generated~acl=/mumbai/141373_english_hls_bfc1937bec35894_1ta-di_h264/*~Signature=AYUBS8qXFfQC31z62xwCKzRKEFF0OnBX2t20O1MKr2XKCWiYAiNnwMEND-dAmUtczUNNeF26SM32cpGWMjKqvkU_OtwH"
     },
     {
       "event_category": "Cricket",
@@ -48,20 +48,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Chambal Chargers vs Gomti Thunder (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
-      "team_1": "Chambal Chargers",
-      "team_2": "Gomti Thunder",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Chambal Chargers vs Gomti Thunder",
-      "match_id": 141373,
-      "startTime": "20 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Tigres vs FC Cincinnati (CONCACAF Champions Cup 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141108_5954_TIG_CIN_1772957805588.png",
@@ -72,6 +58,20 @@
       "match_name": "Tigres vs FC Cincinnati",
       "match_id": 141108,
       "startTime": "20 March 2026 06:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Western Sydney Wanderers vs Adelaide United",
+      "match_id": 140917,
+      "startTime": "20 March 2026 02:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -156,20 +156,6 @@
       "match_name": "New South Wales Breakers vs Queensland Fire",
       "match_id": 133992,
       "startTime": "21 March 2026 04:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Adelaide United",
-      "match_id": 140917,
-      "startTime": "20 March 2026 02:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -482,20 +468,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
-      "team_1": "Japan Women",
-      "team_2": "Australia Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Japan Women vs Australia Women",
-      "match_id": 140820,
-      "startTime": "21 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web.jpg",
@@ -506,6 +478,20 @@
       "match_name": "Konark Suryas Odisha vs Southern Super Stars",
       "match_id": 141316,
       "startTime": "21 March 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
+      "team_1": "Japan Women",
+      "team_2": "Australia Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Japan Women vs Australia Women",
+      "match_id": 140820,
+      "startTime": "21 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
