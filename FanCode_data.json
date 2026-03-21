@@ -2,37 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "09:46:50 PM 21-03-2026",
+  "match_amount": 35,
+  "last update time": "10:20:40 PM 21-03-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Kerala Blasters FC vs Punjab FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg",
-      "team_1": "Kerala Blasters FC",
-      "team_2": "Punjab FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26",
-      "match_name": "Kerala Blasters FC vs Punjab FC",
-      "match_id": 140470,
-      "startTime": "21 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140470_english_hls_d0d6a822c193188_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774187045~_GO=Generated~acl=/mumbai/140470_english_hls_d0d6a822c193188_1ta-di_h264/*~Signature=AYUBS8pkS8h6w06M2teervUhOYG-TgFs-7CkguZa8SRWNHMI8u6u_VOVKQ2PVqEnOGRURnDBUCyBjjkdpo3BfFtcFqsF"
-    },
-    {
-      "event_category": "Football",
-      "title": "Kerala Blasters FC vs Punjab FC (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141182_5973_KBFC_PFC_fc-web.jpg",
-      "team_1": "Kerala Blasters FC",
-      "team_2": "Punjab FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "Kerala Blasters FC vs Punjab FC",
-      "match_id": 141182,
-      "startTime": "21 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141182_malayalam_hls_09966079db12002_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774187052~_GO=Generated~acl=/mumbai/141182_malayalam_hls_09966079db12002_1ta-di_h264/*~Signature=AYUBS8pRC5nu_0B8GY4IVVEq4EuHUVfCZNqtkF5T2PAgY-3XXf32UFDezF4k6n_xsAmZzYExV_d6HX9Pe-KygkR_oTgE"
-    },
     {
       "event_category": "Football",
       "title": "Sheffield United F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
@@ -87,7 +59,7 @@
       "match_id": 141396,
       "startTime": "21 March 2026 06:15 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774181528~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8p1JKFzSjIQBVH51JGWL_dhWiu68_NcM9w-1u5KXm-q5awK_8dje98POsmbRNghufo6zyLnY53aHjhvlujF89kH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774196347~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8rJd2e0bKDrl9oGq7WtMBxqZvQKgWCd5BhzVgQIecctWDp1UkM0iV36uoa6A-pKG1mpvXRQGj_GGxkKlfyMsz4D"
     },
     {
       "event_category": "Live Events",
@@ -258,20 +230,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141317_6002_SSS_ING_FC-Web_1774097516138.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Konark Suryas Odisha",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-      "match_id": 141317,
-      "startTime": "22 March 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Swansea City A.F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg",
@@ -282,6 +240,20 @@
       "match_name": "Swansea City A.F.C. vs Coventry City F.C.",
       "match_id": 140958,
       "startTime": "21 March 2026 10:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141317_6002_SSS_ING_FC-Web_1774097516138.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Konark Suryas Odisha",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
+      "match_id": 141317,
+      "startTime": "22 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -310,6 +282,20 @@
       "match_name": "CA Osasuna vs Girona FC",
       "match_id": 131111,
       "startTime": "21 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_ICN_RRP_FC-Web.jpg",
+      "team_1": "Southern Super Stars",
+      "team_2": "India Tigers",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Southern Super Stars vs India Tigers",
+      "match_id": 141318,
+      "startTime": "22 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -352,20 +338,6 @@
       "match_name": "Gomti Thunder vs Hindon Titans",
       "match_id": 141376,
       "startTime": "22 March 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_ICN_RRP_FC-Web.jpg",
-      "team_1": "Southern Super Stars",
-      "team_2": "India Tigers",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Southern Super Stars vs India Tigers",
-      "match_id": 141318,
-      "startTime": "22 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -469,20 +441,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Newcastle Jets",
-      "match_id": 140921,
-      "startTime": "22 March 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Brighton and Hove Albion Women vs Liverpool Women (Women's Super League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141160_5826_BHA-W_LIV-W_FC-Web.jpg",
       "team_1": "Brighton and Hove Albion Women",
@@ -497,6 +455,34 @@
     },
     {
       "event_category": "Football",
+      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Newcastle Jets",
+      "match_id": 140921,
+      "startTime": "22 March 2026 09:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "A Court Feed vs Miami, United States",
+      "match_id": 141041,
+      "startTime": "21 March 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "FC Barcelona vs Rayo Vallecano (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png",
       "team_1": "FC Barcelona",
@@ -506,20 +492,6 @@
       "match_name": "FC Barcelona vs Rayo Vallecano",
       "match_id": 131114,
       "startTime": "22 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Melbourne City",
-      "match_id": 140922,
-      "startTime": "22 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
