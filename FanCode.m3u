@@ -2,18 +2,27 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:43:36 PM 21-03-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 06:32:35 PM 21-03-2026 (BD Time)
+# 📺 Live Matches: 7
 #=================================
 
-#EXTINF:-1 tvg-name="Betwa Blasters vs Manorama Marvels (Ayodhya Premier League)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg" group-title="Cricket",Betwa Blasters vs Manorama Marvels (Ayodhya Premier League)
-https://bd-mc-flive.fancode.com/mumbai/141375_english_hls_2dc27512fe19726_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175169~_GO=Generated~acl=/mumbai/141375_english_hls_2dc27512fe19726_1ta-di_h264/*~Signature=AYUBS8qrfAx94kn3GNQT-HE-nBz-K2Ql0pVW7g19bpMPGBVVvlTj9QBlRwOqOp8o4SriHSoWTcjbNv-L9_EU-vN5ejwJ
+#EXTINF:-1 tvg-name="Namibia vs Uganda (Uganda tour of Namibia, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="Cricket",Namibia vs Uganda (Uganda tour of Namibia, 2026)
+https://bd-mc-flive.fancode.com/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774180272~_GO=Generated~acl=/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/*~Signature=AYUBS8qB4YFwbGAVLqhlvo-9KbgOWwCV3gQ35KyNEAzj78H47lqqjv1yph6yOVY_fMGzkEv_kJAOzLj3_FVChcsmXxwA
 
-#EXTINF:-1 tvg-name="Ahmedabad Lions vs Chandigarh Mavericks (Actors Cricket Bash 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_CMA_fc-Web.jpg" group-title="Cricket",Ahmedabad Lions vs Chandigarh Mavericks (Actors Cricket Bash 2026)
-https://bd-mc-flive.fancode.com/mumbai/141336_english_hls_3ad8a8cf3840667_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175172~_GO=Generated~acl=/mumbai/141336_english_hls_3ad8a8cf3840667_1ta-di_h264/*~Signature=AYUBS8qL8tiaR0tntElBVZiiCQ_dFr-Rtzcw06tQtoPO8D8M2ceRb2zRrPi2v661_avgotaKhJgt7wfpwPtduK759owK
+#EXTINF:-1 tvg-name="Arsenal Women vs West Ham United Women (Women's Super League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg" group-title="Football",Arsenal Women vs West Ham United Women (Women's Super League 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774180275~_GO=Generated~acl=/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/*~Signature=AYUBS8qR2qm4Mln8At8MC9Oi1Op13RLh_EZ1_pXbGUtj_StE6oemoU91ZA2Ad4GjxTpvE7Av6remwLPl3IQhgsMkBUoK
 
-#EXTINF:-1 tvg-name="Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg" group-title="Football",Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)
-https://bd-mc-flive.fancode.com/mumbai/140820_english_hls_893c3c4ff563583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175176~_GO=Generated~acl=/mumbai/140820_english_hls_893c3c4ff563583_1ta-di_h264/*~Signature=AYUBS8phkVH2Ujx4wJ7OENe_qsjOYhGPkB--iW_9K2k9aTRgaTVNf2jCnt3XG-cmk5m2iihN15j4rR7Ce9RqEWJSf-cN
+#EXTINF:-1 tvg-name="Manchester United Women vs Everton Women (Women's Super League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" group-title="Football",Manchester United Women vs Everton Women (Women's Super League 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774180277~_GO=Generated~acl=/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/*~Signature=AYUBS8rHFIA4GNm9tULRXWzVrXabsxfqa6ze-8dJKc6UG84KFrdS0QWoG89xnhiCI_wsZNe0caFAnjDH4pevV00fswUB
+
+#EXTINF:-1 tvg-name="London City Lionesses vs Chelsea F.C. Women (Women's Super League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg" group-title="Football",London City Lionesses vs Chelsea F.C. Women (Women's Super League 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/141158_english_hls_571f5b64f632081_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179857~_GO=Generated~acl=/mumbai/141158_english_hls_571f5b64f632081_1ta-di_h264/*~Signature=AYUBS8q5MjQkY6fu5NzfCWAM5tNPFzFHgdgFf0H2w1uLJoHHDB1JVJX_IXu1frX1AkawRog1h6Uj990iQflUo2444ecB
+
+#EXTINF:-1 tvg-name="Manchester City vs Tottenham Hotspur Women (Women's Super League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg" group-title="Football",Manchester City vs Tottenham Hotspur Women (Women's Super League 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/141157_english_hls_97976fbb6a2806_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179886~_GO=Generated~acl=/mumbai/141157_english_hls_97976fbb6a2806_1ta-di_h264/*~Signature=AYUBS8ryNIC_wHLvQsrOnihW4JC7kh0Nc4lYPQrbzmKL6GeXtWZrPgb3Mhu688rvGsc76z2ZE4c4hfTWGSrGAqdCa8sG
 
 #EXTINF:-1 tvg-name="Day 2 vs Autódromo Internacional de Goiânia – Ayrton Senna (ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="MotoGP",Day 2 vs Autódromo Internacional de Goiânia – Ayrton Senna (ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026)
 https://in-mc-plive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179041~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qDnbJCTlgNbqR5Yj1UkAJj9yejEL3I3TvL7HkTQEo-UwcqBHQr0skZ6_LnVqjK_DiP41g3v1FULIWs0e9dHeEF
+
+#EXTINF:-1 tvg-name="Main Feed - Day 3	 vs Palm Harbor, Florida (Valspar Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="Golf",Main Feed - Day 3	 vs Palm Harbor, Florida (Valspar Championship 2026)
+https://bd-mc-flive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774181528~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8p1JKFzSjIQBVH51JGWL_dhWiu68_NcM9w-1u5KXm-q5awK_8dje98POsmbRNghufo6zyLnY53aHjhvlujF89kH
