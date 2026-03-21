@@ -2,22 +2,22 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "01:28:05 AM 22-03-2026",
+  "match_amount": 35,
+  "last update time": "01:46:01 AM 22-03-2026",
   "matches": [
     {
       "event_category": "Football",
-      "title": "Levante vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png",
-      "team_1": "Levante",
-      "team_2": "Real Oviedo",
-      "status": "LIVE",
+      "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Valencia CF",
+      "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Real Oviedo",
-      "match_id": 131117,
-      "startTime": "21 March 2026 11:00 PM",
+      "match_name": "Sevilla FC vs Valencia CF",
+      "match_id": 131118,
+      "startTime": "22 March 2026 01:30 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199107~_GO=Generated~acl=/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/*~Signature=AYUBS8oqzLu0ajwsnZ8n8npv48ejTe5y3OaiYFB-CwVzgg6nbgIiPBc3QPL0MIpP6EPUmXsSt_ecErsm3YX15F83qmUA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131118_english_hls_e530995b3712973_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774207809~_GO=Generated~acl=/mumbai/131118_english_hls_e530995b3712973_1ta-di_h264/*~Signature=AYUBS8oKaXI27XKpi0axnfJZ-R8x2V8XflGgBLnhOAOzPc8QVUgM68arUwPZ_jm5qN18xPg8cvRhiO4s_tj5rJIr9vUP"
     },
     {
       "event_category": "Football",
@@ -45,7 +45,7 @@
       "match_id": 139928,
       "startTime": "21 March 2026 05:10 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774193826~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8oSW2i3MN1N5YQbgSjIECdstJIBmCIipNmu_XiDwm9LmPiXaWHm_ZLJcxy0USSbnWf5278uXWlm4bdUC6tF-TEM"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774208648~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qLp29FT5CYBY_6kS-PVrw5GoFJktXW2sqUkdTZrCEYRnwVq8_b0rZCUB7L8BfrbS1q7f4VLMvoIPitU3zX8OsP"
     },
     {
       "event_category": "Golf",
@@ -202,20 +202,6 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774203547~_GO=Generated~acl=/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/*~Signature=AYUBS8q9Nmc4_iSXYMG11qshROGkrKAqp_uAT19q4bssPVbX3xfuFuKaPlA8hAfdwUBCimbo3D1Vu2x4iiVvKWTbJckI"
     },
     {
-      "event_category": "Football",
-      "title": "CA Osasuna vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Girona FC",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Girona FC",
-      "match_id": 131111,
-      "startTime": "21 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199113~_GO=Generated~acl=/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/*~Signature=AYUBS8q58dbnXpq9PWrgheLwFYKCQuObWEgqrCos4HYTy9gC6RdKb9VJy3e_Be7dqPuRv_-TsuLCo7-JGsg90a_RP5EJ"
-    },
-    {
       "event_category": "Cricket",
       "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
@@ -272,20 +258,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Valencia CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs Valencia CF",
-      "match_id": 131118,
-      "startTime": "22 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_ICN_RRP_FC-Web.jpg",
@@ -311,7 +283,7 @@
       "match_id": 141410,
       "startTime": "22 March 2026 01:30 AM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774122583~_GO=Generated~acl=/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/*~Signature=AYUBS8o0ix6O-3UuAGqsXrWYNLXwEXNrKgiINZepKft6LphsG8ZMUTWPLEK5iT0yDFpQKIA4vlrZ6mlkeNvv4IRPGLML"
     },
     {
       "event_category": "Cricket",
@@ -455,20 +427,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Newcastle Jets",
-      "match_id": 140921,
-      "startTime": "22 March 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Leicester City Women vs Aston Villa Women (Women's Super League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141161_5826_LEI-W_AST-W_FC-Web.jpg",
       "team_1": "Leicester City Women",
@@ -478,6 +436,20 @@
       "match_name": "Leicester City Women vs Aston Villa Women",
       "match_id": 141161,
       "startTime": "22 March 2026 08:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Newcastle Jets",
+      "match_id": 140921,
+      "startTime": "22 March 2026 09:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
