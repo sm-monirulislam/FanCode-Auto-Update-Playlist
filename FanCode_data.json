@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "12:59:11 AM 22-03-2026",
+  "last update time": "01:28:05 AM 22-03-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Swansea City A.F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg",
-      "team_1": "Swansea City A.F.C.",
-      "team_2": "Coventry City F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Swansea City A.F.C. vs Coventry City F.C.",
-      "match_id": 140958,
-      "startTime": "21 March 2026 10:45 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774198691~_GO=Generated~acl=/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/*~Signature=AYUBS8rNiIztWYDttoq_BfHmXikTxlJ737sjG-wD71gDnc4Zf6xYpOQklUiLvzbz742pYUq5i8jgbTp26xvm2sX4FtIF"
-    },
     {
       "event_category": "Football",
       "title": "Levante vs Real Oviedo (LALIGA 2025-26)",
@@ -32,20 +18,6 @@
       "startTime": "21 March 2026 11:00 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199107~_GO=Generated~acl=/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/*~Signature=AYUBS8oqzLu0ajwsnZ8n8npv48ejTe5y3OaiYFB-CwVzgg6nbgIiPBc3QPL0MIpP6EPUmXsSt_ecErsm3YX15F83qmUA"
-    },
-    {
-      "event_category": "Football",
-      "title": "CA Osasuna vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Girona FC",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Girona FC",
-      "match_id": 131111,
-      "startTime": "21 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199113~_GO=Generated~acl=/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/*~Signature=AYUBS8q58dbnXpq9PWrgheLwFYKCQuObWEgqrCos4HYTy9gC6RdKb9VJy3e_Be7dqPuRv_-TsuLCo7-JGsg90a_RP5EJ"
     },
     {
       "event_category": "Football",
@@ -230,6 +202,20 @@
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774203547~_GO=Generated~acl=/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/*~Signature=AYUBS8q9Nmc4_iSXYMG11qshROGkrKAqp_uAT19q4bssPVbX3xfuFuKaPlA8hAfdwUBCimbo3D1Vu2x4iiVvKWTbJckI"
     },
     {
+      "event_category": "Football",
+      "title": "CA Osasuna vs Girona FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Girona FC",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Girona FC",
+      "match_id": 131111,
+      "startTime": "21 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199113~_GO=Generated~acl=/mumbai/131111_english_hls_90cbc64f7711673_1ta-di_h264/*~Signature=AYUBS8q58dbnXpq9PWrgheLwFYKCQuObWEgqrCos4HYTy9gC6RdKb9VJy3e_Be7dqPuRv_-TsuLCo7-JGsg90a_RP5EJ"
+    },
+    {
       "event_category": "Cricket",
       "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
@@ -286,6 +272,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Valencia CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Sevilla FC vs Valencia CF",
+      "match_id": 131118,
+      "startTime": "22 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_ICN_RRP_FC-Web.jpg",
@@ -301,14 +301,14 @@
     },
     {
       "event_category": "Football",
-      "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Valencia CF",
+      "title": "Deportivo Alaves vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
+      "team_1": "Deportivo Alaves",
+      "team_2": "Real Zaragoza",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs Valencia CF",
-      "match_id": 131118,
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo Alaves vs Real Zaragoza",
+      "match_id": 141410,
       "startTime": "22 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
@@ -441,20 +441,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Deportivo Alaves vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo Alaves vs Real Zaragoza",
-      "match_id": 141410,
-      "startTime": "22 March 2026 01:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Inter Kashi FC vs Bengaluru FC (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg",
       "team_1": "Inter Kashi FC",
@@ -497,6 +483,20 @@
     },
     {
       "event_category": "Football",
+      "title": "RC Celta vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131119_5427_CEV_ALA_FC-Web.png",
+      "team_1": "RC Celta",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs Deportivo Alaves",
+      "match_id": 131119,
+      "startTime": "22 March 2026 08:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Perth Glory vs Melbourne City (A League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
       "team_1": "Perth Glory",
@@ -511,15 +511,15 @@
     },
     {
       "event_category": "Football",
-      "title": "RC Celta vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131119_5427_CEV_ALA_FC-Web.png",
-      "team_1": "RC Celta",
-      "team_2": "Deportivo Alaves",
+      "title": "Arsenal vs Manchester City (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-match-card.png",
+      "team_1": "Arsenal",
+      "team_2": "Manchester City",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs Deportivo Alaves",
-      "match_id": 131119,
-      "startTime": "22 March 2026 08:45 PM",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Arsenal vs Manchester City",
+      "match_id": 140405,
+      "startTime": "22 March 2026 10:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
