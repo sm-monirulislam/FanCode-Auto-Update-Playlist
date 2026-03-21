@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 36,
-  "last update time": "02:17:55 AM 22-03-2026",
+  "match_amount": 37,
+  "last update time": "02:48:29 AM 22-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -18,20 +18,6 @@
       "startTime": "22 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131118_english_hls_e530995b3712973_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774207809~_GO=Generated~acl=/mumbai/131118_english_hls_e530995b3712973_1ta-di_h264/*~Signature=AYUBS8oKaXI27XKpi0axnfJZ-R8x2V8XflGgBLnhOAOzPc8QVUgM68arUwPZ_jm5qN18xPg8cvRhiO4s_tj5rJIr9vUP"
-    },
-    {
-      "event_category": "Football",
-      "title": "C\u00e1diz vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png",
-      "team_1": "C\u00e1diz",
-      "team_2": "M\u00e1laga",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "C\u00e1diz vs M\u00e1laga",
-      "match_id": 141409,
-      "startTime": "21 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Football",
@@ -60,20 +46,6 @@
       "startTime": "21 March 2026 05:10 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774208648~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qLp29FT5CYBY_6kS-PVrw5GoFJktXW2sqUkdTZrCEYRnwVq8_b0rZCUB7L8BfrbS1q7f4VLMvoIPitU3zX8OsP"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Main Feed - Day 3\t vs Palm Harbor, Florida (Valspar Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "team_1": "Main Feed - Day 3\t",
-      "team_2": "Palm Harbor, Florida",
-      "status": "LIVE",
-      "event_name": "Valspar Championship 2026",
-      "match_name": "Main Feed - Day 3\t vs Palm Harbor, Florida",
-      "match_id": 141396,
-      "startTime": "21 March 2026 06:15 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774196347~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8rJd2e0bKDrl9oGq7WtMBxqZvQKgWCd5BhzVgQIecctWDp1UkM0iV36uoa6A-pKG1mpvXRQGj_GGxkKlfyMsz4D"
     },
     {
       "event_category": "Golf",
@@ -469,20 +441,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Melbourne City",
-      "match_id": 140922,
-      "startTime": "22 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Arsenal vs Manchester City (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-match-card.png",
       "team_1": "Arsenal",
@@ -497,6 +455,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Melbourne City",
+      "match_id": 140922,
+      "startTime": "22 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Athletic Club vs Real Betis (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131113_5427_ATH_RB_FC-Web.png",
       "team_1": "Athletic Club",
@@ -506,6 +478,48 @@
       "match_name": "Athletic Club vs Real Betis",
       "match_id": 131113,
       "startTime": "22 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Madrid vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Atletico de Madrid",
+      "match_id": 131110,
+      "startTime": "23 March 2026 01:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Las Palmas vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102733/141411_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Sporting de Gij\u00f3n",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Sporting de Gij\u00f3n",
+      "match_id": 141411,
+      "startTime": "22 March 2026 11:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2 vs Sanctuary Cove Golf Club (Australian WPGA Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(10).png",
+      "team_1": "Day 2",
+      "team_2": "Sanctuary Cove Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Australian WPGA Championship 2026",
+      "match_name": "Day 2 vs Sanctuary Cove Golf Club",
+      "match_id": 140793,
+      "startTime": "22 March 2026 06:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
