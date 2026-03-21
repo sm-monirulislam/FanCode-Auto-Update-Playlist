@@ -3,36 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "09:19:14 PM 21-03-2026",
+  "last update time": "09:46:50 PM 21-03-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-      "team_1": "Namibia",
-      "team_2": "Uganda",
-      "status": "LIVE",
-      "event_name": "Uganda tour of Namibia, 2026",
-      "match_name": "Namibia vs Uganda",
-      "match_id": 141448,
-      "startTime": "21 March 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774180272~_GO=Generated~acl=/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/*~Signature=AYUBS8qB4YFwbGAVLqhlvo-9KbgOWwCV3gQ35KyNEAzj78H47lqqjv1yph6yOVY_fMGzkEv_kJAOzLj3_FVChcsmXxwA"
-    },
-    {
-      "event_category": "Football",
-      "title": "Elche CF vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131115_5427_ELC_MRC_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "RCD Mallorca",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs RCD Mallorca",
-      "match_id": 131115,
-      "startTime": "21 March 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131115_english_hls_be4b413f7c80678_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774182609~_GO=Generated~acl=/mumbai/131115_english_hls_be4b413f7c80678_1ta-di_h264/*~Signature=AYUBS8r73pSNoVvzEc27K5iVhECw1LXYcmwYd5sVXWQjO3W3FcCZzhUQj2wH3KPTxhv7YKDX4TUx59Rl0BBHG1s5iqcB"
-    },
     {
       "event_category": "Football",
       "title": "Kerala Blasters FC vs Punjab FC (ISL 2025-26)",
@@ -81,7 +53,7 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131116_5427_ESL_GEF_FC-Web.png",
       "team_1": "RCD Espanyol",
       "team_2": "Getafe CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs Getafe CF",
       "match_id": 131116,
@@ -101,7 +73,7 @@
       "match_id": 139928,
       "startTime": "21 March 2026 05:10 PM",
       "dai_url": "",
-      "adfree_url": "https://in-mc-plive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179041~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qDnbJCTlgNbqR5Yj1UkAJj9yejEL3I3TvL7HkTQEo-UwcqBHQr0skZ6_LnVqjK_DiP41g3v1FULIWs0e9dHeEF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774193826~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8oSW2i3MN1N5YQbgSjIECdstJIBmCIipNmu_XiDwm9LmPiXaWHm_ZLJcxy0USSbnWf5278uXWlm4bdUC6tF-TEM"
     },
     {
       "event_category": "Golf",
@@ -469,20 +441,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Newcastle Jets",
-      "match_id": 140921,
-      "startTime": "22 March 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Chennaiyin FC vs FC Goa (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg",
       "team_1": "Chennaiyin FC",
@@ -511,6 +469,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Newcastle Jets",
+      "match_id": 140921,
+      "startTime": "22 March 2026 09:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Brighton and Hove Albion Women vs Liverpool Women (Women's Super League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141160_5826_BHA-W_LIV-W_FC-Web.jpg",
       "team_1": "Brighton and Hove Albion Women",
@@ -520,6 +492,34 @@
       "match_name": "Brighton and Hove Albion Women vs Liverpool Women",
       "match_id": 141160,
       "startTime": "22 March 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "FC Barcelona vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131114_5427_BAR_RVL_FC-Web.png",
+      "team_1": "FC Barcelona",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Rayo Vallecano",
+      "match_id": 131114,
+      "startTime": "22 March 2026 06:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Melbourne City",
+      "match_id": 140922,
+      "startTime": "22 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
