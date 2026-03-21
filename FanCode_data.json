@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "03:17:58 AM 22-03-2026",
+  "last update time": "03:45:23 AM 22-03-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -32,20 +32,6 @@
       "startTime": "22 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774209067~_GO=Generated~acl=/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/*~Signature=AYUBS8pBhQznYtxegxS54ivpXPOb3ZOrVN_C_VFkoM9lcjxewuC8VKf7LH11zmNW--clpWheUbAsilW5TEgVQUrFTSUJ"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 3\t vs Palm Harbor, Florida (Valspar Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "team_1": "Featured Holes - Day 3\t",
-      "team_2": "Palm Harbor, Florida",
-      "status": "LIVE",
-      "event_name": "Valspar Championship 2026",
-      "match_name": "Featured Holes - Day 3\t vs Palm Harbor, Florida",
-      "match_id": 141398,
-      "startTime": "21 March 2026 07:00 PM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141398_english_hls_35173c2eb544246_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774213926~_GO=Generated~acl=/mumbai/141398_english_hls_35173c2eb544246_1ta-di_h264/*~Signature=AYUBS8q_VWHEoYnRIRh4LxGFYGuW9ZjL-VWrwaZJMpaZhUVWtI4TG8kvjBPUAxMitQcpXNoj89Ytwlyf1SZQwja72PcP"
     },
     {
       "event_category": "Golf",
@@ -520,6 +506,20 @@
       "match_name": "Main Feed - Day 4\t vs Palm Harbor, Florida",
       "match_id": 141401,
       "startTime": "22 March 2026 06:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 3 vs CCI Brabourne Stadium (JSW Indian Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png",
+      "team_1": "Day 3",
+      "team_2": "CCI Brabourne Stadium",
+      "status": "UPCOMING",
+      "event_name": "JSW Indian Open 2026",
+      "match_name": "Day 3 vs CCI Brabourne Stadium",
+      "match_id": 141445,
+      "startTime": "22 March 2026 06:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
