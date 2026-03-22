@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "01:33:44 PM 22-03-2026",
+  "last update time": "02:26:29 PM 22-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141064,
       "startTime": "22 March 2026 11:45 AM",
       "dai_url": "",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774248825~acl=%2f*~id=35c41b63-7a6d-4e7a-9133-8dca8f35e9cf~data=hdntl~hmac=867e32d6db77c76dc8571a15dc63ba6b5976a5fc433375e94eb34501751fbc45/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB548BpAAAAAEzoEGNvwzQ6IEcP+tEy6hNltg+SMdbPPeRLU4MR2Q9stS8HdtEnMKmJQ%2fvwg%2fpcZR0grECu7ecg&aka_media_format_type=hls"
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774253110~acl=%2f*~id=6daf2318-d850-4de2-b4cf-a8c86abe6f75~data=hdntl~hmac=9837afb5b6d887235a362edaa6bf24ca749919c2c65666cf0ae573aa329303db/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA29MBpAAAAAH2V1A5xcBoXQRIzKzOfZCFW+BMCp6q1QjeZPC+2imGezLWlICuOdNfHMk%2fQxmVlhos+fsKOmS%2fM&aka_media_format_type=hls"
     },
     {
       "event_category": "Cricket",
@@ -31,21 +31,7 @@
       "match_id": 141338,
       "startTime": "22 March 2026 11:45 AM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141338_english_hls_b82273683392280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774248828~_GO=Generated~acl=/mumbai/141338_english_hls_b82273683392280_1ta-di_h264/*~Signature=AYUBS8q77k0LfLw1b0JOg8dpRYr3-N3dhmcJabHriVj76baCsfbuJ194-ZAD32lcdK_JkYDk4jlDTkayOdqpu5VbijsD"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "India Captains vs Royal Riders Punjab (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_MSP_RRP_FC-Web_1773487500782.jpg",
-      "team_1": "India Captains",
-      "team_2": "Royal Riders Punjab",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "India Captains vs Royal Riders Punjab",
-      "match_id": 141319,
-      "startTime": "22 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141338_english_hls_b82273683392280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774253113~_GO=Generated~acl=/mumbai/141338_english_hls_b82273683392280_1ta-di_h264/*~Signature=AYUBS8qTiLkWn7JePHhUJa6p1HOLem6PF2TilMwbVaEOyHAY0Uh97Ji3ZLyRqohbtdBIVyU18Mmwj2_FIQBJnz5Jl1oM"
     },
     {
       "event_category": "Cricket",
@@ -53,27 +39,13 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141377_6007_MM_CC_FC-Web.jpg",
       "team_1": "Manorama Marvels",
       "team_2": "Chambal Chargers",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Ayodhya Premier League",
       "match_name": "Manorama Marvels vs Chambal Chargers",
       "match_id": 141377,
       "startTime": "22 March 2026 01:30 PM",
       "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Melbourne City",
-      "match_id": 140922,
-      "startTime": "22 March 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141377_english_hls_3d64a41fe569774_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774253115~_GO=Generated~acl=/mumbai/141377_english_hls_3d64a41fe569774_1ta-di_h264/*~Signature=AYUBS8p008pwHPcBBS2GEJnYgk5NJOmvMlVfPKF_XmbM1wBesF83KtrEcwQEEWdyBvMXRxrZbaBSC1Vd8wHlOjDsQPsJ"
     },
     {
       "event_category": "Cricket",
@@ -86,6 +58,34 @@
       "match_name": "Chennai Marvels vs Ahmedabad Lions",
       "match_id": 141339,
       "startTime": "22 March 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141339_english_hls_d8b92b72f735774_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774253526~_GO=Generated~acl=/mumbai/141339_english_hls_d8b92b72f735774_1ta-di_h264/*~Signature=AYUBS8o6JfpMgmEeotWF4su99Aa_WFPcRsDl7oWWgrG1A0LGPs35Bg-NXjq_6rXYbehihmc4vTI3f2J2-XWE1f17OtwG"
+    },
+    {
+      "event_category": "Football",
+      "title": "Perth Glory vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Melbourne City",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Melbourne City",
+      "match_id": 140922,
+      "startTime": "22 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140922_english_hls_ebe8ac262c55184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774253528~_GO=Generated~acl=/mumbai/140922_english_hls_ebe8ac262c55184_1ta-di_h264/*~Signature=AYUBS8rwtpYqVEHyeEs-1EUNITvJqAXUsWLXasyKtPnkRkPYU-LHIjVPMGRhdx_Svs28V0TBPHcPb9beXS7HB4EQEAML"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "India Captains vs Royal Riders Punjab (Legends League Cricket, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1774164623244/141319_CASACARDS_APP.png",
+      "team_1": "India Captains",
+      "team_2": "Royal Riders Punjab",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "India Captains vs Royal Riders Punjab",
+      "match_id": 141319,
+      "startTime": "22 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -230,20 +230,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Las Palmas vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102733/141411_CASACARDS_APP.png",
-      "team_1": "Las Palmas",
-      "team_2": "Sporting de Gij\u00f3n",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Las Palmas vs Sporting de Gij\u00f3n",
-      "match_id": 141411,
-      "startTime": "22 March 2026 11:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Mumbai Aces vs Jaipur Royals (Actors Cricket Bash 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
@@ -268,6 +254,34 @@
       "match_name": "Yamuna Super Kings vs Saryu Smashers",
       "match_id": 141378,
       "startTime": "23 March 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1774164623244/141315_CASACARDS_APP.png",
+      "team_1": "Konark Suryas Odisha",
+      "team_2": "India Tigers",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Konark Suryas Odisha vs India Tigers",
+      "match_id": 141315,
+      "startTime": "23 March 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Las Palmas vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102733/141411_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Sporting de Gij\u00f3n",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Sporting de Gij\u00f3n",
+      "match_id": 141411,
+      "startTime": "22 March 2026 11:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -324,6 +338,20 @@
       "match_name": "Delhi Titans vs Ahmedabad Lions",
       "match_id": 141342,
       "startTime": "23 March 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1774164623245/141312_CASACARDS_APP.png",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Southern Super Stars",
+      "match_id": 141312,
+      "startTime": "23 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -506,34 +534,6 @@
       "match_name": "World Feed - Day 4\t vs Palm Harbor, Florida",
       "match_id": 141405,
       "startTime": "22 March 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141315_6002_KSO_ING_FC-Web_1773487500038.jpg",
-      "team_1": "Konark Suryas Odisha",
-      "team_2": "India Tigers",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Konark Suryas Odisha vs India Tigers",
-      "match_id": 141315,
-      "startTime": "23 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Southern Super Stars (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Southern Super Stars",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Southern Super Stars",
-      "match_id": 141312,
-      "startTime": "23 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
