@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "01:21:07 PM 23-03-2026",
+  "last update time": "02:31:24 PM 23-03-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -35,6 +35,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Ganga Warriors vs Manorama Marvels (Ayodhya Premier League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141379_6007_MM_GW_FC-Web.jpg",
+      "team_1": "Ganga Warriors",
+      "team_2": "Manorama Marvels",
+      "status": "LIVE",
+      "event_name": "Ayodhya Premier League",
+      "match_name": "Ganga Warriors vs Manorama Marvels",
+      "match_id": 141379,
+      "startTime": "23 March 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141379_english_hls_b16ff42ccc76138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774338012~_GO=Generated~acl=/mumbai/141379_english_hls_b16ff42ccc76138_1ta-di_h264/*~Signature=AYUBS8p9sMcOBqSCvlCAB2plXqKiscyIhEnKPRVaZgnHKwjlKa2eUQsC3jnaZLQ6Ovv2CfTIVOxg1fhP95efobrGPhUF"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
       "team_1": "Konark Suryas Odisha",
@@ -43,7 +57,7 @@
       "event_name": "Legends League Cricket, 2026",
       "match_name": "Konark Suryas Odisha vs Southern Super Stars",
       "match_id": 141316,
-      "startTime": "23 March 2026 02:30 PM",
+      "startTime": "23 March 2026 04:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -57,7 +71,7 @@
       "event_name": "Legends League Cricket, 2026",
       "match_name": "India Captains vs Royal Riders Punjab",
       "match_id": 141319,
-      "startTime": "23 March 2026 07:30 PM",
+      "startTime": "23 March 2026 08:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -72,20 +86,6 @@
       "match_name": "West Indies Women vs Australia Women",
       "match_id": 141330,
       "startTime": "24 March 2026 04:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Manorama Marvels vs Ganga Warriors (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141379_6007_MM_GW_FC-Web.jpg",
-      "team_1": "Manorama Marvels",
-      "team_2": "Ganga Warriors",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Manorama Marvels vs Ganga Warriors",
-      "match_id": 141379,
-      "startTime": "23 March 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -133,6 +133,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141317_6002_MSP_KSO_FC-Web.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Konark Suryas Odisha",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
+      "match_id": 141317,
+      "startTime": "24 March 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Mumbai Aces vs Ahmedabad Lions (Actors Cricket Bash 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141343_6005_MA_ALA_fc-Web_1773994359672.jpg",
       "team_1": "Mumbai Aces",
@@ -170,20 +184,6 @@
       "match_name": "Castell\u00f3n vs Cultural Leonesa",
       "match_id": 141412,
       "startTime": "24 March 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141317_6002_MSP_KSO_FC-Web.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Konark Suryas Odisha",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-      "match_id": 141317,
-      "startTime": "24 March 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -240,6 +240,20 @@
       "match_name": "Tanzania vs Malawi",
       "match_id": 140973,
       "startTime": "24 March 2026 03:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_SSS_ING_FC-Web.jpg",
+      "team_1": "Southern Super Stars",
+      "team_2": "India Tigers",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Southern Super Stars vs India Tigers",
+      "match_id": 141318,
+      "startTime": "24 March 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -328,20 +342,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_SSS_ING_FC-Web.jpg",
-      "team_1": "Southern Super Stars",
-      "team_2": "India Tigers",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Southern Super Stars vs India Tigers",
-      "match_id": 141318,
-      "startTime": "24 March 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Jupiter vs Los Angeles vs Florida (TGL Season 2)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
@@ -394,6 +394,20 @@
       "match_name": "VfL Wolfsburg Women vs Lyon Women",
       "match_id": 140959,
       "startTime": "24 March 2026 11:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Arsenal Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1772169946122/140960_CASACARDS_APP.png",
+      "team_1": "Arsenal Women",
+      "team_2": "Chelsea F.C. Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Arsenal Women vs Chelsea F.C. Women",
+      "match_id": 140960,
+      "startTime": "25 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -464,20 +478,6 @@
       "match_name": "D Court Feed vs Miami, United States",
       "match_id": 141479,
       "startTime": "24 March 2026 08:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Arsenal Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1772169946122/140960_CASACARDS_APP.png",
-      "team_1": "Arsenal Women",
-      "team_2": "Chelsea F.C. Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Arsenal Women vs Chelsea F.C. Women",
-      "match_id": 140960,
-      "startTime": "25 March 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
