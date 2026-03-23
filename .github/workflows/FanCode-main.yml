@@ -3,7 +3,7 @@ name: Auto Update FanCode playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/ * * * *"   # প্রতি ৩০ মিনিটে run
+    - cron: "*/30 * * * *"   # প্রতি ৩০ মিনিটে run
 
 permissions:
   contents: write
