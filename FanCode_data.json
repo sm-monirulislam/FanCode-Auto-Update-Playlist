@@ -2,22 +2,22 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "10:56:57 AM 04-04-2026",
+  "match_amount": 39,
+  "last update time": "12:03:59 PM 04-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026 New Zealand Women South)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "South Africa Women",
+      "title": "Central Coast Mariners vs Perth Glory (A League 2025-26 Central Coast Mariners)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Perth Glory",
       "status": "LIVE",
-      "event_name": "South Africa Women's tour of New Zealand, 2026 New Zealand Women South",
-      "match_name": "New Zealand Women vs South Africa Women",
-      "match_id": "141073",
+      "event_name": "A League 2025-26 Central Coast Mariners",
+      "match_name": "Central Coast Mariners vs Perth Glory",
+      "match_id": "140926",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/master.m3u8?hdnea=st=1775278160~exp=1775278460~acl=*~id=176961c1-0c90-41ea-b807-c97704431b41~hmac=68276ca0bbfba42de7e2966138c8240bf5f3558b83c3cf82d868b7f1e1589b53&originpath=/linear/hls/pb/event/HynNobMPSu6nQCgpxsK0lQ/stream/0a4d2726-e21c-41bd-b9e1-8659e4576d28:TPE/master.m3u8"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140926_english_hls_f7bec02ece54917_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775368582~_GO=Generated~acl=/mumbai/140926_english_hls_f7bec02ece54917_1ta-di_h264/*~Signature=Aad0pFdj4ruUbkhJW1NKS1bpQdTCIPMx8u32-LDyKJwVF6aUR-AMf-bbWymSaEU7xD_xyCbqtSCTWQeYg5gJvziCfVwK"
     },
     {
       "event_category": "Cricket",
@@ -161,20 +161,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Central Coast Mariners vs Perth Glory (Central Coast Mariners vs Perth Glory (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
-      "match_name": "Central Coast Mariners vs Perth Glory",
-      "match_id": "140926",
-      "startTime": "4 April 2026 11:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Melbourne City vs Western Sydney Wanderers (Melbourne City vs Western Sydney Wanderers (A League 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
       "team_1": "Melbourne City",
@@ -286,6 +272,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Everest Falcons vs New York Liberty XI (Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
+      "team_1": "Everest Falcons",
+      "team_2": "New York Liberty XI",
+      "status": "UPCOMING",
+      "event_name": "Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026)",
+      "match_name": "Everest Falcons vs New York Liberty XI",
+      "match_id": "141743",
+      "startTime": "5 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Tiriac Open - Day 6 (Tiriac Open - Day 6 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank ))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
@@ -366,20 +366,6 @@
       "match_name": "Marquee Feed - Day 3",
       "match_id": "141789",
       "startTime": "4 April 2026 08:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Everest Falcons vs New York Liberty XI (Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
-      "team_1": "Everest Falcons",
-      "team_2": "New York Liberty XI",
-      "status": "UPCOMING",
-      "event_name": "Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026)",
-      "match_name": "Everest Falcons vs New York Liberty XI",
-      "match_id": "141743",
-      "startTime": "5 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -496,6 +482,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Mumbai City FC vs Odisha FC (Mumbai City FC vs Odisha FC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg",
+      "team_1": "Mumbai City FC",
+      "team_2": "Odisha FC",
+      "status": "UPCOMING",
+      "event_name": "Mumbai City FC vs Odisha FC (ISL 2025-26)",
+      "match_name": "Mumbai City FC vs Odisha FC",
+      "match_id": "140477",
+      "startTime": "5 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Court 1 (Court 1 vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -548,20 +548,6 @@
       "match_name": "Court 3",
       "match_id": "141658",
       "startTime": "5 April 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Mumbai City FC vs Odisha FC (Mumbai City FC vs Odisha FC (ISL 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg",
-      "team_1": "Mumbai City FC",
-      "team_2": "Odisha FC",
-      "status": "UPCOMING",
-      "event_name": "Mumbai City FC vs Odisha FC (ISL 2025-26)",
-      "match_name": "Mumbai City FC vs Odisha FC",
-      "match_id": "140477",
-      "startTime": "5 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
