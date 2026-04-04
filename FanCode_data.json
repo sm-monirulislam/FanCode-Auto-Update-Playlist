@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "07:09:59 PM 04-04-2026",
+  "last update time": "08:06:12 PM 04-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,35 +17,7 @@
       "match_id": "141647",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141647_english_hls_4786faa2ed29254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775393507~_GO=Generated~acl=/mumbai/141647_english_hls_4786faa2ed29254_1ta-di_h264/*~Signature=Aad0pFdlVSTzVyJp6jmXdhfTMZFwoQ4j5z9SvdxsXn3GfeGeZuDOMsakN6vjVXMO-5xJ4HP1QpiRnbD0H1VVJYGKFD0M"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Jamshedpur Fc vs Mohun Bagan Super Giant (ISL 2025-26 Jamshedpur FC Mohun Bagan)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140474_5956_JFC_MBSG_FC-Web_1772460258101.jpg",
-      "team_1": "Jamshedpur Fc",
-      "team_2": "Mohun Bagan Super Giant",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26 Jamshedpur FC Mohun Bagan",
-      "match_name": "Jamshedpur Fc vs Mohun Bagan Super Giant",
-      "match_id": "140474",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Jamshedpur Fc vs Mohun Bagan Super Giant (ISL 2025-26 - Regional Jamshedpur FC Mohun Bagan)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141803_5973_JFC_MBSG_fc-web.jpg",
-      "team_1": "Jamshedpur Fc",
-      "team_2": "Mohun Bagan Super Giant",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26 - Regional Jamshedpur FC Mohun Bagan",
-      "match_name": "Jamshedpur Fc vs Mohun Bagan Super Giant",
-      "match_id": "141803",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141647_english_hls_4786faa2ed29254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775397325~_GO=Generated~acl=/mumbai/141647_english_hls_4786faa2ed29254_1ta-di_h264/*~Signature=Aad0pFfffecTjqe3mBBZCHCLLbaTDXqbT4IBih3rMLnuXS7zsUjYFl44boIAJrtfbXjHlWu_0c5lMY07jsZSFnGvNIUJ"
     },
     {
       "event_category": "Cricket",
@@ -63,17 +35,31 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Vietnam U20 vs Thailand U20 (AFC U20 Women's Asian Cup 2026 Vietnam U20)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
-      "team_1": "Vietnam U20",
-      "team_2": "Thailand U20",
+      "title": "Fc Goa vs Bengaluru Fc (ISL 2025-26 FC Goa)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140475_5956_FCG_BFC_FC-Web_1772460347000.jpg",
+      "team_1": "Fc Goa",
+      "team_2": "Bengaluru Fc",
       "status": "LIVE",
-      "event_name": "AFC U20 Women's Asian Cup 2026 Vietnam U20",
-      "match_name": "Vietnam U20 vs Thailand U20",
-      "match_id": "141618",
+      "event_name": "ISL 2025-26 FC Goa",
+      "match_name": "Fc Goa vs Bengaluru Fc",
+      "match_id": "140475",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141618_english_hls_12dc94f6a788144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775393920~_GO=Generated~acl=/mumbai/141618_english_hls_12dc94f6a788144_1ta-di_h264/*~Signature=Aad0pFdeWrAerao_T7O7LqDgWSHFxxL4ZQaTjUdjd9Itz8o5mbU55ngYR3VnHPfuo4xfN3tpZXrLsGNtj99ufqjNKsoE"
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Rcd Mallorca vs Real Madrid (LALIGA 2025-26 RCD Mallorca)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
+      "team_1": "Rcd Mallorca",
+      "team_2": "Real Madrid",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 RCD Mallorca",
+      "match_name": "Rcd Mallorca vs Real Madrid",
+      "match_id": "131127",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -87,7 +73,21 @@
       "match_id": "141683",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141683_english_hls_3ce1350ac438535_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775393934~_GO=Generated~acl=/mumbai/141683_english_hls_3ce1350ac438535_1ta-di_h264/*~Signature=Aad0pFcgv3Zwl4izw3QrM1F6w60gOyq5qs0dZviiuC8wsUNVucgTiLiVCx6lVljZ3RXHZjpq0qDpY9XltEURA_lHG6gF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141683_english_hls_3ce1350ac438535_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775397737~_GO=Generated~acl=/mumbai/141683_english_hls_3ce1350ac438535_1ta-di_h264/*~Signature=Aad0pFf3xRFnvpi2hhXmuz7OSdfdguXF8z0PZVwuD30aS2HWSHDs71t0eKf3BKl9aVO2rVf0FSA82uPYTGS9neXpK1AI"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Vietnam U20 vs Thailand U20 (AFC U20 Women's Asian Cup 2026 Vietnam U20)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
+      "team_1": "Vietnam U20",
+      "team_2": "Thailand U20",
+      "status": "LIVE",
+      "event_name": "AFC U20 Women's Asian Cup 2026 Vietnam U20",
+      "match_name": "Vietnam U20 vs Thailand U20",
+      "match_id": "141618",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141618_english_hls_12dc94f6a788144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775397750~_GO=Generated~acl=/mumbai/141618_english_hls_12dc94f6a788144_1ta-di_h264/*~Signature=Aad0pFcXA7vA57ZruDeyyPTU7teGZb8Z3K3BUrgFeILrQKOGxcfEquA5A5H7l0c17c8PDL6Hn4bipV7sGax5CKJ_Y7EA"
     },
     {
       "event_category": "Tennis",
@@ -101,7 +101,7 @@
       "match_id": "141294",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141294_english_hls_fa5d462d6952704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775393946~_GO=Generated~acl=/mumbai/141294_english_hls_fa5d462d6952704_1ta-di_h264/*~Signature=Aad0pFf9PrwnDUN2gPdGnQBj0UyPcFY6z4a3jYFx_QJNKfgaO5wp3qxHmNchoAC3srDYsTylDtjROdsiohKHGPlVWQED"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141294_english_hls_fa5d462d6952704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775397763~_GO=Generated~acl=/mumbai/141294_english_hls_fa5d462d6952704_1ta-di_h264/*~Signature=Aad0pFeNJWkFg4lG9elWxCqmTH0n93zIMIxmIeASSIALNYRMNNUbJtR4OZn6tMtiQyFb-YZl3S8W1kGiAsYE5lbdbAcA"
     },
     {
       "event_category": "Tennis",
@@ -115,35 +115,7 @@
       "match_id": "141283",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141283_english_hls_b45a8d2e7165457_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775393959~_GO=Generated~acl=/mumbai/141283_english_hls_b45a8d2e7165457_1ta-di_h264/*~Signature=Aad0pFeZwLwTBhcP4IbX1yq6xpFULWzsnf-KUKOL-MEqhmICPDK3NN_jXjFSu8oQPaLBH1eM-MiHFwZX3DSxz2kNWUgB"
-    },
-    {
-      "event_category": "Football",
-      "title": "FC Goa vs Bengaluru FC (FC Goa vs Bengaluru FC (ISL 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140475_5956_FCG_BFC_FC-Web_1772460347000.jpg",
-      "team_1": "FC Goa",
-      "team_2": "Bengaluru FC",
-      "status": "UPCOMING",
-      "event_name": "FC Goa vs Bengaluru FC (ISL 2025-26)",
-      "match_name": "FC Goa vs Bengaluru FC",
-      "match_id": "140475",
-      "startTime": "4 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "RCD Mallorca vs Real Madrid (RCD Mallorca vs Real Madrid (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131127_5427_MRC_RM_FC-Web.png",
-      "team_1": "RCD Mallorca",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "RCD Mallorca vs Real Madrid (LALIGA 2025-26)",
-      "match_name": "RCD Mallorca vs Real Madrid",
-      "match_id": "131127",
-      "startTime": "4 April 2026 07:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141283_english_hls_b45a8d2e7165457_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775397776~_GO=Generated~acl=/mumbai/141283_english_hls_b45a8d2e7165457_1ta-di_h264/*~Signature=Aad0pFfGKU6Kz3gBPOHEItfDtmlYyOXpO3IIAFMNv57ls97ufSKc_ahe-rh3dgZWEJIOG8GO95Y7VJyS-efJ54Oj_NoI"
     },
     {
       "event_category": "Football",
@@ -240,6 +212,34 @@
       "match_name": "Deportivo La Coruna vs M\u00e1laga",
       "match_id": "141684",
       "startTime": "4 April 2026 10:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 (Main Feed - Day 3 vs San Antonio, Texas (Valero Texas Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Main Feed - Day 3 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "match_name": "Main Feed - Day 3",
+      "match_id": "141787",
+      "startTime": "4 April 2026 07:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 3 (Featured Holes - Day 3 vs San Antonio, Texas (Valero Texas Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Featured Holes - Day 3 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "match_name": "Featured Holes - Day 3",
+      "match_id": "141790",
+      "startTime": "4 April 2026 08:15 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -385,34 +385,6 @@
     },
     {
       "event_category": "Golf",
-      "title": "Main Feed - Day 3 (Main Feed - Day 3 vs San Antonio, Texas (Valero Texas Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Main Feed - Day 3 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "match_name": "Main Feed - Day 3",
-      "match_id": "141787",
-      "startTime": "4 April 2026 07:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 3 (Featured Holes - Day 3 vs San Antonio, Texas (Valero Texas Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Featured Holes - Day 3 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "match_name": "Featured Holes - Day 3",
-      "match_id": "141790",
-      "startTime": "4 April 2026 08:15 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
       "title": "World Feed - Day 3 (World Feed - Day 3 vs San Antonio, Texas (Valero Texas Open 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
       "team_1": "",
@@ -468,6 +440,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Real Oviedo vs Sevilla FC (Real Oviedo vs Sevilla FC (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
+      "team_1": "Real Oviedo",
+      "team_2": "Sevilla FC",
+      "status": "UPCOMING",
+      "event_name": "Real Oviedo vs Sevilla FC (LALIGA 2025-26)",
+      "match_name": "Real Oviedo vs Sevilla FC",
+      "match_id": "131128",
+      "startTime": "5 April 2026 10:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 3 (Day 3 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
@@ -483,15 +469,15 @@
     },
     {
       "event_category": "Football",
-      "title": "Real Oviedo vs Sevilla FC (Real Oviedo vs Sevilla FC (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Sevilla FC",
+      "title": "Al-Ettifaq vs Al-Qadsiah FC (Al-Ettifaq vs Al-Qadsiah FC (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
+      "team_1": "Al-Ettifaq",
+      "team_2": "Al-Qadsiah FC",
       "status": "UPCOMING",
-      "event_name": "Real Oviedo vs Sevilla FC (LALIGA 2025-26)",
-      "match_name": "Real Oviedo vs Sevilla FC",
-      "match_id": "131128",
-      "startTime": "5 April 2026 10:00 PM",
+      "event_name": "Al-Ettifaq vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+      "match_name": "Al-Ettifaq vs Al-Qadsiah FC",
+      "match_id": "140724",
+      "startTime": "5 April 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -548,6 +534,20 @@
       "match_name": "Court 3",
       "match_id": "141658",
       "startTime": "5 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Las Palmas vs Huesca (Las Palmas vs Huesca (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Huesca",
+      "status": "UPCOMING",
+      "event_name": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26)",
+      "match_name": "Las Palmas vs Huesca",
+      "match_id": "141685",
+      "startTime": "5 April 2026 10:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
