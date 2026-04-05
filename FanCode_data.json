@@ -3,35 +3,35 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "09:58:11 PM 05-04-2026",
+  "last update time": "10:50:29 PM 05-04-2026",
   "matches": [
     {
-      "event_category": "Cricket",
-      "title": "Mumbai City Fc vs Odisha Fc (ISL 2025-26 Mumbai City FC)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg",
-      "team_1": "Mumbai City Fc",
-      "team_2": "Odisha Fc",
+      "event_category": "Football",
+      "title": "Real Oviedo vs Sevilla Fc (LALIGA 2025-26 Real Oviedo)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
+      "team_1": "Real Oviedo",
+      "team_2": "Sevilla Fc",
       "status": "LIVE",
-      "event_name": "ISL 2025-26 Mumbai City FC",
-      "match_name": "Mumbai City Fc vs Odisha Fc",
-      "match_id": "140477",
+      "event_name": "LALIGA 2025-26 Real Oviedo",
+      "match_name": "Real Oviedo vs Sevilla Fc",
+      "match_id": "131128",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140477_english_hls_f5ce548c6563544_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490294~_GO=Generated~acl=/mumbai/140477_english_hls_f5ce548c6563544_1ta-di_h264/*~Signature=Aad0pFeiVEvBNp6LT2ad2kCKnP5uGQtn3Fx2tsY6hmCkWRMP4U03Fc5JWPEL_jrQ_E30IqJgCOdCQ3uBWHEEl11h9fkL"
+      "adfree_url": ""
     },
     {
       "event_category": "Football",
-      "title": "Valencia Cf vs Rc Celta (LALIGA 2025-26 Valencia CF)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png",
-      "team_1": "Valencia Cf",
-      "team_2": "Rc Celta",
+      "title": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26 Las)",
+      "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Huesca",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Valencia CF",
-      "match_name": "Valencia Cf vs Rc Celta",
-      "match_id": "131120",
+      "event_name": "LALIGA Hypermotion 2025-26 Las",
+      "match_name": "Las Palmas vs Huesca",
+      "match_id": "141685",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131120_english_hls_d1e73b1c0d60450_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490310~_GO=Generated~acl=/mumbai/131120_english_hls_d1e73b1c0d60450_1ta-di_h264/*~Signature=Aad0pFfUJSyc6qKCNQKyLpZV_Gc8onxxyZ5odBcPOKysX7ChJyJGp6bAq41mFxbgJizvAoxn6lFh1ruycQXb-A15eXoK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141685_english_hls_adf7b6902728503_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493346~_GO=Generated~acl=/mumbai/141685_english_hls_adf7b6902728503_1ta-di_h264/*~Signature=Aad0pFf1yQBjO2lP9pZqZM-sXWL6gW8Z7uqqc2FSQFcp_tekcpRcuQ8Dm4956hocF2HOC62cJ5x023PYEe9WKmjwy8UE"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +45,7 @@
       "match_id": "141657",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490320~_GO=Generated~acl=/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/*~Signature=Aad0pFd38QyoAk8yjJ1e9BXkFdySFVWYwjX9S7aoluNlJnNbNXtEhbNDbldr7_wzBPST4lPiPAOtF6AaPP5I3lgj2YkB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493359~_GO=Generated~acl=/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/*~Signature=Aad0pFc2OslFWIY_3ktDuBS0eliDy00h8idnFS03osYLjDQX6DnguMV0FQTd4refrizzWVh3pEWSEkphivoHhAXTuo4G"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +59,7 @@
       "match_id": "141656",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141656_english_hls_a449fc64e546046_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493371~_GO=Generated~acl=/mumbai/141656_english_hls_a449fc64e546046_1ta-di_h264/*~Signature=Aad0pFdJsmt4PhzPV8hfCoRDc2WAGANmRg7wgGyUyBW2mSwAasIdT6C0K33y5b5UfzW-rshUf9f-NatlnNviWc_GDSgA"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +73,7 @@
       "match_id": "141658",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141658_english_hls_9f801c270499763_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493385~_GO=Generated~acl=/mumbai/141658_english_hls_9f801c270499763_1ta-di_h264/*~Signature=Aad0pFdGX0N5QrJ93gGBfBcnNzmDwxMFBD_NDVHjBUk5h6P8tinQuW6qoQ_AizPINrY4MBSsITKtcyyreim5nfiZ6VwE"
     },
     {
       "event_category": "Tennis",
@@ -87,7 +87,7 @@
       "match_id": "141655",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490601~_GO=Generated~acl=/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/*~Signature=Aad0pFc46vMwmkOBrI6cUBtfqijQP2KRjBMyJdAcG1bFLiK6NMUMQVcOF_ioB_7oaMcld0GZ5lFUq1lIGaSqUTksjWkN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493398~_GO=Generated~acl=/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/*~Signature=Aad0pFfiJmvcfxhbjKTeZyFBDwoWJT5xnOcWHN3gDWMBq5wyhwigto7FI474n9SrHLvJQ0gJNTYO0DDCf7rQXzP6cccH"
     },
     {
       "event_category": "Golf",
@@ -101,7 +101,7 @@
       "match_id": "141795",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490614~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFc9WmNtJ2mBeC70R6t-HiVT0nkKsNpwPXN3wvmRqwxuZJwD8Hweh0DnvZSMhogCd9-4CHQZWPfoBL5wmvryp5YC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493412~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFf4tIBMfy57aI0K0TueyB0ZIsj2jBaowK96FBCTY0CQO_2ZVNvyK7Lv-lVyYI7rMNQl9ArMLTIT4984AjykktoI"
     },
     {
       "event_category": "Golf",
@@ -115,7 +115,7 @@
       "match_id": "141794",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490626~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFcfza_72p1yy6omlxR7AsFsJsntPCyjR-HBwe6ODUhRgm7d8IjP5a4luLV7r8ILWrJ04vNZwGG9Bc6B7LEwQ0EJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493425~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFe1se0Q5LTzFXVQX95qdr-BwJAfBEHwKchsvB6CR9wOhmPz-rbVa99xum4ESK2AezpTG7gU16XD_uLEISflNGYL"
     },
     {
       "event_category": "Golf",
@@ -129,7 +129,7 @@
       "match_id": "141793",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490640~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFfS55eUr0J7vimO3VAIli9C18hIod-yz8sirZ86X6DmZR1WUmSWxgMFVCuNJgzKBo8rmwapDlCXnl-_hgNAVukC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493438~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFeOMZdNGqNqgnHOkrVcHSp83RtEdRJImK8jnhNcXgEMP_zILghE1cfrD8lEldhcW5_-UNzgYGRcT7kjitfxA-YO"
     },
     {
       "event_category": "Golf",
@@ -143,49 +143,21 @@
       "match_id": "141792",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490653~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFf8UtwbCSE1_9C0PkuqCB6ibltszeIhjpHMEUzPpSB6GSTvcuA4N1ZZcUDYF72EhR0qoK_VTSTphnUGc_Vn43YL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775493451~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFdMeWszjSgyk3gFntn4kCJoNnT4sC6rpWG41qb0rAwIppt4_3ly6d440En6oAeuebU6Wzuhx0Hx76HiQqKzmUAF"
     },
     {
-      "event_category": "Tennis",
-      "title": "Marrakech, vs Morocco (ATP 250 - Grand Prix Hassan ll 2026 Grand Prix Hassan II - Day 7)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png",
-      "team_1": "Marrakech,",
-      "team_2": "Morocco",
+      "event_category": "Football",
+      "title": "Valencia Cf vs Rc Celta (LALIGA 2025-26 Valencia CF)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png",
+      "team_1": "Valencia Cf",
+      "team_2": "Rc Celta",
       "status": "LIVE",
-      "event_name": "ATP 250 - Grand Prix Hassan ll 2026 Grand Prix Hassan II - Day 7",
-      "match_name": "Marrakech, vs Morocco",
-      "match_id": "141285",
+      "event_name": "LALIGA 2025-26 Valencia CF",
+      "match_name": "Valencia Cf vs Rc Celta",
+      "match_id": "131120",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141285_english_hls_5366357f2366097_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775490666~_GO=Generated~acl=/mumbai/141285_english_hls_5366357f2366097_1ta-di_h264/*~Signature=Aad0pFfp4z7r9UjHfj3Nif28HLdUW39SYYzV7kvR4FMkxjfRMRfHT04OyIgaBW-ZaUXkpPiRBibrO85fazthPU3Xu_AM"
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Oviedo vs Sevilla FC (Real Oviedo vs Sevilla FC (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Sevilla FC",
-      "status": "UPCOMING",
-      "event_name": "Real Oviedo vs Sevilla FC (LALIGA 2025-26)",
-      "match_name": "Real Oviedo vs Sevilla FC",
-      "match_id": "131128",
-      "startTime": "5 April 2026 10:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Las Palmas vs Huesca (Las Palmas vs Huesca (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
-      "team_1": "Las Palmas",
-      "team_2": "Huesca",
-      "status": "UPCOMING",
-      "event_name": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26)",
-      "match_name": "Las Palmas vs Huesca",
-      "match_id": "141685",
-      "startTime": "5 April 2026 10:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131120_english_hls_d1e73b1c0d60450_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775493470~_GO=Generated~acl=/mumbai/131120_english_hls_d1e73b1c0d60450_1ta-di_h264/*~Signature=Aad0pFcfC88RkIpT23s7KtXcDskkt5qA0NpiRVDSHk1tFSGvU2a2yhaz-uYF3ZqS6R3mWYDZWo_xMY60lFX0bj2srTME"
     },
     {
       "event_category": "Football",
@@ -282,6 +254,20 @@
       "match_name": "Portsmouth F.C. vs Oxford United",
       "match_id": "141432",
       "startTime": "6 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed - Day 4 (World Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "World Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "match_name": "World Feed - Day 4",
+      "match_id": "141796",
+      "startTime": "5 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -384,16 +370,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "World Feed - Day 4 (World Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "",
-      "team_2": "",
+      "event_category": "Football",
+      "title": "Girona FC vs Villarreal CF (Girona FC vs Villarreal CF (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
+      "team_1": "Girona FC",
+      "team_2": "Villarreal CF",
       "status": "UPCOMING",
-      "event_name": "World Feed - Day 4 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "match_name": "World Feed - Day 4",
-      "match_id": "141796",
-      "startTime": "5 April 2026 10:30 PM",
+      "event_name": "Girona FC vs Villarreal CF (LALIGA 2025-26)",
+      "match_name": "Girona FC vs Villarreal CF",
+      "match_id": "131126",
+      "startTime": "7 April 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Hull City vs Coventry City F.C. (Hull City vs Coventry City F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg",
+      "team_1": "Hull City",
+      "team_2": "Coventry City F.C.",
+      "status": "UPCOMING",
+      "event_name": "Hull City vs Coventry City F.C. (EFL Championship 2025-26)",
+      "match_name": "Hull City vs Coventry City F.C.",
+      "match_id": "141436",
+      "startTime": "7 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -422,34 +422,6 @@
       "match_name": "Day 4",
       "match_id": "141639",
       "startTime": "6 April 2026 02:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Girona FC vs Villarreal CF (Girona FC vs Villarreal CF (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
-      "team_1": "Girona FC",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "Girona FC vs Villarreal CF (LALIGA 2025-26)",
-      "match_name": "Girona FC vs Villarreal CF",
-      "match_id": "131126",
-      "startTime": "7 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Hull City vs Coventry City F.C. (Hull City vs Coventry City F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg",
-      "team_1": "Hull City",
-      "team_2": "Coventry City F.C.",
-      "status": "UPCOMING",
-      "event_name": "Hull City vs Coventry City F.C. (EFL Championship 2025-26)",
-      "match_name": "Hull City vs Coventry City F.C.",
-      "match_id": "141436",
-      "startTime": "7 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -562,6 +534,34 @@
       "match_name": "Brazil Women vs Malawi Women",
       "match_id": "141892",
       "startTime": "7 April 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Botswana Women vs Mozambique Women (Botswana Women vs Mozambique Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Botswana Women",
+      "team_2": "Mozambique Women",
+      "status": "UPCOMING",
+      "event_name": "Botswana Women vs Mozambique Women (Kalahari Women's T20 2026)",
+      "match_name": "Botswana Women vs Mozambique Women",
+      "match_id": "141893",
+      "startTime": "7 April 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Court 3 (Court 3 vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Court 3 vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "Court 3",
+      "match_id": "141666",
+      "startTime": "7 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
