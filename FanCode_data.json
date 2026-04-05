@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "02:41:12 AM 06-04-2026",
+  "last update time": "03:38:54 AM 06-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Deportivo Alaves vs Ca Osasuna (LALIGA 2025-26 Deportivo Alaves)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Ca Osasuna",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Deportivo Alaves",
-      "match_name": "Deportivo Alaves vs Ca Osasuna",
-      "match_id": "131123",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
-    },
     {
       "event_category": "Golf",
       "title": "Antonio, vs Texas (Valero Texas Open 2026 Featured Groups - Day 4 San)",
@@ -31,7 +17,7 @@
       "match_id": "141795",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507683~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFec0XyVXOTAW75yQ8tb9StWFtXBMCNZH79fFvIwb0n_URK9BoopRusThNZrPc9z_jVTesXLkMqFEYbWZehab70D"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775510903~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFeY_nx2rXFt4XGplnhELA7n54bmR1vdL1i6tZ4Qb4Eu28EmPhxJ0ZJbQZx1JbM_0oNBZkMSD4_GnfigVXZXuFoB"
     },
     {
       "event_category": "Golf",
@@ -45,35 +31,7 @@
       "match_id": "141794",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507696~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFcd4SBD8HhDF7PGnVqCYpg3niRxCqxjWZE5CzvmkU27C5a-d1wJs2nIPg0jP13poBPOAdFCaN3UAoEfOZNjObgP"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Antonio, vs Texas (Valero Texas Open 2026 Featured Holes - Day 4 San)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Antonio,",
-      "team_2": "Texas",
-      "status": "LIVE",
-      "event_name": "Valero Texas Open 2026 Featured Holes - Day 4 San",
-      "match_name": "Antonio, vs Texas",
-      "match_id": "141793",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507709~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFdVpt-vu3DpAn5ynAkdgJETbvQjMZcp7g2UHFZJDiu_OyiXxsh9haUm87JcjqY47VPZZMhEEGJzhjaIFUuPVPIM"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Antonio, vs Texas (Valero Texas Open 2026 Main Feed - Day 4 San)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Antonio,",
-      "team_2": "Texas",
-      "status": "LIVE",
-      "event_name": "Valero Texas Open 2026 Main Feed - Day 4 San",
-      "match_name": "Antonio, vs Texas",
-      "match_id": "141792",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507723~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFciBryCld6uglOY37di31tO-PxjD9hQelNiW26u54zx-Y0SIJOI4TNhx3CIunAEuvjLFFtvENUbYPSNl0OP3TQO"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775510916~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFf9602vLWsHrrfAvOnCrZho4kGIdwlO99oKy2yBhacw0av13k6SD76BAtK0W8hvcAJTuwbrzAuBAWWDfLUcbDQG"
     },
     {
       "event_category": "Golf",
@@ -87,7 +45,7 @@
       "match_id": "141796",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507736~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFdlOflZLN8V4YJRmReVu68naKjKlXb97JfSbLPogazerv1Qy--hzNgO8hudSA7_W7tENtdnTrsCJobKj2p7iJUA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775510929~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFdOEXWht4eSOQK45wqAL1x_VNO5m4gQBUcnq1aKPHS0OYxAB6s2WZ6xeZS9c9ttf_dSDmN21WkPw-jJASu16-YC"
     },
     {
       "event_category": "Tennis",
@@ -101,21 +59,35 @@
       "match_id": "141084",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507750~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFdqs1muJk3f0_aa45hapPab21M9c7Zug1IZ1UCQmiWtJK6SaIwRhihq-9yCwTnyCDfDPu73RWUplnf380zaSSYJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775510943~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFdqV8a3I9SxAkP-8r17WAT0peDM8IDV3Yar4vf2lXzNUnk3FUKVo_xsFra6j-JCEgjfq8NUrJW8QG4hewJdLz4I"
     },
     {
-      "event_category": "Cricket",
-      "title": "Al Ettifaq vs Al Qadsiah Fc (Roshn Saudi League 2025-2026 Al-Ettifaq)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
-      "team_1": "Al Ettifaq",
-      "team_2": "Al Qadsiah Fc",
+      "event_category": "Golf",
+      "title": "Golf vs Club (Aramco Championship USA 2026 Day 4 Shadow Creek)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+      "team_1": "Golf",
+      "team_2": "Club",
       "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026 Al-Ettifaq",
-      "match_name": "Al Ettifaq vs Al Qadsiah Fc",
-      "match_id": "140724",
+      "event_name": "Aramco Championship USA 2026 Day 4 Shadow Creek",
+      "match_name": "Golf vs Club",
+      "match_id": "141639",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507763~_GO=Generated~acl=/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/*~Signature=Aad0pFfpDmQEa1_ZpVMzPdOSBelwZ9k0gMY68Y5eU_1esfKEFG6GbLjPalWcVYLe1bctZjdjKHf56-wXD-gOe8gP6kMJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775510958~_GO=Generated~acl=/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/*~Signature=Aad0pFeTibbvGYK_qCXV0PKhH7ze2f8G9HopYXHWr26glnHL8ESZ3iFDjgUH0Wp61tMPyUhpj--WOrloDd0SKzIDETAN"
+    },
+    {
+      "event_category": "Football",
+      "title": "Deportivo Alaves vs Ca Osasuna (LALIGA 2025-26 Deportivo Alaves)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
+      "team_1": "Deportivo Alaves",
+      "team_2": "Ca Osasuna",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Deportivo Alaves",
+      "match_name": "Deportivo Alaves vs Ca Osasuna",
+      "match_id": "131123",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -216,6 +188,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Swansea City A.F.C. vs Middlesbrough F.C. (Swansea City A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg",
+      "team_1": "Swansea City A.F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "UPCOMING",
+      "event_name": "Swansea City A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "match_name": "Swansea City A.F.C. vs Middlesbrough F.C.",
+      "match_id": "141435",
+      "startTime": "6 April 2026 10:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Botswana Women vs Brazil Women (Botswana Women vs Brazil Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -240,34 +226,6 @@
       "match_name": "Lesotho Women vs Malawi Women",
       "match_id": "141889",
       "startTime": "6 April 2026 01:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Swansea City A.F.C. vs Middlesbrough F.C. (Swansea City A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg",
-      "team_1": "Swansea City A.F.C.",
-      "team_2": "Middlesbrough F.C.",
-      "status": "UPCOMING",
-      "event_name": "Swansea City A.F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "match_name": "Swansea City A.F.C. vs Middlesbrough F.C.",
-      "match_id": "141435",
-      "startTime": "6 April 2026 10:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4 (Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-      "match_name": "Day 4",
-      "match_id": "141639",
-      "startTime": "6 April 2026 02:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -342,6 +300,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Genid Royals vs New York Liberty XI (Genid Royals vs New York Liberty XI (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141749_6028_GER_NYL_FC-WEB.jpg",
+      "team_1": "Genid Royals",
+      "team_2": "New York Liberty XI",
+      "status": "UPCOMING",
+      "event_name": "Genid Royals vs New York Liberty XI (Brisbane Champions League 2026)",
+      "match_name": "Genid Royals vs New York Liberty XI",
+      "match_id": "141749",
+      "startTime": "7 April 2026 05:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "World Feed (World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -394,20 +366,6 @@
       "match_name": "Court 3",
       "match_id": "141659",
       "startTime": "6 April 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Genid Royals vs New York Liberty XI (Genid Royals vs New York Liberty XI (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141749_6028_GER_NYL_FC-WEB.jpg",
-      "team_1": "Genid Royals",
-      "team_2": "New York Liberty XI",
-      "status": "UPCOMING",
-      "event_name": "Genid Royals vs New York Liberty XI (Brisbane Champions League 2026)",
-      "match_name": "Genid Royals vs New York Liberty XI",
-      "match_id": "141749",
-      "startTime": "7 April 2026 05:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -562,6 +520,48 @@
       "match_name": "Chennaiyin FC vs Inter Kashi FC",
       "match_id": "141805",
       "startTime": "7 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Vietnam U20 vs Bangladesh U20 (Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
+      "team_1": "Vietnam U20",
+      "team_2": "Bangladesh U20",
+      "status": "UPCOMING",
+      "event_name": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026)",
+      "match_name": "Vietnam U20 vs Bangladesh U20",
+      "match_id": "141624",
+      "startTime": "7 April 2026 06:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Thailand U20 vs China PR U20 (Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
+      "team_1": "Thailand U20",
+      "team_2": "China PR U20",
+      "status": "UPCOMING",
+      "event_name": "Thailand U20 vs China PR U20 (AFC U20 Women's Asian Cup 2026)",
+      "match_name": "Thailand U20 vs China PR U20",
+      "match_id": "141623",
+      "startTime": "7 April 2026 06:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Bromley vs Shrewsbury Town (Bromley vs Shrewsbury Town (League Two 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Bromley",
+      "team_2": "Shrewsbury Town",
+      "status": "UPCOMING",
+      "event_name": "Bromley vs Shrewsbury Town (League Two 2025-26)",
+      "match_name": "Bromley vs Shrewsbury Town",
+      "match_id": "141427",
+      "startTime": "8 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
