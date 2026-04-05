@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "12:44:56 PM 05-04-2026",
+  "last update time": "01:57:35 PM 05-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,35 +17,21 @@
       "match_id": "141798",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775457539~_GO=Generated~acl=/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/*~Signature=Aad0pFdyeuVOLGq7ndnHnTbRknzTcY6JqHnDO94v4g2wC1vch_CQZenFCckBEDYcShmXBeuM9E8zR1Re0CQkkQSk3X4G"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775462123~_GO=Generated~acl=/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/*~Signature=Aad0pFdd40ELuJEFFgPSzqBeg_0Jral4dwrosg_6cQtx9IsVd6QPIfHOezt2HcIUlzDf_C3oubHbP9y-57TV0h-sNJcH"
     },
     {
-      "event_category": "Cricket",
-      "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26 Melbourne Victory)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140928_5802_MLV_WEL_fc-web.jpg",
-      "team_1": "Melbourne Victory",
-      "team_2": "Wellington Phoenix",
+      "event_category": "Football",
+      "title": "Everest Falcons vs New York Liberty Xi (Brisbane Champions League 2026 Everest Falcons New York)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
+      "team_1": "Everest Falcons",
+      "team_2": "New York Liberty Xi",
       "status": "LIVE",
-      "event_name": "A League 2025-26 Melbourne Victory",
-      "match_name": "Melbourne Victory vs Wellington Phoenix",
-      "match_id": "140928",
+      "event_name": "Brisbane Champions League 2026 Everest Falcons New York",
+      "match_name": "Everest Falcons vs New York Liberty Xi",
+      "match_id": "141743",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775457552~_GO=Generated~acl=/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/*~Signature=Aad0pFfwQW6lPVzZ8Sf01ChTpf74BHOQ44DwWrCElHoCAmQQurYzXkku6CMBbcpRNldH2wJHg-pP2IPrzpiUGJtHkggA"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Everest Falcons vs New York Liberty XI (Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
-      "team_1": "Everest Falcons",
-      "team_2": "New York Liberty XI",
-      "status": "UPCOMING",
-      "event_name": "Everest Falcons vs New York Liberty XI (Brisbane Champions League 2026)",
-      "match_name": "Everest Falcons vs New York Liberty XI",
-      "match_id": "141743",
-      "startTime": "5 April 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141743_english_hls_6fe635777f35898_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775462137~_GO=Generated~acl=/mumbai/141743_english_hls_6fe635777f35898_1ta-di_h264/*~Signature=Aad0pFfeBe8rUvZebFFC33j-pR1sjw_cucCUZ8PFxrqI9vMPrmjZVzFT5yORvnnMbiYrwPPZbECDmBd-qrQt3C695JkG"
     },
     {
       "event_category": "Football",
@@ -174,6 +160,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Iconic Super Knights vs Sydney Kangaroos (Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
+      "team_1": "Iconic Super Knights",
+      "team_2": "Sydney Kangaroos",
+      "status": "UPCOMING",
+      "event_name": "Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026)",
+      "match_name": "Iconic Super Knights vs Sydney Kangaroos",
+      "match_id": "141745",
+      "startTime": "6 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "India U20 vs Australia U20 (India U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
@@ -245,20 +245,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Iconic Super Knights vs Sydney Kangaroos (Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
-      "team_1": "Iconic Super Knights",
-      "team_2": "Sydney Kangaroos",
-      "status": "UPCOMING",
-      "event_name": "Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026)",
-      "match_name": "Iconic Super Knights vs Sydney Kangaroos",
-      "match_id": "141745",
-      "startTime": "6 April 2026 08:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Namibia vs Scotland (Namibia vs Scotland (ICC CWC League 2, Namibia))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
       "team_1": "Namibia",
@@ -282,6 +268,34 @@
       "match_name": "Brisbane Stars vs Brisbane Napoleans",
       "match_id": "141746",
       "startTime": "6 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Botswana Women vs Brazil Women (Botswana Women vs Brazil Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Botswana Women",
+      "team_2": "Brazil Women",
+      "status": "UPCOMING",
+      "event_name": "Botswana Women vs Brazil Women (Kalahari Women's T20 2026)",
+      "match_name": "Botswana Women vs Brazil Women",
+      "match_id": "141888",
+      "startTime": "6 April 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Lesotho Women vs Malawi Women (Lesotho Women vs Malawi Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Lesotho Women",
+      "team_2": "Malawi Women",
+      "status": "UPCOMING",
+      "event_name": "Lesotho Women vs Malawi Women (Kalahari Women's T20 2026)",
+      "match_name": "Lesotho Women vs Malawi Women",
+      "match_id": "141889",
+      "startTime": "6 April 2026 01:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -440,34 +454,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Botswana Women vs Brazil Women (Botswana Women vs Brazil Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Botswana Women",
-      "team_2": "Brazil Women",
-      "status": "UPCOMING",
-      "event_name": "Botswana Women vs Brazil Women (Kalahari Women's T20 2026)",
-      "match_name": "Botswana Women vs Brazil Women",
-      "match_id": "141888",
-      "startTime": "6 April 2026 12:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Lesotho Women vs Malawi Women (Lesotho Women vs Malawi Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Lesotho Women",
-      "team_2": "Malawi Women",
-      "status": "UPCOMING",
-      "event_name": "Lesotho Women vs Malawi Women (Kalahari Women's T20 2026)",
-      "match_name": "Lesotho Women vs Malawi Women",
-      "match_id": "141889",
-      "startTime": "6 April 2026 01:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Tennis",
       "title": "Fayez Sarofim & Co. - Day 7 (Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
@@ -562,6 +548,20 @@
       "match_name": "Ipswich Town F.C. vs Birmingham City F.C.",
       "match_id": "141434",
       "startTime": "6 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "World Feed (World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "World Feed",
+      "match_id": "141662",
+      "startTime": "6 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
