@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 38,
-  "last update time": "01:38:36 AM 06-04-2026",
+  "match_amount": 40,
+  "last update time": "02:41:12 AM 06-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Al Ettifaq vs Al Qadsiah Fc (Roshn Saudi League 2025-2026 Al-Ettifaq)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
-      "team_1": "Al Ettifaq",
-      "team_2": "Al Qadsiah Fc",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026 Al-Ettifaq",
-      "match_name": "Al Ettifaq vs Al Qadsiah Fc",
-      "match_id": "140724",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503931~_GO=Generated~acl=/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/*~Signature=Aad0pFf_ny_FFG_SIXP9QWxu0y00YVaoc-Aw70PbImvFVWdL0DGsTk_M5xggwKW3qmMz4gwD_tQ-mLwP6MMxHTXfuocI"
-    },
     {
       "event_category": "Football",
       "title": "Deportivo Alaves vs Ca Osasuna (LALIGA 2025-26 Deportivo Alaves)",
@@ -31,7 +17,7 @@
       "match_id": "131123",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775503950~_GO=Generated~acl=/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/*~Signature=Aad0pFfMOnox6QaUal8MY2p7afInyjQs2TLI8rCCwmp4ArlKWnhilI7YUkys4mriWm_TZRfEpYnZMOAQueA2HvfCTcgG"
+      "adfree_url": ""
     },
     {
       "event_category": "Golf",
@@ -45,7 +31,7 @@
       "match_id": "141795",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503961~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFegVJ8qMzZAnOV7txutcTXypbH0vDfvwWmkx_Gx1bZ-mNIce3RaW2c_XsEyMsmdIwS1f6mgaTZcZX-FRYUAbKcI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507683~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFec0XyVXOTAW75yQ8tb9StWFtXBMCNZH79fFvIwb0n_URK9BoopRusThNZrPc9z_jVTesXLkMqFEYbWZehab70D"
     },
     {
       "event_category": "Golf",
@@ -59,7 +45,7 @@
       "match_id": "141794",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503974~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFdQpP1UpXbxBea4lG6DsaF2fmF7acSua7Sr-BJ0BJVCHdXYq_1IdkHcqEFyRdU0KFmmVUdAuF_MNrikY0wB32IK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507696~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFcd4SBD8HhDF7PGnVqCYpg3niRxCqxjWZE5CzvmkU27C5a-d1wJs2nIPg0jP13poBPOAdFCaN3UAoEfOZNjObgP"
     },
     {
       "event_category": "Golf",
@@ -73,7 +59,7 @@
       "match_id": "141793",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503988~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFeA3P-in1pb50bqdO5Y7XeALZuxy3btQt3bvtEdjTGZ9gnWe9Ub7gmDWzwEpY2ScIyXhgyieSn0Dc9sKJ45fv8E"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507709~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFdVpt-vu3DpAn5ynAkdgJETbvQjMZcp7g2UHFZJDiu_OyiXxsh9haUm87JcjqY47VPZZMhEEGJzhjaIFUuPVPIM"
     },
     {
       "event_category": "Golf",
@@ -87,7 +73,7 @@
       "match_id": "141792",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504001~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFcCs7roHkdouk1-MZ6DVpMkr3uKqP5j_6PxmHfsES-D5t_ETQQFWydgpbmGmvINRDvF6TnN44-m5cNnK9k33VIL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507723~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFciBryCld6uglOY37di31tO-PxjD9hQelNiW26u54zx-Y0SIJOI4TNhx3CIunAEuvjLFFtvENUbYPSNl0OP3TQO"
     },
     {
       "event_category": "Golf",
@@ -101,7 +87,7 @@
       "match_id": "141796",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504015~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFcpAI4sXtSb5tDeS6k0O1-sd34xHoFpidadq5Q3Azr4q_bc81_QByHZ3-_Sjcj9HFS64dWhzZ7rp0l7dr-9k50D"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507736~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFdlOflZLN8V4YJRmReVu68naKjKlXb97JfSbLPogazerv1Qy--hzNgO8hudSA7_W7tENtdnTrsCJobKj2p7iJUA"
     },
     {
       "event_category": "Tennis",
@@ -115,7 +101,21 @@
       "match_id": "141084",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504028~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFcb0J6cF79SD5mqDqKf3S-iDvt-XvJ7sFNvRCLRuG9h-pTJI2LstplN6C7A_xlLgF2tGH4KFffpIUQvT59x-60I"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507750~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFdqs1muJk3f0_aa45hapPab21M9c7Zug1IZ1UCQmiWtJK6SaIwRhihq-9yCwTnyCDfDPu73RWUplnf380zaSSYJ"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Al Ettifaq vs Al Qadsiah Fc (Roshn Saudi League 2025-2026 Al-Ettifaq)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140724_5655_ETT_ALQ_fc-web.jpg",
+      "team_1": "Al Ettifaq",
+      "team_2": "Al Qadsiah Fc",
+      "status": "LIVE",
+      "event_name": "Roshn Saudi League 2025-2026 Al-Ettifaq",
+      "match_name": "Al Ettifaq vs Al Qadsiah Fc",
+      "match_id": "140724",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775507763~_GO=Generated~acl=/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/*~Signature=Aad0pFfpDmQEa1_ZpVMzPdOSBelwZ9k0gMY68Y5eU_1esfKEFG6GbLjPalWcVYLe1bctZjdjKHf56-wXD-gOe8gP6kMJ"
     },
     {
       "event_category": "Cricket",
@@ -258,6 +258,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Day 4 (Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+      "match_name": "Day 4",
+      "match_id": "141639",
+      "startTime": "6 April 2026 02:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Mozambique Women vs Zambia Women (Mozambique Women vs Zambia Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -324,20 +338,6 @@
       "match_name": "Sporting de Gij\u00f3n vs Real Sociedad B",
       "match_id": "141686",
       "startTime": "7 April 2026 12:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4 (Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-      "match_name": "Day 4",
-      "match_id": "141639",
-      "startTime": "6 April 2026 02:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +534,34 @@
       "match_name": "Brazil Women vs Mozambique Women",
       "match_id": "141895",
       "startTime": "7 April 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chennaiyin FC vs Inter Kashi FC (Chennaiyin FC vs Inter Kashi FC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140478_5956_CFC_KSHI_FC-Web_1772460695978.jpg",
+      "team_1": "Chennaiyin FC",
+      "team_2": "Inter Kashi FC",
+      "status": "UPCOMING",
+      "event_name": "Chennaiyin FC vs Inter Kashi FC (ISL 2025-26)",
+      "match_name": "Chennaiyin FC vs Inter Kashi FC",
+      "match_id": "140478",
+      "startTime": "7 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chennaiyin FC vs Inter Kashi FC (Chennaiyin FC vs Inter Kashi FC (ISL 2025-26  - Regional))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Chennaiyin FC",
+      "team_2": "Inter Kashi FC",
+      "status": "UPCOMING",
+      "event_name": "Chennaiyin FC vs Inter Kashi FC (ISL 2025-26  - Regional)",
+      "match_name": "Chennaiyin FC vs Inter Kashi FC",
+      "match_id": "141805",
+      "startTime": "7 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
