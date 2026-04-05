@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "12:55:05 AM 06-04-2026",
+  "match_amount": 38,
+  "last update time": "01:38:36 AM 06-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "140724",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501315~_GO=Generated~acl=/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/*~Signature=Aad0pFdJW5Ohj05yXHTfct2N0bEonWDDaZJjwxlAA2U22TpWC5Vwe7y5WGdQyKZFDaKHEeQ7bGchSwGdpzmoGNXdQYgA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503931~_GO=Generated~acl=/mumbai/140724_english_hls_5ffc60cad347422_1ta-di_h264/*~Signature=Aad0pFf_ny_FFG_SIXP9QWxu0y00YVaoc-Aw70PbImvFVWdL0DGsTk_M5xggwKW3qmMz4gwD_tQ-mLwP6MMxHTXfuocI"
     },
     {
       "event_category": "Football",
@@ -31,35 +31,7 @@
       "match_id": "131123",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775501334~_GO=Generated~acl=/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/*~Signature=Aad0pFf-2Xv_cx5k1mv3gFjR4ZRvz0ZsaolKUIPA7K5nSFzCHXzNY9Q71HAS3hxT9VBOhLLbtgWSvbibXiXuUnjbsX4E"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026 Court Ranier)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "III",
-      "team_2": "Monte-Carlo",
-      "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 Court Ranier",
-      "match_name": "III vs Monte-Carlo",
-      "match_id": "141657",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501344~_GO=Generated~acl=/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/*~Signature=Aad0pFcYSKoernDhGcH2X7P92dTMsWkXlIfYZGlYNKrVSPjf5YWypbqb68cEndaJSEYNOFTX8C6gOFbWAH4pm4v95kYD"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026 World)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "Feed",
-      "team_2": "Monte-Carlo",
-      "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 World",
-      "match_name": "Feed vs Monte-Carlo",
-      "match_id": "141655",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501357~_GO=Generated~acl=/mumbai/141655_english_hls_a5434b197963342_1ta-di_h264/*~Signature=Aad0pFeoQTu5Ud6K6H0TjbvESYc2fU16VvAKXLfLpjDRSUjcZg1f98OpV2P2i3dTmKhlRjnahoe8fyOoYliasuwc4B0L"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775503950~_GO=Generated~acl=/mumbai/131123_english_hls_d08e9900cb27379_1ta-di_h264/*~Signature=Aad0pFfMOnox6QaUal8MY2p7afInyjQs2TLI8rCCwmp4ArlKWnhilI7YUkys4mriWm_TZRfEpYnZMOAQueA2HvfCTcgG"
     },
     {
       "event_category": "Golf",
@@ -73,7 +45,7 @@
       "match_id": "141795",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501371~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFcHP42e1Z5x6-Kax5bAflmZnpsgAWSwIFk9UANtORR4RxO-uOW4645Rb_CSHC-tbTKu2sbc2WnlNlHzWuwQeVEA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503961~_GO=Generated~acl=/mumbai/141795_english_hls_45dba06bc422061_1ta-di_h264/*~Signature=Aad0pFegVJ8qMzZAnOV7txutcTXypbH0vDfvwWmkx_Gx1bZ-mNIce3RaW2c_XsEyMsmdIwS1f6mgaTZcZX-FRYUAbKcI"
     },
     {
       "event_category": "Golf",
@@ -87,7 +59,7 @@
       "match_id": "141794",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501384~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFc1jvJtROFb8MR-lKDFCahJCaFI9gOgqPdY25CU4JCbsizch6-T-S28xaIhPQGY_z1UzKfLhybYLcafBI4d3bwG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503974~_GO=Generated~acl=/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/*~Signature=Aad0pFdQpP1UpXbxBea4lG6DsaF2fmF7acSua7Sr-BJ0BJVCHdXYq_1IdkHcqEFyRdU0KFmmVUdAuF_MNrikY0wB32IK"
     },
     {
       "event_category": "Golf",
@@ -101,7 +73,7 @@
       "match_id": "141793",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501397~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFc-gLClWAojXqT-ikrYnSU45pLwbR5AoCuH7uQz0to12LMOgz6EhUhIQlC5z6gQbtYV5dzHhBm6lQD5AyQyT4UM"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775503988~_GO=Generated~acl=/mumbai/141793_english_hls_f3d16cfd167759_1ta-di_h264/*~Signature=Aad0pFeA3P-in1pb50bqdO5Y7XeALZuxy3btQt3bvtEdjTGZ9gnWe9Ub7gmDWzwEpY2ScIyXhgyieSn0Dc9sKJ45fv8E"
     },
     {
       "event_category": "Golf",
@@ -115,7 +87,7 @@
       "match_id": "141792",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501411~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFdVCw7pOrq3wBu5ZW3x_Cfu4f7K8wwhEWPbbEqqIK4kP0rjHZn9pdrVNVc76qL3KeDNItil7dhzl9XkHM85xc8E"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504001~_GO=Generated~acl=/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/*~Signature=Aad0pFcCs7roHkdouk1-MZ6DVpMkr3uKqP5j_6PxmHfsES-D5t_ETQQFWydgpbmGmvINRDvF6TnN44-m5cNnK9k33VIL"
     },
     {
       "event_category": "Golf",
@@ -129,21 +101,21 @@
       "match_id": "141796",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775501424~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFfQMrw1hrjX4iThT3LenOzX-8Q0vONdC7K5PotXygFA5LDsUylJsTvBR7HpROQQNJITD-hICjyhPVDyxy1i7noB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504015~_GO=Generated~acl=/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/*~Signature=Aad0pFcpAI4sXtSb5tDeS6k0O1-sd34xHoFpidadq5Q3Azr4q_bc81_QByHZ3-_Sjcj9HFS64dWhzZ7rp0l7dr-9k50D"
     },
     {
-      "event_category": "Football",
-      "title": "Real Oviedo vs Sevilla Fc (LALIGA 2025-26 Real Oviedo)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131128_5427_RO_SEV_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Sevilla Fc",
+      "event_category": "Tennis",
+      "title": "United vs States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. - Day 7 Houston,)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
+      "team_1": "United",
+      "team_2": "States",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Real Oviedo",
-      "match_name": "Real Oviedo vs Sevilla Fc",
-      "match_id": "131128",
+      "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. - Day 7 Houston,",
+      "match_name": "United vs States",
+      "match_id": "141084",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131128_english_hls_1277e0bc368169_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775501443~_GO=Generated~acl=/mumbai/131128_english_hls_1277e0bc368169_1ta-di_h264/*~Signature=Aad0pFdYdXYh2cqsBj42JqmQ6RGTzLA4ECawm5AoLO8xtufZ288Q1MKpZw13xalb6etY4Lzt0KEaJ5_JSiL7_RH2SHgG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775504028~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFcb0J6cF79SD5mqDqKf3S-iDvt-XvJ7sFNvRCLRuG9h-pTJI2LstplN6C7A_xlLgF2tGH4KFffpIUQvT59x-60I"
     },
     {
       "event_category": "Cricket",
@@ -268,20 +240,6 @@
       "match_name": "Lesotho Women vs Malawi Women",
       "match_id": "141889",
       "startTime": "6 April 2026 01:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Fayez Sarofim & Co. - Day 7 (Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
-      "match_name": "Fayez Sarofim & Co. - Day 7",
-      "match_id": "141084",
-      "startTime": "6 April 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -562,6 +520,20 @@
       "match_name": "Lesotho Women vs Zambia Women",
       "match_id": "141894",
       "startTime": "7 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Brazil Women vs Mozambique Women (Brazil Women vs Mozambique Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Brazil Women",
+      "team_2": "Mozambique Women",
+      "status": "UPCOMING",
+      "event_name": "Brazil Women vs Mozambique Women (Kalahari Women's T20 2026)",
+      "match_name": "Brazil Women vs Mozambique Women",
+      "match_id": "141895",
+      "startTime": "7 April 2026 05:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
