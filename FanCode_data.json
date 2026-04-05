@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "11:25:46 AM 05-04-2026",
+  "last update time": "12:44:56 PM 05-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Malaysia A vs Hong Kong China A (Hong Kong, China-A tour of Malaysia-A 2026 Malaysia A Hong)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-      "team_1": "Malaysia A",
-      "team_2": "Hong Kong China A",
-      "status": "LIVE",
-      "event_name": "Hong Kong, China-A tour of Malaysia-A 2026 Malaysia A Hong",
-      "match_name": "Malaysia A vs Hong Kong China A",
-      "match_id": "141773",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141773_english_hls_d46873244215563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775452869~_GO=Generated~acl=/mumbai/141773_english_hls_d46873244215563_1ta-di_h264/*~Signature=Aad0pFfyVTqC2l7S4Y7QlaJPgIgGFmVw64fL8ISdgYs7_UwX5B1ztDOcesBkJzHFt8REfYO_4jouZlLO0eiD8SqfOCMD"
-    },
     {
       "event_category": "Cricket",
       "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026 Sri Lanka A New)",
@@ -31,7 +17,7 @@
       "match_id": "141798",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775452882~_GO=Generated~acl=/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/*~Signature=Aad0pFfUn9ECkNLwXPt0qN7pI1IT73ZdTagYJWI0os2WvfN7XLQ6m7Jp4PemY1HD3Uv9zNRCSAqggYVu51at5-SOI_wD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775457539~_GO=Generated~acl=/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/*~Signature=Aad0pFdyeuVOLGq7ndnHnTbRknzTcY6JqHnDO94v4g2wC1vch_CQZenFCckBEDYcShmXBeuM9E8zR1Re0CQkkQSk3X4G"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +31,7 @@
       "match_id": "140928",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775452895~_GO=Generated~acl=/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/*~Signature=Aad0pFcirhWtflNovHKUy_SraAtVKR4KpQn2wLcDUVdspgD3WYqZQYZem94CZOGzN0K4zov9Lmud0NukOwE8NgxmjCwK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775457552~_GO=Generated~acl=/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/*~Signature=Aad0pFfwQW6lPVzZ8Sf01ChTpf74BHOQ44DwWrCElHoCAmQQurYzXkku6CMBbcpRNldH2wJHg-pP2IPrzpiUGJtHkggA"
     },
     {
       "event_category": "Cricket",
@@ -174,6 +160,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Malaysia A vs Hong Kong, China-A (Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+      "team_1": "Malaysia A",
+      "team_2": "Hong Kong, China-A",
+      "status": "UPCOMING",
+      "event_name": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
+      "match_name": "Malaysia A vs Hong Kong, China-A",
+      "match_id": "141774",
+      "startTime": "6 April 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "India U20 vs Australia U20 (India U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
@@ -226,20 +226,6 @@
       "match_name": "Uzbekistan U20 vs DPR Korea U20",
       "match_id": "141621",
       "startTime": "5 April 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Malaysia A vs Hong Kong, China-A (Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-      "team_1": "Malaysia A",
-      "team_2": "Hong Kong, China-A",
-      "status": "UPCOMING",
-      "event_name": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
-      "match_name": "Malaysia A vs Hong Kong, China-A",
-      "match_id": "141774",
-      "startTime": "6 April 2026 07:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -454,34 +440,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Fayez Sarofim & Co. - Day 7 (Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
-      "match_name": "Fayez Sarofim & Co. - Day 7",
-      "match_id": "141084",
-      "startTime": "6 April 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4 (Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-      "match_name": "Day 4",
-      "match_id": "141639",
-      "startTime": "6 April 2026 02:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Botswana Women vs Brazil Women (Botswana Women vs Brazil Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -506,6 +464,34 @@
       "match_name": "Lesotho Women vs Malawi Women",
       "match_id": "141889",
       "startTime": "6 April 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Fayez Sarofim & Co. - Day 7 (Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Fayez Sarofim & Co. - Day 7 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
+      "match_name": "Fayez Sarofim & Co. - Day 7",
+      "match_id": "141084",
+      "startTime": "6 April 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 4 (Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 4 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+      "match_name": "Day 4",
+      "match_id": "141639",
+      "startTime": "6 April 2026 02:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -552,16 +538,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "World Feed (World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
+      "event_category": "Football",
+      "title": "Watford F.C. vs Charlton Athletic F.C (Watford F.C. vs Charlton Athletic F.C (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141433_5489_WAT_CHL_fc-web.jpg",
+      "team_1": "Watford F.C.",
+      "team_2": "Charlton Athletic F.C",
       "status": "UPCOMING",
-      "event_name": "World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-      "match_name": "World Feed",
-      "match_id": "141662",
-      "startTime": "6 April 2026 01:30 PM",
+      "event_name": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2025-26)",
+      "match_name": "Watford F.C. vs Charlton Athletic F.C",
+      "match_id": "141433",
+      "startTime": "6 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Ipswich Town F.C. vs Birmingham City F.C. (Ipswich Town F.C. vs Birmingham City F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141434_5489_IPT_BIR_fc-web.jpg",
+      "team_1": "Ipswich Town F.C.",
+      "team_2": "Birmingham City F.C.",
+      "status": "UPCOMING",
+      "event_name": "Ipswich Town F.C. vs Birmingham City F.C. (EFL Championship 2025-26)",
+      "match_name": "Ipswich Town F.C. vs Birmingham City F.C.",
+      "match_id": "141434",
+      "startTime": "6 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
