@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 39,
-  "last update time": "04:39:03 AM 06-04-2026",
+  "match_amount": 40,
+  "last update time": "05:40:36 AM 06-04-2026",
   "matches": [
-    {
-      "event_category": "Tennis",
-      "title": "United vs States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. - Day 7 Houston,)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-      "team_1": "United",
-      "team_2": "States",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay Fayez Sarofim & Co. - Day 7 Houston,",
-      "match_name": "United vs States",
-      "match_id": "141084",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775514809~_GO=Generated~acl=/mumbai/141084_english_hls_1364aff90b80711_1ta-di_h264/*~Signature=Aad0pFerw0UW4xSGiTX4jTe_Yc0CZSSgRvh6AzNx1W8_M3mFmgIQ-FMypnQ6sI8eEAyo0HrE12wd5UYS_McofLxx-T0G"
-    },
     {
       "event_category": "Golf",
       "title": "Golf vs Club (Aramco Championship USA 2026 Day 4 Shadow Creek)",
@@ -31,7 +17,7 @@
       "match_id": "141639",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775514821~_GO=Generated~acl=/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/*~Signature=Aad0pFe5lKpkzkXeZQWz8JF74V2eJv__ngaLQRi6AvAN8yQZDUADGFDWs_QiAYkeO4WI-157ewty5BuQ0Q-vUXkXfoUH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775518368~_GO=Generated~acl=/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/*~Signature=Aad0pFdl6VROtLC_t6zYNc2C-Pul8rYUXCpDGvqgknuoa6c4EITSvnWHRtHGRFGjVz_9-85wECcG9fhuIWLPsnf1xC8P"
     },
     {
       "event_category": "Cricket",
@@ -174,34 +160,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Mozambique Women vs Zambia Women (Mozambique Women vs Zambia Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Mozambique Women",
-      "team_2": "Zambia Women",
-      "status": "UPCOMING",
-      "event_name": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026)",
-      "match_name": "Mozambique Women vs Zambia Women",
-      "match_id": "141890",
-      "startTime": "6 April 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Botswana Women vs Lesotho Women (Botswana Women vs Lesotho Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Botswana Women",
-      "team_2": "Lesotho Women",
-      "status": "UPCOMING",
-      "event_name": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026)",
-      "match_name": "Botswana Women vs Lesotho Women",
-      "match_id": "141891",
-      "startTime": "6 April 2026 05:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Girona FC vs Villarreal CF (Girona FC vs Villarreal CF (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png",
@@ -226,6 +184,34 @@
       "match_name": "Hull City vs Coventry City F.C.",
       "match_id": "141436",
       "startTime": "7 April 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mozambique Women vs Zambia Women (Mozambique Women vs Zambia Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Mozambique Women",
+      "team_2": "Zambia Women",
+      "status": "UPCOMING",
+      "event_name": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026)",
+      "match_name": "Mozambique Women vs Zambia Women",
+      "match_id": "141890",
+      "startTime": "6 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Botswana Women vs Lesotho Women (Botswana Women vs Lesotho Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Botswana Women",
+      "team_2": "Lesotho Women",
+      "status": "UPCOMING",
+      "event_name": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026)",
+      "match_name": "Botswana Women vs Lesotho Women",
+      "match_id": "141891",
+      "startTime": "6 April 2026 05:45 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -548,6 +534,34 @@
       "match_name": "Genid Royals vs Everest Falcons",
       "match_id": "141742",
       "startTime": "8 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Los Angeles FC vs Cruz Azul (Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Los Angeles FC",
+      "team_2": "Cruz Azul",
+      "status": "UPCOMING",
+      "event_name": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
+      "match_name": "Los Angeles FC vs Cruz Azul",
+      "match_id": "141881",
+      "startTime": "8 April 2026 07:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka A vs New Zealand A (Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
+      "team_1": "Sri Lanka A",
+      "team_2": "New Zealand A",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
+      "match_name": "Sri Lanka A vs New Zealand A",
+      "match_id": "141799",
+      "startTime": "8 April 2026 10:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
