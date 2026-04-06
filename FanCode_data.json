@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "05:52:19 PM 06-04-2026",
+  "last update time": "07:24:21 PM 06-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,35 @@
       "match_id": "141648",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562133~_GO=Generated~acl=/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/*~Signature=Aad0pFetJ_sQcLIu6vwJCQeBlweTQFc5cXTRhFMl4nwYVD2gREgATn8C_89G7CcR2A4gdbIMYCUsycZCJ_9F4N2aBeIA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568059~_GO=Generated~acl=/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/*~Signature=Aad0pFfOIqAyn-NAjFUW0KGYs1jDj0FwfGYmUsW3rda7vRGbivWNSSwFurjSemduMzCCI1NGaA5gBYJVHA-9IKjq6xgM"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026 Mozambique Women)",
+      "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
+      "team_1": "Mozambique Women",
+      "team_2": "Zambia Women",
+      "status": "LIVE",
+      "event_name": "Kalahari Women's T20 2026 Mozambique Women",
+      "match_name": "Mozambique Women vs Zambia Women",
+      "match_id": "141890",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568072~_GO=Generated~acl=/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/*~Signature=Aad0pFen4f8SPevRKNEYwfJb8XgMKmb4jpWGa9wYo2E1ERXdU18ZIFhbueZgXdCpqV4VEvKoHqcMEn2-SwVrTvzFeusE"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026 Botswana Women)",
+      "src": "https://images.fancode.com/aig/match/v1775460202141/141891_CASACARDS_APP.png",
+      "team_1": "Botswana Women",
+      "team_2": "Lesotho Women",
+      "status": "LIVE",
+      "event_name": "Kalahari Women's T20 2026 Botswana Women",
+      "match_name": "Botswana Women vs Lesotho Women",
+      "match_id": "141891",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568084~_GO=Generated~acl=/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/*~Signature=Aad0pFd8HOBLcmA2oIdAsKSUD2jt51KRiukJMYjNBOaA56slV5fari27ISYoliCNgY4LNLB85F8r6HlnG-P9_uXnkbYB"
     },
     {
       "event_category": "Cricket",
@@ -31,7 +59,7 @@
       "match_id": "141432",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562147~_GO=Generated~acl=/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/*~Signature=Aad0pFfyb9k7iQTGXSB8aq1DeuMsmDmeE2gMq1n52ca9kwx3u1qu-RsVg5SOiRSdgf6kH9pxPQ_V6-t1o8Oi6BZQL98M"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568097~_GO=Generated~acl=/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/*~Signature=Aad0pFfz4X4z1iY6B4e3pWiK5Eq6F1xNnoB5SRFwJygYILXPo7yAEJZh2N-BpS81IqWqTmhOXNzGkk5Dp8BER_kfTj4E"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +73,7 @@
       "match_id": "141662",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562160~_GO=Generated~acl=/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/*~Signature=Aad0pFeFoYsDV7PiUbBcDFh4cswkyZW-07hzCEmvbCmEZAwyLmtdc24sO5nggpdr57Hf7F96hdgranvKb3kHUxsXMlcN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568110~_GO=Generated~acl=/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/*~Signature=Aad0pFfQTvuPgMZMF1Z7s3RArAsKVNEMt91I1mQGw-hW5LZYzutLAqBTs5wwq1vpLlnVv2sMZPN1kPDTHLdOb9xVXtAE"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +87,7 @@
       "match_id": "141661",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562173~_GO=Generated~acl=/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/*~Signature=Aad0pFfoAGult9_suVOLTB--Tg9ta6dvTdL9mQVslTePeQgNak37vtyef4hsDDJOu-1WUzamNvEhPT5bteIBOYFCoxQE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568123~_GO=Generated~acl=/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/*~Signature=Aad0pFfvSQ8IRFmymwRwasDGgUHafNUH1baxB3ZxA_8MmuTAqVhmpFXEQSQNUkh4wdADlTp6ZyUv9tvEB6msA6h_pnED"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +101,7 @@
       "match_id": "141660",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562187~_GO=Generated~acl=/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/*~Signature=Aad0pFeZ_fuPj-TXclK9W1x1BxJ5nxZBYFf14HgB70m3bWU5eDtgavBUmwrIbplqyAgu__sX11FdNfIGAKhYIA8TfIcH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568136~_GO=Generated~acl=/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/*~Signature=Aad0pFehlvDuZVA1SDfAErcmQKrYLITfrNCsdmfmwTaPE3yoiKIhjKYPSZ_M5vccl7Mcw457HovOwdJXYMOFa6c7FZYG"
     },
     {
       "event_category": "Tennis",
@@ -87,35 +115,7 @@
       "match_id": "141659",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775562200~_GO=Generated~acl=/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/*~Signature=Aad0pFcZmx5PCX2IC4s7Gq0g-qRVAHFSjvK0Ji-h9MVXxYH0rfYKjQfCQyoilGMQZFgoUcRAct5T5qeEThQjWORUVCQA"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mozambique Women vs Zambia Women (Mozambique Women vs Zambia Women (Kalahari Women's T20 2026))",
-      "src": "https://images.fancode.com/aig/match/v1775460202134/141890_CASACARDS_APP.png",
-      "team_1": "Mozambique Women",
-      "team_2": "Zambia Women",
-      "status": "UPCOMING",
-      "event_name": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026)",
-      "match_name": "Mozambique Women vs Zambia Women",
-      "match_id": "141890",
-      "startTime": "6 April 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Botswana Women vs Lesotho Women (Botswana Women vs Lesotho Women (Kalahari Women's T20 2026))",
-      "src": "https://images.fancode.com/aig/match/v1775460202141/141891_CASACARDS_APP.png",
-      "team_1": "Botswana Women",
-      "team_2": "Lesotho Women",
-      "status": "UPCOMING",
-      "event_name": "Botswana Women vs Lesotho Women (Kalahari Women's T20 2026)",
-      "match_name": "Botswana Women vs Lesotho Women",
-      "match_id": "141891",
-      "startTime": "6 April 2026 05:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568149~_GO=Generated~acl=/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/*~Signature=Aad0pFdQJMTS_m8fybU2rwLkqMey8mxBXDYAftU25lwBddoUocyHj0CEXUlvINssKtJDH96-DBlOzp3ZnEq3qtwCW14K"
     },
     {
       "event_category": "Football",
@@ -197,35 +197,7 @@
       "event_name": "Genid Royals vs New York Liberty XI (Brisbane Champions League 2026)",
       "match_name": "Genid Royals vs New York Liberty XI",
       "match_id": "141749",
-      "startTime": "7 April 2026 05:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Everest Falcons vs Perth United Warriors (Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
-      "team_1": "Everest Falcons",
-      "team_2": "Perth United Warriors",
-      "status": "UPCOMING",
-      "event_name": "Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)",
-      "match_name": "Everest Falcons vs Perth United Warriors",
-      "match_id": "141747",
-      "startTime": "7 April 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Sporting de Gij\u00f3n vs Real Sociedad B (Sporting de Gij\u00f3n vs Real Sociedad B (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png",
-      "team_1": "Sporting de Gij\u00f3n",
-      "team_2": "Real Sociedad B",
-      "status": "UPCOMING",
-      "event_name": "Sporting de Gij\u00f3n vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
-      "match_name": "Sporting de Gij\u00f3n vs Real Sociedad B",
-      "match_id": "141686",
-      "startTime": "7 April 2026 12:00 AM",
+      "startTime": "7 April 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -254,6 +226,34 @@
       "match_name": "Botswana Women vs Mozambique Women",
       "match_id": "141893",
       "startTime": "7 April 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Everest Falcons vs Perth United Warriors (Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg",
+      "team_1": "Everest Falcons",
+      "team_2": "Perth United Warriors",
+      "status": "UPCOMING",
+      "event_name": "Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)",
+      "match_name": "Everest Falcons vs Perth United Warriors",
+      "match_id": "141747",
+      "startTime": "7 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sporting de Gij\u00f3n vs Real Sociedad B (Sporting de Gij\u00f3n vs Real Sociedad B (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png",
+      "team_1": "Sporting de Gij\u00f3n",
+      "team_2": "Real Sociedad B",
+      "status": "UPCOMING",
+      "event_name": "Sporting de Gij\u00f3n vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
+      "match_name": "Sporting de Gij\u00f3n vs Real Sociedad B",
+      "match_id": "141686",
+      "startTime": "7 April 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
