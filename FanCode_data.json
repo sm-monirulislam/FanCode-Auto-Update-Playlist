@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "07:24:21 PM 06-04-2026",
+  "match_amount": 39,
+  "last update time": "08:31:27 PM 06-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Scotland (ICC CWC League 2, Namibia)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Scotland",
-      "status": "LIVE",
-      "event_name": "ICC CWC League 2, Namibia",
-      "match_name": "Namibia vs Scotland",
-      "match_id": "141648",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568059~_GO=Generated~acl=/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/*~Signature=Aad0pFfOIqAyn-NAjFUW0KGYs1jDj0FwfGYmUsW3rda7vRGbivWNSSwFurjSemduMzCCI1NGaA5gBYJVHA-9IKjq6xgM"
-    },
     {
       "event_category": "Cricket",
       "title": "Mozambique Women vs Zambia Women (Kalahari Women's T20 2026 Mozambique Women)",
@@ -31,7 +17,7 @@
       "match_id": "141890",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568072~_GO=Generated~acl=/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/*~Signature=Aad0pFen4f8SPevRKNEYwfJb8XgMKmb4jpWGa9wYo2E1ERXdU18ZIFhbueZgXdCpqV4VEvKoHqcMEn2-SwVrTvzFeusE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571630~_GO=Generated~acl=/mumbai/141890_english_hls_305a2a03f650722_1ta-di_h264/*~Signature=Aad0pFcI6r8auKqVRSNVCNoRfyk3bKJoFPkEqROj-yeope6GWAdBW8Ji-RRaaqrBG458Xz6895H41V4qtCxA7Izi5SYD"
     },
     {
       "event_category": "Cricket",
@@ -45,21 +31,35 @@
       "match_id": "141891",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568084~_GO=Generated~acl=/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/*~Signature=Aad0pFd8HOBLcmA2oIdAsKSUD2jt51KRiukJMYjNBOaA56slV5fari27ISYoliCNgY4LNLB85F8r6HlnG-P9_uXnkbYB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571642~_GO=Generated~acl=/mumbai/141891_english_hls_2749a07e9214352_1ta-di_h264/*~Signature=Aad0pFeS_Vwwac7DVC3-5mYWpWsi2rvoidczrUTZwpjBkbTxWNxyfA-56iq-F_78yXAUCOIcRLCi_JIKPXUQjyg0PI4F"
     },
     {
       "event_category": "Cricket",
-      "title": "Portsmouth F C vs Oxford United (EFL Championship 2025-26 Portsmouth F.C.)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg",
-      "team_1": "Portsmouth F C",
-      "team_2": "Oxford United",
+      "title": "Watford F C vs Charlton Athletic F C (EFL Championship 2025-26 Watford F.C. Charlton)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141433_5489_WAT_CHL_fc-web.jpg",
+      "team_1": "Watford F C",
+      "team_2": "Charlton Athletic F C",
       "status": "LIVE",
-      "event_name": "EFL Championship 2025-26 Portsmouth F.C.",
-      "match_name": "Portsmouth F C vs Oxford United",
-      "match_id": "141432",
+      "event_name": "EFL Championship 2025-26 Watford F.C. Charlton",
+      "match_name": "Watford F C vs Charlton Athletic F C",
+      "match_id": "141433",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568097~_GO=Generated~acl=/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/*~Signature=Aad0pFfz4X4z1iY6B4e3pWiK5Eq6F1xNnoB5SRFwJygYILXPo7yAEJZh2N-BpS81IqWqTmhOXNzGkk5Dp8BER_kfTj4E"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141433_english_hls_384aab723575848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571656~_GO=Generated~acl=/mumbai/141433_english_hls_384aab723575848_1ta-di_h264/*~Signature=Aad0pFdqiVgodg8SkS62uZDd6G0rbMswaZRS8jZlEB4TDxn-Pr-foZSWaMYNMh8YrJCRGSLWU9HStg8lMxRQNrLhsr4O"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Ipswich Town F C vs Birmingham City F C (EFL Championship 2025-26 Ipswich Town F.C. Birmingham)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141434_5489_IPT_BIR_fc-web.jpg",
+      "team_1": "Ipswich Town F C",
+      "team_2": "Birmingham City F C",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26 Ipswich Town F.C. Birmingham",
+      "match_name": "Ipswich Town F C vs Birmingham City F C",
+      "match_id": "141434",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141434_english_hls_363bb4798d14430_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571668~_GO=Generated~acl=/mumbai/141434_english_hls_363bb4798d14430_1ta-di_h264/*~Signature=Aad0pFduDOLNUDLJ25_G97VK7z1fqVCz00iX3dLIhLaI5XKTNQgda14OhNprGXfLy_AlT4N_mlN16IrH4gt3T6njmVUL"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +73,7 @@
       "match_id": "141662",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568110~_GO=Generated~acl=/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/*~Signature=Aad0pFfQTvuPgMZMF1Z7s3RArAsKVNEMt91I1mQGw-hW5LZYzutLAqBTs5wwq1vpLlnVv2sMZPN1kPDTHLdOb9xVXtAE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571681~_GO=Generated~acl=/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/*~Signature=Aad0pFfcF98_mdyig-9p0DgeqJ4X9VmZ8yrNSdTt-Hj9WTjmZIFZ_NPCcmp3fVl3a-HmPNvNsh6PGtmGdB1Emt5_EeQM"
     },
     {
       "event_category": "Tennis",
@@ -87,7 +87,7 @@
       "match_id": "141661",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568123~_GO=Generated~acl=/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/*~Signature=Aad0pFfvSQ8IRFmymwRwasDGgUHafNUH1baxB3ZxA_8MmuTAqVhmpFXEQSQNUkh4wdADlTp6ZyUv9tvEB6msA6h_pnED"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571693~_GO=Generated~acl=/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/*~Signature=Aad0pFejNktIYZy73K9LuWVyLu18ETduuJgzAve1dUgz63JhoT46RfrV7mIgo__D6jBHgLx8n7jXSTdITJRz4qfybcED"
     },
     {
       "event_category": "Tennis",
@@ -101,7 +101,7 @@
       "match_id": "141660",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568136~_GO=Generated~acl=/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/*~Signature=Aad0pFehlvDuZVA1SDfAErcmQKrYLITfrNCsdmfmwTaPE3yoiKIhjKYPSZ_M5vccl7Mcw457HovOwdJXYMOFa6c7FZYG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571706~_GO=Generated~acl=/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/*~Signature=Aad0pFdeJ3WbRUEQg_-fyQhLlJADSefMq4vqeonbDUjMI4bi8D1hSkFbV1t9OkaRcu2tq36YluRtbJEojd7SKgv1nmwG"
     },
     {
       "event_category": "Tennis",
@@ -115,35 +115,7 @@
       "match_id": "141659",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775568149~_GO=Generated~acl=/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/*~Signature=Aad0pFdQJMTS_m8fybU2rwLkqMey8mxBXDYAftU25lwBddoUocyHj0CEXUlvINssKtJDH96-DBlOzp3ZnEq3qtwCW14K"
-    },
-    {
-      "event_category": "Football",
-      "title": "Watford F.C. vs Charlton Athletic F.C (Watford F.C. vs Charlton Athletic F.C (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141433_5489_WAT_CHL_fc-web.jpg",
-      "team_1": "Watford F.C.",
-      "team_2": "Charlton Athletic F.C",
-      "status": "UPCOMING",
-      "event_name": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2025-26)",
-      "match_name": "Watford F.C. vs Charlton Athletic F.C",
-      "match_id": "141433",
-      "startTime": "6 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Ipswich Town F.C. vs Birmingham City F.C. (Ipswich Town F.C. vs Birmingham City F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141434_5489_IPT_BIR_fc-web.jpg",
-      "team_1": "Ipswich Town F.C.",
-      "team_2": "Birmingham City F.C.",
-      "status": "UPCOMING",
-      "event_name": "Ipswich Town F.C. vs Birmingham City F.C. (EFL Championship 2025-26)",
-      "match_name": "Ipswich Town F.C. vs Birmingham City F.C.",
-      "match_id": "141434",
-      "startTime": "6 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775571719~_GO=Generated~acl=/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/*~Signature=Aad0pFcvIzyk_kHfxH9GVsOukVlyxZ2HjnglVeHjFISKNkrPs09F_kie6DGkbpRecdURhyzIUATQJG5afkNQyU-QLfkP"
     },
     {
       "event_category": "Football",
@@ -412,20 +384,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Nashville SC vs Club Am\u00e9rica (Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Nashville SC",
-      "team_2": "Club Am\u00e9rica",
-      "status": "UPCOMING",
-      "event_name": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-      "match_name": "Nashville SC vs Club Am\u00e9rica",
-      "match_id": "141880",
-      "startTime": "8 April 2026 05:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Malaysia A vs Hong Kong, China-A (Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
@@ -436,6 +394,20 @@
       "match_name": "Malaysia A vs Hong Kong, China-A",
       "match_id": "141775",
       "startTime": "8 April 2026 07:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Nashville SC vs Club Am\u00e9rica (Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Nashville SC",
+      "team_2": "Club Am\u00e9rica",
+      "status": "UPCOMING",
+      "event_name": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+      "match_name": "Nashville SC vs Club Am\u00e9rica",
+      "match_id": "141880",
+      "startTime": "8 April 2026 05:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -562,6 +534,20 @@
       "match_name": "Japan U20 vs Australia U20",
       "match_id": "141625",
       "startTime": "8 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Bangkok United (Gamba Osaka vs Bangkok United (AFC Champions League Two 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Bangkok United",
+      "status": "UPCOMING",
+      "event_name": "Gamba Osaka vs Bangkok United (AFC Champions League Two 2025-26)",
+      "match_name": "Gamba Osaka vs Bangkok United",
+      "match_id": "140871",
+      "startTime": "8 April 2026 03:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
