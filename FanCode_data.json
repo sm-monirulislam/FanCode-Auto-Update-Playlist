@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "01:40:13 AM 08-04-2026",
+  "last update time": "02:56:07 AM 08-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141427",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141427_english_hls_bcdad306e363876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775677056~_GO=Generated~acl=/mumbai/141427_english_hls_bcdad306e363876_1ta-di_h264/*~Signature=Aad0pFeHME62ALR0U_Wdn1xRObW5u9-_I-JPwQmE7FsVwOxn923xe-VHx-1NG5qggBicQAb3Ts328tGGVxtFXiKx9yUF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141427_english_hls_bcdad306e363876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775681577~_GO=Generated~acl=/mumbai/141427_english_hls_bcdad306e363876_1ta-di_h264/*~Signature=Aad0pFegvNz-F49u1U-Hez_4iyJt1TWR2VkPbe9GNrMzvdfu5kGvpmQByBH6tJxTfXcxGtP5MVhhQYw8Wa2_QpjA88AA"
     },
     {
       "event_category": "Cricket",
@@ -217,6 +217,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Al Hilal SFC vs Al-Kholood Club (Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg",
+      "team_1": "Al Hilal SFC",
+      "team_2": "Al-Kholood Club",
+      "status": "UPCOMING",
+      "event_name": "Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026)",
+      "match_name": "Al Hilal SFC vs Al-Kholood Club",
+      "match_id": "140725",
+      "startTime": "8 April 2026 11:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Uzbekistan U20 vs Jordan U20 (Uzbekistan U20 vs Jordan U20 (AFC U20 Women's Asian Cup 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141628_6021_UZ-U20_JOR-U20_FC-Web.png",
       "team_1": "Uzbekistan U20",
@@ -240,20 +254,6 @@
       "match_name": "DPR Korea U20 vs Korea Republic U20",
       "match_id": "141627",
       "startTime": "8 April 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Al Hilal SFC vs Al-Kholood Club (Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg",
-      "team_1": "Al Hilal SFC",
-      "team_2": "Al-Kholood Club",
-      "status": "UPCOMING",
-      "event_name": "Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026)",
-      "match_name": "Al Hilal SFC vs Al-Kholood Club",
-      "match_id": "140725",
-      "startTime": "8 April 2026 11:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
