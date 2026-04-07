@@ -3,92 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "09:17:05 PM 07-04-2026",
+  "last update time": "10:35:17 PM 07-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Chennaiyin Fc vs Inter Kashi (ISL 2025-26 Chennaiyin FC Inter)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140478_5956_CFC_KSHI_FC-Web_1772460695978.jpg",
-      "team_1": "Chennaiyin Fc",
-      "team_2": "Inter Kashi",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26 Chennaiyin FC Inter",
-      "match_name": "Chennaiyin Fc vs Inter Kashi",
-      "match_id": "140478",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Chennaiyin Fc vs Inter Kashi (ISL 2025-26 - Regional Chennaiyin FC Inter)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141805_5973_CFC_KSHI_fc-web.jpg",
-      "team_1": "Chennaiyin Fc",
-      "team_2": "Inter Kashi",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26 - Regional Chennaiyin FC Inter",
-      "match_name": "Chennaiyin Fc vs Inter Kashi",
-      "match_id": "141805",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Vietnam U20 vs Bangladesh U20 (AFC U20 Women's Asian Cup 2026 Vietnam U20)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141624_6021_VIE-U20_BAN-U20_FC-Web.png",
-      "team_1": "Vietnam U20",
-      "team_2": "Bangladesh U20",
-      "status": "LIVE",
-      "event_name": "AFC U20 Women's Asian Cup 2026 Vietnam U20",
-      "match_name": "Vietnam U20 vs Bangladesh U20",
-      "match_id": "141624",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141624_english_hls_b4922472f031833_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660679~_GO=Generated~acl=/mumbai/141624_english_hls_b4922472f031833_1ta-di_h264/*~Signature=Aad0pFdLPZO-FxGqqyTBWcynCUtSjp9gddsIYbTHFYoN_hZVbPRJnAe3rmHQyx5cVh3DOEAtKz8n-ODd5yEmjkIlh8YP"
-    },
-    {
-      "event_category": "Football",
-      "title": "Thailand U20 vs China Pr U20 (AFC U20 Women's Asian Cup 2026 Thailand U20 China)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141623_6021_THA-U20_CHN-U20_FC-Web.png",
-      "team_1": "Thailand U20",
-      "team_2": "China Pr U20",
-      "status": "LIVE",
-      "event_name": "AFC U20 Women's Asian Cup 2026 Thailand U20 China",
-      "match_name": "Thailand U20 vs China Pr U20",
-      "match_id": "141623",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141623_english_hls_3b3b4ef30145979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660692~_GO=Generated~acl=/mumbai/141623_english_hls_3b3b4ef30145979_1ta-di_h264/*~Signature=Aad0pFccVqOyC5VO2hXbU2CcAmDWB4OjhccYdZDygiAYcPvvOuN5w9Zq_izBd-BRbvq7y9e5bWpAedS1Jxw7nXNiUtgM"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026 Court EA de)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "Massy",
-      "team_2": "Monte-Carlo",
-      "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 Court EA de",
-      "match_name": "Massy vs Monte-Carlo",
-      "match_id": "141666",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026 Court Ranier)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "III",
-      "team_2": "Monte-Carlo",
-      "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 Court Ranier",
-      "match_name": "III vs Monte-Carlo",
-      "match_id": "141665",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141665_english_hls_65fb54441630767_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660839~_GO=Generated~acl=/mumbai/141665_english_hls_65fb54441630767_1ta-di_h264/*~Signature=Aad0pFevhiRXD9FnOot--YB9z-djLuDGZVyGMFD8q73Bjflsr69nflC9miXIACm9e7VUzsQwMaOOqOl4pYfT4rwt1UAN"
-    },
     {
       "event_category": "Tennis",
       "title": "Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026 World)",
@@ -101,7 +17,7 @@
       "match_id": "141664",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660851~_GO=Generated~acl=/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-di_h264/*~Signature=Aad0pFeFOatl51XutGEKhj3LhMKJHR-L4iYYgVcpco_AcVT6VW54gbTThQ-S3PbP1Vtby8tQdlsDXSStk179olEtKZwD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775666063~_GO=Generated~acl=/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-di_h264/*~Signature=Aad0pFcwNo6Ux0Hgdev3T6I2rsUmI92szotvOBeyjKCgZLcpqtg4Wam0QVxaXTRNzw8iWh7EvjYrIhvVDxHfhflttAAK"
     },
     {
       "event_category": "Tennis",
@@ -115,7 +31,7 @@
       "match_id": "141663",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660865~_GO=Generated~acl=/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/*~Signature=Aad0pFdrgqfvn7DRDZr2opqf7X52P1AxKK0cYdVfdR9Wc3oha8edyWbKrhUjzBqN7xL3OKe2RcxAGgi0ZghUmY7y0McC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775666076~_GO=Generated~acl=/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/*~Signature=Aad0pFcigIIa2xJMua1mImjmDXSsfT-7w8abJMBhmiUmMrPDOWgR6s81QW8p2_z23UlRTaTZ1Qd-cEmx-WI8p6e-E-oH"
     },
     {
       "event_category": "Tennis",
@@ -129,7 +45,7 @@
       "match_id": "141946",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775660878~_GO=Generated~acl=/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/*~Signature=Aad0pFf0Tu_Z7tsJipUBhK9fgAfrmuC-ec30Cam94jqab8j15nkWsLUU2UdP8IhpmrTvVkrrjgrrH4mwj_M5mcvOWSYI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775666089~_GO=Generated~acl=/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/*~Signature=Aad0pFelt4TganwW3DrwceFoEAXmv75hoiiOHqq5LZff7ZfgtSk2rLyzh8xE1I70GWNg8_97lPSP_W3_3wlQ7N44a7cC"
     },
     {
       "event_category": "Cricket",
@@ -244,34 +160,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Nashville SC vs Club Am\u00e9rica (Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026))",
-      "src": "https://images.fancode.com/aig/match/v1775564775429/141880_CASACARDS_APP.png",
-      "team_1": "Nashville SC",
-      "team_2": "Club Am\u00e9rica",
-      "status": "UPCOMING",
-      "event_name": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-      "match_name": "Nashville SC vs Club Am\u00e9rica",
-      "match_id": "141880",
-      "startTime": "8 April 2026 05:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Los Angeles FC vs Cruz Azul (Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026))",
-      "src": "https://images.fancode.com/aig/match/v1775564775425/141881_CASACARDS_APP.png",
-      "team_1": "Los Angeles FC",
-      "team_2": "Cruz Azul",
-      "status": "UPCOMING",
-      "event_name": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
-      "match_name": "Los Angeles FC vs Cruz Azul",
-      "match_id": "141881",
-      "startTime": "8 April 2026 07:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Lesotho Women vs Mozambique Women (Lesotho Women vs Mozambique Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
@@ -286,6 +174,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Nashville SC vs Club Am\u00e9rica (Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141880_5954_NSH_AME_FC-Web.png",
+      "team_1": "Nashville SC",
+      "team_2": "Club Am\u00e9rica",
+      "status": "UPCOMING",
+      "event_name": "Nashville SC vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+      "match_name": "Nashville SC vs Club Am\u00e9rica",
+      "match_id": "141880",
+      "startTime": "8 April 2026 05:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Botswana Women vs Zambia Women (Botswana Women vs Zambia Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
@@ -296,6 +198,20 @@
       "match_name": "Botswana Women vs Zambia Women",
       "match_id": "141899",
       "startTime": "8 April 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Los Angeles FC vs Cruz Azul (Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141881_5954_LAF_CRU_FC-Web.png",
+      "team_1": "Los Angeles FC",
+      "team_2": "Cruz Azul",
+      "status": "UPCOMING",
+      "event_name": "Los Angeles FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
+      "match_name": "Los Angeles FC vs Cruz Azul",
+      "match_id": "141881",
+      "startTime": "8 April 2026 07:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +450,90 @@
       "match_name": "Sydney Kangaroos vs Brisbane Stars",
       "match_id": "141750",
       "startTime": "9 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Malawi Women vs Zambia Women (Malawi Women vs Zambia Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+      "team_1": "Malawi Women",
+      "team_2": "Zambia Women",
+      "status": "UPCOMING",
+      "event_name": "Malawi Women vs Zambia Women (Kalahari Women's T20 2026)",
+      "match_name": "Malawi Women vs Zambia Women",
+      "match_id": "141902",
+      "startTime": "9 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (TBC vs TBC (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "TBC vs TBC (Kalahari Women's T20 2026)",
+      "match_name": "TBC vs TBC",
+      "match_id": "141903",
+      "startTime": "9 April 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Court des Princes (Court des Princes vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Court des Princes vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "Court des Princes",
+      "match_id": "141914",
+      "startTime": "9 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Court 3 (Court 3 vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Court 3 vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "Court 3",
+      "match_id": "141913",
+      "startTime": "9 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Court Ranier III (Court Ranier III vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Court Ranier III vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "Court Ranier III",
+      "match_id": "141912",
+      "startTime": "9 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "World Feed (World Feed vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "World Feed vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "World Feed",
+      "match_id": "141911",
+      "startTime": "9 April 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
