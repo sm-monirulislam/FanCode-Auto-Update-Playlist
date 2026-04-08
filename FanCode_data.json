@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "08:57:36 AM 08-04-2026",
+  "last update time": "11:19:58 AM 08-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141775",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141775_english_hls_844378ce6977337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775703340~_GO=Generated~acl=/mumbai/141775_english_hls_844378ce6977337_1ta-di_h264/*~Signature=Aad0pFfOY5W-dEmmYDJHb0ZuZldyOwfl8ygXCivCE7HCp_ZM0HGSWnQF56fxvxkOe8YPWQoP02CxWssR0xg_pHTv1hUL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141775_english_hls_844378ce6977337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775711818~_GO=Generated~acl=/mumbai/141775_english_hls_844378ce6977337_1ta-di_h264/*~Signature=Aad0pFd74jiTbYud6yKEjeb3M8rt_TLR4GSY55mBnYaO0CdjHhe1jw4Mko2tiCWVRLRt2NZqUhmf_OfIC_TD2ZrtZVMK"
     },
     {
       "event_category": "Football",
@@ -31,35 +31,21 @@
       "match_id": "141742",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775703353~_GO=Generated~acl=/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/*~Signature=Aad0pFcuowBvZdLRl0WdOfcQ_YiO5cvKb0OQk-NUONvnxeUjM07VKrwuU6rDZ0-GLxwOsIXN9B1xxJUhvHRD5R-TMSEI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775711831~_GO=Generated~acl=/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/*~Signature=Aad0pFfbVCP57M098b9TPJubi75HuZDGb7F6P73kPXC0qkVNvbxno0UUJecZ4gzzxtkrAYsd6_EsMojGTYMk-0TxVsEF"
     },
     {
       "event_category": "Cricket",
-      "title": "Los Angeles Fc vs Cruz Azul (CONCACAF Champions Cup 2026 Los Angeles FC)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141881_5954_LAF_CRU_FC-Web.png",
-      "team_1": "Los Angeles Fc",
-      "team_2": "Cruz Azul",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026 Los Angeles FC",
-      "match_name": "Los Angeles Fc vs Cruz Azul",
-      "match_id": "141881",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141881_english_hls_f39700360a54105_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775703366~_GO=Generated~acl=/mumbai/141881_english_hls_f39700360a54105_1ta-di_h264/*~Signature=Aad0pFdTMeUTqb6FXj7Mj-sdqD6JAUuK2R8M0pd_SaKZTN0o0BJHnTlaS6qgYmJssPVUyDtTaCv9gqc4d5PTwj7Me8sL"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Sri Lanka A vs New Zealand A (Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
+      "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026 Sri Lanka A New)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
       "team_1": "Sri Lanka A",
       "team_2": "New Zealand A",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
+      "status": "LIVE",
+      "event_name": "New Zealand A Tour of Sri Lanka 2026 Sri Lanka A New",
       "match_name": "Sri Lanka A vs New Zealand A",
       "match_id": "141799",
-      "startTime": "8 April 2026 10:00 AM",
+      "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141799_english_hls_62e20d2f7c4005_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775711844~_GO=Generated~acl=/mumbai/141799_english_hls_62e20d2f7c4005_1ta-di_h264/*~Signature=Aad0pFf0dkHeE8hSa6eylOqyXYVo_L8POYa76sBIQWe-cVCeNZsgny9s5UCrvWZlhDENiDPMfgU6gUrGjjd02ekYDRUH"
     },
     {
       "event_category": "Cricket",
@@ -286,6 +272,34 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Malawi Women vs Mozambique Women (Malawi Women vs Mozambique Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+      "team_1": "Malawi Women",
+      "team_2": "Mozambique Women",
+      "status": "UPCOMING",
+      "event_name": "Malawi Women vs Mozambique Women (Kalahari Women's T20 2026)",
+      "match_name": "Malawi Women vs Mozambique Women",
+      "match_id": "141900",
+      "startTime": "9 April 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Brazil Women vs Lesotho Women (Brazil Women vs Lesotho Women (Kalahari Women's T20 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+      "team_1": "Brazil Women",
+      "team_2": "Lesotho Women",
+      "status": "UPCOMING",
+      "event_name": "Brazil Women vs Lesotho Women (Kalahari Women's T20 2026)",
+      "match_name": "Brazil Women vs Lesotho Women",
+      "match_id": "141901",
+      "startTime": "9 April 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "World Feed (World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -338,34 +352,6 @@
       "match_name": "Court des Princes",
       "match_id": "141667",
       "startTime": "8 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Malawi Women vs Mozambique Women (Malawi Women vs Mozambique Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Malawi Women",
-      "team_2": "Mozambique Women",
-      "status": "UPCOMING",
-      "event_name": "Malawi Women vs Mozambique Women (Kalahari Women's T20 2026)",
-      "match_name": "Malawi Women vs Mozambique Women",
-      "match_id": "141900",
-      "startTime": "9 April 2026 12:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Brazil Women vs Lesotho Women (Brazil Women vs Lesotho Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Brazil Women",
-      "team_2": "Lesotho Women",
-      "status": "UPCOMING",
-      "event_name": "Brazil Women vs Lesotho Women (Kalahari Women's T20 2026)",
-      "match_name": "Brazil Women vs Lesotho Women",
-      "match_id": "141901",
-      "startTime": "9 April 2026 01:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +520,20 @@
       "match_name": "TBC vs TBC",
       "match_id": "141904",
       "startTime": "10 April 2026 12:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia vs Oman (Namibia vs Oman (ICC CWC League 2, Namibia))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
+      "team_1": "Namibia",
+      "team_2": "Oman",
+      "status": "UPCOMING",
+      "event_name": "Namibia vs Oman (ICC CWC League 2, Namibia)",
+      "match_name": "Namibia vs Oman",
+      "match_id": "141650",
+      "startTime": "10 April 2026 01:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
