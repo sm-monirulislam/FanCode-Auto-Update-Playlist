@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:55:15 AM 09-04-2026",
+  "last update time": "04:50:37 AM 09-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -216,20 +216,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1 (Day 1 vs Georgia, USA (The Augusta Masters 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 1 vs Georgia, USA (The Augusta Masters 2026)",
-      "match_name": "Day 1",
-      "match_id": "141876",
-      "startTime": "9 April 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Genid Royals vs Perth United Warriors (Genid Royals vs Perth United Warriors (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141751_6028_GER_PUW_FC-WEB.jpg",
@@ -240,6 +226,20 @@
       "match_name": "Genid Royals vs Perth United Warriors",
       "match_id": "141751",
       "startTime": "10 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1 (Day 1 vs Georgia, USA (The Augusta Masters 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 vs Georgia, USA (The Augusta Masters 2026)",
+      "match_name": "Day 1",
+      "match_id": "141876",
+      "startTime": "9 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
