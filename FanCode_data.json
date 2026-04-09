@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:17:58 AM 09-04-2026",
+  "last update time": "12:57:52 PM 09-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,35 +17,7 @@
       "match_id": "141776",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141776_english_hls_9a8a9b57c263303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775797859~_GO=Generated~acl=/mumbai/141776_english_hls_9a8a9b57c263303_1ta-di_h264/*~Signature=AfQ_v7RnmCT9hM-QY08faK-F1IbbsiZYgteayxDKtE-AHdXBhnorbZuzQleVFaCbuA9L8khomm4ZeNCQEIMD2b7LuZwB"
-    },
-    {
-      "event_category": "Football",
-      "title": "New York Liberty Xi vs Perth United Warriors (Brisbane Champions League 2026 New York Liberty XI Perth)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-      "team_1": "New York Liberty Xi",
-      "team_2": "Perth United Warriors",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 New York Liberty XI Perth",
-      "match_name": "New York Liberty Xi vs Perth United Warriors",
-      "match_id": "141748",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141748_english_hls_6d40a4339880297_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775797872~_GO=Generated~acl=/mumbai/141748_english_hls_6d40a4339880297_1ta-di_h264/*~Signature=AfQ_v7QvhVWZOQ2kIbZHZUKN1CWID7L-DgHpJkVDyvOJtREfhD92RD15yDHl4E-R-wSKrxbe2Jzfr_PdkgpXF5QmXiUE"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Toluca vs La Galaxy (CONCACAF Champions Cup 2026 Toluca)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141883_5954_TOL_LAG_FC-Web.png",
-      "team_1": "Toluca",
-      "team_2": "La Galaxy",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026 Toluca",
-      "match_name": "Toluca vs La Galaxy",
-      "match_id": "141883",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141883_english_hls_de96e2296643986_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775797895~_GO=Generated~acl=/mumbai/141883_english_hls_de96e2296643986_1ta-di_h264/*~Signature=AfQ_v7Q2_oecQeEjemSvyhuyacIsNcQVadLZciLeZFuZLnjvYwfcxQB1AXmW2yaBfG-WLHv0otDEgHrkXbBZ1LJcy64I"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141776_english_hls_9a8a9b57c263303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775804131~_GO=Generated~acl=/mumbai/141776_english_hls_9a8a9b57c263303_1ta-di_h264/*~Signature=AfQ_v7RawYNjZYUUe_nCkpS_gfAx2j1y5dDp8_cdVPWZVJTI09T13EJXpzwRGDKaTBRC3AJcENgVQfKyUtxDD-6YIgwN"
     },
     {
       "event_category": "Cricket",
@@ -202,6 +174,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Iconic Super Knights vs Brisbane Stars (Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
+      "team_1": "Iconic Super Knights",
+      "team_2": "Brisbane Stars",
+      "status": "UPCOMING",
+      "event_name": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
+      "match_name": "Iconic Super Knights vs Brisbane Stars",
+      "match_id": "141752",
+      "startTime": "10 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Court des Princes (Court des Princes vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
@@ -254,20 +240,6 @@
       "match_name": "World Feed",
       "match_id": "141911",
       "startTime": "9 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Iconic Super Knights vs Brisbane Stars (Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
-      "team_1": "Iconic Super Knights",
-      "team_2": "Brisbane Stars",
-      "status": "UPCOMING",
-      "event_name": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
-      "match_name": "Iconic Super Knights vs Brisbane Stars",
-      "match_id": "141752",
-      "startTime": "10 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +506,34 @@
       "match_name": "TBC vs TBC",
       "match_id": "141629",
       "startTime": "11 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Western Sydney Wanderers vs Sydney FC (Western Sydney Wanderers vs Sydney FC (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "Western Sydney Wanderers vs Sydney FC (A League 2025-26)",
+      "match_name": "Western Sydney Wanderers vs Sydney FC",
+      "match_id": "140932",
+      "startTime": "11 April 2026 03:05 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg",
+      "team_1": "Chennaiyin FC",
+      "team_2": "East Bengal FC",
+      "status": "UPCOMING",
+      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26)",
+      "match_name": "Chennaiyin FC vs East Bengal FC",
+      "match_id": "140482",
+      "startTime": "11 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
