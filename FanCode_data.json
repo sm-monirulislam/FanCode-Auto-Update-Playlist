@@ -2,37 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 38,
-  "last update time": "03:51:54 PM 09-04-2026",
+  "match_amount": 37,
+  "last update time": "05:05:54 PM 09-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Malawi Women vs Mozambique Women (Kalahari Women's T20 2026 Malawi Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Malawi Women",
-      "team_2": "Mozambique Women",
-      "status": "LIVE",
-      "event_name": "Kalahari Women's T20 2026 Malawi Women",
-      "match_name": "Malawi Women vs Mozambique Women",
-      "match_id": "141900",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141900_english_hls_ce173111b177897_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814074~_GO=Generated~acl=/mumbai/141900_english_hls_ce173111b177897_1ta-di_h264/*~Signature=AfQ_v7Rdf4zK7HyUthU3dGv9M97_KquDC28UTNLa41Y8SwgRKrEnfcEa4_N8w3f4NOK-95EvKsLpfLp-88V93F8hSbYP"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Brazil Women vs Lesotho Women (Kalahari Women's T20 2026 Brazil Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Brazil Women",
-      "team_2": "Lesotho Women",
-      "status": "LIVE",
-      "event_name": "Kalahari Women's T20 2026 Brazil Women",
-      "match_name": "Brazil Women vs Lesotho Women",
-      "match_id": "141901",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141901_english_hls_860b77901375949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814086~_GO=Generated~acl=/mumbai/141901_english_hls_860b77901375949_1ta-di_h264/*~Signature=AfQ_v7Sc0rx-EcCQqoOUXc8hFsrlbyAcA-VQ0fOxF8tDcu0MPyQIfimeWuPc1SORAohtBPn8zzKktfu-52VFHRH2500G"
-    },
     {
       "event_category": "Football",
       "title": "Sydney Kangaroos vs Brisbane Stars (Brisbane Champions League 2026 Sydney Kangaroos)",
@@ -45,7 +17,7 @@
       "match_id": "141750",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814099~_GO=Generated~acl=/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/*~Signature=AfQ_v7Q1zG_hPie-3UTRDMGhIxpKw8Yq8ll85guHFkn9RNM4mVEm9l_83pBzlKMGzREOrLi_Pa6C7doa-ZnotKAdF-kK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818588~_GO=Generated~acl=/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/*~Signature=AfQ_v7TBUC6tQEefzEI8T-R-ouKN7FdOgqnqxEloBGkwkl_e01TnPN8RClITB1bnZlSeohJ03yKztwX7mcDU6GIQ6dcO"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +31,7 @@
       "match_id": "141914",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814113~_GO=Generated~acl=/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/*~Signature=AfQ_v7THfQ5OyqNZN40tgU-3kp18SwOkfqBDCm3z0yLZ-hSv-qOYjiXMZwxt4RwO2LmpgYcWE4nXHLreV7Igqk9aTcoN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818601~_GO=Generated~acl=/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/*~Signature=AfQ_v7Q9hVfPXmYvUX-FtRnxfFPakah_6KxS6b81LTcfWsgcIPUs_HJ11YmsS2i9lcmi-8WoHlCo1i39j4P1jaQVIR4A"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +45,7 @@
       "match_id": "141913",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814126~_GO=Generated~acl=/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/*~Signature=AfQ_v7QJd6jyw-l-9qjPDuQiZR2gj9gz5JvhvB9Df2VZ8sOGQGHhFYPTidoPfgJDumHBF5iBM6SK8w0xPxxN1_If8fgG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818614~_GO=Generated~acl=/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/*~Signature=AfQ_v7RDLPAswowYZEddfTaYEb5r9rOAwmHarE0tetVhRL3jcaEsFbsA0HMn2wJ4LRkz4yg02PT-9eQoURgAgm_N4AUE"
     },
     {
       "event_category": "Tennis",
@@ -87,7 +59,7 @@
       "match_id": "141912",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814139~_GO=Generated~acl=/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/*~Signature=AfQ_v7ToQvj3BsugbApIK9RSvzU9iqMGAA-T50ookmfbJE9fJWsUfvUeB527Fj9oVUwj-xRWlbGdZPjekkHc9hdTD6kI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818627~_GO=Generated~acl=/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/*~Signature=AfQ_v7RyYOLXe7qkd9UgKMPTRq3Ot3U2WsBgFlXhF0xB59Nifb3VEaY3kfJ3rbJR9Dbb4363OEDIs-Ww-XPNU5DPz30N"
     },
     {
       "event_category": "Tennis",
@@ -101,7 +73,7 @@
       "match_id": "141911",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775814153~_GO=Generated~acl=/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/*~Signature=AfQ_v7Se08AfWbZqGJDYo5Z1xg4s2CpmcBEnopROaKMFCk9CTG-DL-wNuF3aL4RKByakqn4TOBYgmhNzhEppwjZuiJYF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818640~_GO=Generated~acl=/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/*~Signature=AfQ_v7S65FfoOMctL0VyRhNnAW-Jx6cErPh0HBeAAX6PC4bIxsst_-mEJKnJikTxXEhsRrTruWC4AXdorB7nlO_JxpAE"
     },
     {
       "event_category": "Cricket",
@@ -258,20 +230,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Brisbane Roar (Central Coast Mariners vs Brisbane Roar (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
-      "match_name": "Central Coast Mariners vs Brisbane Roar",
-      "match_id": "140929",
-      "startTime": "10 April 2026 03:05 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "TBC vs TBC (TBC vs TBC (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
@@ -282,6 +240,20 @@
       "match_name": "TBC vs TBC",
       "match_id": "141907",
       "startTime": "10 April 2026 05:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Brisbane Roar (Central Coast Mariners vs Brisbane Roar (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
+      "match_name": "Central Coast Mariners vs Brisbane Roar",
+      "match_id": "140929",
+      "startTime": "10 April 2026 03:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -533,6 +505,20 @@
       "event_name": "Norwich City F.C. vs Ipswich Town F.C. (EFL Championship 2025-26)",
       "match_name": "Norwich City F.C. vs Ipswich Town F.C.",
       "match_id": "141438",
+      "startTime": "11 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional))",
+      "src": "https://images.fancode.com/aig/match/v1775535874212/141808_CASACARDS_APP.png",
+      "team_1": "Chennaiyin FC",
+      "team_2": "East Bengal FC",
+      "status": "UPCOMING",
+      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional)",
+      "match_name": "Chennaiyin FC vs East Bengal FC",
+      "match_id": "141808",
       "startTime": "11 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
