@@ -2,22 +2,22 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 37,
-  "last update time": "05:05:54 PM 09-04-2026",
+  "match_amount": 36,
+  "last update time": "06:10:31 PM 09-04-2026",
   "matches": [
     {
-      "event_category": "Football",
-      "title": "Sydney Kangaroos vs Brisbane Stars (Brisbane Champions League 2026 Sydney Kangaroos)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141750_6028_SYK_BRS_FC-WEB.jpg",
-      "team_1": "Sydney Kangaroos",
-      "team_2": "Brisbane Stars",
+      "event_category": "Cricket",
+      "title": "Malawi Women vs Zambia Women (Kalahari Women's T20 2026 Malawi Women)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+      "team_1": "Malawi Women",
+      "team_2": "Zambia Women",
       "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Sydney Kangaroos",
-      "match_name": "Sydney Kangaroos vs Brisbane Stars",
-      "match_id": "141750",
+      "event_name": "Kalahari Women's T20 2026 Malawi Women",
+      "match_name": "Malawi Women vs Zambia Women",
+      "match_id": "141902",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818588~_GO=Generated~acl=/mumbai/141750_english_hls_3c73864f0932312_1ta-di_h264/*~Signature=AfQ_v7TBUC6tQEefzEI8T-R-ouKN7FdOgqnqxEloBGkwkl_e01TnPN8RClITB1bnZlSeohJ03yKztwX7mcDU6GIQ6dcO"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141902_english_hls_1a68816a1550239_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775822955~_GO=Generated~acl=/mumbai/141902_english_hls_1a68816a1550239_1ta-di_h264/*~Signature=AfQ_v7RZdTQroHQv783dthkHQQid2NWW4M5nkkvkKsL__GC-i2XcX4jI1TgcQw_KSEUg4ZRey4heaPi-9KQy0aspRoAH"
     },
     {
       "event_category": "Tennis",
@@ -31,7 +31,7 @@
       "match_id": "141914",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818601~_GO=Generated~acl=/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/*~Signature=AfQ_v7Q9hVfPXmYvUX-FtRnxfFPakah_6KxS6b81LTcfWsgcIPUs_HJ11YmsS2i9lcmi-8WoHlCo1i39j4P1jaQVIR4A"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775822969~_GO=Generated~acl=/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/*~Signature=AfQ_v7RuqIKTrT6eorNRWk77ay9_PMloPeHQKhiDK8gkkiHe94t0YpVMmggERBefQWB8vLlLY3HruTLmdFS_owEeZl4I"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +45,7 @@
       "match_id": "141913",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818614~_GO=Generated~acl=/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/*~Signature=AfQ_v7RDLPAswowYZEddfTaYEb5r9rOAwmHarE0tetVhRL3jcaEsFbsA0HMn2wJ4LRkz4yg02PT-9eQoURgAgm_N4AUE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775822982~_GO=Generated~acl=/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/*~Signature=AfQ_v7QOPZiXZKneamrTt1lZbZYuPzltFCEf0wMt3zZry5j8XQHqxZzGnpw4erWX4XOCuDsHASJbtw6-nO3ECcgqULoO"
     },
     {
       "event_category": "Tennis",
@@ -59,49 +59,21 @@
       "match_id": "141912",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818627~_GO=Generated~acl=/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/*~Signature=AfQ_v7RyYOLXe7qkd9UgKMPTRq3Ot3U2WsBgFlXhF0xB59Nifb3VEaY3kfJ3rbJR9Dbb4363OEDIs-Ww-XPNU5DPz30N"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775822995~_GO=Generated~acl=/mumbai/141912_english_hls_c9ab7fb4d72740_1ta-di_h264/*~Signature=AfQ_v7RAZjkrhFLV5tgcE_NGXW3wY8N1DAN4BldWDPMYZaanM4K4XtlFv9r2Bp9PsGDmvFQA0lbobH7qou_w2fdhknsD"
     },
     {
       "event_category": "Tennis",
-      "title": "Feed vs Monaco (ATP Masters Rolex Monte-Carlo 2026 World)",
+      "title": "J Sinner vs T Machac (ATP Masters Rolex Monte-Carlo 2026 J. Sinner vs T.)",
       "src": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "Feed",
-      "team_2": "Monaco",
+      "team_1": "J Sinner",
+      "team_2": "T Machac",
       "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 World",
-      "match_name": "Feed vs Monaco",
+      "event_name": "ATP Masters Rolex Monte-Carlo 2026 J. Sinner vs T.",
+      "match_name": "J Sinner vs T Machac",
       "match_id": "141911",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775818640~_GO=Generated~acl=/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/*~Signature=AfQ_v7S65FfoOMctL0VyRhNnAW-Jx6cErPh0HBeAAX6PC4bIxsst_-mEJKnJikTxXEhsRrTruWC4AXdorB7nlO_JxpAE"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Malawi Women vs Zambia Women (Malawi Women vs Zambia Women (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Malawi Women",
-      "team_2": "Zambia Women",
-      "status": "UPCOMING",
-      "event_name": "Malawi Women vs Zambia Women (Kalahari Women's T20 2026)",
-      "match_name": "Malawi Women vs Zambia Women",
-      "match_id": "141902",
-      "startTime": "9 April 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (TBC vs TBC (Kalahari Women's T20 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "TBC vs TBC (Kalahari Women's T20 2026)",
-      "match_name": "TBC vs TBC",
-      "match_id": "141903",
-      "startTime": "9 April 2026 05:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775823008~_GO=Generated~acl=/mumbai/141911_english_hls_8c398762b624887_1ta-di_h264/*~Signature=AfQ_v7TxosMcbhsLAC2EaZI4qyi1LIfHHkISuOKXAZNVXBX_EZRHgt9ipAlG8AJmcctSKue8rq8xsLxdBjZh0XskURoF"
     },
     {
       "event_category": "Football",
@@ -258,20 +230,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1 (Day 1 vs Georgia, USA (The Augusta Masters 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 1 vs Georgia, USA (The Augusta Masters 2026)",
-      "match_name": "Day 1",
-      "match_id": "141876",
-      "startTime": "9 April 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "FC Goa vs Odisha FC (FC Goa vs Odisha FC (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140481_5956_FCG_ODS_FC-Web_1772460981509.jpg",
@@ -282,6 +240,20 @@
       "match_name": "FC Goa vs Odisha FC",
       "match_id": "140481",
       "startTime": "10 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1 (Day 1 vs Georgia, USA (The Augusta Masters 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 vs Georgia, USA (The Augusta Masters 2026)",
+      "match_name": "Day 1",
+      "match_id": "141876",
+      "startTime": "9 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -519,6 +491,20 @@
       "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional)",
       "match_name": "Chennaiyin FC vs East Bengal FC",
       "match_id": "141808",
+      "startTime": "11 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional))",
+      "src": "https://images.fancode.com/aig/match/v1775535874221/141807_CASACARDS_APP.png",
+      "team_1": "Chennaiyin FC",
+      "team_2": "East Bengal FC",
+      "status": "UPCOMING",
+      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional)",
+      "match_name": "Chennaiyin FC vs East Bengal FC",
+      "match_id": "141807",
       "startTime": "11 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
