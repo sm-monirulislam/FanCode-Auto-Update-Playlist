@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "04:07:11 AM 10-04-2026",
+  "last update time": "05:11:36 AM 10-04-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -17,7 +17,7 @@
       "match_id": "141876",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141876_english_hls_7246ae13ed54509_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775858785~_GO=Generated~acl=/mumbai/141876_english_hls_7246ae13ed54509_1ta-di_h264/*~Signature=AfQ_v7Q3k8sB3m2gJQPNWmj8HnSBCEX6Tm7P_uWwwpHt08YqMen6lv4wVrnXkxsEvdwZcWXVu7NzMVAJHza9sOTWwgUB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141876_english_hls_7246ae13ed54509_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775862305~_GO=Generated~acl=/mumbai/141876_english_hls_7246ae13ed54509_1ta-di_h264/*~Signature=AfQ_v7QFTrvEgvEJWO-_lwpR-Fi9qvOqrd1IrdWj-Z5XcOfKkWzlyyeqOYKvUgjPJ4--w_hg9PBSoG2mikYpxNeyM8MA"
     },
     {
       "event_category": "Cricket",
@@ -230,20 +230,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 2 (Day 2 vs Georgia, USA (The Augusta Masters 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 2 vs Georgia, USA (The Augusta Masters 2026)",
-      "match_name": "Day 2",
-      "match_id": "141877",
-      "startTime": "10 April 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Perth United Warriors vs Melbourne Pirates (Perth United Warriors vs Melbourne Pirates (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141756_6028_PUW_MEP_FC-WEB.jpg",
@@ -254,6 +240,20 @@
       "match_name": "Perth United Warriors vs Melbourne Pirates",
       "match_id": "141756",
       "startTime": "11 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2 (Day 2 vs Georgia, USA (The Augusta Masters 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 2 vs Georgia, USA (The Augusta Masters 2026)",
+      "match_name": "Day 2",
+      "match_id": "141877",
+      "startTime": "10 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
