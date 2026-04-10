@@ -3,36 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "08:58:01 PM 10-04-2026",
+  "last update time": "10:02:39 PM 10-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Oman (ICC CWC League 2, Namibia)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141650_6025_NAM_OMN_fc-Web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Oman",
-      "status": "LIVE",
-      "event_name": "ICC CWC League 2, Namibia",
-      "match_name": "Namibia vs Oman",
-      "match_id": "141650",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141650_english_hls_f2fe6bcb1964793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775919029~_GO=Generated~acl=/mumbai/141650_english_hls_f2fe6bcb1964793_1ta-di_h264/*~Signature=AfQ_v7T73UXfm_SJaDZ1ybpWYk8VdCPIU9zgpb2XPghnUQWPxVuislqf1Pnz6hoaECUxFapHbzcijnqGQifM99B04-wF"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zambia Women vs Malawi Women (Kalahari Women's T20 2026 Zambia Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Zambia Women",
-      "team_2": "Malawi Women",
-      "status": "LIVE",
-      "event_name": "Kalahari Women's T20 2026 Zambia Women",
-      "match_name": "Zambia Women vs Malawi Women",
-      "match_id": "141907",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141907_english_hls_ee5f21307079538_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775919042~_GO=Generated~acl=/mumbai/141907_english_hls_ee5f21307079538_1ta-di_h264/*~Signature=AfQ_v7QhKSEUPkbPazMfYvK9sEOmU-uSgITpvNT2Tn0vnhMfs4icwhV7UntztJi8nzblQtUko0iBOL0mCTPfSfEQpRsN"
-    },
     {
       "event_category": "Cricket",
       "title": "Fc Goa vs Odisha Fc (ISL 2025-26 FC Goa)",
@@ -45,7 +17,7 @@
       "match_id": "140481",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140481_english_hls_4a776413a863645_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775919061~_GO=Generated~acl=/mumbai/140481_english_hls_4a776413a863645_1ta-di_h264/*~Signature=AfQ_v7Tm2ZPmbRwin71-0eytY4FNI8vqaL1dUUJTR6dr3g64XCRYsJoYRgGcWBTbQbB0fbWuqFB9JPM2rSHubJzZGscI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140481_english_hls_4a776413a863645_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775922977~_GO=Generated~acl=/mumbai/140481_english_hls_4a776413a863645_1ta-di_h264/*~Signature=AfQ_v7TZVucrUBgHdmHz5yhbYYkmEqjbSnPlKIhb_N9OQBJAI_iiG39-v_NTF9qhAD43w7pWB3yzbXyRYQabmAU3BVML"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +31,7 @@
       "match_id": "141917",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141917_english_hls_3963999d2134788_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775919071~_GO=Generated~acl=/mumbai/141917_english_hls_3963999d2134788_1ta-di_h264/*~Signature=AfQ_v7RZ9iell-vMMgaFtzynvxjjosLv9wgtUn8WSivEReje5_4EU8Gy2aGnX5xJDyHx87xHK8hlzOe84Dg8VN8FIsAC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141917_english_hls_3963999d2134788_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775922988~_GO=Generated~acl=/mumbai/141917_english_hls_3963999d2134788_1ta-di_h264/*~Signature=AfQ_v7RobTaKMiE6GlOtL4pjwV-ivT88xDE_stLvyK_tba7aeY5L94KY_sTg70BPU4WnwD4JeUw_I5_6eq8dEX1yeYAL"
     },
     {
       "event_category": "Tennis",
@@ -73,21 +45,21 @@
       "match_id": "141916",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141916_english_hls_a1805a07a473338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775919084~_GO=Generated~acl=/mumbai/141916_english_hls_a1805a07a473338_1ta-di_h264/*~Signature=AfQ_v7T0p_GFQigFYrwpeE0VA-vcpCbm6DRamaZFEMGij5bhmQMqWQqBoLq98uyzn4ho85Wx2s0bgBIRPJ4oVj_b6bkC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141916_english_hls_a1805a07a473338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775923001~_GO=Generated~acl=/mumbai/141916_english_hls_a1805a07a473338_1ta-di_h264/*~Signature=AfQ_v7T13BnKdK8q-mQD9Uac047C_sxoLFfwipS16MwB8LAHpZpmYWaV4RleB8OhL1bXobdS7k86VkMceXIE9UQNxiwH"
     },
     {
       "event_category": "Tennis",
-      "title": "C Alcaraz vs A Bublik (ATP Masters Rolex Monte-Carlo 2026 C. Alcaraz vs A.)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Carlos-Alcaraz-vs-Alexander-Bublik_Mini-Match-Card-(1080x810).png",
-      "team_1": "C Alcaraz",
-      "team_2": "A Bublik",
+      "title": "A Minaur vs V Vacherot (ATP Masters Rolex Monte-Carlo 2026 A. Minaur vs V.)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Alex-de-Minaur-vs-Valentin-Vacherot_web.jpg",
+      "team_1": "A Minaur",
+      "team_2": "V Vacherot",
       "status": "LIVE",
-      "event_name": "ATP Masters Rolex Monte-Carlo 2026 C. Alcaraz vs A.",
-      "match_name": "C Alcaraz vs A Bublik",
+      "event_name": "ATP Masters Rolex Monte-Carlo 2026 A. Minaur vs V.",
+      "match_name": "A Minaur vs V Vacherot",
       "match_id": "141915",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141915_english_hls_f65ff8816626522_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775919097~_GO=Generated~acl=/mumbai/141915_english_hls_f65ff8816626522_1ta-di_h264/*~Signature=AfQ_v7SSIcuUIWYYpIStsLX8GRUNyBN21t10gQBWb20BsVuUHX0v8PGmw2hqLQXMxnosnlp6iBPOs326iG93ZPJf22sI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141915_english_hls_f65ff8816626522_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775923014~_GO=Generated~acl=/mumbai/141915_english_hls_f65ff8816626522_1ta-di_h264/*~Signature=AfQ_v7SCJS2lgwNEAkG5bfZwRQvFjmQAfGD1EPvwIv6PxZY0gxS6cGuZgFvAxINdt1FoBBWP-Pcgkn1_XhY_u1jaXtUC"
     },
     {
       "event_category": "Football",
@@ -170,20 +142,6 @@
       "match_name": "Iconic Super Knights vs Melbourne Tuskers",
       "match_id": "141754",
       "startTime": "11 April 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Auckland vs Melbourne Victory (Auckland vs Melbourne Victory (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
-      "team_1": "Auckland",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "Auckland vs Melbourne Victory (A League 2025-26)",
-      "match_name": "Auckland vs Melbourne Victory",
-      "match_id": "140930",
-      "startTime": "11 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -287,6 +245,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Auckland vs Melbourne Victory (Auckland vs Melbourne Victory (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
+      "team_1": "Auckland",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "Auckland vs Melbourne Victory (A League 2025-26)",
+      "match_name": "Auckland vs Melbourne Victory",
+      "match_id": "140930",
+      "startTime": "11 April 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Newcastle Jets vs Adelaide United (Newcastle Jets vs Adelaide United (A League 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
       "team_1": "Newcastle Jets",
@@ -310,20 +282,6 @@
       "match_name": "Japan U20 vs Vietnam U20",
       "match_id": "141629",
       "startTime": "11 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Sydney FC (Western Sydney Wanderers vs Sydney FC (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "Western Sydney Wanderers vs Sydney FC (A League 2025-26)",
-      "match_name": "Western Sydney Wanderers vs Sydney FC",
-      "match_id": "140932",
-      "startTime": "11 April 2026 03:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -371,6 +329,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Western Sydney Wanderers vs Sydney FC (Western Sydney Wanderers vs Sydney FC (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "Western Sydney Wanderers vs Sydney FC (A League 2025-26)",
+      "match_name": "Western Sydney Wanderers vs Sydney FC",
+      "match_id": "140932",
+      "startTime": "11 April 2026 03:05 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Elche CF vs Valencia CF (Elche CF vs Valencia CF (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131135_5427_ELC_VAL_FC-Web.png",
       "team_1": "Elche CF",
@@ -412,6 +384,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Al-Okhdood Club vs Al-Nassr FC (Al-Okhdood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg",
+      "team_1": "Al-Okhdood Club",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Al-Okhdood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "match_name": "Al-Okhdood Club vs Al-Nassr FC",
+      "match_id": "140729",
+      "startTime": "11 April 2026 11:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 2 (Day 2 vs Georgia, USA (The Augusta Masters 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
@@ -427,20 +413,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Al-Okhdood Club vs Al-Nassr FC (Al-Okhdood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140729_5655_ALK_ANF_fc-web.jpg",
-      "team_1": "Al-Okhdood Club",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Al-Okhdood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "match_name": "Al-Okhdood Club vs Al-Nassr FC",
-      "match_id": "140729",
-      "startTime": "11 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "M\u00e1laga vs Las Palmas (M\u00e1laga vs Las Palmas (LALIGA Hypermotion 2025-26))",
       "src": "https://images.fancode.com/aig/match/v1774680543089/141687_CASACARDS_APP.png",
       "team_1": "M\u00e1laga",
@@ -450,6 +422,20 @@
       "match_name": "M\u00e1laga vs Las Palmas",
       "match_id": "141687",
       "startTime": "11 April 2026 10:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sevilla FC vs Atletico de Madrid (Sevilla FC vs Atletico de Madrid (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
+      "match_name": "Sevilla FC vs Atletico de Madrid",
+      "match_id": "131138",
+      "startTime": "12 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -496,20 +482,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Sevilla FC vs Atletico de Madrid (Sevilla FC vs Atletico de Madrid (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
-      "event_name": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
-      "match_name": "Sevilla FC vs Atletico de Madrid",
-      "match_id": "131138",
-      "startTime": "12 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Day 3 (Day 3 vs Georgia, USA (The Augusta Masters 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
@@ -520,6 +492,34 @@
       "match_name": "Day 3",
       "match_id": "141878",
       "startTime": "11 April 2026 09:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Brisbane Napoleans vs Melbourne Tuskers (Brisbane Napoleans vs Melbourne Tuskers (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141755_6028_BNA_MET_FC-WEB.jpg",
+      "team_1": "Brisbane Napoleans",
+      "team_2": "Melbourne Tuskers",
+      "status": "UPCOMING",
+      "event_name": "Brisbane Napoleans vs Melbourne Tuskers (Brisbane Champions League 2026)",
+      "match_name": "Brisbane Napoleans vs Melbourne Tuskers",
+      "match_id": "141755",
+      "startTime": "12 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
+      "team_1": "Al-Khaleej",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "match_name": "Al-Khaleej vs Al Hilal SFC",
+      "match_id": "140728",
+      "startTime": "11 April 2026 09:10 PM",
       "dai_url": "",
       "adfree_url": ""
     }
