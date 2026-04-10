@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "03:04:46 AM 11-04-2026",
+  "last update time": "04:04:49 AM 11-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Real Madrid vs Girona Fc (LALIGA 2025-26 Real Madrid)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png",
-      "team_1": "Real Madrid",
-      "team_2": "Girona Fc",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Real Madrid",
-      "match_name": "Real Madrid vs Girona Fc",
-      "match_id": "131131",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131131_english_hls_91561b107916133_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775941126~_GO=Generated~acl=/mumbai/131131_english_hls_91561b107916133_1ta-di_h264/*~Signature=AfQ_v7SbL_5DCMLnyh5DimB16p7gLfMUgjQPkH-p6Mk8dHQoyD-GhJ3xV28B8I_l8nKhoolBJqU3n1qcZyNpgNyPkMAD"
-    },
     {
       "event_category": "Golf",
       "title": "Georgia, vs USA (The Augusta Masters 2026 Day 2)",
@@ -31,21 +17,7 @@
       "match_id": "141877",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775941135~_GO=Generated~acl=/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/*~Signature=AfQ_v7Q4Ui7enpAkcJpZNHLNGKJfnL_Qw3T5ODpJVfZARWxFs2ISNff86u4oNXXvAg3rflb2iHMzRKSFVxV_mLyWbloK"
-    },
-    {
-      "event_category": "Football",
-      "title": "West Bromwich Albion F C vs Millwall F C (EFL Championship 2025-26 West Bromwich Albion F.C.)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-web-v2.jpg",
-      "team_1": "West Bromwich Albion F C",
-      "team_2": "Millwall F C",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26 West Bromwich Albion F.C.",
-      "match_name": "West Bromwich Albion F C vs Millwall F C",
-      "match_id": "141437",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141437_english_hls_6c04199f6116421_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775941148~_GO=Generated~acl=/mumbai/141437_english_hls_6c04199f6116421_1ta-di_h264/*~Signature=AfQ_v7QmGoQwPesrH3i_wqgbc6ws-rQZj2CkJ-wcBqVo64olK55fvivU-fg6KC7mYmZHbYOzUT4HQ1zdvAvt57cNrVcO"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775944691~_GO=Generated~acl=/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/*~Signature=AfQ_v7Ss20FnP_96eEXitsEgoeCdQjb85UC2YgQFtWZJ23UQ_ufXvjAe2KQarTPFNpMs6cjGg-hinpJD8ydPqEnpNYgJ"
     },
     {
       "event_category": "Cricket",
@@ -259,6 +231,20 @@
     },
     {
       "event_category": "Football",
+      "title": "FC Barcelona vs RCD Espanyol (FC Barcelona vs RCD Espanyol (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
+      "team_1": "FC Barcelona",
+      "team_2": "RCD Espanyol",
+      "status": "UPCOMING",
+      "event_name": "FC Barcelona vs RCD Espanyol (LALIGA 2025-26)",
+      "match_name": "FC Barcelona vs RCD Espanyol",
+      "match_id": "131133",
+      "startTime": "11 April 2026 10:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Auckland vs Melbourne Victory (Auckland vs Melbourne Victory (A League 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
       "team_1": "Auckland",
@@ -282,20 +268,6 @@
       "match_name": "Newcastle Jets vs Adelaide United",
       "match_id": "140931",
       "startTime": "11 April 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "FC Barcelona vs RCD Espanyol (FC Barcelona vs RCD Espanyol (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
-      "team_1": "FC Barcelona",
-      "team_2": "RCD Espanyol",
-      "status": "UPCOMING",
-      "event_name": "FC Barcelona vs RCD Espanyol (LALIGA 2025-26)",
-      "match_name": "FC Barcelona vs RCD Espanyol",
-      "match_id": "131133",
-      "startTime": "11 April 2026 10:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -455,20 +427,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
-      "team_1": "Al-Khaleej",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "match_name": "Al-Khaleej vs Al Hilal SFC",
-      "match_id": "140728",
-      "startTime": "11 April 2026 09:10 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Melbourne City vs Wellington Phoenix (Melbourne City vs Wellington Phoenix (A League 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
       "team_1": "Melbourne City",
@@ -478,6 +436,20 @@
       "match_name": "Melbourne City vs Wellington Phoenix",
       "match_id": "140933",
       "startTime": "12 April 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
+      "team_1": "Al-Khaleej",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "match_name": "Al-Khaleej vs Al Hilal SFC",
+      "match_id": "140728",
+      "startTime": "11 April 2026 09:10 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -520,6 +492,34 @@
       "match_name": "Perth Glory vs Macarthur",
       "match_id": "140934",
       "startTime": "12 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "DPR Korea U20 vs Australia U20 (DPR Korea U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+      "team_1": "DPR Korea U20",
+      "team_2": "Australia U20",
+      "status": "UPCOMING",
+      "event_name": "DPR Korea U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
+      "match_name": "DPR Korea U20 vs Australia U20",
+      "match_id": "141631",
+      "startTime": "12 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Birmingham City F.C. vs Wrexham A.F.C. (Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
+      "team_1": "Birmingham City F.C.",
+      "team_2": "Wrexham A.F.C.",
+      "status": "UPCOMING",
+      "event_name": "Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+      "match_name": "Birmingham City F.C. vs Wrexham A.F.C.",
+      "match_id": "141440",
+      "startTime": "12 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
