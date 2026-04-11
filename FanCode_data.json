@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:13:35 AM 11-04-2026",
+  "last update time": "12:39:24 PM 11-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Perth United Warriors vs Melbourne Pirates (Brisbane Champions League 2026 Perth United Warriors)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141756_6028_PUW_MEP_FC-WEB.jpg",
-      "team_1": "Perth United Warriors",
-      "team_2": "Melbourne Pirates",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Perth United Warriors",
-      "match_name": "Perth United Warriors vs Melbourne Pirates",
-      "match_id": "141756",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141756_english_hls_0a6a135fa620783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775970579~_GO=Generated~acl=/mumbai/141756_english_hls_0a6a135fa620783_1ta-di_h264/*~Signature=AfQ_v7QcyhPFVm5rFbwxQxIEq0PaySZtv3hyPvkVDgYfBXYifBPeS2lwkrrm0jkdGxcJtXryixVGhtq1S8m-7muafr4F"
-    },
     {
       "event_category": "Cricket",
       "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026 Sri Lanka A New)",
@@ -31,7 +17,7 @@
       "match_id": "141800",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775970591~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7Rd0Ru_rHJqHyX5njHVvcjMyqMlgyqp4gwdMI6jnaNDjCMjg69Ze_83gIXPUfNVg4BjDAiNRBcF1nM5ydbZF4QG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775975813~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7RYVxL0prVAh5rK8Hrc3PnnQu167_75j1zBd8L7vdHybNFgedWof6NiWpMu0mzFRh_AcJODgsJO_BNr9raWGVgE"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +31,7 @@
       "match_id": "140930",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775970603~_GO=Generated~acl=/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/*~Signature=AfQ_v7Q27QDM3JrnXhZE9-MF9b_CIpRsXvQW7q8XLc_3nez5bOzUGXG9SNkX-3foBYnD45_mXZZb-arqqgTULqknVcIK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775975826~_GO=Generated~acl=/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/*~Signature=AfQ_v7Qo328goGqsr-Nt_TR9x7nWvx7m7K2O6deDjS_P2huiPp17jZodQst7i5JvucxT7IkbZLsL6J47gA2wbhv7pRwH"
     },
     {
       "event_category": "Cricket",
@@ -72,6 +58,20 @@
       "match_name": "Zambia Women vs Lesotho Women",
       "match_id": "141908",
       "startTime": "11 April 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Adelaide United (Newcastle Jets vs Adelaide United (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "Newcastle Jets vs Adelaide United (A League 2025-26)",
+      "match_name": "Newcastle Jets vs Adelaide United",
+      "match_id": "140931",
+      "startTime": "11 April 2026 12:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -287,20 +287,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Newcastle Jets vs Adelaide United (Newcastle Jets vs Adelaide United (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "Newcastle Jets vs Adelaide United (A League 2025-26)",
-      "match_name": "Newcastle Jets vs Adelaide United",
-      "match_id": "140931",
-      "startTime": "11 April 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Japan U20 vs Vietnam U20 (Japan U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
       "team_1": "Japan U20",
@@ -398,20 +384,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Doubles Semi-Final (Doubles Semi-Final vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Doubles Semi-Final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-      "match_name": "Doubles Semi-Final",
-      "match_id": "141918",
-      "startTime": "11 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Melbourne Pirates vs Everest Falcons (Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
@@ -422,6 +394,34 @@
       "match_name": "Melbourne Pirates vs Everest Falcons",
       "match_id": "141753",
       "startTime": "12 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Doubles Semi-final (Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "Doubles Semi-final",
+      "match_id": "141919",
+      "startTime": "11 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A. Zverev vs J. Sinner (A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web.jpg",
+      "team_1": "A. Zverev",
+      "team_2": "J. Sinner",
+      "status": "UPCOMING",
+      "event_name": "A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "A. Zverev vs J. Sinner",
+      "match_id": "141918",
+      "startTime": "11 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -524,16 +524,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
-      "team_1": "Al-Khaleej",
-      "team_2": "Al Hilal SFC",
+      "event_category": "Cricket",
+      "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+      "team_1": "Leeward Islands Hurricanes",
+      "team_2": "Trinidad & Tobago Red Force",
       "status": "UPCOMING",
-      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "match_name": "Al-Khaleej vs Al Hilal SFC",
-      "match_id": "140728",
-      "startTime": "11 April 2026 09:10 PM",
+      "event_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
+      "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
+      "match_id": "141947",
+      "startTime": "12 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
