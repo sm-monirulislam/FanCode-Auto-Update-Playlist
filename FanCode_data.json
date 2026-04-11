@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:42:35 PM 11-04-2026",
+  "last update time": "05:37:19 PM 11-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,35 +17,7 @@
       "match_id": "141800",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775989958~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7THCItK7Etl2Fah5BWxzKtrHjoADE_5zG6X5xl-x_exZOYZFQz43O1K0yi0YevK5fi-P3ldncbLNzL0nf0VhyoB"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Botswana Women vs Mozambique Women (Kalahari Women's T20 2026 Botswana Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Botswana Women",
-      "team_2": "Mozambique Women",
-      "status": "LIVE",
-      "event_name": "Kalahari Women's T20 2026 Botswana Women",
-      "match_name": "Botswana Women vs Mozambique Women",
-      "match_id": "141903",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775989972~_GO=Generated~acl=/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/*~Signature=AfQ_v7R62LSdZMMqapKKdG_kTvfnpYYMr8sytBVdGBnsUF6fxWUAlTcwex-HewdWLIq17y4bJTRfJchsD481YbZ6cOYM"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zambia Women vs Lesotho Women (Kalahari Women's T20 2026 Zambia Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "Zambia Women",
-      "team_2": "Lesotho Women",
-      "status": "LIVE",
-      "event_name": "Kalahari Women's T20 2026 Zambia Women",
-      "match_name": "Zambia Women vs Lesotho Women",
-      "match_id": "141908",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775989985~_GO=Generated~acl=/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/*~Signature=AfQ_v7RDBypuc8BgeINZAA9_h-kJS9kiEZPh6SjboHK5XB9B8X_GBgvlyu8NZfAlVeix3qs1q3PsbCCKy99s_MVqGGoD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775992823~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7S1Fw5r6LTJqDu5ZHxR_KbPB2avTn_RFYd_Hr3_-Tspu7Gfcs1p8T2_-S8pOxmQ8LXsgkrWF7R0jPel-jexPPIA"
     },
     {
       "event_category": "Football",
@@ -59,7 +31,63 @@
       "match_id": "141754",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141754_english_hls_803573390390171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775989998~_GO=Generated~acl=/mumbai/141754_english_hls_803573390390171_1ta-di_h264/*~Signature=AfQ_v7SaQeehK5kF_iMsVKupq4cp7Yx0a60mOV0MAWnKPK7vkidfMM9BPAMv3OYImWPw9NY3utSQtihQ9sMZcSLILjEN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141754_english_hls_803573390390171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775992836~_GO=Generated~acl=/mumbai/141754_english_hls_803573390390171_1ta-di_h264/*~Signature=AfQ_v7TZUBTB0E9IaO_LVt4sXjTk_SJP9dUHLyaiX7K-rbfJ5RxsRHjq3nre2XmnKVokHMT4wgKk1XNuVi20F1gxR6YB"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Chennaiyin Fc vs East Bengal Fc (ISL 2025-26 Chennaiyin FC East)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg",
+      "team_1": "Chennaiyin Fc",
+      "team_2": "East Bengal Fc",
+      "status": "LIVE",
+      "event_name": "ISL 2025-26 Chennaiyin FC East",
+      "match_name": "Chennaiyin Fc vs East Bengal Fc",
+      "match_id": "140482",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140482_english_hls_0210aaaef338510_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775992855~_GO=Generated~acl=/mumbai/140482_english_hls_0210aaaef338510_1ta-di_h264/*~Signature=AfQ_v7RwNT1azd8LErso2Ou_AAwTvx5_h0AEM2_qS4W5cCNYrAbRqsaC-8XXYd0vaqtS-DgQZh-3aiAIOLBw8auNncMB"
+    },
+    {
+      "event_category": "Football",
+      "title": "Norwich City F C vs Ipswich Town F C (EFL Championship 2025-26 Norwich City F.C. Ipswich)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg",
+      "team_1": "Norwich City F C",
+      "team_2": "Ipswich Town F C",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26 Norwich City F.C. Ipswich",
+      "match_name": "Norwich City F C vs Ipswich Town F C",
+      "match_id": "141438",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141438_english_hls_37d615595f63763_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775992865~_GO=Generated~acl=/mumbai/141438_english_hls_37d615595f63763_1ta-di_h264/*~Signature=AfQ_v7SiykRSca46Eah2fMM84yLXTtDo-vIrP92FgUWqpBolHymIMLw9imW1PASN37guqp90ZZCtdS-v1qC5wK1cgnsB"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Chennaiyin Fc vs East Bengal Fc (ISL 2025-26 - Regional Chennaiyin FC East)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141808_5973_CFC_EBFC_fc-web.jpg",
+      "team_1": "Chennaiyin Fc",
+      "team_2": "East Bengal Fc",
+      "status": "LIVE",
+      "event_name": "ISL 2025-26 - Regional Chennaiyin FC East",
+      "match_name": "Chennaiyin Fc vs East Bengal Fc",
+      "match_id": "141808",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Chennaiyin Fc vs East Bengal Fc (ISL 2025-26 - Regional Chennaiyin FC East)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg",
+      "team_1": "Chennaiyin Fc",
+      "team_2": "East Bengal Fc",
+      "status": "LIVE",
+      "event_name": "ISL 2025-26 - Regional Chennaiyin FC East",
+      "match_name": "Chennaiyin Fc vs East Bengal Fc",
+      "match_id": "141807",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": ""
     },
     {
       "event_category": "Football",
@@ -73,7 +101,7 @@
       "match_id": "141629",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775990011~_GO=Generated~acl=/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/*~Signature=AfQ_v7Tg0ZqnOKjMVMyQzTwp1eQKh0uepzhuPOJkplRTbVnbC5_z4H6Rim-Twp2VdYhYlPi3IZa2eC6g7AYWV3Oo678N"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775993147~_GO=Generated~acl=/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/*~Signature=AfQ_v7TWh3Vwd_b4ZfkzWYPrK61ookQ62C6hQt6wUSFCvCnTUI6UhDSxRUReqKX0Ik1k_5XQNH166H-q2auovhtH_lAD"
     },
     {
       "event_category": "Cricket",
@@ -87,7 +115,7 @@
       "match_id": "140932",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775990025~_GO=Generated~acl=/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/*~Signature=AfQ_v7Q2meu6PJJ4EhbAHM8Im8IDTLfURmWR2sClLFhRnLgZtI4DgYhW9nyFuqScC-d0ltwvSSYSnYQv2-F81Pwy3DkJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775993161~_GO=Generated~acl=/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/*~Signature=AfQ_v7RKC8wZy9vp_2cjOA9YXYpJQZbcDDUP3QpAcFhGzHj4KJi5TdFlTW5hD-r-zaNDS8VsKfCVjcHGoOc1nP5THq4L"
     },
     {
       "event_category": "Tennis",
@@ -101,73 +129,31 @@
       "match_id": "141919",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775990038~_GO=Generated~acl=/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/*~Signature=AfQ_v7TLcRtPyL91v3HTF_au4XWJVtoGC17tWV_KLln93Jz9FOJctdHZJOz4noSAR6o6Id2k75JUz3DVlgI-3tB1GbIH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775993174~_GO=Generated~acl=/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/*~Signature=AfQ_v7QcG5CGtFTdYnEB_UeekhuSDNUVCW8_REyhdwuNCVYjfQT6966N3xR1-ms3XiKQan4vg0ZeKPnBNFKF0HTdplEL"
     },
     {
-      "event_category": "Football",
-      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140482_5956_CFC_EBFC_FC-Web_1772461085009.jpg",
-      "team_1": "Chennaiyin FC",
-      "team_2": "East Bengal FC",
-      "status": "UPCOMING",
-      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26)",
-      "match_name": "Chennaiyin FC vs East Bengal FC",
-      "match_id": "140482",
-      "startTime": "11 April 2026 05:00 PM",
+      "event_category": "Tennis",
+      "title": "A Zverev vs J Sinner (ATP Masters Rolex Monte-Carlo 2026 A. Zverev vs J.)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg",
+      "team_1": "A Zverev",
+      "team_2": "J Sinner",
+      "status": "LIVE",
+      "event_name": "ATP Masters Rolex Monte-Carlo 2026 A. Zverev vs J.",
+      "match_name": "A Zverev vs J Sinner",
+      "match_id": "141918",
+      "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Norwich City F.C. vs Ipswich Town F.C. (Norwich City F.C. vs Ipswich Town F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141438_5489_NOR_IPT_fc-web.jpg",
-      "team_1": "Norwich City F.C.",
-      "team_2": "Ipswich Town F.C.",
-      "status": "UPCOMING",
-      "event_name": "Norwich City F.C. vs Ipswich Town F.C. (EFL Championship 2025-26)",
-      "match_name": "Norwich City F.C. vs Ipswich Town F.C.",
-      "match_id": "141438",
-      "startTime": "11 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141808_5973_CFC_EBFC_fc-web.jpg",
-      "team_1": "Chennaiyin FC",
-      "team_2": "East Bengal FC",
-      "status": "UPCOMING",
-      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional)",
-      "match_name": "Chennaiyin FC vs East Bengal FC",
-      "match_id": "141808",
-      "startTime": "11 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Chennaiyin FC vs East Bengal FC (Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141807_5973_CFC_EBFC_fc-web.jpg",
-      "team_1": "Chennaiyin FC",
-      "team_2": "East Bengal FC",
-      "status": "UPCOMING",
-      "event_name": "Chennaiyin FC vs East Bengal FC (ISL 2025-26  - Regional)",
-      "match_name": "Chennaiyin FC vs East Bengal FC",
-      "match_id": "141807",
-      "startTime": "11 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775993187~_GO=Generated~acl=/mumbai/141918_english_hls_f126137e2958190_1ta-di_h264/*~Signature=AfQ_v7QLRAoOEel25nrQ4GWBKlGqGixa-4dIeO5yAfsgS0NEM-Li-wIkt1qgbRBQMsxOcS2OZs4SeBAsbrjoeVl4wOoE"
     },
     {
       "event_category": "Cricket",
-      "title": "TBC vs TBC (TBC vs TBC (Kalahari Women's T20 2026))",
+      "title": "Mozambique Women vs Malawi Women (Mozambique Women vs Malawi Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Mozambique Women",
+      "team_2": "Malawi Women",
       "status": "UPCOMING",
-      "event_name": "TBC vs TBC (Kalahari Women's T20 2026)",
-      "match_name": "TBC vs TBC",
+      "event_name": "Mozambique Women vs Malawi Women (Kalahari Women's T20 2026)",
+      "match_name": "Mozambique Women vs Malawi Women",
       "match_id": "141909",
       "startTime": "11 April 2026 05:30 PM",
       "dai_url": "",
@@ -175,13 +161,13 @@
     },
     {
       "event_category": "Cricket",
-      "title": "TBC vs TBC (TBC vs TBC (Kalahari Women's T20 2026))",
+      "title": "Brazil Women vs Botswana Women (Brazil Women vs Botswana Women (Kalahari Women's T20 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Brazil Women",
+      "team_2": "Botswana Women",
       "status": "UPCOMING",
-      "event_name": "TBC vs TBC (Kalahari Women's T20 2026)",
-      "match_name": "TBC vs TBC",
+      "event_name": "Brazil Women vs Botswana Women (Kalahari Women's T20 2026)",
+      "match_name": "Brazil Women vs Botswana Women",
       "match_id": "141910",
       "startTime": "11 April 2026 05:45 PM",
       "dai_url": "",
@@ -342,20 +328,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "A. Zverev vs J. Sinner (A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg",
-      "team_1": "A. Zverev",
-      "team_2": "J. Sinner",
-      "status": "UPCOMING",
-      "event_name": "A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-      "match_name": "A. Zverev vs J. Sinner",
-      "match_id": "141918",
-      "startTime": "11 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia vs Scotland (Namibia vs Scotland (ICC CWC League 2, Namibia))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
@@ -428,7 +400,7 @@
     {
       "event_category": "Football",
       "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional))",
-      "src": "https://images.fancode.com/aig/match/v1775535874179/141810_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg",
       "team_1": "Inter Kashi",
       "team_2": "Mohammedan SC",
       "status": "UPCOMING",
@@ -482,20 +454,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 3 (Day 3 vs Georgia, USA (The Augusta Masters 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
-      "match_name": "Day 3",
-      "match_id": "141878",
-      "startTime": "11 April 2026 09:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -524,6 +482,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Day 3 (Day 3 vs Georgia, USA (The Augusta Masters 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
+      "match_name": "Day 3",
+      "match_id": "141878",
+      "startTime": "11 April 2026 09:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Mohun Bagan Super Giant vs Punjab FC (Mohun Bagan Super Giant vs Punjab FC (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg",
@@ -534,6 +506,34 @@
       "match_name": "Mohun Bagan Super Giant vs Punjab FC",
       "match_id": "140485",
       "startTime": "12 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Punjab FC (Mohun Bagan Super Giant vs Punjab FC (ISL 2025-26  - Regional))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141811_5973_MBSG_PFC_fc-web.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Punjab FC",
+      "status": "UPCOMING",
+      "event_name": "Mohun Bagan Super Giant vs Punjab FC (ISL 2025-26  - Regional)",
+      "match_name": "Mohun Bagan Super Giant vs Punjab FC",
+      "match_id": "141811",
+      "startTime": "12 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "RCD Mallorca vs Rayo Vallecano (RCD Mallorca vs Rayo Vallecano (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131136_5427_MRC_RVL_FC-Web.png",
+      "team_1": "RCD Mallorca",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "RCD Mallorca vs Rayo Vallecano (LALIGA 2025-26)",
+      "match_name": "RCD Mallorca vs Rayo Vallecano",
+      "match_id": "131136",
+      "startTime": "12 April 2026 07:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
