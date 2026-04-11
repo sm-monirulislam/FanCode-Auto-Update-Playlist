@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 39,
-  "last update time": "02:53:56 PM 11-04-2026",
+  "match_amount": 38,
+  "last update time": "03:50:42 PM 11-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141800",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983488~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7T2PaFfBBk85ImJxqRHjJNdxGh5VDtX4cqDPaOIW0lOCP_y0MCJUQa1sBiISYtBBRQHF_HqHOTsfBLKMVezvdwH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987126~_GO=Generated~acl=/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/*~Signature=AfQ_v7RvLJBMndXqxfyWWEg8pvSeo9GLGZovQgsV-adaRvwyTEfyVd4iyQ-UhJ3M7cxzAAusKYJiTgT33t5x-iyJ65cA"
     },
     {
       "event_category": "Cricket",
@@ -31,21 +31,7 @@
       "match_id": "141903",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983501~_GO=Generated~acl=/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/*~Signature=AfQ_v7Q4PBd6H0kaLdns0IwK67rZPGClXMtioOebjT3hjIDf3IQ6himc-2kTnFXo3HZG0cgxNRdp6YlGpv6xPlN_gr4G"
-    },
-    {
-      "event_category": "Football",
-      "title": "Iconic Super Knights vs Melbourne Tuskers (Brisbane Champions League 2026 Iconic Super Knights)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg",
-      "team_1": "Iconic Super Knights",
-      "team_2": "Melbourne Tuskers",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Iconic Super Knights",
-      "match_name": "Iconic Super Knights vs Melbourne Tuskers",
-      "match_id": "141754",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141754_english_hls_803573390390171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983515~_GO=Generated~acl=/mumbai/141754_english_hls_803573390390171_1ta-di_h264/*~Signature=AfQ_v7RBaFWK1HIb7BZyVUvYknwoeqmYfkx7y6hFwn5pGloAxgCtf6r8jcq9NBle9mTtBR3LS55OahZc3TZbCRphz9AA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987140~_GO=Generated~acl=/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/*~Signature=AfQ_v7QJaMN2somGogzGw1c6a-2WdYNZIywBb7qjEnstGZ58cRIfVyJg5Q5aSiW0Lz8ttGJ301TNmh7zs6_xPEI6XiUD"
     },
     {
       "event_category": "Cricket",
@@ -59,21 +45,49 @@
       "match_id": "141908",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983528~_GO=Generated~acl=/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/*~Signature=AfQ_v7TUWO-Tfs27CqwMQdQ9OLMbp4XUGw60QWxBGFKYarwDRZvqOwQa1ZN8eUc3Hoij8kYk-mAmIeQwc08DMrdyIQ8O"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987153~_GO=Generated~acl=/mumbai/141908_english_hls_79c621efba67547_1ta-di_h264/*~Signature=AfQ_v7RUsoRwsaDv9IU-mFla7zMWbxumEbsV5bBRrqFbEHwKseqUHXS3FpyhydYpqMnhq4Bk1lvkNtIH-SqmlCMSkPYI"
+    },
+    {
+      "event_category": "Football",
+      "title": "Iconic Super Knights vs Melbourne Tuskers (Brisbane Champions League 2026 Iconic Super Knights)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg",
+      "team_1": "Iconic Super Knights",
+      "team_2": "Melbourne Tuskers",
+      "status": "LIVE",
+      "event_name": "Brisbane Champions League 2026 Iconic Super Knights",
+      "match_name": "Iconic Super Knights vs Melbourne Tuskers",
+      "match_id": "141754",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141754_english_hls_803573390390171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987166~_GO=Generated~acl=/mumbai/141754_english_hls_803573390390171_1ta-di_h264/*~Signature=AfQ_v7TkmqVUFU5tac3UqwlmCgHiGzky2MDq66R-QCLlxLB-pJnXU0GDNha5McaSqSokXw0pH2xXdhlQHjigWbq6HKUL"
+    },
+    {
+      "event_category": "Football",
+      "title": "Japan U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026 Japan U20)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+      "team_1": "Japan U20",
+      "team_2": "Vietnam U20",
+      "status": "LIVE",
+      "event_name": "AFC U20 Women's Asian Cup 2026 Japan U20",
+      "match_name": "Japan U20 vs Vietnam U20",
+      "match_id": "141629",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987179~_GO=Generated~acl=/mumbai/141629_english_hls_94ea2d003b14222_1ta-di_h264/*~Signature=AfQ_v7SaqS0fhrGoJi3zrl-KWS9M2pjtGwbC7ptJvEUviNJHXth5dR6pdxgRIm6k92HXW75baN5GI9k-pBJU89xiUvUC"
     },
     {
       "event_category": "Cricket",
-      "title": "Newcastle Jets vs Adelaide United (A League 2025-26 Newcastle Jets)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140931_5802_NJ_ADL_fc-web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Adelaide United",
+      "title": "Western Sydney Wanderers vs Sydney Fc (A League 2025-26 Western Sydney Wanderers)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Sydney Fc",
       "status": "LIVE",
-      "event_name": "A League 2025-26 Newcastle Jets",
-      "match_name": "Newcastle Jets vs Adelaide United",
-      "match_id": "140931",
+      "event_name": "A League 2025-26 Western Sydney Wanderers",
+      "match_name": "Western Sydney Wanderers vs Sydney Fc",
+      "match_id": "140932",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140931_english_hls_152f8c40cc88896_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983541~_GO=Generated~acl=/mumbai/140931_english_hls_152f8c40cc88896_1ta-di_h264/*~Signature=AfQ_v7TqdtMD9dUmgs_nrR1YVe_3N9T7LlRqc6Vtidx74nGR1RrkU_aeBkr60SJd-9NbqZwtl-hcFE6UJ0O56oxJUxIA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987192~_GO=Generated~acl=/mumbai/140932_english_hls_353a89839e99375_1ta-di_h264/*~Signature=AfQ_v7SVLLlhTyopgXR-bdYnmgR5mcZoUwiPXV-hER8jnSuiMWg_Ro7clQZBKQQ_9tSfezyrI5L-u9Obcgzxt1t9JhEI"
     },
     {
       "event_category": "Tennis",
@@ -87,35 +101,7 @@
       "match_id": "141919",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775983554~_GO=Generated~acl=/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/*~Signature=AfQ_v7S940MV2srFh95r-QsK3RkLEhSdpAY1sm3LGRheUcOP5n1BZDwXZ1_nr4tSEYPgx3tYmN23_R5mML5KwPUSA6UE"
-    },
-    {
-      "event_category": "Football",
-      "title": "Japan U20 vs Vietnam U20 (Japan U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
-      "team_1": "Japan U20",
-      "team_2": "Vietnam U20",
-      "status": "UPCOMING",
-      "event_name": "Japan U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026)",
-      "match_name": "Japan U20 vs Vietnam U20",
-      "match_id": "141629",
-      "startTime": "11 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Sydney FC (Western Sydney Wanderers vs Sydney FC (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140932_5802_SYW_SYD_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "Western Sydney Wanderers vs Sydney FC (A League 2025-26)",
-      "match_name": "Western Sydney Wanderers vs Sydney FC",
-      "match_id": "140932",
-      "startTime": "11 April 2026 03:05 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/1080p.m3u8?hdntl=Expires=1775987205~_GO=Generated~acl=/mumbai/141919_english_hls_49cc79ff2753775_1ta-di_h264/*~Signature=AfQ_v7SJNqiHOUFZvI79WWrJNe5V9zEWuxipfx1PL62V2zlZZN7urw6SmTgbjtKmnT8THL0lTiGpmLgqn43hViQz3NsI"
     },
     {
       "event_category": "Cricket",
@@ -356,20 +342,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Doubles Semi-final (Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Doubles Semi-final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-      "match_name": "Doubles Semi-final",
-      "match_id": "141919",
-      "startTime": "11 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia vs Scotland (Namibia vs Scotland (ICC CWC League 2, Namibia))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
@@ -426,16 +398,30 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "A. Zverev vs J. Sinner (A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web.jpg",
-      "team_1": "A. Zverev",
-      "team_2": "J. Sinner",
+      "event_category": "Football",
+      "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
+      "team_1": "Inter Kashi",
+      "team_2": "Mohammedan SC",
       "status": "UPCOMING",
-      "event_name": "A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-      "match_name": "A. Zverev vs J. Sinner",
-      "match_id": "141918",
-      "startTime": "11 April 2026 05:00 PM",
+      "event_name": "Inter Kashi vs Mohammedan SC (ISL 2025-26)",
+      "match_name": "Inter Kashi vs Mohammedan SC",
+      "match_id": "140484",
+      "startTime": "12 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional))",
+      "src": "https://images.fancode.com/aig/match/v1775535874179/141810_CASACARDS_APP.png",
+      "team_1": "Inter Kashi",
+      "team_2": "Mohammedan SC",
+      "status": "UPCOMING",
+      "event_name": "Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional)",
+      "match_name": "Inter Kashi vs Mohammedan SC",
+      "match_id": "141810",
+      "startTime": "12 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -468,48 +454,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 3 (Day 3 vs Georgia, USA (The Augusta Masters 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
-      "match_name": "Day 3",
-      "match_id": "141878",
-      "startTime": "11 April 2026 09:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
-      "team_1": "Inter Kashi",
-      "team_2": "Mohammedan SC",
-      "status": "UPCOMING",
-      "event_name": "Inter Kashi vs Mohammedan SC (ISL 2025-26)",
-      "match_name": "Inter Kashi vs Mohammedan SC",
-      "match_id": "140484",
-      "startTime": "12 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional))",
-      "src": "https://images.fancode.com/aig/match/v1775535874179/141810_CASACARDS_APP.png",
-      "team_1": "Inter Kashi",
-      "team_2": "Mohammedan SC",
-      "status": "UPCOMING",
-      "event_name": "Inter Kashi vs Mohammedan SC (ISL 2025-26  - Regional)",
-      "match_name": "Inter Kashi vs Mohammedan SC",
-      "match_id": "141810",
-      "startTime": "12 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "CA Osasuna vs Real Betis (CA Osasuna vs Real Betis (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131139_5427_OSN_RB_FC-Web.png",
@@ -520,6 +464,34 @@
       "match_name": "CA Osasuna vs Real Betis",
       "match_id": "131139",
       "startTime": "12 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "A. Zverev vs J. Sinner (A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_web-(1).jpg",
+      "team_1": "A. Zverev",
+      "team_2": "J. Sinner",
+      "status": "UPCOMING",
+      "event_name": "A. Zverev vs J. Sinner vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+      "match_name": "A. Zverev vs J. Sinner",
+      "match_id": "141918",
+      "startTime": "11 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3 (Day 3 vs Georgia, USA (The Augusta Masters 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
+      "match_name": "Day 3",
+      "match_id": "141878",
+      "startTime": "11 April 2026 09:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -547,6 +519,20 @@
       "event_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
       "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
       "match_id": "141949",
+      "startTime": "12 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Punjab FC (Mohun Bagan Super Giant vs Punjab FC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140485_5956_MBSG_PFC_FC-Web_1772461439173.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Punjab FC",
+      "status": "UPCOMING",
+      "event_name": "Mohun Bagan Super Giant vs Punjab FC (ISL 2025-26)",
+      "match_name": "Mohun Bagan Super Giant vs Punjab FC",
+      "match_id": "140485",
       "startTime": "12 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
