@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "05:05:51 AM 11-04-2026",
+  "last update time": "06:01:26 AM 11-04-2026",
   "matches": [
-    {
-      "event_category": "Golf",
-      "title": "Georgia, vs USA (The Augusta Masters 2026 Day 2)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-      "team_1": "Georgia,",
-      "team_2": "USA",
-      "status": "LIVE",
-      "event_name": "The Augusta Masters 2026 Day 2",
-      "match_name": "Georgia, vs USA",
-      "match_id": "141877",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1775948702~_GO=Generated~acl=/mumbai/141877_english_hls_fc0e168e9955890_1ta-di_h264/*~Signature=AfQ_v7RuANReycpOQirJTSNnC7O61BYChbejTkz9-K8Fbv68nWIbHEWB1478UPwqFqD4XASdBhHyEbYt5m46jA7KK14H"
-    },
     {
       "event_category": "Cricket",
       "title": "Perth United Warriors vs Melbourne Pirates (Perth United Warriors vs Melbourne Pirates (Brisbane Champions League 2026))",
@@ -287,6 +273,20 @@
     },
     {
       "event_category": "Football",
+      "title": "Sevilla FC vs Atletico de Madrid (Sevilla FC vs Atletico de Madrid (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
+      "match_name": "Sevilla FC vs Atletico de Madrid",
+      "match_id": "131138",
+      "startTime": "12 April 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Japan U20 vs Vietnam U20 (Japan U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
       "team_1": "Japan U20",
@@ -310,20 +310,6 @@
       "match_name": "Western Sydney Wanderers vs Sydney FC",
       "match_id": "140932",
       "startTime": "11 April 2026 03:05 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Sevilla FC vs Atletico de Madrid (Sevilla FC vs Atletico de Madrid (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
-      "event_name": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
-      "match_name": "Sevilla FC vs Atletico de Madrid",
-      "match_id": "131138",
-      "startTime": "12 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -454,20 +440,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
-      "team_1": "Al-Khaleej",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "match_name": "Al-Khaleej vs Al Hilal SFC",
-      "match_id": "140728",
-      "startTime": "11 April 2026 09:10 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Melbourne Pirates vs Everest Falcons (Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
@@ -478,6 +450,20 @@
       "match_name": "Melbourne Pirates vs Everest Falcons",
       "match_id": "141753",
       "startTime": "12 April 2026 01:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Al-Khaleej vs Al Hilal SFC (Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140728_5655_AKH_AHS_fc-web.jpg",
+      "team_1": "Al-Khaleej",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Al-Khaleej vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "match_name": "Al-Khaleej vs Al Hilal SFC",
+      "match_id": "140728",
+      "startTime": "11 April 2026 09:10 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -520,6 +506,20 @@
       "match_name": "Birmingham City F.C. vs Wrexham A.F.C.",
       "match_id": "141440",
       "startTime": "12 April 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Inter Kashi vs Mohammedan SC (Inter Kashi vs Mohammedan SC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
+      "team_1": "Inter Kashi",
+      "team_2": "Mohammedan SC",
+      "status": "UPCOMING",
+      "event_name": "Inter Kashi vs Mohammedan SC (ISL 2025-26)",
+      "match_name": "Inter Kashi vs Mohammedan SC",
+      "match_id": "140484",
+      "startTime": "12 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
