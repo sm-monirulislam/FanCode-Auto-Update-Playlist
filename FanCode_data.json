@@ -3,21 +3,21 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:36:00 AM 12-04-2026",
+  "last update time": "01:23:47 PM 12-04-2026",
   "matches": [
     {
-      "event_category": "Football",
-      "title": "Brisbane Napoleans vs Melbourne Tuskers (Brisbane Champions League 2026 Brisbane Napoleans)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141755_6028_BNA_MET_FC-WEB.jpg",
-      "team_1": "Brisbane Napoleans",
-      "team_2": "Melbourne Tuskers",
+      "event_category": "Cricket",
+      "title": "Namibia vs Scotland (ICC CWC League 2, Namibia)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
+      "team_1": "Namibia",
+      "team_2": "Scotland",
       "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Brisbane Napoleans",
-      "match_name": "Brisbane Napoleans vs Melbourne Tuskers",
-      "match_id": "141755",
+      "event_name": "ICC CWC League 2, Namibia",
+      "match_name": "Namibia vs Scotland",
+      "match_id": "141651",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141755_english_hls_fcfcef7f9c96940_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776058478~_GO=Generated~acl=/mumbai/141755_english_hls_fcfcef7f9c96940_1ta-di_h264/*~Signature=AfQ_v7SV12I4qooYGDmo5vWSd-cOCaZSLU8mboE1CtMA0D0EBKQhUbGp8ZyBA32qqY8p9LXVts816PiEdZAX9cAOwTAF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776064588~_GO=Generated~acl=/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/*~Signature=AfQ_v7RTzwlDSmnpa7GuB5Wyv0gdoARA0hY-Q_qx7W3dA7cyJ7UuxIqQIpty44iOTCku-2Gwstr9ylpZK16RoGviP_gN"
     },
     {
       "event_category": "Cricket",
@@ -31,21 +31,7 @@
       "match_id": "140933",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776058493~_GO=Generated~acl=/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/*~Signature=AfQ_v7QdmbSy6TSXduMXKIbiPBNpA9J6kUmfqiRDwOtQbPbwE0VKu-1KDFronVXrZ8MwrPTAFshN7GHW9b1UZASqZK4L"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Scotland (Namibia vs Scotland (ICC CWC League 2, Namibia))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Scotland",
-      "status": "UPCOMING",
-      "event_name": "Namibia vs Scotland (ICC CWC League 2, Namibia)",
-      "match_name": "Namibia vs Scotland",
-      "match_id": "141651",
-      "startTime": "12 April 2026 01:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776064601~_GO=Generated~acl=/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/*~Signature=AfQ_v7QWb1GXhcYuOD7EhZnmA344aPmiMuEe8_aH9E7cGxrzN6VsRXOGuyuwUKVUfoAXjGZKn4Gu7cTeXnyDIsv30wEF"
     },
     {
       "event_category": "Cricket",
@@ -90,20 +76,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Birmingham City F.C. vs Wrexham A.F.C. (Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
-      "team_1": "Birmingham City F.C.",
-      "team_2": "Wrexham A.F.C.",
-      "status": "UPCOMING",
-      "event_name": "Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-      "match_name": "Birmingham City F.C. vs Wrexham A.F.C.",
-      "match_id": "141440",
-      "startTime": "12 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Jamaica Scorpions vs Barbados Pride (Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
@@ -114,6 +86,20 @@
       "match_name": "Jamaica Scorpions vs Barbados Pride",
       "match_id": "141948",
       "startTime": "12 April 2026 08:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Birmingham City F.C. vs Wrexham A.F.C. (Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
+      "team_1": "Birmingham City F.C.",
+      "team_2": "Wrexham A.F.C.",
+      "status": "UPCOMING",
+      "event_name": "Birmingham City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+      "match_name": "Birmingham City F.C. vs Wrexham A.F.C.",
+      "match_id": "141440",
+      "startTime": "12 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -300,20 +286,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Racing Club vs Almer\u00eda (Racing Club vs Almer\u00eda (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1774680543089/141689_CASACARDS_APP.png",
-      "team_1": "Racing Club",
-      "team_2": "Almer\u00eda",
-      "status": "UPCOMING",
-      "event_name": "Racing Club vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
-      "match_name": "Racing Club vs Almer\u00eda",
-      "match_id": "141689",
-      "startTime": "13 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "New York Liberty XI vs Melbourne Pirates (New York Liberty XI vs Melbourne Pirates (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141757_6028_NYL_MEP_FC-WEB.jpg",
@@ -324,6 +296,20 @@
       "match_name": "New York Liberty XI vs Melbourne Pirates",
       "match_id": "141757",
       "startTime": "13 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Racing Club vs Almer\u00eda (Racing Club vs Almer\u00eda (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1774680543089/141689_CASACARDS_APP.png",
+      "team_1": "Racing Club",
+      "team_2": "Almer\u00eda",
+      "status": "UPCOMING",
+      "event_name": "Racing Club vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
+      "match_name": "Racing Club vs Almer\u00eda",
+      "match_id": "141689",
+      "startTime": "13 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +520,20 @@
       "match_name": "Tractor vs Shabab Al Ahli",
       "match_id": "140855",
       "startTime": "14 April 2026 08:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 (ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+      "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+      "match_id": "141827",
+      "startTime": "14 April 2026 05:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
