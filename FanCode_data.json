@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "04:19:13 PM 13-04-2026",
+  "last update time": "05:52:35 PM 13-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Melbourne Tuskers vs Brisbane Stars (Brisbane Champions League 2026 Melbourne Tuskers)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141758_6028_MET_BRS_FC-WEB.jpg",
-      "team_1": "Melbourne Tuskers",
-      "team_2": "Brisbane Stars",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Melbourne Tuskers",
-      "match_name": "Melbourne Tuskers vs Brisbane Stars",
-      "match_id": "141758",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141758_english_hls_8073cf914682599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776161802~_GO=Generated~acl=/mumbai/141758_english_hls_8073cf914682599_1ta-di_h264/*~Signature=AfQ_v7RecMFO69ZOaEd_uDs10DqH8Ndv7NQwbi8JYubRh_vY77jINLZrBsiYnU6y1qi0ute_51R-bZFvB8e2vTpbQK0F"
-    },
     {
       "event_category": "Tennis",
       "title": "Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026 World)",
@@ -31,7 +17,7 @@
       "match_id": "141825",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776161815~_GO=Generated~acl=/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/*~Signature=AfQ_v7TyKvj3GQJJUg3fGL__uGrdGjEbyKOxf_XpWCJCH3XcqARuuF5iB6dg2pnjfE-l0nrAMgGd1f3ZRLmTnWFOjI0H"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776167079~_GO=Generated~acl=/mumbai/141825_english_hls_e1f9fcb2993640_1ta-di_h264/*~Signature=AfQ_v7Tj9FgOO7mLwWHdSd9fRbsXs2ir73kxUvx8XQtbeTPRgkR2mt16sxuJCobrWunLURSBMAPvE7S0ccNJ8_lo2GwI"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +31,7 @@
       "match_id": "141839",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141839_english_hls_cc280e91f951257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776161828~_GO=Generated~acl=/mumbai/141839_english_hls_cc280e91f951257_1ta-di_h264/*~Signature=AfQ_v7SArOPg8C0FOhgJtrf-IEIEzeJoZVSuv1clbSEvQqjt7Tv248_7M3WRliYAGgfrxZqsUB7f8A97vx8BU_zkA5QN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141839_english_hls_cc280e91f951257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776167092~_GO=Generated~acl=/mumbai/141839_english_hls_cc280e91f951257_1ta-di_h264/*~Signature=AfQ_v7QsXWLkdzelSB-_1oSyoeXRfEXz8nWjRi3xaHOiiuZQTYhN6bPSJUpxK5HfvmddpDA8MqOJ7iizM3CqW67BjnYN"
     },
     {
       "event_category": "Football",
@@ -478,6 +464,20 @@
       "match_name": "TBC vs TBC",
       "match_id": "141763",
       "startTime": "16 April 2026 08:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Seattle Sounders FC vs Tigres (Seattle Sounders FC vs Tigres (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141887_5954_SS_TIG_FC-Web.png",
+      "team_1": "Seattle Sounders FC",
+      "team_2": "Tigres",
+      "status": "UPCOMING",
+      "event_name": "Seattle Sounders FC vs Tigres (CONCACAF Champions Cup 2026)",
+      "match_name": "Seattle Sounders FC vs Tigres",
+      "match_id": "141887",
+      "startTime": "16 April 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": ""
     }
