@@ -3,35 +3,21 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 35,
-  "last update time": "12:21:40 PM 13-04-2026",
+  "last update time": "02:30:21 PM 13-04-2026",
   "matches": [
     {
       "event_category": "Football",
-      "title": "New York Liberty Xi vs Melbourne Pirates (Brisbane Champions League 2026 New York Liberty XI)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141757_6028_NYL_MEP_FC-WEB.jpg",
-      "team_1": "New York Liberty Xi",
-      "team_2": "Melbourne Pirates",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 New York Liberty XI",
-      "match_name": "New York Liberty Xi vs Melbourne Pirates",
-      "match_id": "141757",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141757_english_hls_42ad4056985205_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776147603~_GO=Generated~acl=/mumbai/141757_english_hls_42ad4056985205_1ta-di_h264/*~Signature=AfQ_v7TsHRbUU5Tzte4La98F4yUQUOrWkjV0ylqha2Aent9YGfiHbIHY6vGhvJXhcbDCgs5Zd64kbXKGNto-sp7a4k8E"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Melbourne Tuskers vs Brisbane Stars (Melbourne Tuskers vs Brisbane Stars (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141758_6028_MET_BRS_FC-WEB.jpg",
+      "title": "Melbourne Tuskers vs Brisbane Stars (Brisbane Champions League 2026 Melbourne Tuskers)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/141758_6028_MET_BRS_FC-WEB.jpg",
       "team_1": "Melbourne Tuskers",
       "team_2": "Brisbane Stars",
-      "status": "UPCOMING",
-      "event_name": "Melbourne Tuskers vs Brisbane Stars (Brisbane Champions League 2026)",
+      "status": "LIVE",
+      "event_name": "Brisbane Champions League 2026 Melbourne Tuskers",
       "match_name": "Melbourne Tuskers vs Brisbane Stars",
       "match_id": "141758",
-      "startTime": "13 April 2026 01:30 PM",
+      "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141758_english_hls_8073cf914682599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776155026~_GO=Generated~acl=/mumbai/141758_english_hls_8073cf914682599_1ta-di_h264/*~Signature=AfQ_v7Siaeq7U4N8XBpY42pVf5H7OS-TwpV9WX4acPxxIcI1_DiGdEJ0bdOqKHSaN95yv3D_GNOJBCJk6_nr064mn4oB"
     },
     {
       "event_category": "Football",
@@ -76,20 +62,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Real Valladolid vs Eibar (Real Valladolid vs Eibar (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1774680543088/141690_CASACARDS_APP.png",
-      "team_1": "Real Valladolid",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "Real Valladolid vs Eibar (LALIGA Hypermotion 2025-26)",
-      "match_name": "Real Valladolid vs Eibar",
-      "match_id": "141690",
-      "startTime": "14 April 2026 12:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Melbourne Tuskers vs Sydney Kangaroos (Melbourne Tuskers vs Sydney Kangaroos (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141759_6028_MET_SYK_FC-WEB.jpg",
@@ -104,16 +76,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Melbourne Pirates vs Genid Royals (Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
-      "team_1": "Melbourne Pirates",
-      "team_2": "Genid Royals",
+      "event_category": "Football",
+      "title": "Real Valladolid vs Eibar (Real Valladolid vs Eibar (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
+      "team_1": "Real Valladolid",
+      "team_2": "Eibar",
       "status": "UPCOMING",
-      "event_name": "Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026)",
-      "match_name": "Melbourne Pirates vs Genid Royals",
-      "match_id": "141760",
-      "startTime": "14 April 2026 01:30 PM",
+      "event_name": "Real Valladolid vs Eibar (LALIGA Hypermotion 2025-26)",
+      "match_name": "Real Valladolid vs Eibar",
+      "match_id": "141690",
+      "startTime": "14 April 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -142,6 +114,20 @@
       "match_name": "World Feed",
       "match_id": "141839",
       "startTime": "13 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Melbourne Pirates vs Genid Royals (Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
+      "team_1": "Melbourne Pirates",
+      "team_2": "Genid Royals",
+      "status": "UPCOMING",
+      "event_name": "Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026)",
+      "match_name": "Melbourne Pirates vs Genid Royals",
+      "match_id": "141760",
+      "startTime": "14 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -492,6 +478,20 @@
       "match_name": "LA Galaxy vs Toluca",
       "match_id": "141886",
       "startTime": "16 April 2026 06:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (TBC vs TBC (Brisbane Champions League 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "TBC vs TBC (Brisbane Champions League 2026)",
+      "match_name": "TBC vs TBC",
+      "match_id": "141763",
+      "startTime": "16 April 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
