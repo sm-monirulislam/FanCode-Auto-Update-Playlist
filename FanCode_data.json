@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 36,
-  "last update time": "08:53:30 PM 14-04-2026",
+  "match_amount": 37,
+  "last update time": "10:13:49 PM 14-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141947",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141947_english_hls_bcd49d97e794830_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776264176~_GO=Generated~acl=/mumbai/141947_english_hls_bcd49d97e794830_1ta-di_h264/*~Signature=AfQ_v7QCq0TaJp2jfkNfO_fmS3lSxRwQdYV9ApOF9qy94M1NAIqBKBRfyxnTA2P4cfcCeqzCFqTrpPnxZobJFDoIr5gL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141947_english_hls_bcd49d97e794830_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269295~_GO=Generated~acl=/mumbai/141947_english_hls_bcd49d97e794830_1ta-di_h264/*~Signature=AfQ_v7RLU8jKalYWXOM9bBGpyLNl5o59JNqYN2ouErBZvED1JGn8Ozy6dCsp1w3BSFqWKyOmsMPjnS9PubtuI8fhs7IG"
     },
     {
       "event_category": "Cricket",
@@ -31,7 +31,21 @@
       "match_id": "141949",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141949_english_hls_16bf057d1866957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776264189~_GO=Generated~acl=/mumbai/141949_english_hls_16bf057d1866957_1ta-di_h264/*~Signature=AfQ_v7Q-WIVSdWT-QOtof-jh2z-gI82gp5A3sCu0yykL-PzbLZFj2ZBNPXlPBQOtDwfCEBpS9pUEqleDy21ljJk7mDoB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141949_english_hls_16bf057d1866957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269307~_GO=Generated~acl=/mumbai/141949_english_hls_16bf057d1866957_1ta-di_h264/*~Signature=AfQ_v7RiuEed3YAPSXQTJGlT659ZIU-CNWz07Rl1SpVhlJfgFHw_GN2JsLQGEX7yCTTKwa48xkqROSzMPsknnREXsgAE"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026 Jamaica Scorpions)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+      "team_1": "Jamaica Scorpions",
+      "team_2": "Barbados Pride",
+      "status": "LIVE",
+      "event_name": "West Indies Championship 2026 Jamaica Scorpions",
+      "match_name": "Jamaica Scorpions vs Barbados Pride",
+      "match_id": "141948",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141948_english_hls_81e187044a67116_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269320~_GO=Generated~acl=/mumbai/141948_english_hls_81e187044a67116_1ta-di_h264/*~Signature=AfQ_v7QaUQbbF1x-VAxeM9GBfXLq4ho9n2BwHnDZifPW-Y-6k5_H68tevgtHwNsXoYPNuAcWoq1BBFDAJ1PEf0W-AmIH"
     },
     {
       "event_category": "Football",
@@ -45,21 +59,21 @@
       "match_id": "140855",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776264202~_GO=Generated~acl=/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/*~Signature=AfQ_v7RBJ3fMriQNKbmNYZqMaW9DM9A_G-tDpO3reF46bTUyd6XlbjJAMnLfgD0bSaEBHldbhrE1XlJUWVc6nzsIVHUP"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269333~_GO=Generated~acl=/mumbai/140855_english_hls_7e656e054555675_1ta-di_h264/*~Signature=AfQ_v7Qv5ZrVecrED2qhtugixPRUuaU_F5kE376A7QOhXY6oq2K-uxnpvs0sHsBLq-L5iUejxH3Sz-XqZ-eaImwi-EkE"
     },
     {
       "event_category": "Tennis",
-      "title": "Alcaraz vs Virtanen (ATP 500 - Barcelona Open Banc Sabadell 2026 Alcaraz vs)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Carlos-Alcaraz-vs-Otto-Virtanen_FC-WEB.jpg",
-      "team_1": "Alcaraz",
-      "team_2": "Virtanen",
+      "title": "Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026 World)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+      "team_1": "Feed",
+      "team_2": "Barcelona",
       "status": "LIVE",
-      "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026 Alcaraz vs",
-      "match_name": "Alcaraz vs Virtanen",
+      "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026 World",
+      "match_name": "Feed vs Barcelona",
       "match_id": "141826",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776264215~_GO=Generated~acl=/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/*~Signature=AfQ_v7RiXeZpUE5_F2fU6f-wk1WVPkEVfwa7On-4cMq5J-v_J7LsEZQPXYTFPPT6CovdEPUTwbwToCgGZEGII_9woeoD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269348~_GO=Generated~acl=/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/*~Signature=AfQ_v7TJbRZw5FeTM6HAQ9vzoi0xzl6euG_N6Gf-FFWxq6QaDZv1nLeyz6fKxLCpLQYfoYb2zqm9zjFdWk4zFFzD30cL"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +87,7 @@
       "match_id": "141841",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776264228~_GO=Generated~acl=/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/*~Signature=AfQ_v7Rcrwd9hmyzuClHOH1aBRiTt_Y48qd5IcxWW9YnRbbXZy8fQJJuZmgTlol994NRhtzN2y6J2j9U-vf05udesfYG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776269361~_GO=Generated~acl=/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/*~Signature=AfQ_v7Tr4mEFPBWcOl5JQN12D1zHhtmBhG8DoAhtg7I0kJ-DPc_p_Rh4Sv_hA8nUs6Ji07X5pOHa81rGNcouN_3ktRIA"
     },
     {
       "event_category": "Football",
@@ -133,13 +147,13 @@
     },
     {
       "event_category": "Cricket",
-      "title": "TBC vs TBC (TBC vs TBC (Brisbane Champions League 2026))",
+      "title": "Iconic Super Knights vs Genid Royals (Iconic Super Knights vs Genid Royals (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Iconic Super Knights",
+      "team_2": "Genid Royals",
       "status": "UPCOMING",
-      "event_name": "TBC vs TBC (Brisbane Champions League 2026)",
-      "match_name": "TBC vs TBC",
+      "event_name": "Iconic Super Knights vs Genid Royals (Brisbane Champions League 2026)",
+      "match_name": "Iconic Super Knights vs Genid Royals",
       "match_id": "141761",
       "startTime": "15 April 2026 08:30 AM",
       "dai_url": "",
@@ -147,13 +161,13 @@
     },
     {
       "event_category": "Cricket",
-      "title": "TBC vs TBC (TBC vs TBC (Brisbane Champions League 2026))",
+      "title": "Everest Falcons vs Brisbane Stars (Everest Falcons vs Brisbane Stars (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Everest Falcons",
+      "team_2": "Brisbane Stars",
       "status": "UPCOMING",
-      "event_name": "TBC vs TBC (Brisbane Champions League 2026)",
-      "match_name": "TBC vs TBC",
+      "event_name": "Everest Falcons vs Brisbane Stars (Brisbane Champions League 2026)",
+      "match_name": "Everest Falcons vs Brisbane Stars",
       "match_id": "141762",
       "startTime": "15 April 2026 01:30 PM",
       "dai_url": "",
@@ -174,20 +188,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Club Am\u00e9rica vs Nashville SC (Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
-      "team_1": "Club Am\u00e9rica",
-      "team_2": "Nashville SC",
-      "status": "UPCOMING",
-      "event_name": "Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026)",
-      "match_name": "Club Am\u00e9rica vs Nashville SC",
-      "match_id": "141885",
-      "startTime": "15 April 2026 09:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia vs Scotland (Namibia vs Scotland (Scotland tour of Namibia, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
@@ -198,6 +198,20 @@
       "match_name": "Namibia vs Scotland",
       "match_id": "142015",
       "startTime": "15 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Club Am\u00e9rica vs Nashville SC (Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
+      "team_1": "Club Am\u00e9rica",
+      "team_2": "Nashville SC",
+      "status": "UPCOMING",
+      "event_name": "Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026)",
+      "match_name": "Club Am\u00e9rica vs Nashville SC",
+      "match_id": "141885",
+      "startTime": "15 April 2026 09:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
