@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "03:56:47 PM 14-04-2026",
+  "last update time": "05:12:32 PM 14-04-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -17,7 +17,7 @@
       "match_id": "141760",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776246747~_GO=Generated~acl=/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/*~Signature=AfQ_v7TSjppwHwc0EVnvl1O4txMiHE6gn4wjTvmS04WdzkHvzPEJ7zlG5rt092906-j5VUcMn2QcLl7rF0HOs3kNh2QG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776251000~_GO=Generated~acl=/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/*~Signature=AfQ_v7TWcoEEQ9OJ-sTreXgliTCWH09p7untBRJg0au2kSIZ-hnj5CR3TuBre7rOCikuR0Zi0ivEaP_GFuAsVEiZff8N"
     },
     {
       "event_category": "Tennis",
@@ -31,7 +31,7 @@
       "match_id": "141826",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776246763~_GO=Generated~acl=/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/*~Signature=AfQ_v7T_2QdNHbpLteRU9BbaJ46obrISHvRnm36Pzsj7FGEiIeVOv_1igNeFgGkKvmvfMfgSKA68GIxiSXHuHSamOo4H"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776251013~_GO=Generated~acl=/mumbai/141826_english_hls_e1f415b42c62260_1ta-di_h264/*~Signature=AfQ_v7QV3QAJPrtXjWd0XGSSc1VX53OYO3cA_dQ-pIv2tIb8pMhiXZmmkA-Om9ZWKfNhc7Q9bbTkcUDNbWqOc5HP37sI"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +45,7 @@
       "match_id": "141841",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776246777~_GO=Generated~acl=/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/*~Signature=AfQ_v7SR8ImmLqjBybsyZn_VwljEq2kXaS52i1IL8pYSOenUVsX9_ByX89KFko1-XsxMvqjypXEKO-F4-2bKyKvP1jkH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776251025~_GO=Generated~acl=/mumbai/141841_english_hls_2926a92c2a45562_1ta-di_h264/*~Signature=AfQ_v7QjY_gzS9CAzoqJaUqFeR7xC7kzKL8cfsr7dNT2aCI8Nux1Sgf8FXz8ozy8eplLfH-S-bijV-aMDiZ3plLsAQQD"
     },
     {
       "event_category": "Football",
@@ -174,20 +174,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "DPR Korea U20 vs Korea Republic U20 (DPR Korea U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026))",
-      "src": "https://images.fancode.com/aig/match/v1776029190668/141634_CASACARDS_APP.png",
-      "team_1": "DPR Korea U20",
-      "team_2": "Korea Republic U20",
-      "status": "UPCOMING",
-      "event_name": "DPR Korea U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
-      "match_name": "DPR Korea U20 vs Korea Republic U20",
-      "match_id": "141634",
-      "startTime": "15 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia vs Scotland (Namibia vs Scotland (Scotland tour of Namibia, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
@@ -198,6 +184,20 @@
       "match_name": "Namibia vs Scotland",
       "match_id": "142015",
       "startTime": "15 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "DPR Korea U20 vs Korea Republic U20 (DPR Korea U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026))",
+      "src": "https://images.fancode.com/aig/match/v1776029190668/141634_CASACARDS_APP.png",
+      "team_1": "DPR Korea U20",
+      "team_2": "Korea Republic U20",
+      "status": "UPCOMING",
+      "event_name": "DPR Korea U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
+      "match_name": "DPR Korea U20 vs Korea Republic U20",
+      "match_id": "141634",
+      "startTime": "15 April 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
