@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:14:06 PM 16-04-2026",
+  "last update time": "06:44:13 PM 16-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026 Melbourne Pirates)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
-      "team_1": "Melbourne Pirates",
-      "team_2": "Everest Falcons",
-      "status": "LIVE",
-      "event_name": "Brisbane Champions League 2026 Melbourne Pirates",
-      "match_name": "Melbourne Pirates vs Everest Falcons",
-      "match_id": "141764",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141764_english_hls_1656e1162c14502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776423885~_GO=Generated~acl=/mumbai/141764_english_hls_1656e1162c14502_1ta-di_h264/*~Signature=AeHXXvD2c8IkXktdlRgjlUQ1VyZG1y3cku_kiC6BKzWQ8cuTAGcr3dhuyng4vxIHqDG4DQgU1iLyv2Y1d3rLQhMAEA4E"
-    },
     {
       "event_category": "Tennis",
       "title": "Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026 World)",
@@ -31,7 +17,7 @@
       "match_id": "141830",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776423898~_GO=Generated~acl=/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/*~Signature=AeHXXvBFqvEDRSAs1s49jWbrJZ9fVv47Pep4daW013tIopvNGC3dxdj_aqX_woRhtmNrKIYPtfE7b3yZ9BlSZuJcwvMB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776429274~_GO=Generated~acl=/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/*~Signature=AeHXXvDyz01tglXUuOYxKJIbLhhS9WS9-IJCDMs7quqBhKVdwHYrErA_za66gLCTkDzXdCPy8KAA8s0twziceBq0zK0F"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +31,7 @@
       "match_id": "141845",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776423911~_GO=Generated~acl=/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/*~Signature=AeHXXvAFGSY7OQD6ukBqJRBX38Ttdh7apcjMjTntnrcCQA2XzQPosN2hnGt0UUKs3MCAubcfOFmBrd4T-ufY-twGmK4O"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776429287~_GO=Generated~acl=/mumbai/141845_english_hls_e32a4cffca78407_1ta-di_h264/*~Signature=AeHXXvDkadXaI4r3aq3AWyuwXydzbgB-M0D33SlQ59SG1EGCcsCke5IOu3-jYHsNxuGUCa_Y2kVEM-eMj1e4GFLK8JcC"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +45,21 @@
       "match_id": "141844",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776423924~_GO=Generated~acl=/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/*~Signature=AeHXXvAvYxltOGjZXiaZ9kd-Ni8jIlkg2zqEORUkdePH-hl-BEf9XG8R6iTt-gS4zbbvMgpSMLfIA0iRdLI1Z6Ec-KwK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776429300~_GO=Generated~acl=/mumbai/141844_english_hls_b0fb375bef4388_1ta-di_h264/*~Signature=AeHXXvCjPtAcI7RoN_TcW-2mivn3X-BRVGKktXrZKs73aFMSLCWIylwzXiHou2AEMn45Ci7N_BiOYeAAbxbhA_Tx2RcI"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Island, vs Sout (RBC Heritage 2026 Main Feed - Day 1 Harbour Town Golf Links - Hilton Head)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+      "team_1": "Island,",
+      "team_2": "Sout",
+      "status": "LIVE",
+      "event_name": "RBC Heritage 2026 Main Feed - Day 1 Harbour Town Golf Links - Hilton Head",
+      "match_name": "Island, vs Sout",
+      "match_id": "141934",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141934_english_hls_0dec590cf33158_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776429313~_GO=Generated~acl=/mumbai/141934_english_hls_0dec590cf33158_1ta-di_h264/*~Signature=AeHXXvAZAx3IH9-itU6yFD-Shst3vhKlH0n4bUIXliNhlgeKzh9fgMgoyIv5nppEeKWM_uW-i0IjmVOdSdTEzzHYVakA"
     },
     {
       "event_category": "Cricket",
@@ -188,16 +188,44 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Main Feed - Day 1 (Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-      "team_1": "",
-      "team_2": "",
+      "event_category": "Football",
+      "title": "Odisha FC vs Mohammedan SC (Odisha FC vs Mohammedan SC (ISL 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg",
+      "team_1": "Odisha FC",
+      "team_2": "Mohammedan SC",
       "status": "UPCOMING",
-      "event_name": "Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-      "match_name": "Main Feed - Day 1",
-      "match_id": "141934",
-      "startTime": "16 April 2026 05:30 PM",
+      "event_name": "Odisha FC vs Mohammedan SC (ISL 2025-26)",
+      "match_name": "Odisha FC vs Mohammedan SC",
+      "match_id": "140489",
+      "startTime": "17 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Odisha FC vs Mohammedan SC (Odisha FC vs Mohammedan SC (ISL 2025-26  - Regional))",
+      "src": "https://images.fancode.com/aig/match/v1775535874215/141815_CASACARDS_APP.png",
+      "team_1": "Odisha FC",
+      "team_2": "Mohammedan SC",
+      "status": "UPCOMING",
+      "event_name": "Odisha FC vs Mohammedan SC (ISL 2025-26  - Regional)",
+      "match_name": "Odisha FC vs Mohammedan SC",
+      "match_id": "141815",
+      "startTime": "17 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Johor Darul Ta'zim",
+      "status": "UPCOMING",
+      "event_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+      "match_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim",
+      "match_id": "141674",
+      "startTime": "17 April 2026 08:15 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -259,48 +287,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Odisha FC vs Mohammedan SC (Odisha FC vs Mohammedan SC (ISL 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140489_5956_ODS_MSC_FC-Web_1772461730611.jpg",
-      "team_1": "Odisha FC",
-      "team_2": "Mohammedan SC",
-      "status": "UPCOMING",
-      "event_name": "Odisha FC vs Mohammedan SC (ISL 2025-26)",
-      "match_name": "Odisha FC vs Mohammedan SC",
-      "match_id": "140489",
-      "startTime": "17 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Odisha FC vs Mohammedan SC (Odisha FC vs Mohammedan SC (ISL 2025-26  - Regional))",
-      "src": "https://images.fancode.com/aig/match/v1775535874215/141815_CASACARDS_APP.png",
-      "team_1": "Odisha FC",
-      "team_2": "Mohammedan SC",
-      "status": "UPCOMING",
-      "event_name": "Odisha FC vs Mohammedan SC (ISL 2025-26  - Regional)",
-      "match_name": "Odisha FC vs Mohammedan SC",
-      "match_id": "141815",
-      "startTime": "17 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Johor Darul Ta'zim",
-      "status": "UPCOMING",
-      "event_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-      "match_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim",
-      "match_id": "141674",
-      "startTime": "17 April 2026 08:15 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Machida Zelvia vs Al-Ittihad (Machida Zelvia vs Al-Ittihad (AFC Champions League Elite 2025-26))",
       "src": "https://images.fancode.com/aig/match/v1776321743565/141675_CASACARDS_APP.png",
       "team_1": "Machida Zelvia",
@@ -310,6 +296,20 @@
       "match_name": "Machida Zelvia vs Al-Ittihad",
       "match_id": "141675",
       "startTime": "17 April 2026 11:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Blackburn Rovers F.C. vs Coventry City F.C. (Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
+      "team_1": "Blackburn Rovers F.C.",
+      "team_2": "Coventry City F.C.",
+      "status": "UPCOMING",
+      "event_name": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
+      "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
+      "match_id": "141526",
+      "startTime": "18 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -384,20 +384,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Blackburn Rovers F.C. vs Coventry City F.C. (Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141526_5489_BLK_CVC_fc-web_1776167542995.jpg",
-      "team_1": "Blackburn Rovers F.C.",
-      "team_2": "Coventry City F.C.",
-      "status": "UPCOMING",
-      "event_name": "Blackburn Rovers F.C. vs Coventry City F.C. (EFL Championship 2025-26)",
-      "match_name": "Blackburn Rovers F.C. vs Coventry City F.C.",
-      "match_id": "141526",
-      "startTime": "18 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Featured Groups - Day 2 (Featured Groups - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
@@ -408,6 +394,20 @@
       "match_name": "Featured Groups - Day 2",
       "match_id": "141939",
       "startTime": "17 April 2026 07:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Sociedad vs Racing Club (Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Racing Club",
+      "status": "UPCOMING",
+      "event_name": "Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26)",
+      "match_name": "Real Sociedad vs Racing Club",
+      "match_id": "141959",
+      "startTime": "18 April 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -436,20 +436,6 @@
       "match_name": "Day 2",
       "match_id": "142043",
       "startTime": "17 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Sociedad vs Racing Club (Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776063278978/141959_CASACARDS_APP.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Racing Club",
-      "status": "UPCOMING",
-      "event_name": "Real Sociedad vs Racing Club (LALIGA Hypermotion 2025-26)",
-      "match_name": "Real Sociedad vs Racing Club",
-      "match_id": "141959",
-      "startTime": "18 April 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +520,20 @@
       "match_name": "Nepal Women vs USA Women",
       "match_id": "142047",
       "startTime": "18 April 2026 05:20 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sydney FC vs Perth Glory (Sydney FC vs Perth Glory (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "Sydney FC vs Perth Glory (A League 2025-26)",
+      "match_name": "Sydney FC vs Perth Glory",
+      "match_id": "140938",
+      "startTime": "18 April 2026 03:05 PM",
       "dai_url": "",
       "adfree_url": ""
     }
