@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 38,
-  "last update time": "08:04:16 PM 17-04-2026",
+  "match_amount": 37,
+  "last update time": "09:37:52 PM 17-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
-      "team_1": "Namibia",
-      "team_2": "Scotland",
-      "status": "LIVE",
-      "event_name": "Scotland tour of Namibia, 2026",
-      "match_name": "Namibia vs Scotland",
-      "match_id": "142016",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142016_english_hls_55739aa25395541_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520471~_GO=Generated~acl=/mumbai/142016_english_hls_55739aa25395541_1ta-di_h264/*~Signature=AeHXXvBuA-abD6UOrIcR6jZox1SYgueGk4Nq4OvxS8cDVNyI7S86y3JbmOeZOABF1ARxuI1uelUL_J1Z6awu16gl1bIC"
-    },
     {
       "event_category": "Cricket",
       "title": "Odisha Fc vs Mohammedan Sc (ISL 2025-26 Odisha FC)",
@@ -31,7 +17,7 @@
       "match_id": "140489",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140489_english_hls_3775f1f7bc38633_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776520491~_GO=Generated~acl=/mumbai/140489_english_hls_3775f1f7bc38633_1ta-di_h264/*~Signature=AeHXXvBiC5jtrHGwMoSFLFSL2BSnU3WJZYQ-bfFl991ioTlFdikte9XcIjziBWonYi-RjZAOY1_uoJd8dkQLp08QdY4M"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140489_english_hls_3775f1f7bc38633_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776526176~_GO=Generated~acl=/mumbai/140489_english_hls_3775f1f7bc38633_1ta-di_h264/*~Signature=AeHXXvD_ChO7FSaV2wfxW60sJ0qvj3iM-Dp15cdZ3Bcf78Ml-lEgo3vJ81IJbsPgJ8yOpWYxJKuGGdOFCWR-RIb6zuUJ"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +31,21 @@
       "match_id": "141815",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141815_english_hls_97b55e4d1a59225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776520501~_GO=Generated~acl=/mumbai/141815_english_hls_97b55e4d1a59225_1ta-di_h264/*~Signature=AeHXXvCeuvpA3u4mhyHR52rf7WVF_mMyk-1OOe7PH1_EbDr8josGJEP6nDJ0Dqv7DBNrhfmNG5KUejFJ6S26oC4eIdgA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141815_english_hls_97b55e4d1a59225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776526192~_GO=Generated~acl=/mumbai/141815_english_hls_97b55e4d1a59225_1ta-di_h264/*~Signature=AeHXXvA-fKM9QILWY1brOSmdsVyN0Q-bRR9Iqk3isixe0VjVi5iLVwun_G4zznW6Z6FBwSDnszxNsE3dTR66tNUMHKkE"
+    },
+    {
+      "event_category": "Football",
+      "title": "Al Ahli Saudi Fc vs Johor Darul Ta Zim (AFC Champions League Elite 2025-26 Al-Ahli Saudi FC Johor)",
+      "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
+      "team_1": "Al Ahli Saudi Fc",
+      "team_2": "Johor Darul Ta Zim",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Elite 2025-26 Al-Ahli Saudi FC Johor",
+      "match_name": "Al Ahli Saudi Fc vs Johor Darul Ta Zim",
+      "match_id": "141674",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141674_english_hls_daae8c8c2161027_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776526203~_GO=Generated~acl=/mumbai/141674_english_hls_daae8c8c2161027_1ta-di_h264/*~Signature=AeHXXvAEqGG0umPUXjWLREMH1pKaXDTRqrnWT5LMyJDlxISd1zyuZZ7CZSV_L45MDaEz4cGuFXaj0xlhBK79hVQ1nHQJ"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +59,7 @@
       "match_id": "141833",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520513~_GO=Generated~acl=/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/*~Signature=AeHXXvBdk6RGigmZWOmSDzW63u-euQ-zxWOeQMbGLUw94gDz7iedU6J59Q_sxp5FQJQtuojdIdPjGUsbwDWAD8oEILcB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776526216~_GO=Generated~acl=/mumbai/141833_english_hls_ba54b080cf77273_1ta-di_h264/*~Signature=AeHXXvDKcRW3e47ApAoLTlrYHT18R4Y-WSAQ6IVvShn6E4E1s96Lh2gmhTTnCGMtz10Ghlk-LRCueco4jaXg976bx4UN"
     },
     {
       "event_category": "Tennis",
@@ -73,21 +73,7 @@
       "match_id": "141847",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520527~_GO=Generated~acl=/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/*~Signature=AeHXXvCHIp3ah11bZK6IldzzbOhPbi34sysuKnviqE4RY6QdWteFfDDSgcWLXnFPB8v2tJFFrlKEMwvm4zPUFBhi3rwJ"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Munich, vs Germany (ATP 500 - BMW Open by Bitpanda 2026 Doubles SF' ft. Bhambri)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
-      "team_1": "Munich,",
-      "team_2": "Germany",
-      "status": "LIVE",
-      "event_name": "ATP 500 - BMW Open by Bitpanda 2026 Doubles SF' ft. Bhambri",
-      "match_name": "Munich, vs Germany",
-      "match_id": "141846",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141846_english_hls_1edfce305b69166_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520540~_GO=Generated~acl=/mumbai/141846_english_hls_1edfce305b69166_1ta-di_h264/*~Signature=AeHXXvC7Zw2Y2K1yloq47UTYVGWJ_LnpRmtPDrWVNFiYS3fdKYgLoO2napPPW_CtUH2NoDcaQGFOK7zPbdqv9B4nTsQI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776526229~_GO=Generated~acl=/mumbai/141847_english_hls_046f19928693379_1ta-di_h264/*~Signature=AeHXXvAHVmFYM9qA2Gyn5fQCfsmhdJt6vJnYPL-npqQNOg4ThIOGHdkXG4TauvOp_2PuNeYg7DXE2WligF5QGK9c4q0I"
     },
     {
       "event_category": "Golf",
@@ -101,7 +87,7 @@
       "match_id": "141937",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141937_english_hls_5e91934f1730517_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776520553~_GO=Generated~acl=/mumbai/141937_english_hls_5e91934f1730517_1ta-di_h264/*~Signature=AeHXXvA5bhw5h3eOSnsLwXv-YUAP_jITEIM4BRWeKf9Zdiw7Xa7zNZbDgCAJ8Fgv1qALTykkg4YiGPyojtJ4eQU11qYD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141937_english_hls_5e91934f1730517_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776526242~_GO=Generated~acl=/mumbai/141937_english_hls_5e91934f1730517_1ta-di_h264/*~Signature=AeHXXvAY_sqm7R6eZgqdSPvR7EkKfynh-_ib1el7hlRuol5MG7mxOyuEutRHFFtn-cgtJ5urg7A76_5t3Mtr85GN1GYB"
     },
     {
       "event_category": "Golf",
@@ -115,7 +101,7 @@
       "match_id": "141939",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141939_english_hls_a7c58b88c267108_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776520577~_GO=Generated~acl=/mumbai/141939_english_hls_a7c58b88c267108_1ta-di_h264/*~Signature=AeHXXvCcQ7aA3uFIp_VIHdlma9jbyMR6sOPx3LpwI3Tg2B5BHN86TsPdufff8aijZIBItSBQpUhK-Ylkx6kQf4zZY4wC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141939_english_hls_a7c58b88c267108_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776526255~_GO=Generated~acl=/mumbai/141939_english_hls_a7c58b88c267108_1ta-di_h264/*~Signature=AeHXXvDy8yqEHd52qi2WaMdRpjXTAikMyFFHwSO6CP6jyWEVKMNR3HsDHfSlQugbxEZcrpZM5TcId2yecHWQlykdRLYN"
     },
     {
       "event_category": "Golf",
@@ -129,7 +115,7 @@
       "match_id": "141938",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141938_english_hls_717d25268959395_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776520589~_GO=Generated~acl=/mumbai/141938_english_hls_717d25268959395_1ta-di_h264/*~Signature=AeHXXvDMlMS3UVRtDJdx31vqtihHPjqLO3A4gIIrZXgV5tyrvfO9fW2w4Ipad9dt09bP82zO9R-v37Et_b6xQWjfCPAD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141938_english_hls_717d25268959395_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776526268~_GO=Generated~acl=/mumbai/141938_english_hls_717d25268959395_1ta-di_h264/*~Signature=AeHXXvAgpQmkK0-ZyOKqkkV09GUur4tx1qKBDVOGztj7JwMTu1nuRXEZlR6O8WxR966lGUT_K3fefN8pQzrrt1DnLSwJ"
     },
     {
       "event_category": "Golf",
@@ -143,35 +129,21 @@
       "match_id": "142043",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142043_english_hls_c6119948f393164_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520602~_GO=Generated~acl=/mumbai/142043_english_hls_c6119948f393164_1ta-di_h264/*~Signature=AeHXXvBy5UWZCHEcN79lBJapP-SrJ4mXYsq2iG3Vho1WwxrumW0fDIm9U8g3iG1hVevmuiSkyLbFk24aUMvdBNKOiVMB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142043_english_hls_c6119948f393164_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776526282~_GO=Generated~acl=/mumbai/142043_english_hls_c6119948f393164_1ta-di_h264/*~Signature=AeHXXvDPMxgaNQIJnds1G6TG0Y-avwn-1cwwUHZ0SRveSyAf_CP1sgWuddGkP2mPWWVSf9h4cO0N1q8kcMUjXewCbwYG"
     },
     {
       "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026 Bangladesh)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "New Zealand",
+      "title": "Namibia vs Scotland (Scotland tour of Namibia, 2026)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia,-2026-old--card--.png",
+      "team_1": "Namibia",
+      "team_2": "Scotland",
       "status": "LIVE",
-      "event_name": "New Zealand tour of Bangladesh, 2026 Bangladesh",
-      "match_name": "Bangladesh vs New Zealand",
-      "match_id": "142066",
+      "event_name": "Scotland tour of Namibia, 2026",
+      "match_name": "Namibia vs Scotland",
+      "match_id": "142016",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776520615~_GO=Generated~acl=/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/*~Signature=AeHXXvDVWOL3ybhh2kRaFdpW_BFsSglV1P1ji0W-ch0zKtJJ9RrUcSAsznt0YPB_rLJjPk_MJZ399eJZw8aapNMCq5gJ"
-    },
-    {
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776321743565/141674_CASACARDS_APP.png",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Johor Darul Ta'zim",
-      "status": "UPCOMING",
-      "event_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-      "match_name": "Al-Ahli Saudi FC vs Johor Darul Ta'zim",
-      "match_id": "141674",
-      "startTime": "17 April 2026 08:15 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142016_english_hls_55739aa25395541_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776526296~_GO=Generated~acl=/mumbai/142016_english_hls_55739aa25395541_1ta-di_h264/*~Signature=AeHXXvBs4Rg8KztKt4x2P7AL_oo-a6OcuE1Y8C0-zE2SyZG-v1VA-y_CRemBFyEhpRyh1fsuJNWIMNnIQYFROMm-egEL"
     },
     {
       "event_category": "Cricket",
@@ -184,6 +156,20 @@
       "match_name": "Rwanda Women vs Italy Women",
       "match_id": "142046",
       "startTime": "18 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Nepal Women vs USA Women (Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg",
+      "team_1": "Nepal Women",
+      "team_2": "USA Women",
+      "status": "UPCOMING",
+      "event_name": "Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "match_name": "Nepal Women vs USA Women",
+      "match_id": "142047",
+      "startTime": "18 April 2026 05:20 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -217,20 +203,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Nepal Women vs USA Women (Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142047_6045_NP-W_USA-W_fc-web.jpg",
-      "team_1": "Nepal Women",
-      "team_2": "USA Women",
-      "status": "UPCOMING",
-      "event_name": "Nepal Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "match_name": "Nepal Women vs USA Women",
-      "match_id": "142047",
-      "startTime": "18 April 2026 05:20 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Melbourne Tuskers vs Everest Falcons (Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
       "team_1": "Melbourne Tuskers",
@@ -254,20 +226,6 @@
       "match_name": "Real Sociedad B vs Racing Club",
       "match_id": "141959",
       "startTime": "18 April 2026 12:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Western Sydney Wanderers (Wellington Phoenix vs Western Sydney Wanderers (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Western Sydney Wanderers",
-      "status": "UPCOMING",
-      "event_name": "Wellington Phoenix vs Western Sydney Wanderers (A League 2025-26)",
-      "match_name": "Wellington Phoenix vs Western Sydney Wanderers",
-      "match_id": "140936",
-      "startTime": "18 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -324,6 +282,20 @@
       "match_name": "Namibia vs Scotland",
       "match_id": "142017",
       "startTime": "18 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Western Sydney Wanderers (Wellington Phoenix vs Western Sydney Wanderers (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Western Sydney Wanderers",
+      "status": "UPCOMING",
+      "event_name": "Wellington Phoenix vs Western Sydney Wanderers (A League 2025-26)",
+      "match_name": "Wellington Phoenix vs Western Sydney Wanderers",
+      "match_id": "140936",
+      "startTime": "18 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -426,20 +398,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "World Feed - Day 2 (World Feed - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "World Feed - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-      "match_name": "World Feed - Day 2",
-      "match_id": "141931",
-      "startTime": "18 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Real Zaragoza vs Ceuta (Real Zaragoza vs Ceuta (LALIGA Hypermotion 2025-26))",
       "src": "https://images.fancode.com/aig/match/v1776063278978/141960_CASACARDS_APP.png",
@@ -450,6 +408,20 @@
       "match_name": "Real Zaragoza vs Ceuta",
       "match_id": "141960",
       "startTime": "18 April 2026 07:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 (World Feed - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "World Feed - Day 2 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
+      "match_name": "World Feed - Day 2",
+      "match_id": "141931",
+      "startTime": "18 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +506,20 @@
       "match_name": "Main Feed - Day 3",
       "match_id": "141940",
       "startTime": "18 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 3 (Featured Groups - Day 3 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Featured Groups - Day 3 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
+      "match_name": "Featured Groups - Day 3",
+      "match_id": "141942",
+      "startTime": "18 April 2026 06:15 PM",
       "dai_url": "",
       "adfree_url": ""
     }
