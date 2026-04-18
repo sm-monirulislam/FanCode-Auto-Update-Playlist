@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "01:18:39 PM 18-04-2026",
+  "last update time": "02:09:01 PM 18-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,21 +17,21 @@
       "match_id": "142046",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142046_english_hls_faa8740a7951582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776582767~_GO=Generated~acl=/mumbai/142046_english_hls_faa8740a7951582_1ta-di_h264/*~Signature=AeHXXvBBwAEDy1jyUYllJzvM50ood-CxLabmBwGYSfQYFVJGTQlcIrXmBywrg6NMIjDDhIDeVeDmC8FeJ377qcSI4yIO"
+      "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Wellington Phoenix vs Western Sydney Wanderers (A League 2025-26 Wellington Phoenix Western)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140936_5802_WEL_SYW_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Western Sydney Wanderers",
+      "event_category": "Football",
+      "title": "Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026 Melbourne Tuskers)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
+      "team_1": "Melbourne Tuskers",
+      "team_2": "Everest Falcons",
       "status": "LIVE",
-      "event_name": "A League 2025-26 Wellington Phoenix Western",
-      "match_name": "Wellington Phoenix vs Western Sydney Wanderers",
-      "match_id": "140936",
+      "event_name": "Brisbane Champions League 2026 Melbourne Tuskers",
+      "match_name": "Melbourne Tuskers vs Everest Falcons",
+      "match_id": "141765",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140936_english_hls_0f08989e0f71050_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776582780~_GO=Generated~acl=/mumbai/140936_english_hls_0f08989e0f71050_1ta-di_h264/*~Signature=AeHXXvC7WinAfnSIoQufn6BHLUq44xWiy86u93Viz2a10rC-iQKa6IVWlUIaRPv3q8IsSka3tkB5xspYMw9bFvP-8fYE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776586035~_GO=Generated~acl=/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/*~Signature=AeHXXvAIlnFfbxxniW2B2R6FGMgjJMAvl5xbvxWzl7s3tgm6fpe_KxGpezkNbucKv6oUo_fZE3ShQBICapXiUWWIBRcK"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +45,7 @@
       "match_id": "140937",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776582793~_GO=Generated~acl=/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/*~Signature=AeHXXvCqcv3oTsXDTsIrYXsSGRPA2rA3aS40uAoCgEI1GvBhiNwWBXr0LD9GYMFRHhDbs1-3RO3XYlp6gmrnAB7IMbMD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776586048~_GO=Generated~acl=/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/*~Signature=AeHXXvAeS1FnjdNDIYgcKiTDp-POumo4szTJlsBFBPqKZ4B1kw5R84ADgUK9VKNSp_gHTlGitGotJKXbUs4G2i-Vtp0L"
     },
     {
       "event_category": "Cricket",
@@ -58,20 +58,6 @@
       "match_name": "Nepal Women vs USA Women",
       "match_id": "142047",
       "startTime": "18 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Melbourne Tuskers vs Everest Falcons (Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg",
-      "team_1": "Melbourne Tuskers",
-      "team_2": "Everest Falcons",
-      "status": "UPCOMING",
-      "event_name": "Melbourne Tuskers vs Everest Falcons (Brisbane Champions League 2026)",
-      "match_name": "Melbourne Tuskers vs Everest Falcons",
-      "match_id": "141765",
-      "startTime": "18 April 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -258,20 +244,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Auckland vs Central Coast Mariners (Auckland vs Central Coast Mariners (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
-      "team_1": "Auckland",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "Auckland vs Central Coast Mariners (A League 2025-26)",
-      "match_name": "Auckland vs Central Coast Mariners",
-      "match_id": "140939",
-      "startTime": "19 April 2026 08:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Italy Women vs Nepal Women (Italy Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142049_6045_ITA-W_NP-W_fc-web.jpg",
@@ -282,6 +254,20 @@
       "match_name": "Italy Women vs Nepal Women",
       "match_id": "142049",
       "startTime": "19 April 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Auckland vs Central Coast Mariners (Auckland vs Central Coast Mariners (A League 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
+      "team_1": "Auckland",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "Auckland vs Central Coast Mariners (A League 2025-26)",
+      "match_name": "Auckland vs Central Coast Mariners",
+      "match_id": "140939",
+      "startTime": "19 April 2026 08:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -398,20 +384,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 3 (Day 3 vs Concession Golf Course (Senior PGA Championship 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 3 vs Concession Golf Course (Senior PGA Championship 2026)",
-      "match_name": "Day 3",
-      "match_id": "142044",
-      "startTime": "19 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Ipswich Town F.C. vs Middlesbrough F.C. (Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
@@ -422,6 +394,20 @@
       "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
       "match_id": "141529",
       "startTime": "19 April 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3 (Day 3 vs Concession Golf Course (Senior PGA Championship 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 3 vs Concession Golf Course (Senior PGA Championship 2026)",
+      "match_name": "Day 3",
+      "match_id": "142044",
+      "startTime": "19 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -520,6 +506,20 @@
       "match_name": "Al Wasl F.C. vs Al-Nassr FC",
       "match_id": "140870",
       "startTime": "19 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2 (Day 2 vs Randpark Golf Club (Joburg Ladies Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 2 vs Randpark Golf Club (Joburg Ladies Open 2026)",
+      "match_name": "Day 2",
+      "match_id": "141641",
+      "startTime": "19 April 2026 04:00 PM",
       "dai_url": "",
       "adfree_url": ""
     }
