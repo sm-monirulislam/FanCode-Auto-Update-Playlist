@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "02:09:01 PM 18-04-2026",
+  "last update time": "03:26:11 PM 18-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "142046",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142046_english_hls_faa8740a7951582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776590398~_GO=Generated~acl=/mumbai/142046_english_hls_faa8740a7951582_1ta-di_h264/*~Signature=AeHXXvBwvbQBqBXjLiYcRYe_43u1imiTGIv0_RmiAUcU-FYUMg0qrGhL40pyDjY-JTAy3beQBDvkHo2yzSkDZvkNEr0H"
     },
     {
       "event_category": "Football",
@@ -31,21 +31,21 @@
       "match_id": "141765",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776586035~_GO=Generated~acl=/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/*~Signature=AeHXXvAIlnFfbxxniW2B2R6FGMgjJMAvl5xbvxWzl7s3tgm6fpe_KxGpezkNbucKv6oUo_fZE3ShQBICapXiUWWIBRcK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776590411~_GO=Generated~acl=/mumbai/141765_english_hls_c6781c240a66109_1ta-di_h264/*~Signature=AeHXXvC2pn7qtLCqPWzFnwA1NzN7YJtLeS7lgo8fj2vydThY-eMQo7GHogJBTma4sIThg4zxP0saoWRfaNfJmOq28ioM"
     },
     {
       "event_category": "Cricket",
-      "title": "Brisbane Roar vs Melbourne City (A League 2025-26 Brisbane Roar)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg",
-      "team_1": "Brisbane Roar",
-      "team_2": "Melbourne City",
+      "title": "Sydney Fc vs Perth Glory (A League 2025-26 Sydney FC)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
+      "team_1": "Sydney Fc",
+      "team_2": "Perth Glory",
       "status": "LIVE",
-      "event_name": "A League 2025-26 Brisbane Roar",
-      "match_name": "Brisbane Roar vs Melbourne City",
-      "match_id": "140937",
+      "event_name": "A League 2025-26 Sydney FC",
+      "match_name": "Sydney Fc vs Perth Glory",
+      "match_id": "140938",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776586048~_GO=Generated~acl=/mumbai/140937_english_hls_24b5f63d8161772_1ta-di_h264/*~Signature=AeHXXvAeS1FnjdNDIYgcKiTDp-POumo4szTJlsBFBPqKZ4B1kw5R84ADgUK9VKNSp_gHTlGitGotJKXbUs4G2i-Vtp0L"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140938_english_hls_3b0347c1ab73232_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776590425~_GO=Generated~acl=/mumbai/140938_english_hls_3b0347c1ab73232_1ta-di_h264/*~Signature=AeHXXvAxhVC4gyW-1Um77CIKfPzCQpHHGXNQNkpbV0mX7St7I5KzkI7h6TjEXYHXUjTkRRnNoptCIYAWd24uHXxUspEI"
     },
     {
       "event_category": "Cricket",
@@ -118,6 +118,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Rwanda Women vs Vanuatu Women (Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
+      "team_1": "Rwanda Women",
+      "team_2": "Vanuatu Women",
+      "status": "UPCOMING",
+      "event_name": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "match_name": "Rwanda Women vs Vanuatu Women",
+      "match_id": "142048",
+      "startTime": "19 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "FC Goa vs Mumbai City FC (FC Goa vs Mumbai City FC (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140491_5956_FCG_MCFC_FC-Web_1772466137053.jpg",
@@ -170,34 +184,6 @@
       "match_name": "Atletico de Madrid vs Real Sociedad",
       "match_id": "141270",
       "startTime": "19 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Rwanda Women vs Vanuatu Women (Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
-      "team_1": "Rwanda Women",
-      "team_2": "Vanuatu Women",
-      "status": "UPCOMING",
-      "event_name": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "match_name": "Rwanda Women vs Vanuatu Women",
-      "match_id": "142048",
-      "startTime": "19 April 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Sydney FC vs Perth Glory (Sydney FC vs Perth Glory (A League 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140938_5802_SYD_PG_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "Sydney FC vs Perth Glory (A League 2025-26)",
-      "match_name": "Sydney FC vs Perth Glory",
-      "match_id": "140938",
-      "startTime": "18 April 2026 03:05 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -282,6 +268,20 @@
       "match_name": "Adelaide United vs Macarthur",
       "match_id": "140940",
       "startTime": "19 April 2026 11:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Ipswich Town F.C. vs Middlesbrough F.C. (Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
+      "team_1": "Ipswich Town F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "UPCOMING",
+      "event_name": "Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
+      "match_id": "141529",
+      "startTime": "19 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -380,20 +380,6 @@
       "match_name": "World Feed - Day 3",
       "match_id": "141932",
       "startTime": "18 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Ipswich Town F.C. vs Middlesbrough F.C. (Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141529_5489_IPT_MIDD_fc-web_1776167542451.jpg",
-      "team_1": "Ipswich Town F.C.",
-      "team_2": "Middlesbrough F.C.",
-      "status": "UPCOMING",
-      "event_name": "Ipswich Town F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "match_name": "Ipswich Town F.C. vs Middlesbrough F.C.",
-      "match_id": "141529",
-      "startTime": "19 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -520,6 +506,20 @@
       "match_name": "Day 2",
       "match_id": "141641",
       "startTime": "19 April 2026 04:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 (ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+      "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+      "match_id": "141837",
+      "startTime": "19 April 2026 05:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
