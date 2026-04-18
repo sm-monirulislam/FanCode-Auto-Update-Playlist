@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 36,
-  "last update time": "03:03:36 AM 19-04-2026",
+  "match_amount": 34,
+  "last update time": "04:00:17 AM 19-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,49 +17,7 @@
       "match_id": "141270",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776631927~_GO=Generated~acl=/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/*~Signature=AeHXXvDckLp_pmAImX5kwWgZNJq-ZhzORWIH9ionG1MyXH1YgrZxyLjfJzntrXckTtakU4UFgJ7jfmDtMEOP1dsRUp4D"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Island, vs Sout (RBC Heritage 2026 Featured Groups - Day 3 Harbour Town Golf Links - Hilton Head)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-      "team_1": "Island,",
-      "team_2": "Sout",
-      "status": "LIVE",
-      "event_name": "RBC Heritage 2026 Featured Groups - Day 3 Harbour Town Golf Links - Hilton Head",
-      "match_name": "Island, vs Sout",
-      "match_id": "141942",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141942_english_hls_4fd8e3fb6363919_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776631944~_GO=Generated~acl=/mumbai/141942_english_hls_4fd8e3fb6363919_1ta-di_h264/*~Signature=AeHXXvCSnqDZmmZbGt3H142ORXYVG7_eH9PIy78WddsruDZ7srKUs4kUgArTZSKUJpyMK2UewC1yDvpjeb_Nb6JryFkP"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Island, vs Sout (RBC Heritage 2026 Main Feed - Day 3 Harbour Town Golf Links - Hilton Head)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-      "team_1": "Island,",
-      "team_2": "Sout",
-      "status": "LIVE",
-      "event_name": "RBC Heritage 2026 Main Feed - Day 3 Harbour Town Golf Links - Hilton Head",
-      "match_name": "Island, vs Sout",
-      "match_id": "141940",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141940_english_hls_e9a342203930017_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776631962~_GO=Generated~acl=/mumbai/141940_english_hls_e9a342203930017_1ta-di_h264/*~Signature=AeHXXvBFSxXFtMIXn3iGqoNkwB98d7z9IL0700bRA8H4h9lp_5LlYQduhQL3fM9lEgqYQwn-Wb1JD6DO4zCunszrYnIB"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Island, vs Sout (RBC Heritage 2026 Marquee Group - Day 3 Harbour Town Golf Links - Hilton Head)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-      "team_1": "Island,",
-      "team_2": "Sout",
-      "status": "LIVE",
-      "event_name": "RBC Heritage 2026 Marquee Group - Day 3 Harbour Town Golf Links - Hilton Head",
-      "match_name": "Island, vs Sout",
-      "match_id": "141941",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141941_english_hls_9f0b43833351472_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776631980~_GO=Generated~acl=/mumbai/141941_english_hls_9f0b43833351472_1ta-di_h264/*~Signature=AeHXXvAVehdS3B2A25I5miceVgl6I3jyyqtitV5ruyKWpiNr9gNwWo9rTh3q4wijRy3Cye43f7VDgicTSXtX1DZsHFAD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776635441~_GO=Generated~acl=/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/*~Signature=AeHXXvCHPtgOjqh_n0X9b1YRJIFjVtdb-GzgWO0MrGqzXw7flsoSD2LGGqP2D_DRSPzZ7x0JIVLogLostco0OzJMufAD"
     },
     {
       "event_category": "Golf",
@@ -73,7 +31,7 @@
       "match_id": "141932",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776631999~_GO=Generated~acl=/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/*~Signature=AeHXXvBQ0RkQMJzNS8kMIErHx8Qke1oken893b5e4AtLzvPZFmd7wfnYKxVUAFmkJt6n-pW54sZNPnDvg2EJtrIOGCkI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776635459~_GO=Generated~acl=/mumbai/141932_english_hls_e640689a1022239_1ta-di_h264/*~Signature=AeHXXvACnt6I1uLYApSC9R1XzyKnZ8q3cltUjkNclZYDO98KpBDImdg6WIC45ECvMcvmDXzlWiPrkRRm_kMepdHk9kcJ"
     },
     {
       "event_category": "Golf",
@@ -87,7 +45,7 @@
       "match_id": "142044",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776632018~_GO=Generated~acl=/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/*~Signature=AeHXXvA1fCNT0252I8o6f0nv9glcK1KHY1685LR7d3beJEmaUJEPsdyRz7JpVg8fwQQ_o-8fIhxmm8GL4otHaYuQ4iAG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776635477~_GO=Generated~acl=/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/*~Signature=AeHXXvAtyPRw1a4wMzQ8SG_Bj5MG1gLw9QEnYQWA5xNpVEKqxPfL7wC605U6n7bpq35jGAWXcXfSGTwVLWMi99ssH_oB"
     },
     {
       "event_category": "Cricket",
@@ -286,6 +244,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Bangladesh Women vs Sri Lanka Women (Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+      "team_1": "Bangladesh Women",
+      "team_2": "Sri Lanka Women",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
+      "match_name": "Bangladesh Women vs Sri Lanka Women",
+      "match_id": "142072",
+      "startTime": "20 April 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 2 (Day 2 vs Randpark Golf Club (Joburg Ladies Open 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
@@ -399,15 +371,15 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Bangladesh Women vs Sri Lanka Women (Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-      "team_1": "Bangladesh Women",
-      "team_2": "Sri Lanka Women",
+      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "New Zealand",
       "status": "UPCOMING",
-      "event_name": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
-      "match_name": "Bangladesh Women vs Sri Lanka Women",
-      "match_id": "142072",
-      "startTime": "20 April 2026 09:00 AM",
+      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "match_name": "Bangladesh vs New Zealand",
+      "match_id": "142067",
+      "startTime": "20 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -422,20 +394,6 @@
       "match_name": "World Feed - Day 4",
       "match_id": "141933",
       "startTime": "19 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-      "match_name": "Bangladesh vs New Zealand",
-      "match_id": "142067",
-      "startTime": "20 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -506,6 +464,20 @@
       "match_name": "Rwanda Women vs USA Women",
       "match_id": "142050",
       "startTime": "21 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Vanuatu Women vs Italy Women (Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142051_6045_VANW_ITA-W_fc-web.jpg",
+      "team_1": "Vanuatu Women",
+      "team_2": "Italy Women",
+      "status": "UPCOMING",
+      "event_name": "Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "match_name": "Vanuatu Women vs Italy Women",
+      "match_id": "142051",
+      "startTime": "21 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     }
