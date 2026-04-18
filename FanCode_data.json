@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "04:51:26 AM 19-04-2026",
+  "last update time": "05:42:01 AM 19-04-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -17,21 +17,7 @@
       "match_id": "142044",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776638629~_GO=Generated~acl=/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/*~Signature=AeHXXvDp8Ey2oJQeY19-lI_Vih-sbT7A0jFXTlOnu74nzw6gAZcACB4K7pPkAQFaEyssKeFWd6eCqEh3LV-XWksifjcG"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Atletico De Madrid vs Real Sociedad (Copa del Rey, 2025-26 Atletico de Madrid)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid_vs_Real-Sociedad_FC-WEB.jpg",
-      "team_1": "Atletico De Madrid",
-      "team_2": "Real Sociedad",
-      "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26 Atletico de Madrid",
-      "match_name": "Atletico De Madrid vs Real Sociedad",
-      "match_id": "141270",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776638646~_GO=Generated~acl=/mumbai/141270_english_hls_8cc908beff74419_1ta-di_h264/*~Signature=AeHXXvBfcCnZqJxI8X2Tth3iI5iHT_Mm9O_uWqy9Y_AVYLdpnFG-lM0BPgUhdUMRGnybC80TXjeW8GT4uJ5kh9-r_5IM"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776641740~_GO=Generated~acl=/mumbai/142044_english_hls_924a50fd4d5044_1ta-di_h264/*~Signature=AeHXXvC6Sm-pxmPedIy7Nszot-kEEm9LBAufH-wtb0HlYHbhnTtUWSUI0asV1h8qqGWyDAU9dIKsvL5zabmBoYZdSccD"
     },
     {
       "event_category": "Cricket",
@@ -244,6 +230,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "match_name": "Bangladesh vs New Zealand",
+      "match_id": "142067",
+      "startTime": "20 April 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 2 (Day 2 vs Randpark Golf Club (Joburg Ladies Open 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
@@ -352,20 +352,6 @@
       "match_name": "Marquee Group - Day 4",
       "match_id": "141944",
       "startTime": "19 April 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-      "match_name": "Bangladesh vs New Zealand",
-      "match_id": "142067",
-      "startTime": "20 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -506,6 +492,20 @@
       "match_name": "Chennaiyin FC vs Mohammedan SC",
       "match_id": "141173",
       "startTime": "21 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Shabab Al Ahli (Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Machida Zelvia",
+      "team_2": "Shabab Al Ahli",
+      "status": "UPCOMING",
+      "event_name": "Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
+      "match_name": "Machida Zelvia vs Shabab Al Ahli",
+      "match_id": "141678",
+      "startTime": "21 April 2026 09:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
