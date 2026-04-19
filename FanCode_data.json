@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "12:04:32 AM 20-04-2026",
+  "last update time": "01:25:08 AM 20-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141952",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776707934~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/*~Signature=AeHXXvC4OLko3aZIU2GoMrsPZKpC1FUNIWdVfmdckizdL0IbX1HIqW4_cezGOYUWhyRFgHjidRxkWE0m8j2tLva3ymgN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712352~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/*~Signature=AeHXXvBay_1qVa4tRGNcez6bot5O0KM6EK3bpNvPIUtVdlX9gBE2pMicCJjxneY9Kf34CUZJhKVKmzUj26l4KVkxYOQG"
     },
     {
       "event_category": "Cricket",
@@ -31,7 +31,7 @@
       "match_id": "141950",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776707952~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/*~Signature=AeHXXvB6Cu_cxu6sp0PbgsQxPx9Nt82hErz2gnecjdTZzoeoCSX-p7N20EoNMJ86wkTKcVs9fkTenw8GPiHGitgtu4QC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712370~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/*~Signature=AeHXXvCmZ5422U8hw-Z_kIwTHxvinysUg3WaxP-jrpFaKfNVBXEhtFgVhs5xqY_qVB8wGU0rT5i8iMnah4oet0kQgvwC"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +45,35 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776707970~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/*~Signature=AeHXXvBwSQAx-pDGvKbb8BxYwx9Okys1hrNGAMQSAQsH1AeMqOGFMe-2pan5EWfVVvzsBmw0jN_aYamoUTsZnjXDgvUJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712388~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/*~Signature=AeHXXvBQzKNzUusZx4TiZ4zmEH2NON7irn0RmtTRQCW6Qejk8ZzovpPXVDjLzSG9F4F8ozRDORgs4bCfcQffyCjsjGED"
+    },
+    {
+      "event_category": "Football",
+      "title": "Al Ahli Qat vs Al Hussein (AFC Champions League Two 2025-26 Al Ahli (QAT))",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg",
+      "team_1": "Al Ahli Qat",
+      "team_2": "Al Hussein",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26 Al Ahli (QAT)",
+      "match_name": "Al Ahli Qat vs Al Hussein",
+      "match_id": "140872",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140872_english_hls_1373037b1417100_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712406~_GO=Generated~acl=/mumbai/140872_english_hls_1373037b1417100_1ta-di_h264/*~Signature=AeHXXvBdF5z5tH0ENK3Rcpaz4Gw3u7Jbmsl1BUb6OqLMr0j5f7rfJqfK_aqLytn0U9A214U6umiSXod8Ub_zTobN_4wG"
+    },
+    {
+      "event_category": "Football",
+      "title": "Almeria vs Malaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1776063278980/141961_CASACARDS_APP.png",
+      "team_1": "Almeria",
+      "team_2": "Malaga",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Almeria vs Malaga",
+      "match_id": "141961",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141961_english_hls_6c6cec7c2311884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712425~_GO=Generated~acl=/mumbai/141961_english_hls_6c6cec7c2311884_1ta-di_h264/*~Signature=AeHXXvAeRYmavHaWD95PkYaYCXoRO_BzEiOkT3igbLdfIOocSpxln33xZ_cVAMtFNv54GtBGs6GyKA4nUDYWQn6E3xAG"
     },
     {
       "event_category": "Golf",
@@ -59,7 +87,7 @@
       "match_id": "141945",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776707988~_GO=Generated~acl=/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/*~Signature=AeHXXvAOgI1VywRxrQAkLZ5HRjMCClNRAsWWNQj3yV3uBroMBj8WUri9vskRM0pbkNOtJGoE5cTqtn-PudwctqIc0uUG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776712443~_GO=Generated~acl=/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/*~Signature=AeHXXvDKZWRpxNwfYOBnlYIWS6x0xf8AbtfHrcwDGJDtx3gKN7d8YOBxQvqa-XQD6cDt4P4rhYEEiBqru1xxrrWWWE8O"
     },
     {
       "event_category": "Golf",
@@ -73,7 +101,7 @@
       "match_id": "141944",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141944_english_hls_469f625d3b46982_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776708006~_GO=Generated~acl=/mumbai/141944_english_hls_469f625d3b46982_1ta-di_h264/*~Signature=AeHXXvAIzKg5Js2csFNLB9r6c6mgOj8g_orJ0gnvC3cEE3E0J5nYkm_zMuSzH7HZRgqnmkuMRE0nXmM6-n6Zdcgm-08B"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141944_english_hls_469f625d3b46982_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776712463~_GO=Generated~acl=/mumbai/141944_english_hls_469f625d3b46982_1ta-di_h264/*~Signature=AeHXXvDnpZdN69ZcO9Adzbu7FbSawHlTJEMF6rqMBhfCsZrvo_lMITRHpPk7BOfmOk-MS31yNcdMu9-35RvAL-7wUjUC"
     },
     {
       "event_category": "Golf",
@@ -87,7 +115,7 @@
       "match_id": "141943",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141943_english_hls_e9ba27849391223_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776708024~_GO=Generated~acl=/mumbai/141943_english_hls_e9ba27849391223_1ta-di_h264/*~Signature=AeHXXvCVln4dKVNONtokxJ8t2gWz2qjgTd30A3yeGiphVF0_xa6GccFwzDi8Xc31Pm3JkZZtNb5eWHgWlZBNAVmguQIP"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141943_english_hls_e9ba27849391223_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776712481~_GO=Generated~acl=/mumbai/141943_english_hls_e9ba27849391223_1ta-di_h264/*~Signature=AeHXXvAmVkdE87sjX_577VAVxpoYTLFjP6Jl6zlwy4-FRsf0kmPfilSiScO3mNP-6aWiqfs8q8a_ydwB0XZtgt1Bmc8D"
     },
     {
       "event_category": "Golf",
@@ -101,7 +129,21 @@
       "match_id": "141933",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141933_english_hls_5cbca9f5ca48339_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776708041~_GO=Generated~acl=/mumbai/141933_english_hls_5cbca9f5ca48339_1ta-di_h264/*~Signature=AeHXXvD06HDmJU2UybFTeWvF9dimO6_EBAxGiCdtxoLdlJHJMbtL7kLUiSD_D6y_fcKzx25jxEp5pe-KiPv7ah1gZ6cN"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141933_english_hls_5cbca9f5ca48339_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776712501~_GO=Generated~acl=/mumbai/141933_english_hls_5cbca9f5ca48339_1ta-di_h264/*~Signature=AeHXXvAxGafs278R6wDKKCSVum5FMXpgS8t-6nMRDKXKaxV_93hl14Xxl6_BxX9fvUbRechs1gFgdgcaH_ArTPgcGHYI"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Golf vs Course (Senior PGA Championship 2026 Day 4 Concession)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
+      "team_1": "Golf",
+      "team_2": "Course",
+      "status": "LIVE",
+      "event_name": "Senior PGA Championship 2026 Day 4 Concession",
+      "match_name": "Golf vs Course",
+      "match_id": "142045",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142045_english_hls_1431a38e8062344_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776712519~_GO=Generated~acl=/mumbai/142045_english_hls_1431a38e8062344_1ta-di_h264/*~Signature=AeHXXvATx_xQPNIh9AjdHkjeMP7cSasIEXuAi85TSRNI4R_R8Q_Dttl4nfqM6L8f6ITGXqyjt88uac2VKc1d0zHykCgN"
     },
     {
       "event_category": "Cricket",
@@ -133,34 +175,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Al Ahli (QAT) vs Al Hussein (Al Ahli (QAT) vs Al Hussein (AFC Champions League Two 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140872_5648_ASC_HUS_FC-WEB_1775570097662.jpg",
-      "team_1": "Al Ahli (QAT)",
-      "team_2": "Al Hussein",
-      "status": "UPCOMING",
-      "event_name": "Al Ahli (QAT) vs Al Hussein (AFC Champions League Two 2025-26)",
-      "match_name": "Al Ahli (QAT) vs Al Hussein",
-      "match_id": "140872",
-      "startTime": "20 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Almer\u00eda vs M\u00e1laga (Almer\u00eda vs M\u00e1laga (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776063278980/141961_CASACARDS_APP.png",
-      "team_1": "Almer\u00eda",
-      "team_2": "M\u00e1laga",
-      "status": "UPCOMING",
-      "event_name": "Almer\u00eda vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-      "match_name": "Almer\u00eda vs M\u00e1laga",
-      "match_id": "141961",
-      "startTime": "20 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Punjab FC vs Inter Kashi (Punjab FC vs Inter Kashi (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
       "team_1": "Punjab FC",
@@ -184,20 +198,6 @@
       "match_name": "Vissel Kobe vs Al-Ahli Saudi FC",
       "match_id": "141677",
       "startTime": "20 April 2026 09:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4 (Day 4 vs Concession Golf Course (Senior PGA Championship 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championship_FC-WEB.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 4 vs Concession Golf Course (Senior PGA Championship 2026)",
-      "match_name": "Day 4",
-      "match_id": "142045",
-      "startTime": "20 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
