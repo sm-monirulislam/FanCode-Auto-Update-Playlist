@@ -3,21 +3,21 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "12:02:49 PM 19-04-2026",
+  "last update time": "01:54:01 PM 19-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "Auckland vs Central Coast Mariners (A League 2025-26 Auckland Central)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140939_5802_AFC_CCM_fc-web.jpg",
-      "team_1": "Auckland",
-      "team_2": "Central Coast Mariners",
+      "title": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026 Rwanda Women)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
+      "team_1": "Rwanda Women",
+      "team_2": "Vanuatu Women",
       "status": "LIVE",
-      "event_name": "A League 2025-26 Auckland Central",
-      "match_name": "Auckland vs Central Coast Mariners",
-      "match_id": "140939",
+      "event_name": "ICC Women's T20I Challenge Trophy, 2026 Rwanda Women",
+      "match_name": "Rwanda Women vs Vanuatu Women",
+      "match_id": "142048",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140939_english_hls_edf140f58288196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776664860~_GO=Generated~acl=/mumbai/140939_english_hls_edf140f58288196_1ta-di_h264/*~Signature=AeHXXvCyVmPVrcQkZfra-8Z8FazkLQ0jW6rPC4yGCyOWgRbrZOhYlE3HimUaflYqsk-3H1wySZp9EWcarpWWu-dsPU0K"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776671209~_GO=Generated~acl=/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/*~Signature=AeHXXvD4hXpKoJSskFh0wjKN9zC5Lxz6fd90iBpf3C-KZFd7wrDxzvur_Jk5zBE9i-FN8ebnqzOlTqxKfDa9dOLrL40D"
     },
     {
       "event_category": "Cricket",
@@ -31,21 +31,7 @@
       "match_id": "140940",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776664878~_GO=Generated~acl=/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/*~Signature=AeHXXvD5V8V5xsPbDc1g7FsWE2d1PI97MuESxbR3fCBGoTLcXB0rZm88UnbrqcCWYC2A4hRW7LlyJ23A_RirCMaF27sN"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Rwanda Women vs Vanuatu Women (Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142048_6045_RWA-W_VANW_fc-web.jpg",
-      "team_1": "Rwanda Women",
-      "team_2": "Vanuatu Women",
-      "status": "UPCOMING",
-      "event_name": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "match_name": "Rwanda Women vs Vanuatu Women",
-      "match_id": "142048",
-      "startTime": "19 April 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776671226~_GO=Generated~acl=/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/*~Signature=AeHXXvCH5kfRAZAyRtpxXxFtmeW1-JeaRkzFfopulZfQSsE8mJ9My7mV2jOm1y45X7sMoobJAezceZePM42okX5YE1EH"
     },
     {
       "event_category": "Cricket",
@@ -72,6 +58,20 @@
       "match_name": "Bangladesh Women vs Sri Lanka Women",
       "match_id": "142072",
       "startTime": "20 April 2026 09:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "match_name": "Bangladesh vs New Zealand",
+      "match_id": "142067",
+      "startTime": "20 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -156,20 +156,6 @@
       "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
       "match_id": "141817",
       "startTime": "19 April 2026 07:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-      "match_name": "Bangladesh vs New Zealand",
-      "match_id": "142067",
-      "startTime": "20 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -505,6 +491,20 @@
       "event_name": "RCD Mallorca vs Valencia CF (LALIGA 2025-26)",
       "match_name": "RCD Mallorca vs Valencia CF",
       "match_id": "131154",
+      "startTime": "21 April 2026 10:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Athletic Club vs CA Osasuna (Athletic Club vs CA Osasuna (LALIGA 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1/131151_CASACARDS_APP.png",
+      "team_1": "Athletic Club",
+      "team_2": "CA Osasuna",
+      "status": "UPCOMING",
+      "event_name": "Athletic Club vs CA Osasuna (LALIGA 2025-26)",
+      "match_name": "Athletic Club vs CA Osasuna",
+      "match_id": "131151",
       "startTime": "21 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
