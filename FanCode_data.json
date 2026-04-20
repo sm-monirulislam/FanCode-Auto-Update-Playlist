@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 33,
-  "last update time": "09:59:17 AM 20-04-2026",
+  "last update time": "12:25:02 PM 20-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,21 +17,21 @@
       "match_id": "142072",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142072_english_hls_5050a2e1d384969_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776743884~_GO=Generated~acl=/mumbai/142072_english_hls_5050a2e1d384969_1ta-di_h264/*~Signature=AeHXXvDM0QAKWq5grflSxPtZfGPYmv1wb3NiufI3ycm2wG_cVrXJT70FDudyDO4iY_W4gYQHYKrL0Jyy1TtY1yG0HwIJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142072_english_hls_5050a2e1d384969_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776752236~_GO=Generated~acl=/mumbai/142072_english_hls_5050a2e1d384969_1ta-di_h264/*~Signature=AeHXXvC2XSKTF_6Qt_6yGkZOPcKalsOii-1FnJ4r0s38yOOl6jsAZo16Gc6K2cXntWqC_wD40zWk1i_kNs1o1p3rDoYA"
     },
     {
       "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+      "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026 Bangladesh)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
       "team_1": "Bangladesh",
       "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "status": "LIVE",
+      "event_name": "New Zealand tour of Bangladesh, 2026 Bangladesh",
       "match_name": "Bangladesh vs New Zealand",
       "match_id": "142067",
-      "startTime": "20 April 2026 10:30 AM",
+      "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142067_english_hls_7d2d896a3011111_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776752254~_GO=Generated~acl=/mumbai/142067_english_hls_7d2d896a3011111_1ta-di_h264/*~Signature=AeHXXvD5e-Wf0aRNESRzhP5kaSwtxtyZe4OHBUL3kC92sVk-d72qNrOlxK1ahCqmQapWQ89UAQ05PqaFT8pk9K05vIMO"
     },
     {
       "event_category": "Football",
@@ -62,20 +62,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Mirand\u00e9s (Deportivo La Coruna vs Mirand\u00e9s (LALIGA Hypermotion 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776063278981/141962_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Mirand\u00e9s",
-      "status": "UPCOMING",
-      "event_name": "Deportivo La Coruna vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
-      "match_name": "Deportivo La Coruna vs Mirand\u00e9s",
-      "match_id": "141962",
-      "startTime": "21 April 2026 12:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Rwanda Women vs USA Women (Rwanda Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142050_6045_RWA-W_USA-W_fc-web.jpg",
@@ -86,6 +72,20 @@
       "match_name": "Rwanda Women vs USA Women",
       "match_id": "142050",
       "startTime": "21 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Mirand\u00e9s (Deportivo La Coruna vs Mirand\u00e9s (LALIGA Hypermotion 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1776063278981/141962_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Mirand\u00e9s",
+      "status": "UPCOMING",
+      "event_name": "Deportivo La Coruna vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
+      "match_name": "Deportivo La Coruna vs Mirand\u00e9s",
+      "match_id": "141962",
+      "startTime": "21 April 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -162,7 +162,7 @@
     {
       "event_category": "Football",
       "title": "RCD Mallorca vs Valencia CF (RCD Mallorca vs Valencia CF (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131154_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
       "team_1": "RCD Mallorca",
       "team_2": "Valencia CF",
       "status": "UPCOMING",
@@ -176,7 +176,7 @@
     {
       "event_category": "Football",
       "title": "Athletic Club vs CA Osasuna (Athletic Club vs CA Osasuna (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131151_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png",
       "team_1": "Athletic Club",
       "team_2": "CA Osasuna",
       "status": "UPCOMING",
@@ -190,7 +190,7 @@
     {
       "event_category": "Football",
       "title": "Girona FC vs Real Betis (Girona FC vs Real Betis (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131158_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131158_5427_GIR_RB_FC-Web.png",
       "team_1": "Girona FC",
       "team_2": "Real Betis",
       "status": "UPCOMING",
@@ -204,7 +204,7 @@
     {
       "event_category": "Football",
       "title": "Real Madrid vs Deportivo Alaves (Real Madrid vs Deportivo Alaves (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131156_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png",
       "team_1": "Real Madrid",
       "team_2": "Deportivo Alaves",
       "status": "UPCOMING",
@@ -288,7 +288,7 @@
     {
       "event_category": "Football",
       "title": "Elche CF vs Atletico de Madrid (Elche CF vs Atletico de Madrid (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131157_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
       "team_1": "Elche CF",
       "team_2": "Atletico de Madrid",
       "status": "UPCOMING",
@@ -301,13 +301,13 @@
     },
     {
       "event_category": "Football",
-      "title": "TBC vs TBC (TBC vs TBC (AFC Champions League Two 2025-26))",
+      "title": "Al-Nassr FC vs Al Ahli (QAT) (Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al Ahli (QAT)",
       "status": "UPCOMING",
-      "event_name": "TBC vs TBC (AFC Champions League Two 2025-26)",
-      "match_name": "TBC vs TBC",
+      "event_name": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "match_name": "Al-Nassr FC vs Al Ahli (QAT)",
       "match_id": "141580",
       "startTime": "22 April 2026 09:30 PM",
       "dai_url": "",
@@ -316,7 +316,7 @@
     {
       "event_category": "Football",
       "title": "Real Sociedad vs Getafe CF (Real Sociedad vs Getafe CF (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776142761201/131150_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
       "team_1": "Real Sociedad",
       "team_2": "Getafe CF",
       "status": "UPCOMING",
@@ -344,7 +344,7 @@
     {
       "event_category": "Football",
       "title": "FC Barcelona vs RC Celta (FC Barcelona vs RC Celta (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1/131152_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
       "team_1": "FC Barcelona",
       "team_2": "RC Celta",
       "status": "UPCOMING",
@@ -428,7 +428,7 @@
     {
       "event_category": "Football",
       "title": "Levante vs Sevilla FC (Levante vs Sevilla FC (LALIGA 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776142482843/131153_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131153_5427_LE_SEV_FC-Web.png",
       "team_1": "Levante",
       "team_2": "Sevilla FC",
       "status": "UPCOMING",
