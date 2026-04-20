@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "02:02:08 AM 21-04-2026",
+  "last update time": "03:25:09 AM 21-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": "141952",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776801574~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/*~Signature=AeHXXvABgMKOmyF-D2pns9GG5RVQphzRYpRKZLTeDAXAzVdnejr2ihBx5Rf7ltxfrnj5Z4yxCV5MtI-FnyLXMMCPp9YD"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776806595~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/*~Signature=AeHXXvAjrMTK4caavO-D8gBA7sbJp9bpjFOR3PKj1-8LB2-u17m3NH6bmXp9ZRqsbOp87RzQ1E9LNtVA_yHvhJESXesN"
     },
     {
       "event_category": "Cricket",
@@ -31,7 +31,7 @@
       "match_id": "141950",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776801593~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/*~Signature=AeHXXvC6qdnBA7HTDMlHHdwTpejd3Coq22NyY65JJbU2QR2b_x7Ta5JIemRKYrU5wXyj-LlSHJAB5bW1JDZPTharkyQB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776806613~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/*~Signature=AeHXXvDg51L6AEIoQfdi6zgoIF4FUeZBhfDlE9X6nyD1tu89d_dkVvuGEyrDnEzd7kORWa1XrDsD21nbc5oGEbrXCkYB"
     },
     {
       "event_category": "Cricket",
@@ -45,21 +45,7 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776801611~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/*~Signature=AeHXXvCdfO5jMGwDkjgS5kIdrOpkvF4NrAWWUwsH2RBsYlo6vi6D2fpAgEjSdXmSrJ0mk4F7_ReTYd62ceL5BLfETV0P"
-    },
-    {
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Mirandes (LALIGA Hypermotion 2025-26 Deportivo La)",
-      "src": "https://images.fancode.com/aig/match/v1776063278981/141962_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Mirandes",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26 Deportivo La",
-      "match_name": "Deportivo La Coruna vs Mirandes",
-      "match_id": "141962",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141962_english_hls_a3ca0c619291641_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776801629~_GO=Generated~acl=/mumbai/141962_english_hls_a3ca0c619291641_1ta-di_h264/*~Signature=AeHXXvChZS8Wr3re8fEAWhvn_wAsRJiFOkmELo0SMcNfxs4Z1MbMB1qJkndMQOg4JXZB9RoOGGW9CFAhOkHtdWBGn3UE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776806631~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/*~Signature=AeHXXvCaL3erP0IzWMvme_bN9Of3jKRLXFRmF9_idQlOgssjx6V596zHsGJeO2pxD1ovk12Mz5Zs0FStEgimKFJNYfUE"
     },
     {
       "event_category": "Cricket",
@@ -506,6 +492,20 @@
       "match_name": "Marquee Group - Day 1",
       "match_id": "142003",
       "startTime": "23 April 2026 07:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "VfB Stuttgart vs SC Freiburg (VfB Stuttgart vs SC Freiburg (DFB Pokal 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_VfB-Stuttgart-vs-SC-Freiburg_1776065202358.png",
+      "team_1": "VfB Stuttgart",
+      "team_2": "SC Freiburg",
+      "status": "UPCOMING",
+      "event_name": "VfB Stuttgart vs SC Freiburg (DFB Pokal 2025-26)",
+      "match_name": "VfB Stuttgart vs SC Freiburg",
+      "match_id": "141681",
+      "startTime": "24 April 2026 12:15 AM",
       "dai_url": "",
       "adfree_url": ""
     }
