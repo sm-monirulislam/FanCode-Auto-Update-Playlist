@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 34,
-  "last update time": "04:11:11 AM 21-04-2026",
+  "match_amount": 33,
+  "last update time": "05:11:10 AM 21-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026 Jamaica Scorpions)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-      "team_1": "Jamaica Scorpions",
-      "team_2": "Barbados Pride",
-      "status": "LIVE",
-      "event_name": "West Indies Championship 2026 Jamaica Scorpions",
-      "match_name": "Jamaica Scorpions vs Barbados Pride",
-      "match_id": "141951",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776809280~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/*~Signature=AeHXXvCB-B5sRhFYYzqEbtxKr6gSA1CXcbn0q9xa76zgcYINsbgyqyYM9tgzZ7rYA5DG7PCd8twKYRwLtjpe3jX0WFwH"
-    },
     {
       "event_category": "Cricket",
       "title": "Rwanda Women vs USA Women (Rwanda Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026))",
