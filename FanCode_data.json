@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 36,
-  "last update time": "09:22:03 PM 21-04-2026",
+  "match_amount": 35,
+  "last update time": "10:38:09 PM 21-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,21 +17,7 @@
       "match_id": "141952",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871225~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/*~Signature=AeHXXvA8S941lNAhmG06xabNyecxtZuE3uaD_EgwyDEBaG2DdnMi7y4nyRWsM4MX0bq6LsS7Cvb6D8tHsLCg9oBIACoC"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Leeward Islands Hurricanes vs Trinidad Tobago Red Force (West Indies Championship 2026 Leeward Islands Hurricanes Trinidad & Tobago)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-      "team_1": "Leeward Islands Hurricanes",
-      "team_2": "Trinidad Tobago Red Force",
-      "status": "LIVE",
-      "event_name": "West Indies Championship 2026 Leeward Islands Hurricanes Trinidad & Tobago",
-      "match_name": "Leeward Islands Hurricanes vs Trinidad Tobago Red Force",
-      "match_id": "141950",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871243~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/*~Signature=AeHXXvAnBusGf-TLEjFfeC65eKwVF6DKp1v6JQiQVRld7426JH9QEZetmxAGTkFkg6UUNw-55C_rRnWlVcMxsqz3bZEC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776875397~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/*~Signature=AeHXXvA_yfeSwtO5WrPBAM3y5SR_LlOGBIsMJ7RUYrC9PcSpAjBvcxeQPl5PCkelyfPJOrq5_6QUASXehofIhN9v6zwC"
     },
     {
       "event_category": "Cricket",
@@ -45,21 +31,49 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871262~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/*~Signature=AeHXXvCUZbuAsg37qOjK3j0mZVySt3DEHvjijSTYZxq1l8gZFx0q1-GIhAE1uF9YfKfKMXRMuW9AntorKBoRlNrXPWEB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776875414~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/*~Signature=AeHXXvCGULU3hGdCYMlAt67rCjoVnFtOD4oNoFsu0GpogRh5m8kBGNixTInHu2I8cO2fqJZGXGZZ3UPTL-jw4tLm8uEC"
     },
     {
-      "event_category": "Cricket",
-      "title": "Chennaiyin Fc vs Mohammedan Sc (ISL 2025-26 Chennaiyin FC)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/140459_5956_CFC_MSC_FC-Web_1772400660609.jpg",
-      "team_1": "Chennaiyin Fc",
-      "team_2": "Mohammedan Sc",
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26 Machida Zelvia Shabab)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
+      "team_1": "Machida Zelvia",
+      "team_2": "Shabab Al Ahli",
       "status": "LIVE",
-      "event_name": "ISL 2025-26 Chennaiyin FC",
-      "match_name": "Chennaiyin Fc vs Mohammedan Sc",
-      "match_id": "140459",
+      "event_name": "AFC Champions League Elite 2025-26 Machida Zelvia Shabab",
+      "match_name": "Machida Zelvia vs Shabab Al Ahli",
+      "match_id": "141678",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776871291~_GO=Generated~acl=/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/*~Signature=AeHXXvC9UZeQRQbobhNfsB0tjQZzy3pjW73V-Hu-46UHMEHJ4zUMnMRZEEabQsf82vQ-6NousLJ00S1fiUFxevl6BhkJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141678_english_hls_8ab66fba0a64507_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776875433~_GO=Generated~acl=/mumbai/141678_english_hls_8ab66fba0a64507_1ta-di_h264/*~Signature=AeHXXvDX19NZDF17REX8Ms4i0erCrVZfhphcR8dSkDUMx75InSpwOr-eB0RqZRyXUBL7i-oAzcXgbOOSdg6KoS3cgk4G"
+    },
+    {
+      "event_category": "Football",
+      "title": "Rcd Mallorca vs Valencia Cf (LALIGA 2025-26 RCD Mallorca)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
+      "team_1": "Rcd Mallorca",
+      "team_2": "Valencia Cf",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 RCD Mallorca",
+      "match_name": "Rcd Mallorca vs Valencia Cf",
+      "match_id": "131154",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131154_english_hls_a330e7086c46539_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776875463~_GO=Generated~acl=/mumbai/131154_english_hls_a330e7086c46539_1ta-di_h264/*~Signature=AeHXXvAiwE4RwvrHuviuBXHA5enI5CHCjOXVO8WiQk2hsLwAbVeH7GlNUQHp0JUPoM9uDX2f1RoTFlCTpe9jcD3iR0UJ"
+    },
+    {
+      "event_category": "Football",
+      "title": "Athletic Club vs Ca Osasuna (LALIGA 2025-26 Athletic Club)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png",
+      "team_1": "Athletic Club",
+      "team_2": "Ca Osasuna",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Athletic Club",
+      "match_name": "Athletic Club vs Ca Osasuna",
+      "match_id": "131151",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131151_english_hls_8336bb11413648_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776875485~_GO=Generated~acl=/mumbai/131151_english_hls_8336bb11413648_1ta-di_h264/*~Signature=AeHXXvCLfEAdFfzZZ2YXzRpboY5LlACLtd7GDu-Mv3VAZnEE7YldsXqJi2tvJQcLtAFegH-QOiDbGNNpZW4UGqjYAyYH"
     },
     {
       "event_category": "Cricket",
@@ -90,20 +104,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Machida Zelvia vs Shabab Al Ahli (Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
-      "team_1": "Machida Zelvia",
-      "team_2": "Shabab Al Ahli",
-      "status": "UPCOMING",
-      "event_name": "Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
-      "match_name": "Machida Zelvia vs Shabab Al Ahli",
-      "match_id": "141678",
-      "startTime": "21 April 2026 09:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "USA Women vs Vanuatu Women (USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142053_6045_USA-W_VANW_fc-web.jpg",
@@ -114,34 +114,6 @@
       "match_name": "USA Women vs Vanuatu Women",
       "match_id": "142053",
       "startTime": "22 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "RCD Mallorca vs Valencia CF (RCD Mallorca vs Valencia CF (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131154_5427_MRC_VAL_FC-Web.png",
-      "team_1": "RCD Mallorca",
-      "team_2": "Valencia CF",
-      "status": "UPCOMING",
-      "event_name": "RCD Mallorca vs Valencia CF (LALIGA 2025-26)",
-      "match_name": "RCD Mallorca vs Valencia CF",
-      "match_id": "131154",
-      "startTime": "21 April 2026 10:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Athletic Club vs CA Osasuna (Athletic Club vs CA Osasuna (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131151_5427_ATH_OSN_FC-Web.png",
-      "team_1": "Athletic Club",
-      "team_2": "CA Osasuna",
-      "status": "UPCOMING",
-      "event_name": "Athletic Club vs CA Osasuna (LALIGA 2025-26)",
-      "match_name": "Athletic Club vs CA Osasuna",
-      "match_id": "131151",
-      "startTime": "21 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -258,6 +230,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "FC Barcelona vs RC Celta (FC Barcelona vs RC Celta (LALIGA 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
+      "team_1": "FC Barcelona",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "FC Barcelona vs RC Celta (LALIGA 2025-26)",
+      "match_name": "FC Barcelona vs RC Celta",
+      "match_id": "131152",
+      "startTime": "23 April 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Day 1 - Manolo Santana Stadium (Day 1 - Manolo Santana Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
@@ -282,20 +268,6 @@
       "match_name": "Day 1 - Main Feed",
       "match_id": "141852",
       "startTime": "22 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "FC Barcelona vs RC Celta (FC Barcelona vs RC Celta (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
-      "team_1": "FC Barcelona",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "FC Barcelona vs RC Celta (LALIGA 2025-26)",
-      "match_name": "FC Barcelona vs RC Celta",
-      "match_id": "131152",
-      "startTime": "23 April 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -506,6 +478,20 @@
       "match_name": "Day 1",
       "match_id": "141642",
       "startTime": "23 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Salford City vs Bromley (Salford City vs Bromley (League Two 2025-26))",
+      "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
+      "team_1": "Salford City",
+      "team_2": "Bromley",
+      "status": "UPCOMING",
+      "event_name": "Salford City vs Bromley (League Two 2025-26)",
+      "match_name": "Salford City vs Bromley",
+      "match_id": "141924",
+      "startTime": "24 April 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
