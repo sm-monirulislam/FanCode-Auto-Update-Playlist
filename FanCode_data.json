@@ -2,23 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 35,
-  "last update time": "01:46:30 AM 22-04-2026",
+  "match_amount": 34,
+  "last update time": "02:59:49 AM 22-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026 Windward Islands Volcanoes Guyana)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-      "team_1": "Windward Islands Volcanoes",
-      "team_2": "Guyana Harpy Eagles",
-      "status": "LIVE",
-      "event_name": "West Indies Championship 2026 Windward Islands Volcanoes Guyana",
-      "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
-      "match_id": "141952",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776887090~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/*~Signature=AeHXXvChcx_OPTuNQ5Ks1gUZM8Bit4ZfWPkcEU3asj3Ib0fPeMFzHOANClLBoDWxXeAIO2o1sVicXbzQWw3xpKM7j3AH"
-    },
     {
       "event_category": "Cricket",
       "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026 Jamaica Scorpions)",
@@ -31,7 +17,7 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776887108~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/*~Signature=AeHXXvB-jlmsOHKn2yW1lmrBtyqsRNRV5QTQCVOBoo2BePg_yu3hnUJPKJXPNaHByR7qpxNthSAd8sqOOYb-OFwqrHkL"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776891283~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/*~Signature=AeHXXvCFzzJHll2bqtOxbKdg73mB9ri9l521O7qhUUkqJyh-AgrGtas5V3SDyWO1Lp80NsARrwnT6e6_NX8_W7VRIxIN"
     },
     {
       "event_category": "Football",
@@ -45,7 +31,7 @@
       "match_id": "142186",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142186_english_hls_a55fc12faf89537_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776887127~_GO=Generated~acl=/mumbai/142186_english_hls_a55fc12faf89537_1ta-di_h264/*~Signature=AeHXXvAeBdJDBzKG46GilOTqDDuD9IWc1OwLN86DIi2q3ehQWowO2VvWCtxKL8UhFCBZ55io47vcqJeBJ8-7owO3v8EI"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142186_english_hls_a55fc12faf89537_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776891300~_GO=Generated~acl=/mumbai/142186_english_hls_a55fc12faf89537_1ta-di_h264/*~Signature=AeHXXvDUnFve4c6WFzLDkkPwXQOvfHZLClQWtRw4JhF7xDbABukqDGAUFvsnbR7dDnPeuwy-h7-4E1-trG9XWFeVprMK"
     },
     {
       "event_category": "Football",
@@ -59,7 +45,7 @@
       "match_id": "131158",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131158_english_hls_ef94a5334465056_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776887156~_GO=Generated~acl=/mumbai/131158_english_hls_ef94a5334465056_1ta-di_h264/*~Signature=AeHXXvCn9Ek-6Zsfm5Ure_UuJcbZw8l9x22sNN1CP11gjGQT1AsM1dSrXtw3gQBKkaURzcMmGcVSvm2YBVLo7iIBaIQH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131158_english_hls_ef94a5334465056_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776891330~_GO=Generated~acl=/mumbai/131158_english_hls_ef94a5334465056_1ta-di_h264/*~Signature=AeHXXvBF88-k3IMr1YBIjLhyfQhGcEfpAIIhCZAjTT5req0Z251i_WyEiB8_AYCq4fOJBnw7KOqXG0fOk-6gDCVfypsE"
     },
     {
       "event_category": "Football",
@@ -73,7 +59,7 @@
       "match_id": "131156",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131156_english_hls_4db3e4c36252694_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776887177~_GO=Generated~acl=/mumbai/131156_english_hls_4db3e4c36252694_1ta-di_h264/*~Signature=AeHXXvD08x9_mIqqfkbUXi_kN86cTW2_VrYjfuSdFofMzPA_L_gSdj06WloT-qbgaqlB9m8T4cDgOr9lSZjBHWNEEFsE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131156_english_hls_4db3e4c36252694_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776891351~_GO=Generated~acl=/mumbai/131156_english_hls_4db3e4c36252694_1ta-di_h264/*~Signature=AeHXXvCCtupvkSgDY5q9f-XSP_-Vc0VZpXB3uHa1bp0Sz50nWUYROnDYDLCOCfCJX4VXKo_zfM6_1S0HvbnTDslyRTcN"
     },
     {
       "event_category": "Cricket",
@@ -175,20 +161,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Al-Nassr FC vs Al Ahli (QAT) (Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "Al Ahli (QAT)",
-      "status": "UPCOMING",
-      "event_name": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-      "match_name": "Al-Nassr FC vs Al Ahli (QAT)",
-      "match_id": "141580",
-      "startTime": "22 April 2026 09:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "FC Barcelona vs RC Celta (FC Barcelona vs RC Celta (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
       "team_1": "FC Barcelona",
@@ -198,6 +170,20 @@
       "match_name": "FC Barcelona vs RC Celta",
       "match_id": "131152",
       "startTime": "23 April 2026 01:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Al-Nassr FC vs Al Ahli (QAT) (Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al Ahli (QAT)",
+      "status": "UPCOMING",
+      "event_name": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "match_name": "Al-Nassr FC vs Al Ahli (QAT)",
+      "match_id": "141580",
+      "startTime": "22 April 2026 09:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
