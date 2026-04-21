@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 36,
-  "last update time": "07:58:32 PM 21-04-2026",
+  "last update time": "09:22:03 PM 21-04-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026 Vanuatu Women)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/142051_6045_VANW_ITA-W_fc-web.jpg",
-      "team_1": "Vanuatu Women",
-      "team_2": "Italy Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's T20I Challenge Trophy, 2026 Vanuatu Women",
-      "match_name": "Vanuatu Women vs Italy Women",
-      "match_id": "142051",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142051_english_hls_701c1276851416_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776865998~_GO=Generated~acl=/mumbai/142051_english_hls_701c1276851416_1ta-di_h264/*~Signature=AeHXXvAEscQ79qpts1yOXf18Y-BFbm2150Sku7YEGqsphIl3txJkM79-MACqvYp3KniJFSQ7hGSEzspnPs1ZsImb_IIF"
-    },
     {
       "event_category": "Cricket",
       "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026 Windward Islands Volcanoes Guyana)",
@@ -31,7 +17,7 @@
       "match_id": "141952",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776866016~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/*~Signature=AeHXXvAxFt5TapY_TJFTIy9GZVGkdMVVT_84ugEytpIX4LFekaN0IBfxzsQXq5cZhIV5xttJTxu-cqVi3n3t5_zLS_YB"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871225~_GO=Generated~acl=/mumbai/141952_english_hls_5c3f8113e668281_1ta-di_h264/*~Signature=AeHXXvA8S941lNAhmG06xabNyecxtZuE3uaD_EgwyDEBaG2DdnMi7y4nyRWsM4MX0bq6LsS7Cvb6D8tHsLCg9oBIACoC"
     },
     {
       "event_category": "Cricket",
@@ -45,7 +31,21 @@
       "match_id": "141950",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776866034~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/*~Signature=AeHXXvDigd1QF1arzhA1cCPNPeL5_iYei9rSETMU-9KoeJs872j-JxxhwHLMgDkOb1gJ4CmG96hAYHNaeJ2MNnlzIN0B"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871243~_GO=Generated~acl=/mumbai/141950_english_hls_94dbc5a8c336143_1ta-di_h264/*~Signature=AeHXXvAnBusGf-TLEjFfeC65eKwVF6DKp1v6JQiQVRld7426JH9QEZetmxAGTkFkg6UUNw-55C_rRnWlVcMxsqz3bZEC"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026 Jamaica Scorpions)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+      "team_1": "Jamaica Scorpions",
+      "team_2": "Barbados Pride",
+      "status": "LIVE",
+      "event_name": "West Indies Championship 2026 Jamaica Scorpions",
+      "match_name": "Jamaica Scorpions vs Barbados Pride",
+      "match_id": "141951",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776871262~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873655442_1ta-di_h264/*~Signature=AeHXXvCUZbuAsg37qOjK3j0mZVySt3DEHvjijSTYZxq1l8gZFx0q1-GIhAE1uF9YfKfKMXRMuW9AntorKBoRlNrXPWEB"
     },
     {
       "event_category": "Cricket",
@@ -59,7 +59,7 @@
       "match_id": "140459",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776866062~_GO=Generated~acl=/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/*~Signature=AeHXXvDL_RcZA6LEubAzKfSJIi1-JuZhsD3mnYycuzEvUZF5kX6mdbmu_zHjhYYD1U9k1LZdhckZ7li9nAPHdE0ieysH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776871291~_GO=Generated~acl=/mumbai/140459_english_hls_ded509945393540_1ta-di_h264/*~Signature=AeHXXvC9UZeQRQbobhNfsB0tjQZzy3pjW73V-Hu-46UHMEHJ4zUMnMRZEEabQsf82vQ-6NousLJ00S1fiUFxevl6BhkJ"
     },
     {
       "event_category": "Cricket",
@@ -90,20 +90,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "USA Women vs Vanuatu Women (USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142053_6045_USA-W_VANW_fc-web.jpg",
-      "team_1": "USA Women",
-      "team_2": "Vanuatu Women",
-      "status": "UPCOMING",
-      "event_name": "USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "match_name": "USA Women vs Vanuatu Women",
-      "match_id": "142053",
-      "startTime": "22 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Machida Zelvia vs Shabab Al Ahli (Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
@@ -114,6 +100,20 @@
       "match_name": "Machida Zelvia vs Shabab Al Ahli",
       "match_id": "141678",
       "startTime": "21 April 2026 09:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "USA Women vs Vanuatu Women (USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142053_6045_USA-W_VANW_fc-web.jpg",
+      "team_1": "USA Women",
+      "team_2": "Vanuatu Women",
+      "status": "UPCOMING",
+      "event_name": "USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "match_name": "USA Women vs Vanuatu Women",
+      "match_id": "142053",
+      "startTime": "22 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -203,20 +203,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Al-Nassr FC vs Al Ahli (QAT) (Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "Al Ahli (QAT)",
-      "status": "UPCOMING",
-      "event_name": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-      "match_name": "Al-Nassr FC vs Al Ahli (QAT)",
-      "match_id": "141580",
-      "startTime": "22 April 2026 09:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Real Sociedad vs Getafe CF (Real Sociedad vs Getafe CF (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
       "team_1": "Real Sociedad",
@@ -230,30 +216,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Day 1 - Manolo Santana Stadium (Day 1 - Manolo Santana Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
-      "team_1": "",
-      "team_2": "",
+      "event_category": "Football",
+      "title": "Al-Nassr FC vs Al Ahli (QAT) (Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al Ahli (QAT)",
       "status": "UPCOMING",
-      "event_name": "Day 1 - Manolo Santana Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-      "match_name": "Day 1 - Manolo Santana Stadium",
-      "match_id": "141853",
-      "startTime": "22 April 2026 02:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 1 - Main Feed (Day 1 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 1 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-      "match_name": "Day 1 - Main Feed",
-      "match_id": "141852",
-      "startTime": "22 April 2026 02:30 PM",
+      "event_name": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "match_name": "Al-Nassr FC vs Al Ahli (QAT)",
+      "match_id": "141580",
+      "startTime": "22 April 2026 09:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -282,6 +254,34 @@
       "match_name": "Charlton Athletic F.C vs Ipswich Town F.C.",
       "match_id": "142187",
       "startTime": "23 April 2026 12:15 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 1 - Manolo Santana Stadium (Day 1 - Manolo Santana Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 - Manolo Santana Stadium vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+      "match_name": "Day 1 - Manolo Santana Stadium",
+      "match_id": "141853",
+      "startTime": "22 April 2026 02:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 1 - Main Feed (Day 1 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
+      "match_name": "Day 1 - Main Feed",
+      "match_id": "141852",
+      "startTime": "22 April 2026 02:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
