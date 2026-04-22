@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "11:34:06 PM 22-04-2026",
+  "last update time": "01:23:30 AM 23-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,35 +17,63 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965383~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBpjdmXgb1JcniHAgQluR5I2w4hGHUwbT2YXX7c8jALOIUIlr8dQv--DhNtE2epSnu-cOS6BBhPUg8PnpuvHtQoJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971444~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBolWWNS_JMwuSxsUG34Jcy03HuaCoAzSrVtPWE9NPoP4b7b2m3UgJede87HFPLyNx6lc9itTt1L5rhcc9GlW6AG"
     },
     {
       "event_category": "Football",
-      "title": "Elche Cf vs Atletico De Madrid (LALIGA 2025-26 Elche CF Atletico de Madrid)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
-      "team_1": "Elche Cf",
-      "team_2": "Atletico De Madrid",
+      "title": "Real Sociedad vs Getafe Cf (LALIGA 2025-26 Real Sociedad)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Getafe Cf",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Elche CF Atletico de Madrid",
-      "match_name": "Elche Cf vs Atletico De Madrid",
-      "match_id": "131157",
+      "event_name": "LALIGA 2025-26 Real Sociedad",
+      "match_name": "Real Sociedad vs Getafe Cf",
+      "match_id": "131150",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776965412~_GO=Generated~acl=/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/*~Signature=AVFFTBpUWFMcvxb-l-hTfolec4PGT5x0G9eyXuV_JXIZg5eaeXb8ZlDAGFUbh6ZHtaZmRdmZ0eUSor-bOW0RlfVF6u4E"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971479~_GO=Generated~acl=/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/*~Signature=AVFFTBqF4KHQHHwNljeMZbNyKmlVVjGI3ES3vEjryz-W9cPhNsZCbe3yb3lYfiExua3iIhrwXCUaDU0kKvobMhRwyIYG"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bayer 04 Leverkusen vs Fc Bayern Munchen (DFB Pokal 2025-26 Bayer 04 Leverkusen FC)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png",
+      "team_1": "Bayer 04 Leverkusen",
+      "team_2": "Fc Bayern Munchen",
+      "status": "LIVE",
+      "event_name": "DFB Pokal 2025-26 Bayer 04 Leverkusen FC",
+      "match_name": "Bayer 04 Leverkusen vs Fc Bayern Munchen",
+      "match_id": "141680",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141680_english_hls_132845796272561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971489~_GO=Generated~acl=/mumbai/141680_english_hls_132845796272561_1ta-di_h264/*~Signature=AVFFTBqMeLvZkAkXv9I5bscml_14-Lo2wZXaGtDQWMG3nlPabPxaLWZIt9PshNZcljNtl_fgdtTOa94XQodHdTacdYoK"
     },
     {
       "event_category": "Football",
-      "title": "Al Nassr Fc vs Al Ahli Qat (AFC Champions League Two 2025-26 Al-Nassr FC Al Ahli (QAT))",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
-      "team_1": "Al Nassr Fc",
-      "team_2": "Al Ahli Qat",
+      "title": "Charlton Athletic F C vs Ipswich Town F C (EFL Championship 2025-26 Charlton Athletic F.C Ipswich)",
+      "src": "https://images.fancode.com/aig/match/v1776853695708/142187_CASACARDS_APP.png",
+      "team_1": "Charlton Athletic F C",
+      "team_2": "Ipswich Town F C",
       "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26 Al-Nassr FC Al Ahli (QAT)",
-      "match_name": "Al Nassr Fc vs Al Ahli Qat",
-      "match_id": "141580",
+      "event_name": "EFL Championship 2025-26 Charlton Athletic F.C Ipswich",
+      "match_name": "Charlton Athletic F C vs Ipswich Town F C",
+      "match_id": "142187",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965422~_GO=Generated~acl=/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/*~Signature=AVFFTBoh5eU0WN8JbPfiPl8ew2RYpSEXm-Se8vzjVWjhtjl3XeMb1ZvBwdB1AxlBhGI0JFI5bGRK42R_salbAqMVDJkO"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971507~_GO=Generated~acl=/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/*~Signature=AVFFTBqwPXFrU5N0oT0qjfUK_JLPWT0Z8zwC4ChhaTDkdj9L24WG7rON0ibHr3wrTcah515f7SO2sZAECJqCeAL1thUG"
+    },
+    {
+      "event_category": "Football",
+      "title": "Fc Barcelona vs Rc Celta (LALIGA 2025-26 FC Barcelona)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
+      "team_1": "Fc Barcelona",
+      "team_2": "Rc Celta",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 FC Barcelona",
+      "match_name": "Fc Barcelona vs Rc Celta",
+      "match_id": "131152",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971538~_GO=Generated~acl=/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/*~Signature=AVFFTBpIY5IlwLjzT6GtOnqkqIJ0ackNe_gwkSxi35gQb7oqGR7bFZuLaWlRlKq6oNvKGie_XyMstoIyhY3Kv0iuTdMB"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +87,7 @@
       "match_id": "141853",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965440~_GO=Generated~acl=/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/*~Signature=AVFFTBodcoUA6QeU22EbW60bLJyQBZu1T0oHRwcfEstA_rBMifVnnQY20Lniyab30jAzPc-AnRlxNs1McOmraN_KXbEM"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971547~_GO=Generated~acl=/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/*~Signature=AVFFTBqkh4D_oLHN3hlid1_vHf3tZIDdortMJ8qo0jIElTAVv0rIAkc3mOdIGdheJk4-vgsyCUD8cSBXtsBoP5lT9JwA"
     },
     {
       "event_category": "Tennis",
@@ -73,7 +101,21 @@
       "match_id": "141852",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965458~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBrabWb-MmmBAO_aAIA0a34Mr36sQDiBk1H-xe3DzZZCaKJ9m2du806J--fIQ9a9bQD54AqPx3Dle06qOqI01JsH"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971565~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBqUA-cnkD-fuW1VYvSWu1zB4NF_FxPFfgovA6yUz5XClwaZWHI5GXrzlkIFS-F2qrNd7v1vTBZZ_JBmMQB42tIC"
+    },
+    {
+      "event_category": "Football",
+      "title": "Elche Cf vs Atletico De Madrid (LALIGA 2025-26 Elche CF Atletico de Madrid)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
+      "team_1": "Elche Cf",
+      "team_2": "Atletico De Madrid",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Elche CF Atletico de Madrid",
+      "match_name": "Elche Cf vs Atletico De Madrid",
+      "match_id": "131157",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971595~_GO=Generated~acl=/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/*~Signature=AVFFTBq_5Er76ZMaKDXyhfUXvzaOeXT4QZ3whQ6WmRXHYZ83K-kJF31euh7QRq3pIG-aVO9NlOiVwM1kpbbb3-TCQuoK"
     },
     {
       "event_category": "Cricket",
@@ -86,62 +128,6 @@
       "match_name": "Bangladesh vs New Zealand",
       "match_id": "142068",
       "startTime": "23 April 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Sociedad vs Getafe CF (Real Sociedad vs Getafe CF (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "Real Sociedad vs Getafe CF (LALIGA 2025-26)",
-      "match_name": "Real Sociedad vs Getafe CF",
-      "match_id": "131150",
-      "startTime": "22 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Bayer 04 Leverkusen vs FC Bayern M\u00fcnchen (Bayer 04 Leverkusen vs FC Bayern M\u00fcnchen (DFB Pokal 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png",
-      "team_1": "Bayer 04 Leverkusen",
-      "team_2": "FC Bayern M\u00fcnchen",
-      "status": "UPCOMING",
-      "event_name": "Bayer 04 Leverkusen vs FC Bayern M\u00fcnchen (DFB Pokal 2025-26)",
-      "match_name": "Bayer 04 Leverkusen vs FC Bayern M\u00fcnchen",
-      "match_id": "141680",
-      "startTime": "23 April 2026 12:15 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Charlton Athletic F.C vs Ipswich Town F.C. (Charlton Athletic F.C vs Ipswich Town F.C. (EFL Championship 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776853695708/142187_CASACARDS_APP.png",
-      "team_1": "Charlton Athletic F.C",
-      "team_2": "Ipswich Town F.C.",
-      "status": "UPCOMING",
-      "event_name": "Charlton Athletic F.C vs Ipswich Town F.C. (EFL Championship 2025-26)",
-      "match_name": "Charlton Athletic F.C vs Ipswich Town F.C.",
-      "match_id": "142187",
-      "startTime": "23 April 2026 12:15 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "FC Barcelona vs RC Celta (FC Barcelona vs RC Celta (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
-      "team_1": "FC Barcelona",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "FC Barcelona vs RC Celta (LALIGA 2025-26)",
-      "match_name": "FC Barcelona vs RC Celta",
-      "match_id": "131152",
-      "startTime": "23 April 2026 01:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -412,20 +398,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "MotoGP",
-      "title": "Spain GP (Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026)",
-      "match_name": "Spain GP",
-      "match_id": "139936",
-      "startTime": "24 April 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "NorthEast United FC vs FC Goa (NorthEast United FC vs FC Goa (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
@@ -436,6 +408,20 @@
       "match_name": "NorthEast United FC vs FC Goa",
       "match_id": "140495",
       "startTime": "24 April 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "MotoGP",
+      "title": "Spain GP (Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 vs Circuito de Jerez - \u00c1ngel Nieto (ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026)",
+      "match_name": "Spain GP",
+      "match_id": "139936",
+      "startTime": "24 April 2026 12:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -477,6 +463,20 @@
       "event_name": "Featured Groups - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
       "match_name": "Featured Groups - Day 2",
       "match_id": "142008",
+      "startTime": "24 April 2026 06:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 2 (Marquee Group - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Marquee Group - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Marquee Group - Day 2",
+      "match_id": "142004",
       "startTime": "24 April 2026 06:45 PM",
       "dai_url": "",
       "adfree_url": ""
