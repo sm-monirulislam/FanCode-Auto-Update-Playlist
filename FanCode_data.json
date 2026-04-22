@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "01:23:30 AM 23-04-2026",
+  "last update time": "02:31:12 AM 23-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,26 +17,12 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971444~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBolWWNS_JMwuSxsUG34Jcy03HuaCoAzSrVtPWE9NPoP4b7b2m3UgJede87HFPLyNx6lc9itTt1L5rhcc9GlW6AG"
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Sociedad vs Getafe Cf (LALIGA 2025-26 Real Sociedad)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Getafe Cf",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Real Sociedad",
-      "match_name": "Real Sociedad vs Getafe Cf",
-      "match_id": "131150",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971479~_GO=Generated~acl=/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/*~Signature=AVFFTBqF4KHQHHwNljeMZbNyKmlVVjGI3ES3vEjryz-W9cPhNsZCbe3yb3lYfiExua3iIhrwXCUaDU0kKvobMhRwyIYG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776975927~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBqxR-YJ95iUwP6twhgrfecg0JWCgTtcZGhPaXn3ak7kdv5cpPp4lhTaKxHVfIwyu_UGyd8C5_Da1FoFlg1xXAQN"
     },
     {
       "event_category": "Cricket",
       "title": "Bayer 04 Leverkusen vs Fc Bayern Munchen (DFB Pokal 2025-26 Bayer 04 Leverkusen FC)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/05_Bayer-vs-FC-Bayern-M%C3%AAnchen_1776065116326.png",
       "team_1": "Bayer 04 Leverkusen",
       "team_2": "Fc Bayern Munchen",
       "status": "LIVE",
@@ -45,7 +31,7 @@
       "match_id": "141680",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141680_english_hls_132845796272561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971489~_GO=Generated~acl=/mumbai/141680_english_hls_132845796272561_1ta-di_h264/*~Signature=AVFFTBqMeLvZkAkXv9I5bscml_14-Lo2wZXaGtDQWMG3nlPabPxaLWZIt9PshNZcljNtl_fgdtTOa94XQodHdTacdYoK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141680_english_hls_132845796272561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776975945~_GO=Generated~acl=/mumbai/141680_english_hls_132845796272561_1ta-di_h264/*~Signature=AVFFTBo4sUsL8ogeUjtT8l6KtCJbxETGEjpzViipa_HHMpaK8mbYXA0Z5b226AuS76JjgQfi5tDloGI4iSO6ynjKdVkJ"
     },
     {
       "event_category": "Football",
@@ -59,7 +45,7 @@
       "match_id": "142187",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971507~_GO=Generated~acl=/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/*~Signature=AVFFTBqwPXFrU5N0oT0qjfUK_JLPWT0Z8zwC4ChhaTDkdj9L24WG7rON0ibHr3wrTcah515f7SO2sZAECJqCeAL1thUG"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776975963~_GO=Generated~acl=/mumbai/142187_english_hls_cce272d31d73223_1ta-di_h264/*~Signature=AVFFTBr4RLhe-YXR7xBbbYXOgOy7BMewZ-h-4CFqIwJ3Gy1rSYq7lg8qFM9qhRUYnkJto7E743r4ZWnmEF-yxXv0XcQL"
     },
     {
       "event_category": "Football",
@@ -73,21 +59,7 @@
       "match_id": "131152",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971538~_GO=Generated~acl=/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/*~Signature=AVFFTBpIY5IlwLjzT6GtOnqkqIJ0ackNe_gwkSxi35gQb7oqGR7bFZuLaWlRlKq6oNvKGie_XyMstoIyhY3Kv0iuTdMB"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Madrid, vs Spain (ATP Masters Mutua Madrid Open 2026 Day 1 - Court 4)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-      "team_1": "Madrid,",
-      "team_2": "Spain",
-      "status": "LIVE",
-      "event_name": "ATP Masters Mutua Madrid Open 2026 Day 1 - Court 4",
-      "match_name": "Madrid, vs Spain",
-      "match_id": "141853",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971547~_GO=Generated~acl=/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/*~Signature=AVFFTBqkh4D_oLHN3hlid1_vHf3tZIDdortMJ8qo0jIElTAVv0rIAkc3mOdIGdheJk4-vgsyCUD8cSBXtsBoP5lT9JwA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776975991~_GO=Generated~acl=/mumbai/131152_english_hls_ef3bddad8970933_1ta-di_h264/*~Signature=AVFFTBpKrVHdRaVIRwtf6aVuguMLBEpAMHLVTiozo3VrIoOzdirjL0QsLy8fzHLe-PK1tl83eHPEKbM43mEbnuO3fMUO"
     },
     {
       "event_category": "Tennis",
@@ -101,21 +73,21 @@
       "match_id": "141852",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776971565~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBqUA-cnkD-fuW1VYvSWu1zB4NF_FxPFfgovA6yUz5XClwaZWHI5GXrzlkIFS-F2qrNd7v1vTBZZ_JBmMQB42tIC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776976001~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBojs0JaN8tOMZu7CxBLnS_VU2p7tInSM3lmXkwHIi75rd6rOkT8i3AP-G8b9qgmRNn0MQgG10P7NP0o1AfYtT0O"
     },
     {
       "event_category": "Football",
-      "title": "Elche Cf vs Atletico De Madrid (LALIGA 2025-26 Elche CF Atletico de Madrid)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
-      "team_1": "Elche Cf",
-      "team_2": "Atletico De Madrid",
+      "title": "Real Sociedad vs Getafe Cf (LALIGA 2025-26 Real Sociedad)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131150_5427_RS_GEF_FC-Web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Getafe Cf",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Elche CF Atletico de Madrid",
-      "match_name": "Elche Cf vs Atletico De Madrid",
-      "match_id": "131157",
+      "event_name": "LALIGA 2025-26 Real Sociedad",
+      "match_name": "Real Sociedad vs Getafe Cf",
+      "match_id": "131150",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776971595~_GO=Generated~acl=/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/*~Signature=AVFFTBq_5Er76ZMaKDXyhfUXvzaOeXT4QZ3whQ6WmRXHYZ83K-kJF31euh7QRq3pIG-aVO9NlOiVwM1kpbbb3-TCQuoK"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776976031~_GO=Generated~acl=/mumbai/131150_english_hls_ee0d68f36143293_1ta-di_h264/*~Signature=AVFFTBr6LZDgWPJs72B_Wb7yiQyZPse3dReVxRDpb4IIomws-hiJmIkHkL9c4wzpyhWTEggc2aD4RebP95T4D0bzYV4O"
     },
     {
       "event_category": "Cricket",
@@ -190,7 +162,7 @@
     {
       "event_category": "Football",
       "title": "Al Hilal SFC vs Al-Kholood Club (Al Hilal SFC vs Al-Kholood Club (Saudi Kings Cup 2025-2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://images.fancode.com/aig/match/v1776884558833/142162_CASACARDS_APP.png",
       "team_1": "Al Hilal SFC",
       "team_2": "Al-Kholood Club",
       "status": "UPCOMING",
@@ -342,20 +314,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1 (Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
-      "match_name": "Day 1",
-      "match_id": "141642",
-      "startTime": "23 April 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Nepal Women vs Vanuatu Women (Nepal Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142054_6045_NP-W_VANW_fc-web.jpg",
@@ -366,6 +324,20 @@
       "match_name": "Nepal Women vs Vanuatu Women",
       "match_id": "142054",
       "startTime": "24 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1 (Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
+      "match_name": "Day 1",
+      "match_id": "141642",
+      "startTime": "23 April 2026 05:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +450,34 @@
       "match_name": "Marquee Group - Day 2",
       "match_id": "142004",
       "startTime": "24 April 2026 06:45 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 (Main Feed - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Main Feed - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Main Feed - Day 2",
+      "match_id": "142000",
+      "startTime": "24 April 2026 07:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 2 (Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Featured Holes - Day 2",
+      "match_id": "142012",
+      "startTime": "24 April 2026 07:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
