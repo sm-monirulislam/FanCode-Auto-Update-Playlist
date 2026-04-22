@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "11:38:40 AM 22-04-2026",
+  "last update time": "01:59:25 PM 22-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,21 +17,21 @@
       "match_id": "142073",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142073_english_hls_9b8e02767329582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776922698~_GO=Generated~acl=/mumbai/142073_english_hls_9b8e02767329582_1ta-di_h264/*~Signature=AeHXXvBuULVHxzjicD_i-pF8QORFqs2g3KUvR2GouWy8a5xr3dpEnw0_HvJmjgjdAUzulCojoSD7d_yWlMBcLPcyIm8O"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142073_english_hls_9b8e02767329582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776930965~_GO=Generated~acl=/mumbai/142073_english_hls_9b8e02767329582_1ta-di_h264/*~Signature=AeHXXvBN6XtlqLDx3665tvHF7omHTkGNtF-jiRPfgBSltLrNGoM2XzMRnn_-imROEW1xSIfK1vMohT_Rb3-9c1OMRJgF"
     },
     {
       "event_category": "Cricket",
-      "title": "Rwanda Women vs Nepal Women (Rwanda Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142052_6045_RWA-W_NP-W_fc-web.jpg",
+      "title": "Rwanda Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026 Rwanda Women)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/142052_6045_RWA-W_NP-W_fc-web.jpg",
       "team_1": "Rwanda Women",
       "team_2": "Nepal Women",
-      "status": "UPCOMING",
-      "event_name": "Rwanda Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20I Challenge Trophy, 2026 Rwanda Women",
       "match_name": "Rwanda Women vs Nepal Women",
       "match_id": "142052",
-      "startTime": "22 April 2026 12:30 PM",
+      "startTime": "",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142052_english_hls_3733983e7426689_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776930983~_GO=Generated~acl=/mumbai/142052_english_hls_3733983e7426689_1ta-di_h264/*~Signature=AeHXXvAgpsNfHHDTOpnZGi4Y5rVpH6TPY5Vp_RLJ806DKaWNMl0SDgoJsdLKG226jnKCE9sODDv7PFCBtL2yYMRB0F0H"
     },
     {
       "event_category": "Cricket",
@@ -44,6 +44,20 @@
       "match_name": "USA Women vs Vanuatu Women",
       "match_id": "142053",
       "startTime": "22 April 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "match_name": "Bangladesh vs New Zealand",
+      "match_id": "142068",
+      "startTime": "23 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -114,20 +128,6 @@
       "match_name": "FC Barcelona vs RC Celta",
       "match_id": "131152",
       "startTime": "23 April 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh vs New Zealand (Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-      "match_name": "Bangladesh vs New Zealand",
-      "match_id": "142068",
-      "startTime": "23 April 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -258,34 +258,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 1 (Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-      "match_name": "Marquee Group - Day 1",
-      "match_id": "142003",
-      "startTime": "23 April 2026 06:15 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Main Feed - Day 1 (Main Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "Main Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-      "match_name": "Main Feed - Day 1",
-      "match_id": "141999",
-      "startTime": "23 April 2026 06:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Rayo Vallecano vs RCD Espanyol (Rayo Vallecano vs RCD Espanyol (LALIGA 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131159_5427_RVL_ESL_FC-Web.png",
@@ -315,15 +287,29 @@
     },
     {
       "event_category": "Golf",
-      "title": "Featured Holes - Day 1 (Featured Holes - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "title": "Marquee Group - Day 1 (Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
       "team_1": "",
       "team_2": "",
       "status": "UPCOMING",
-      "event_name": "Featured Holes - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-      "match_name": "Featured Holes - Day 1",
-      "match_id": "142011",
-      "startTime": "23 April 2026 07:00 PM",
+      "event_name": "Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Marquee Group - Day 1",
+      "match_id": "142003",
+      "startTime": "23 April 2026 06:15 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Main Feed - Day 1 (Main Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Main Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Main Feed - Day 1",
+      "match_id": "141999",
+      "startTime": "23 April 2026 06:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -338,6 +324,20 @@
       "match_name": "VfB Stuttgart vs SC Freiburg",
       "match_id": "141681",
       "startTime": "24 April 2026 12:15 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 1 (Featured Holes - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Featured Holes - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Featured Holes - Day 1",
+      "match_id": "142011",
+      "startTime": "23 April 2026 07:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
