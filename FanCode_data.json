@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 34,
-  "last update time": "10:13:32 PM 22-04-2026",
+  "last update time": "11:34:06 PM 22-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,21 @@
       "match_id": "141951",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776960552~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBp4mmaAm1JUFSxR7ivrJZBiSL_lFcmOV5GNB3xBJJRpBMdBKTpTpwKVlJd0fx2Jn4mkDQOxChAEbR8LXH7wlG0O"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965383~_GO=Generated~acl=/mumbai/141951_english_hls_2bb96b873678825_1ta-di_h264/*~Signature=AVFFTBpjdmXgb1JcniHAgQluR5I2w4hGHUwbT2YXX7c8jALOIUIlr8dQv--DhNtE2epSnu-cOS6BBhPUg8PnpuvHtQoJ"
+    },
+    {
+      "event_category": "Football",
+      "title": "Elche Cf vs Atletico De Madrid (LALIGA 2025-26 Elche CF Atletico de Madrid)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
+      "team_1": "Elche Cf",
+      "team_2": "Atletico De Madrid",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Elche CF Atletico de Madrid",
+      "match_name": "Elche Cf vs Atletico De Madrid",
+      "match_id": "131157",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1776965412~_GO=Generated~acl=/mumbai/131157_english_hls_53b8c01bb675932_1ta-di_h264/*~Signature=AVFFTBpUWFMcvxb-l-hTfolec4PGT5x0G9eyXuV_JXIZg5eaeXb8ZlDAGFUbh6ZHtaZmRdmZ0eUSor-bOW0RlfVF6u4E"
     },
     {
       "event_category": "Football",
@@ -31,7 +45,7 @@
       "match_id": "141580",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776960569~_GO=Generated~acl=/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/*~Signature=AVFFTBqB0tvoVw1ANsi-Kxqf3gHUAgbB_KhUwzVmluNjqwR-9z1acO7iTUZtx_cMRjfGk9rdcYCiJFqFBII45tnREdIA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965422~_GO=Generated~acl=/mumbai/141580_english_hls_b9e948304547597_1ta-di_h264/*~Signature=AVFFTBoh5eU0WN8JbPfiPl8ew2RYpSEXm-Se8vzjVWjhtjl3XeMb1ZvBwdB1AxlBhGI0JFI5bGRK42R_salbAqMVDJkO"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +59,7 @@
       "match_id": "141853",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776960587~_GO=Generated~acl=/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/*~Signature=AVFFTBpoYqan0dsgl7aUASDOBdU_nHqiBJoX56389MRXeHXGG1vzViuZenpN7_pFOS9JOrGn10Crw7NLqkD-oBfhd98H"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965440~_GO=Generated~acl=/mumbai/141853_english_hls_03d72a10bd34984_1ta-di_h264/*~Signature=AVFFTBodcoUA6QeU22EbW60bLJyQBZu1T0oHRwcfEstA_rBMifVnnQY20Lniyab30jAzPc-AnRlxNs1McOmraN_KXbEM"
     },
     {
       "event_category": "Tennis",
@@ -59,21 +73,7 @@
       "match_id": "141852",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776960605~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBri4PxANVtyBOfX5m6Aq1YopyB4nm3OR5-xJMf3a_xb1_pqfuaZZYF6WbKo5REORInyEJ4wqxM_YAV87DRNTnUG"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Stadium vs Madrid (ATP Masters Mutua Madrid Open 2026 Arantxa Sanchez)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-      "team_1": "Stadium",
-      "team_2": "Madrid",
-      "status": "LIVE",
-      "event_name": "ATP Masters Mutua Madrid Open 2026 Arantxa Sanchez",
-      "match_name": "Stadium vs Madrid",
-      "match_id": "142201",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142201_english_hls_4348258b3e52496_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776960624~_GO=Generated~acl=/mumbai/142201_english_hls_4348258b3e52496_1ta-di_h264/*~Signature=AVFFTBoDhsC6aNuLxX-IgK8XDaIAAyOQND43raj1Xh1ipleDRSuh1anc923qQ_DWMCS7VYsptpf_0IlQqAC_fT-gnp8C"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/1080p.m3u8?hdntl=Expires=1776965458~_GO=Generated~acl=/mumbai/141852_english_hls_61c7d8bb6f30223_1ta-di_h264/*~Signature=AVFFTBrabWb-MmmBAO_aAIA0a34Mr36sQDiBk1H-xe3DzZZCaKJ9m2du806J--fIQ9a9bQD54AqPx3Dle06qOqI01JsH"
     },
     {
       "event_category": "Cricket",
@@ -86,20 +86,6 @@
       "match_name": "Bangladesh vs New Zealand",
       "match_id": "142068",
       "startTime": "23 April 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Elche CF vs Atletico de Madrid (Elche CF vs Atletico de Madrid (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131157_5427_ELC_ATL_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
-      "event_name": "Elche CF vs Atletico de Madrid (LALIGA 2025-26)",
-      "match_name": "Elche CF vs Atletico de Madrid",
-      "match_id": "131157",
-      "startTime": "22 April 2026 10:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -478,6 +464,20 @@
       "match_name": "ATP Masters Mutua Madrid Open 2026",
       "match_id": "141856",
       "startTime": "24 April 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 2 (Featured Groups - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Featured Groups - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "Featured Groups - Day 2",
+      "match_id": "142008",
+      "startTime": "24 April 2026 06:45 PM",
       "dai_url": "",
       "adfree_url": ""
     }
