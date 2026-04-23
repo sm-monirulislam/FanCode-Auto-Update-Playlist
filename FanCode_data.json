@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "11:54:13 PM 23-04-2026",
+  "last update time": "01:21:51 AM 24-04-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Levante vs Sevilla Fc (LALIGA 2025-26 Levante)",
-      "src": "https://images.fancode.com/skillup-uploads/cms-media/131153_5427_LE_SEV_FC-Web.png",
-      "team_1": "Levante",
-      "team_2": "Sevilla Fc",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26 Levante",
-      "match_name": "Levante vs Sevilla Fc",
-      "match_id": "131153",
-      "startTime": "",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131153_english_hls_167138f06565854_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777052658~_GO=Generated~acl=/mumbai/131153_english_hls_167138f06565854_1ta-di_h264/*~Signature=AVFFTBoXe9woBKG-LDY-IzHxxzwebJ_Wl4fL6f1qkAdRvT30x8VJXnFycNDCCjVduhWsAQuYbAD8N9sJdFsSy64CIqsP"
-    },
     {
       "event_category": "Football",
       "title": "Rayo Vallecano vs Rcd Espanyol (LALIGA 2025-26 Rayo Vallecano)",
@@ -31,7 +17,49 @@
       "match_id": "131159",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131159_english_hls_06c0e8ace04437_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777052679~_GO=Generated~acl=/mumbai/131159_english_hls_06c0e8ace04437_1ta-di_h264/*~Signature=AVFFTBpNcco4upvxhDoz_8bjfRuiVxzmKfkT8gnrCJFbjOXVz8RavJEKRbqMIqnr_gBQBTKhk37WvFxPuQs4QmbxQUQJ"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131159_english_hls_06c0e8ace04437_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777057948~_GO=Generated~acl=/mumbai/131159_english_hls_06c0e8ace04437_1ta-di_h264/*~Signature=AVFFTBpqtXu2N79QaEvDpmzghYTpZmkeqvUhPxME4W9IMknlJwWi9MpTdZge-5SXhdK4WqmJ2KLykE_ou1bT6IsJJ68H"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Vfb Stuttgart vs Sc Freiburg (DFB Pokal 2025-26 VfB Stuttgart)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/06_VfB-Stuttgart-vs-SC-Freiburg_1776065202358.png",
+      "team_1": "Vfb Stuttgart",
+      "team_2": "Sc Freiburg",
+      "status": "LIVE",
+      "event_name": "DFB Pokal 2025-26 VfB Stuttgart",
+      "match_name": "Vfb Stuttgart vs Sc Freiburg",
+      "match_id": "141681",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141681_english_hls_9a3754875420112_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777057959~_GO=Generated~acl=/mumbai/141681_english_hls_9a3754875420112_1ta-di_h264/*~Signature=AVFFTBrldj3YMaL_BKXrQQy1mF1EKp3mYrwPphTocCkENqXPgXPW4S5BoZGEQ36WTMC1cp9e-vkCeTA8_c7k5V_ANc4P"
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Oviedo vs Villarreal Cf (LALIGA 2025-26 Real Oviedo)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131155_5427_RO_VIL_FC-Web.png",
+      "team_1": "Real Oviedo",
+      "team_2": "Villarreal Cf",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Real Oviedo",
+      "match_name": "Real Oviedo vs Villarreal Cf",
+      "match_id": "131155",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131155_english_hls_cd88511db662559_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777057988~_GO=Generated~acl=/mumbai/131155_english_hls_cd88511db662559_1ta-di_h264/*~Signature=AVFFTBptB0RpVKz0NZjGyiSVgUWxsfkRn9mf_yFaN9xGiRFfv1ZkhtFL6MYgOC_z08lu9CJ_w_GIVGXA9YDbyQpo1nEO"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Salford City vs Bromley (League Two 2025-26 Salford)",
+      "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
+      "team_1": "Salford City",
+      "team_2": "Bromley",
+      "status": "LIVE",
+      "event_name": "League Two 2025-26 Salford",
+      "match_name": "Salford City vs Bromley",
+      "match_id": "141924",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141924_english_hls_06fa0139ca41492_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777057998~_GO=Generated~acl=/mumbai/141924_english_hls_06fa0139ca41492_1ta-di_h264/*~Signature=AVFFTBrE-mxl3Lpc8iCPE7Neds9jyK8-zWsEaURlgYfTFL1OrDbCpjpimgtHoCkRskWHxolIQVRP0jtonYNnmZXE234D"
     },
     {
       "event_category": "Tennis",
@@ -45,7 +73,7 @@
       "match_id": "141854",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052689~_GO=Generated~acl=/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/*~Signature=AVFFTBpkdvQfOEV-ayXvFcvvgb6lfBwpM_DwUf1B2pjYSOV7lLEGKoB2EABiFjl6pGW-97Jk4JEBgRNoP8xXfJUmZukF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058016~_GO=Generated~acl=/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/*~Signature=AVFFTBpm9qsWB6v3ns38TQaUTu-vmVn3e3ERpvPotyuwCFduoTRUN8p5q3cRMDp_v4Lm3SWuDMm9g9quhLN-p84JJXkH"
     },
     {
       "event_category": "Tennis",
@@ -59,7 +87,7 @@
       "match_id": "142206",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052708~_GO=Generated~acl=/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/*~Signature=AVFFTBpZIqA0Cmb-AvT43lUsWZcw_m0UeP3VyyZehx_SE4Qn90zOi0iIP2y0nnrUPoP-vL6OXG23Hx1yGX4iwfdGhIAF"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058034~_GO=Generated~acl=/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/*~Signature=AVFFTBpMqc21lWoglyItPLsRQYgYDZ8RMOtvbVOuWxpD_7aAey2-v3HZVJ2okHThzEx6RMNi4fNSqnrSIagm9VPon5sI"
     },
     {
       "event_category": "Cricket",
@@ -73,7 +101,7 @@
       "match_id": "142007",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142007_english_hls_c96162e2639933_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052726~_GO=Generated~acl=/mumbai/142007_english_hls_c96162e2639933_1ta-di_h264/*~Signature=AVFFTBpRdPP4UqFJ9V8X2hbMx33KtlECMMVszP8bZtmFRH66Ce9ZP5c3EOsypN_iYFivPm6_BXcZRzKjdLIeAu0iD5IC"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142007_english_hls_c96162e2639933_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058051~_GO=Generated~acl=/mumbai/142007_english_hls_c96162e2639933_1ta-di_h264/*~Signature=AVFFTBrf4_zjk9XShR5KtrOGRn5D91jyrs2Fdh6NVgzwg02NlwV080NAvhJFeZX3sJrKm6YVL4my67I5XwvaScocrqsK"
     },
     {
       "event_category": "Cricket",
@@ -87,7 +115,7 @@
       "match_id": "142003",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142003_english_hls_8beb9156d772868_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052744~_GO=Generated~acl=/mumbai/142003_english_hls_8beb9156d772868_1ta-di_h264/*~Signature=AVFFTBqv0zBICKYeS5JunTPj9DMErChvdLMFu0yh14zWQvwbcgGRXPl9Tk2SlJht6xwTfAyUi5_Amsglr_L6W-kR5aQA"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142003_english_hls_8beb9156d772868_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058070~_GO=Generated~acl=/mumbai/142003_english_hls_8beb9156d772868_1ta-di_h264/*~Signature=AVFFTBoL9KlSLWH_rfY8iBzALvvtu8fgkkDxrMv9Gjl6xS0kiSR6DHZ0ZIBPpMEmg_jXrB1K_92wIskacIesR_3iJXgO"
     },
     {
       "event_category": "Cricket",
@@ -101,7 +129,7 @@
       "match_id": "141999",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141999_english_hls_f8d8066f6d30957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052762~_GO=Generated~acl=/mumbai/141999_english_hls_f8d8066f6d30957_1ta-di_h264/*~Signature=AVFFTBqa6vHj8CnPFTswRwD1y5UBNf2XVxbVOtRwj6MasRhsydj6wx5w-6Oq4o5gTCu88pjx69ZCIYOpue7eRB86eOcE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/141999_english_hls_f8d8066f6d30957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058088~_GO=Generated~acl=/mumbai/141999_english_hls_f8d8066f6d30957_1ta-di_h264/*~Signature=AVFFTBr5xv90ZgThTnKzau55-mpdMGYJhc-eVrKIjkjIbN2Q6OORD8FHxLOGXD512wZr_mTDCP53BhG5CWsEElNYNC8D"
     },
     {
       "event_category": "Cricket",
@@ -115,7 +143,21 @@
       "match_id": "142011",
       "startTime": "",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777052780~_GO=Generated~acl=/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/*~Signature=AVFFTBrqhnC3Hov5WICminQqSGdCinzm5sv47K87nVcnfySt0foK3U7OC4g3-QO9KqTPMRn_v2T6hedPamm7gtjz60AE"
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777058106~_GO=Generated~acl=/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/*~Signature=AVFFTBqPOSsu4TvyS4_2pjvvCCUSxrYFAdUwazvdVWd5udMFJsmJvd1ASCn0sPEVfoeHLeLTRd6SrOxPkNTrfwXLyeoI"
+    },
+    {
+      "event_category": "Football",
+      "title": "Levante vs Sevilla Fc (LALIGA 2025-26 Levante)",
+      "src": "https://images.fancode.com/skillup-uploads/cms-media/131153_5427_LE_SEV_FC-Web.png",
+      "team_1": "Levante",
+      "team_2": "Sevilla Fc",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26 Levante",
+      "match_name": "Levante vs Sevilla Fc",
+      "match_id": "131153",
+      "startTime": "",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/131153_english_hls_167138f06565854_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777058135~_GO=Generated~acl=/mumbai/131153_english_hls_167138f06565854_1ta-di_h264/*~Signature=AVFFTBqrElKqxNV01TK39QJGn3g_UfJEuMlmui5dkom_ODLmCsdPO-_wX1krbbjQDVb67qWF8FWNs_fhZX1LASNqAVEL"
     },
     {
       "event_category": "Cricket",
@@ -147,34 +189,6 @@
     },
     {
       "event_category": "Football",
-      "title": "VfB Stuttgart vs SC Freiburg (VfB Stuttgart vs SC Freiburg (DFB Pokal 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_VfB-Stuttgart-vs-SC-Freiburg_1776065202358.png",
-      "team_1": "VfB Stuttgart",
-      "team_2": "SC Freiburg",
-      "status": "UPCOMING",
-      "event_name": "VfB Stuttgart vs SC Freiburg (DFB Pokal 2025-26)",
-      "match_name": "VfB Stuttgart vs SC Freiburg",
-      "match_id": "141681",
-      "startTime": "24 April 2026 12:15 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Oviedo vs Villarreal CF (Real Oviedo vs Villarreal CF (LALIGA 2025-26))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131155_5427_RO_VIL_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "Real Oviedo vs Villarreal CF (LALIGA 2025-26)",
-      "match_name": "Real Oviedo vs Villarreal CF",
-      "match_id": "131155",
-      "startTime": "24 April 2026 01:00 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "NorthEast United FC vs FC Goa (NorthEast United FC vs FC Goa (ISL 2025-26))",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
       "team_1": "NorthEast United FC",
@@ -188,16 +202,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Salford City vs Bromley (Salford City vs Bromley (League Two 2025-26))",
-      "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
-      "team_1": "Salford City",
-      "team_2": "Bromley",
+      "event_category": "Golf",
+      "title": "World Feed - Day 1 (World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+      "team_1": "",
+      "team_2": "",
       "status": "UPCOMING",
-      "event_name": "Salford City vs Bromley (League Two 2025-26)",
-      "match_name": "Salford City vs Bromley",
-      "match_id": "141924",
-      "startTime": "24 April 2026 12:30 AM",
+      "event_name": "World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+      "match_name": "World Feed - Day 1",
+      "match_id": "141995",
+      "startTime": "24 April 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -240,20 +254,6 @@
       "match_name": "Leicester City F.C. vs Millwall F.C.",
       "match_id": "141925",
       "startTime": "25 April 2026 12:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 (World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026))",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-      "match_name": "World Feed - Day 1",
-      "match_id": "141995",
-      "startTime": "24 April 2026 01:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
