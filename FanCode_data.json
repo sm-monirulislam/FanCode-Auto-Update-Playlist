@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 45,
-  "last update time": "02:51:41 PM 29-04-2026",
+  "last update time": "03:00:17 PM 29-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -17,7 +17,7 @@
       "match_id": 141978,
       "startTime": "29 April 2026 09:15 AM",
       "dai_url": "",
-      "adfree_url": "https://in-mc-plive.fancode.com/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777534623~_GO=Generated~acl=/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/*~Signature=AVFFTBo7dRxG2xwYATzpyuwmOzYxARw0-Xyxx3fv_LE-Ltys20rSZKM_eTfcSX6j9nwY71SrkRMWyGL20mCvQnLwspgI"
+      "adfree_url": "https://bd-mc-plive.fancode.com/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777534623~_GO=Generated~acl=/mumbai/141978_english_hls_18f20d620735745_1ta-di_h264/*~Signature=AVFFTBo7dRxG2xwYATzpyuwmOzYxARw0-Xyxx3fv_LE-Ltys20rSZKM_eTfcSX6j9nwY71SrkRMWyGL20mCvQnLwspgI"
     },
     {
       "event_category": "Cricket",
@@ -76,6 +76,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Italy Women Vs Usa Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-web.jpg",
+      "team_1": "Italy Women",
+      "team_2": "USA Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+      "match_name": "Italy Women Vs Usa Women",
+      "match_id": 142062,
+      "startTime": "30 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Al Nassr Fc Vs Al Ahli Saudi Fc (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Ahli-Saudi-FC_fc-web.jpg",
@@ -100,20 +114,6 @@
       "match_name": "Arsenal Women Vs Leicester City Women",
       "match_id": 142169,
       "startTime": "29 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Italy Women Vs Usa Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-web.jpg",
-      "team_1": "Italy Women",
-      "team_2": "USA Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-      "match_name": "Italy Women Vs Usa Women",
-      "match_id": 142062,
-      "startTime": "30 April 2026 12:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -580,6 +580,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Italy Women Vs Usa Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-app.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+      "match_name": "Italy Women Vs Usa Women",
+      "match_id": 142062,
+      "startTime": "30 April 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Al Nassr Fc Vs Al Ahli Saudi Fc (Roshn Saudi League 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Ahli-Saudi-FC_fc-app.jpg",
@@ -604,20 +618,6 @@
       "match_name": "Arsenal Women Vs Leicester City Women",
       "match_id": 142169,
       "startTime": "29 April 2026 11:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Italy Women Vs Usa Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-app.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-      "match_name": "Italy Women Vs Usa Women",
-      "match_id": 142062,
-      "startTime": "30 April 2026 12:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
