@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 45,
-  "last update time": "01:09:54 PM 30-04-2026",
+  "last update time": "03:35:20 PM 30-04-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -21,17 +21,17 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Bangladesh Women Vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
+      "title": "Sri Lanka Women Vs Bangladesh Women (Sri Lanka Women's tour of Bangladesh, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-      "team_1": "Bangladesh Women",
-      "team_2": "Sri Lanka Women",
-      "status": "UPCOMING",
+      "team_1": "Sri Lanka Women",
+      "team_2": "Bangladesh Women",
+      "status": "LIVE",
       "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-      "match_name": "Bangladesh Women Vs Sri Lanka Women",
+      "match_name": "Sri Lanka Women Vs Bangladesh Women",
       "match_id": 142076,
       "startTime": "30 April 2026 01:00 PM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142076_english_hls_9bcebc2c6495979_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -44,20 +44,6 @@
       "match_name": "Nepal Women Vs Vanuatu Women",
       "match_id": 142063,
       "startTime": "30 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-      "team_1": "Leeward Islands Hurricanes",
-      "team_2": "Trinidad & Tobago Red Force",
-      "status": "LIVE",
-      "event_name": "West Indies Championship 2026",
-      "match_name": "Leeward Islands Hurricanes Vs Trinidad & Tobago Red Force",
-      "match_id": 141953,
-      "startTime": "26 April 2026 07:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -142,6 +128,20 @@
       "match_name": "Italy Women Vs Nepal Women",
       "match_id": 142065,
       "startTime": "01 May 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Germany Vs Austria (Austria tour of Germany, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Germany",
+      "team_2": "Austria",
+      "status": "UPCOMING",
+      "event_name": "Austria tour of Germany, 2026",
+      "match_name": "Germany Vs Austria",
+      "match_id": 142342,
+      "startTime": "01 May 2026 07:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -245,20 +245,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Germany Vs Austria (Austria tour of Germany, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Germany",
-      "team_2": "Austria",
-      "status": "UPCOMING",
-      "event_name": "Austria tour of Germany, 2026",
-      "match_name": "Germany Vs Austria",
-      "match_id": 142342,
-      "startTime": "01 May 2026 07:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Oman Vs Nepal (ICC CWC League 2, Nepal 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
       "team_1": "Oman",
@@ -356,6 +342,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Girona Fc Vs Rcd Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
+      "team_1": "Girona FC",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona Fc Vs Rcd Mallorca",
+      "match_id": 131167,
+      "startTime": "02 May 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Marquee Group   Day 2 (Cadillac Championship 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
@@ -380,20 +380,6 @@
       "match_name": "Free Practice",
       "match_id": 142083,
       "startTime": "01 May 2026 07:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Girona Fc Vs Rcd Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
-      "team_1": "Girona FC",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona Fc Vs Rcd Mallorca",
-      "match_id": 131167,
-      "startTime": "02 May 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -534,6 +520,20 @@
       "match_name": "Bangladesh Women Vs Sri Lanka Women",
       "match_id": 142077,
       "startTime": "02 May 2026 01:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bangladesh Vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "New Zealand tour of Bangladesh, 2026",
+      "match_name": "Bangladesh Vs New Zealand",
+      "match_id": 142071,
+      "startTime": "02 May 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
