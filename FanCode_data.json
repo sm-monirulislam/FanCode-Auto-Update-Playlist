@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 50,
-  "last update time": "08:12:19 PM 30-04-2026",
+  "last update time": "10:04:16 PM 30-04-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -17,7 +17,7 @@
       "match_id": 142424,
       "startTime": "30 April 2026 04:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/1080p.m3u8"
+      "adfree_url": "https://bd-mc-plive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777647064~_GO=Generated~acl=/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/*~Signature=AcB0QcbrEVZmKhZHnuF70X4DzR1s1_kCvBIRlULH-2yanTrxBbXipQeor6dLkZ5d2bu6PaqGdElyHIMDvVnN1ySt1akB"
     },
     {
       "event_category": "Golf",
@@ -60,20 +60,6 @@
       "startTime": "30 April 2026 07:00 PM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142020_english_hls_0e43c693ae93601_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Nepal Women Vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg",
-      "team_1": "Nepal Women",
-      "team_2": "Vanuatu Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-      "match_name": "Nepal Women Vs Vanuatu Women",
-      "match_id": 142063,
-      "startTime": "30 April 2026 04:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -202,6 +188,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Football",
+      "title": "Girona Fc Vs Rcd Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
+      "team_1": "Girona FC",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona Fc Vs Rcd Mallorca",
+      "match_id": 131167,
+      "startTime": "02 May 2026 12:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Italy Women Vs Usa Women (ICC Women's T20I Challenge Trophy, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142062_6045_ITA-W_USA-W_fc-web.jpg",
@@ -230,16 +230,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Girona Fc Vs Rcd Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
-      "team_1": "Girona FC",
-      "team_2": "RCD Mallorca",
+      "event_category": "Cricket",
+      "title": "Nepal Women Vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg",
+      "team_1": "Nepal Women",
+      "team_2": "Vanuatu Women",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona Fc Vs Rcd Mallorca",
-      "match_id": 131167,
-      "startTime": "02 May 2026 12:30 AM",
+      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+      "match_name": "Nepal Women Vs Vanuatu Women",
+      "match_id": 142063,
+      "startTime": "30 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -254,6 +254,20 @@
       "match_name": "Day 1",
       "match_id": 142285,
       "startTime": "01 May 2026 03:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Real Zaragoza Vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
+      "team_1": "Real Zaragoza",
+      "team_2": "Granada",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Zaragoza Vs Granada",
+      "match_id": 142138,
+      "startTime": "02 May 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -310,20 +324,6 @@
       "match_name": "Featured Groups   Day 2",
       "match_id": 142025,
       "startTime": "01 May 2026 06:45 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Real Zaragoza Vs Granada (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
-      "team_1": "Real Zaragoza",
-      "team_2": "Granada",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza Vs Granada",
-      "match_id": 142138,
-      "startTime": "02 May 2026 12:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -456,7 +456,7 @@
     {
       "event_category": "Cricket",
       "title": "Speen Ghar Region Vs Boost Region (Super Cola National T20 Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
       "team_1": "Speen Ghar Region",
       "team_2": "Boost Region",
       "status": "UPCOMING",
@@ -554,7 +554,7 @@
     {
       "event_category": "Cricket",
       "title": "Mis E Ainak Region Vs Amo Region (Super Cola National T20 Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
       "team_1": "Mis-e-Ainak Region",
       "team_2": "Amo Region",
       "status": "UPCOMING",
@@ -590,20 +590,6 @@
       "match_name": "Main Feed   Day 1",
       "match_id": 142019,
       "startTime": "30 April 2026 06:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Nepal Women Vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-app.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-      "match_name": "Nepal Women Vs Vanuatu Women",
-      "match_id": 142063,
-      "startTime": "30 April 2026 04:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -674,6 +660,20 @@
       "match_name": "Italy Women Vs Nepal Women",
       "match_id": 142065,
       "startTime": "01 May 2026 04:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Germany Vs Austria (Austria tour of Germany, 2026)",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Austria tour of Germany, 2026",
+      "match_name": "Germany Vs Austria",
+      "match_id": 142342,
+      "startTime": "01 May 2026 07:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
