@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 48,
-  "last update time": "10:29:16 AM 03-05-2026",
+  "match_amount": 49,
+  "last update time": "01:07:41 PM 03-05-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -35,6 +35,20 @@
     },
     {
       "event_category": "Cricket",
+      "title": "South Kanto Super Kings Vs West Kanto Hurricanes (Japan Premier League T20 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+      "team_1": "South Kanto Super Kings",
+      "team_2": "West Kanto Hurricanes",
+      "status": "LIVE",
+      "event_name": "Japan Premier League T20 2026",
+      "match_name": "South Kanto Super Kings Vs West Kanto Hurricanes",
+      "match_id": 142397,
+      "startTime": "03 May 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142397_english_hls_3c22183cd699533_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Germany Vs Austria (Austria tour of Germany, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
       "team_1": "Germany",
@@ -63,31 +77,17 @@
     },
     {
       "event_category": "Cricket",
-      "title": "South Kanto Super Kings Vs West Kanto Hurricanes (Japan Premier League T20 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-      "team_1": "South Kanto Super Kings",
-      "team_2": "West Kanto Hurricanes",
-      "status": "UPCOMING",
-      "event_name": "Japan Premier League T20 2026",
-      "match_name": "South Kanto Super Kings Vs West Kanto Hurricanes",
-      "match_id": 142397,
-      "startTime": "03 May 2026 10:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Kansai Chargers Vs North Kanto Lions (Japan Premier League T20 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
       "team_1": "Kansai Chargers",
       "team_2": "North Kanto Lions",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Japan Premier League T20 2026",
       "match_name": "Kansai Chargers Vs North Kanto Lions",
       "match_id": 142396,
       "startTime": "03 May 2026 10:30 AM",
       "dai_url": "",
-      "adfree_url": ""
+      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142396_english_hls_2463277dbd69050_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -300,34 +300,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "East Bengal Fc Junior Vs Football 4 Change Academy (Dream Sports Championship Football 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
-      "team_1": "East Bengal FC Junior",
-      "team_2": "Football 4 Change Academy",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Football 2026",
-      "match_name": "East Bengal Fc Junior Vs Football 4 Change Academy",
-      "match_id": 142333,
-      "startTime": "03 May 2026 04:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School (Dream Sports Championship Football 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
-      "team_1": "Sreenidi Deccan FC",
-      "team_2": "SSE BFC Soccer School",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Football 2026",
-      "match_name": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School",
-      "match_id": 142334,
-      "startTime": "03 May 2026 04:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "East Kanto Sunrisers Vs Kansai Chargers (Japan Premier League T20 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
@@ -352,6 +324,34 @@
       "match_name": "North Kanto Lions Vs South Kanto Super Kings",
       "match_id": 142390,
       "startTime": "04 May 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "East Bengal Fc Junior Vs Football 4 Change Academy (Dream Sports Championship Football 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
+      "team_1": "East Bengal FC Junior",
+      "team_2": "Football 4 Change Academy",
+      "status": "UPCOMING",
+      "event_name": "Dream Sports Championship Football 2026",
+      "match_name": "East Bengal Fc Junior Vs Football 4 Change Academy",
+      "match_id": 142333,
+      "startTime": "03 May 2026 04:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School (Dream Sports Championship Football 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
+      "team_1": "Sreenidi Deccan FC",
+      "team_2": "SSE BFC Soccer School",
+      "status": "UPCOMING",
+      "event_name": "Dream Sports Championship Football 2026",
+      "match_name": "Sreenidi Deccan Fc Vs Sse Bfc Soccer School",
+      "match_id": 142334,
+      "startTime": "03 May 2026 04:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -674,6 +674,20 @@
       "match_name": "Rc Celta Vs Elche Cf",
       "match_id": 131164,
       "startTime": "03 May 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "South Kanto Super Kings Vs West Kanto Hurricanes (Japan Premier League T20 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Japan Premier League T20 2026",
+      "match_name": "South Kanto Super Kings Vs West Kanto Hurricanes",
+      "match_id": 142397,
+      "startTime": "03 May 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     }
