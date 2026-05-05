@@ -2,8 +2,24 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:03:24 AM 05-05-2026 (BD Time)
-# 📺 Live Matches: 0
+# 🕒 Last Updated: 09:57:24 AM 05-05-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Malaysia Vs Indonesia (Indonesia tour of Malaysia, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png" group-title="Cricket | LIVE",Malaysia Vs Indonesia (Indonesia tour of Malaysia, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142340_english_hls_5bfacb8a0d22554_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Nepal Vs Oman (ICC CWC League 2, Nepal 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Cricket | LIVE",Nepal Vs Oman (ICC CWC League 2, Nepal 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141981_english_hls_a86811d32551135_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="North Kanto Lions Vs West Kanto Hurricanes (Japan Premier League T20 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Cricket | LIVE",North Kanto Lions Vs West Kanto Hurricanes (Japan Premier League T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142401_english_hls_379d440a9749876_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="South Kanto Super Kings Vs East Kanto Sunrisers (Japan Premier League T20 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Cricket | LIVE",South Kanto Super Kings Vs East Kanto Sunrisers (Japan Premier League T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142400_english_hls_e565c14d0e12236_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Jamshedpur Fc Junior Vs Sreenidi Deccan Fc (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="Football | LIVE",Jamshedpur Fc Junior Vs Sreenidi Deccan Fc (Dream Sports Championship Football 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142352_english_hls_d2e259e4b750849_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Sesa Football Academy Vs East Bengal Fc Junior (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football | LIVE",Sesa Football Academy Vs East Bengal Fc Junior (Dream Sports Championship Football 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142350_english_hls_ec70202c8469111_1ta-di_h264/1080p.m3u8
