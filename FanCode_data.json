@@ -3,22 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 50,
-  "last update time": "04:50:47 PM 05-05-2026",
+  "last update time": "06:07:06 PM 05-05-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Nepal Vs Oman (ICC CWC League 2, Nepal 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
-      "team_1": "Nepal",
-      "team_2": "Oman",
-      "status": "LIVE",
-      "event_name": "ICC CWC League 2, Nepal 2026",
-      "match_name": "Nepal Vs Oman",
-      "match_id": 141981,
-      "startTime": "05 May 2026 09:15 AM",
-      "dai_url": "",
-      "adfree_url": "https://bd-mc-plive.fancode.com/mumbai/141981_english_hls_a86811d32551135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778053445~_GO=Generated~acl=/mumbai/141981_english_hls_a86811d32551135_1ta-di_h264/*~Signature=AcB0QcY9aYGuGfMvbvxvZ0MmJOoQYIdnUSYzF2uugoKT4y9ZJ3Hn3Ff28A7tz3j7uJqyaDL-deF1Y2ZfRvAWRYVop9QM"
-    },
     {
       "event_category": "Cricket",
       "title": "Speen Ghar Region Vs Mis E Ainak Region (Super Cola National T20 Cup, 2026)",
@@ -198,6 +184,20 @@
       "match_name": "Malaysia Vs Indonesia",
       "match_id": 142340,
       "startTime": "05 May 2026 07:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Nepal Vs Oman (ICC CWC League 2, Nepal 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
+      "team_1": "Nepal",
+      "team_2": "Oman",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2, Nepal 2026",
+      "match_name": "Nepal Vs Oman",
+      "match_id": 141981,
+      "startTime": "05 May 2026 09:15 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -567,20 +567,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Nepal Vs Oman (ICC CWC League 2, Nepal 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal-old-sporty.jpg",
-      "team_1": "",
-      "team_2": "",
-      "status": "UPCOMING",
-      "event_name": "ICC CWC League 2, Nepal 2026",
-      "match_name": "Nepal Vs Oman",
-      "match_id": 141981,
-      "startTime": "05 May 2026 09:15 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Speen Ghar Region Vs Mis E Ainak Region (Super Cola National T20 Cup, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(7)_1777562086651.png",
       "team_1": "",
@@ -674,6 +660,20 @@
       "match_name": "Band E Amir Region Vs Mis E Ainak Region",
       "match_id": 142408,
       "startTime": "04 May 2026 03:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Malaysia Vs Indonesia (Indonesia tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(18).png",
+      "team_1": "",
+      "team_2": "",
+      "status": "UPCOMING",
+      "event_name": "Indonesia tour of Malaysia, 2026",
+      "match_name": "Malaysia Vs Indonesia",
+      "match_id": 142340,
+      "startTime": "05 May 2026 07:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
