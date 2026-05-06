@@ -2,24 +2,18 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:26:46 PM 06-05-2026 (BD Time)
-# 📺 Live Matches: 6
+# 🕒 Last Updated: 07:17:01 PM 06-05-2026 (BD Time)
+# 📺 Live Matches: 4
 #=================================
 
-#EXTINF:-1 tvg-name="Boost Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Boost Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142412_english_hls_02824787f474140_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Fc Madras Vs Fc Goa Junior (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football | LIVE",Fc Madras Vs Fc Goa Junior (Dream Sports Championship Football 2026)
-https://bd-mc-flive.fancode.com/mumbai/142358_english_hls_027fee643e75499_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778149145~_GO=Generated~acl=/mumbai/142358_english_hls_027fee643e75499_1ta-di_h264/*~Signature=AeHCm9qMNcVf7bVlahDcWE57N5HRFALzc7TnzRzhN50x_lJno2xWzkDhCoCm8mcVxTzBzJg5ua0DFc0wYB21n-MivqAM
-
-#EXTINF:-1 tvg-name="Mohun Bagan Super Giants Vs Reliance Foundation Young Champs (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football | LIVE",Mohun Bagan Super Giants Vs Reliance Foundation Young Champs (Dream Sports Championship Football 2026)
-https://bd-mc-flive.fancode.com/mumbai/142357_english_hls_b1b45587d572963_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778149147~_GO=Generated~acl=/mumbai/142357_english_hls_b1b45587d572963_1ta-di_h264/*~Signature=AeHCm9qHK-KVhTsJtHXxmS5wuEtzfeUoFxtl_wkzp3XNsj2V-3a0jId8HDnvVJ_Qn-Ye52AH1PeSPR4aA6KBUpwXXt4D
-
 #EXTINF:-1 tvg-name="Day 1   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778158266~_GO=Generated~acl=/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/*~Signature=AeHCm9roYdjCgiNcaATQ0NOYcBlDQuWay1NpeXs-wDB6UQyxQKZJ7DyKpnaXpw2TYTNgU90tHRSw79nzpdshoQ3MOeoK
 
 #EXTINF:-1 tvg-name="Day 1   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142556_english_hls_3566cd2cee61656_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142556_english_hls_3566cd2cee61656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778158267~_GO=Generated~acl=/mumbai/142556_english_hls_3566cd2cee61656_1ta-di_h264/*~Signature=AeHCm9rNkWlRUBadmva1etpCkDOE5MtSgHUw7_AsFJw9wrLXqwHdAbds_bBuSf4kbO7VM4eJlYAdIUhpK94WvdrlZeAA
 
 #EXTINF:-1 tvg-name="Day 1   Campo Centrale (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Campo Centrale (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 1   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142555_english_hls_4eaaa69f5143213_1ta-di_h264/1080p.m3u8
