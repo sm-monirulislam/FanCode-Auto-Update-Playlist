@@ -2,9 +2,24 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 07:17:01 PM 06-05-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 09:42:03 PM 06-05-2026 (BD Time)
+# 📺 Live Matches: 9
 #=================================
+
+#EXTINF:-1 tvg-name="Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football | LIVE",Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140508_english_dash_76098_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football | LIVE",Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140508_hindi_dash_35983_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football | LIVE",Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140508_tamil_dash_73027_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football | LIVE",Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140508_malayalam_dash_2673_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football | LIVE",Punjab Fc Vs Chennaiyin Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140508_bengali_dash_56186_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Day 1   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-plive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778158266~_GO=Generated~acl=/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di_h264/*~Signature=AeHCm9roYdjCgiNcaATQ0NOYcBlDQuWay1NpeXs-wDB6UQyxQKZJ7DyKpnaXpw2TYTNgU90tHRSw79nzpdshoQ3MOeoK
@@ -13,7 +28,7 @@ https://bd-mc-plive.fancode.com/mumbai/142219_english_hls_f9f8fcc9e820277_1ta-di
 https://bd-mc-plive.fancode.com/mumbai/142556_english_hls_3566cd2cee61656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778158267~_GO=Generated~acl=/mumbai/142556_english_hls_3566cd2cee61656_1ta-di_h264/*~Signature=AeHCm9rNkWlRUBadmva1etpCkDOE5MtSgHUw7_AsFJw9wrLXqwHdAbds_bBuSf4kbO7VM4eJlYAdIUhpK94WvdrlZeAA
 
 #EXTINF:-1 tvg-name="Day 1   Campo Centrale (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Campo Centrale (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778165465~_GO=Generated~acl=/mumbai/142218_english_hls_6b3de5389617004_1ta-di_h264/*~Signature=AeHCm9o3HMI6fVS1ZvdwBO41uplcCplau5QwYy7DJknwWrNjYNqsEnD8zLGr4kxbt26tC2a1RCoJ3wHIdbKw43XdAI0C
 
 #EXTINF:-1 tvg-name="Day 1   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 1   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142555_english_hls_4eaaa69f5143213_1ta-di_h264/1080p.m3u8
