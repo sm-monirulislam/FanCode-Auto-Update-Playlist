@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 50,
-  "last update time": "03:09:09 AM 08-05-2026",
+  "last update time": "04:35:42 AM 08-05-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -59,7 +59,7 @@
       "match_id": 142091,
       "startTime": "07 May 2026 11:30 PM",
       "dai_url": "",
-      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/1080p.m3u8"
+      "adfree_url": "https://bd-mc-plive.fancode.com/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778277486~_GO=Generated~acl=/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/*~Signature=AeHCm9op5p9-uwLJmLIEfE5jzbBREb5ACFdm2To2Pks53r_YXVZuFhXLaq_AfxVkFzMCvediIwrGG0iz9bCLIGt1OKoF"
     },
     {
       "event_category": "Cricket",
@@ -231,6 +231,20 @@
     },
     {
       "event_category": "Football",
+      "title": "C\u00e1diz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "C\u00e1diz",
+      "team_2": "Deportivo La Coruna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "C\u00e1diz Vs Deportivo La Coruna",
+      "match_id": 142376,
+      "startTime": "09 May 2026 12:00 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Football",
       "title": "Fc Goa Junior Vs Classic Football Academy (Dream Sports Championship Football 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
       "team_1": "FC Goa Junior",
@@ -254,20 +268,6 @@
       "match_name": "Reliance Foundation Young Champs Vs Alchemy International Fa",
       "match_id": 142363,
       "startTime": "08 May 2026 07:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "C\u00e1diz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "C\u00e1diz",
-      "team_2": "Deportivo La Coruna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "C\u00e1diz Vs Deportivo La Coruna",
-      "match_id": 142376,
-      "startTime": "09 May 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -300,34 +300,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "MotoGP",
-      "title": "Michelin\u00ae Grand Prix Of France 2026 (MICHELIN\u00ae GRAND PRIX OF FRANCE 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png",
-      "team_1": "Day 1",
-      "team_2": "Le Mans",
-      "status": "UPCOMING",
-      "event_name": "MICHELIN\u00ae GRAND PRIX OF FRANCE 2026",
-      "match_name": "Michelin\u00ae Grand Prix Of France 2026",
-      "match_id": 139939,
-      "startTime": "08 May 2026 12:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Main Feed   Day 2 (Truist Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
-      "team_1": "Main Feed - Day 2",
-      "team_2": "Quail Hollow Club - Charlotte, North Carolina",
-      "status": "UPCOMING",
-      "event_name": "Truist Championship 2026",
-      "match_name": "Main Feed   Day 2",
-      "match_id": 142096,
-      "startTime": "08 May 2026 05:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Indonesia Vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
@@ -356,6 +328,34 @@
       "adfree_url": ""
     },
     {
+      "event_category": "MotoGP",
+      "title": "Michelin\u00ae Grand Prix Of France 2026 (MICHELIN\u00ae GRAND PRIX OF FRANCE 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png",
+      "team_1": "Day 1",
+      "team_2": "Le Mans",
+      "status": "UPCOMING",
+      "event_name": "MICHELIN\u00ae GRAND PRIX OF FRANCE 2026",
+      "match_name": "Michelin\u00ae Grand Prix Of France 2026",
+      "match_id": 139939,
+      "startTime": "08 May 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Main Feed   Day 2 (Truist Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+      "status": "UPCOMING",
+      "event_name": "Truist Championship 2026",
+      "match_name": "Main Feed   Day 2",
+      "match_id": 142096,
+      "startTime": "08 May 2026 05:00 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Atp Masters Internazionali Bnl D'italia 2026 (ATP Masters Internazionali BNL d'Italia 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -380,6 +380,20 @@
       "match_name": "Atp Masters Internazionali Bnl D'italia 2026",
       "match_id": 142222,
       "startTime": "08 May 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Amo Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+      "team_1": "Amo Region",
+      "team_2": "Speen Ghar Region",
+      "status": "UPCOMING",
+      "event_name": "Super Cola National T20 Cup, 2026",
+      "match_name": "Amo Region Vs Speen Ghar Region",
+      "match_id": 142415,
+      "startTime": "09 May 2026 10:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -436,20 +450,6 @@
       "match_name": "Marquee Group   Day 2",
       "match_id": 142097,
       "startTime": "08 May 2026 09:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Amo Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-      "team_1": "Amo Region",
-      "team_2": "Speen Ghar Region",
-      "status": "UPCOMING",
-      "event_name": "Super Cola National T20 Cup, 2026",
-      "match_name": "Amo Region Vs Speen Ghar Region",
-      "match_id": 142415,
-      "startTime": "09 May 2026 10:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
