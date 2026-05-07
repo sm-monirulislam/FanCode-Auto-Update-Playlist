@@ -2,21 +2,30 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:59:16 PM 07-05-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 09:31:45 PM 07-05-2026 (BD Time)
+# 📺 Live Matches: 8
 #=================================
-
-#EXTINF:-1 tvg-name="Day 2   Court 13 (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 2   Court 13 (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142221_english_hls_de0b07c78614527_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778244665~_GO=Generated~acl=/mumbai/142221_english_hls_de0b07c78614527_1ta-di_h264/*~Signature=AeHCm9ovXJl0UDkbCkTO-Awu2PGGv01TULiYWd5Lpci5SRmnGv5X57qUzyjE02ZfyXrZIjV24darUXZemgtaMDFoJdkL
 
 #EXTINF:-1 tvg-name="Day 2   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 2   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-plive.fancode.com/mumbai/142220_english_hls_499034c49b99092_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778244667~_GO=Generated~acl=/mumbai/142220_english_hls_499034c49b99092_1ta-di_h264/*~Signature=AeHCm9rTxcVH2HyuYeFNFDyYboEOAJiFFW3bLPWnxUgQ548yZ2oQqquL_MXuoIbG78A5DTXqeEssfQssvTBKbqU2SecO
 
 #EXTINF:-1 tvg-name="Day 2   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 2   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-flive.fancode.com/mumbai/142587_english_hls_113d1baeaf13495_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778231945~_GO=Generated~acl=/mumbai/142587_english_hls_113d1baeaf13495_1ta-di_h264/*~Signature=AeHCm9pWA-2TV73E-naFv7YEt8uW2mMJBW_acaQsDmNteF7PMAHi92YWfNCw8Yq5JGSuLcH6cNWOesgJ58VIOIHBa78P
+https://bd-mc-plive.fancode.com/mumbai/142587_english_hls_113d1baeaf13495_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778246766~_GO=Generated~acl=/mumbai/142587_english_hls_113d1baeaf13495_1ta-di_h264/*~Signature=AeHCm9rlj7-ythPjtAQLS0NI9TtHPIB4x73D2Wgc8skT1AjSoLszq8AEHVGyipsL77bObLpo84we9LsMTzX09qtjQakC
 
 #EXTINF:-1 tvg-name="Day 2   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 2   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-flive.fancode.com/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778233445~_GO=Generated~acl=/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/*~Signature=AeHCm9qg1rG6PdBe-uK6madOGVe5hd-lV1MEbjoVRapEn94-ZkELnL0LMJ_QA3PwQbR-gTrmzcMuXR0mLoZgo2Fvj6cC
+https://bd-mc-plive.fancode.com/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778247850~_GO=Generated~acl=/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/*~Signature=AeHCm9rHqJTxYyRBaywMctte0QAZ6r27h8cJux-BBWpkbGS4HmGktuOGCdrUnTTlDzfauZpLUAFqX6IZwooMAd4_DegJ
 
 #EXTINF:-1 tvg-name="Day 2   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 2   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-flive.fancode.com/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778237045~_GO=Generated~acl=/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/*~Signature=AeHCm9pAg49n6oj8hfjxjXwlPRmiykTiSL_a31ISCkhtCiRVMBUPq0bhnvII4kd6UzCPCpF_3SPoYrJvobxnz3ulm1YE
+https://bd-mc-plive.fancode.com/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778251865~_GO=Generated~acl=/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/*~Signature=AeHCm9os-bAImTj_XmavvfhMES5qnqA8Lnd8pnOS_L61uA21ao9RKk_i4rN0lJ5_UdQ_ttqLZCWaPX9oA6bOUZj5ePYG
+
+#EXTINF:-1 tvg-name="World Feed   Day 1 (ONEflight Myrtle Beach Classic 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="Golf | LIVE",World Feed   Day 1 (ONEflight Myrtle Beach Classic 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142110_english_hls_454e8065df11453_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Main Feed   Day 1 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Main Feed   Day 1 (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Featured Groups   Day 1 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Featured Groups   Day 1 (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142094_english_hls_ba942a271847033_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Marquee Group   Day 1 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Marquee Group   Day 1 (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/1080p.m3u8
