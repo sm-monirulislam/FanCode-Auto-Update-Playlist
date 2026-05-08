@@ -2,27 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:35:33 AM 09-05-2026 (BD Time)
-# 📺 Live Matches: 11
+# 🕒 Last Updated: 04:03:23 AM 09-05-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
-#EXTINF:-1 tvg-name="Levante Vs Ca Osasuna (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png" group-title="Football | LIVE",Levante Vs Ca Osasuna (LALIGA 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/131174_english_dash_387_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Hull City Vs Millwall F.c. (EFL Championship 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="Football | LIVE",Hull City Vs Millwall F.c. (EFL Championship 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Cádiz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png" group-title="Football | LIVE",Cádiz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Day 3   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 3   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778345886~_GO=Generated~acl=/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/*~Signature=AeHCm9png0-xmvrE34sQDV_lrVoLWvb7pS5Hfv8tewMWjXK6Xp4tt_dsTrGwtrTjxUzU9epEQXqAmqDP8SpWVrQb1_YA
-
-#EXTINF:-1 tvg-name="Main Feed   Day 2 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Main Feed   Day 2 (Truist Championship 2026)
-https://bd-mc-plive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778355006~_GO=Generated~acl=/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/*~Signature=AeHCm9peMpbQykXlHiGchtvUsoYM5jwD6p_8ZMEecxtyMFeJc5IX7F3tw55o5SOlV7QSUZ0IPOHWSyWc0YBSOlM8nawD
+https://bd-mc-plive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778360706~_GO=Generated~acl=/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/*~Signature=AeHCm9osrH8VNwesvRHopPbexmo-tr1Z3G0Zob6ujy9e4gRskUuRbfylXHEfWA9TTPVS1zUjyhdDsld_nap-4qEAC0YM
 
 #EXTINF:-1 tvg-name="Y. Hanfmann Vs L. Darderi  (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Y. Hanfmann Vs L. Darderi  (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778347565~_GO=Generated~acl=/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/*~Signature=AeHCm9qWyx8ch_9FgC8Nn0b7NynbH1ZymiRXvQX6pSjFHy2wRdDwx8yvxG4TP252TTW51uQaJJEzDRv5EoEGQ-Aun7AG
+https://bd-mc-plive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778362205~_GO=Generated~acl=/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/*~Signature=AeHCm9p9qiRb8jtusthdtRAB5dRk7CZwtCqvverMj9gkAfdRhHgRSD24X8RRNCrVYpBWiYFZB9Rk1xRK9TaGVD_XqgoB
 
 #EXTINF:-1 tvg-name="World Feed   Day 2 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",World Feed   Day 2 (Truist Championship 2026)
 https://bd-mc-plive.fancode.com/mumbai/142095_english_hls_6bff4504c575884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778352670~_GO=Generated~acl=/mumbai/142095_english_hls_6bff4504c575884_1ta-di_h264/*~Signature=AeHCm9qNolSUudWSpbwDHpBJSTIAkwoF3yYyvyASxf_I-kwNs_HNwHVj8LCgxpxcbnH-RuuZj1M4Yf75QjAf-MVGgqMG
@@ -35,6 +23,3 @@ https://bd-mc-plive.fancode.com/mumbai/142097_english_hls_c5badbae3f54285_1ta-di
 
 #EXTINF:-1 tvg-name="Musetti Vs Perricard (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Musetti Vs Perricard (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Al Kholood Club Vs Al Hilal Sfc (Saudi Kings Cup 2025-2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Saudi-Kings-Cup_fc-web.jpg" group-title="Football | LIVE",Al Kholood Club Vs Al Hilal Sfc (Saudi Kings Cup 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/1080p.m3u8
