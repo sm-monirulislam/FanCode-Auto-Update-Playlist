@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:05:13 PM 08-05-2026 (BD Time)
-# 📺 Live Matches: 7
+# 🕒 Last Updated: 05:55:00 PM 08-05-2026 (BD Time)
+# 📺 Live Matches: 16
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket | LIVE",Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)
@@ -12,8 +12,26 @@ https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di
 #EXTINF:-1 tvg-name="Speen Ghar Region Vs Boost Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Speen Ghar Region Vs Boost Region (Super Cola National T20 Cup, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142414_english_hls_15500b65e596839_1ta-di_h264/1080p.m3u8
 
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football | LIVE",Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140460_english_dash_93767_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football | LIVE",Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140460_hindi_dash_90177_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football | LIVE",Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140460_malayalam_dash_1581_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="Football | LIVE",Sporting Club Delhi Vs Odisha Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140460_bengali_dash_14330_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Fc Madras Vs Corbett Fc (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football | LIVE",Fc Madras Vs Corbett Fc (Dream Sports Championship Football 2026)
+https://bd-mc-flive.fancode.com/mumbai/142367_english_hls_e8893c386433781_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778321946~_GO=Generated~acl=/mumbai/142367_english_hls_e8893c386433781_1ta-di_h264/*~Signature=AeHCm9rfzi-MnhpvMdKcU14HmCdrCvfP5CvubmSYSo2cwZCrwHEXBg-8V7vuaulokz1WrK6XYk0_j9Bakb-mlQ5v_CAO
+
+#EXTINF:-1 tvg-name="Mohun Bagan Super Giants Vs Punjab Fc Junior (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football | LIVE",Mohun Bagan Super Giants Vs Punjab Fc Junior (Dream Sports Championship Football 2026)
+https://bd-mc-flive.fancode.com/mumbai/142365_english_hls_3fcd8c28f797815_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778321947~_GO=Generated~acl=/mumbai/142365_english_hls_3fcd8c28f797815_1ta-di_h264/*~Signature=AeHCm9odt9ElytwZraz2-r1YMUQG2ymKYf0FjHQxD56aUAJKBndN_2bXy2rf3qhaVoMQB1FFb9ZKeeHfui3W9MehJqMC
+
 #EXTINF:-1 tvg-name="Michelin® Grand Prix Of France 2026 (MICHELIN® GRAND PRIX OF FRANCE 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP | LIVE",Michelin® Grand Prix Of France 2026 (MICHELIN® GRAND PRIX OF FRANCE 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139939_english_hls_c0e947e75f67983_1ta-di_h264/1080p5.m3u8
+https://bd-mc-plive.fancode.com/mumbai/139939_english_hls_c0e947e75f67983_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1778324285~_GO=Generated~acl=/mumbai/139939_english_hls_c0e947e75f67983_1ta-di_h264/*~Signature=AeHCm9r_xC23BibIz5q7P3gk_iQHWxLyYMyo9RqGgQc3i8bzb1Y3xLQ2peANzvoAwEfRlkAbI22EdyKS-0D8fTwaqmYO
 
 #EXTINF:-1 tvg-name="Day 3   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 3   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/1080p.m3u8
@@ -26,3 +44,12 @@ https://bd-mc-flive.fancode.com/mumbai/142611_english_hls_02613993275224_1ta-di_
 
 #EXTINF:-1 tvg-name="Day 3   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 3   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142612_english_hls_19acceab8e15830_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   Court 13 (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 3   Court 13 (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142613_english_hls_428d7a66d953558_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="D. Altmaier Vs A. Zverev (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",D. Altmaier Vs A. Zverev (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142614_english_hls_2aaf1cfe6111984_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Main Feed   Day 2 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Main Feed   Day 2 (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/1080p.m3u8
