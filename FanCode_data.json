@@ -3,8 +3,22 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 53,
-  "last update time": "08:38:41 AM 08-05-2026",
+  "last update time": "09:48:39 AM 08-05-2026",
   "matches": [
+    {
+      "event_category": "Cricket",
+      "title": "Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+      "team_1": "Bangladesh",
+      "team_2": "Pakistan",
+      "status": "LIVE",
+      "event_name": "Pakistan tour of Bangladesh, 2026",
+      "match_name": "Bangladesh Vs Pakistan",
+      "match_id": 142160,
+      "startTime": "08 May 2026 09:30 AM",
+      "dai_url": "",
+      "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/1080p.m3u8"
+    },
     {
       "event_category": "Cricket",
       "title": "Vanuatu Vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
@@ -74,20 +88,6 @@
       "startTime": "08 May 2026 07:30 AM",
       "dai_url": "",
       "adfree_url": "https://bd-mc-flive.fancode.com/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778291467~_GO=Generated~acl=/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/*~Signature=AeHCm9rrn1C2bQwqvyWq-DTSht5lsY9XKdHDc1nGRDT04aD9xF96DRIdE93Wa25BPCrHrtyZkrVj6OuDonI-Jv2tAzYA"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-      "team_1": "Bangladesh",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of Bangladesh, 2026",
-      "match_name": "Bangladesh Vs Pakistan",
-      "match_id": 142160,
-      "startTime": "08 May 2026 09:30 AM",
-      "dai_url": "",
-      "adfree_url": ""
     },
     {
       "event_category": "Cricket",
@@ -202,16 +202,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "C\u00e1diz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "C\u00e1diz",
-      "team_2": "Deportivo La Coruna",
+      "event_category": "Cricket",
+      "title": "Amo Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+      "team_1": "Amo Region",
+      "team_2": "Speen Ghar Region",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "C\u00e1diz Vs Deportivo La Coruna",
-      "match_id": 142376,
-      "startTime": "09 May 2026 12:00 AM",
+      "event_name": "Super Cola National T20 Cup, 2026",
+      "match_name": "Amo Region Vs Speen Ghar Region",
+      "match_id": 142415,
+      "startTime": "09 May 2026 10:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -244,16 +244,16 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Amo Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-      "team_1": "Amo Region",
-      "team_2": "Speen Ghar Region",
+      "event_category": "Football",
+      "title": "C\u00e1diz Vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "C\u00e1diz",
+      "team_2": "Deportivo La Coruna",
       "status": "UPCOMING",
-      "event_name": "Super Cola National T20 Cup, 2026",
-      "match_name": "Amo Region Vs Speen Ghar Region",
-      "match_id": 142415,
-      "startTime": "09 May 2026 10:00 AM",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "C\u00e1diz Vs Deportivo La Coruna",
+      "match_id": 142376,
+      "startTime": "09 May 2026 12:00 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -286,6 +286,20 @@
       "adfree_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "South Korea Vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+      "team_1": "South Korea",
+      "team_2": "Papua New Guinea",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+      "match_name": "South Korea Vs Papua New Guinea",
+      "match_id": 142308,
+      "startTime": "09 May 2026 10:30 AM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
       "event_category": "MotoGP",
       "title": "Michelin\u00ae Grand Prix Of France 2026 (MICHELIN\u00ae GRAND PRIX OF FRANCE 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png",
@@ -296,6 +310,20 @@
       "match_name": "Michelin\u00ae Grand Prix Of France 2026",
       "match_id": 139939,
       "startTime": "08 May 2026 12:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mis E Ainak Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+      "team_1": "Mis-e-Ainak Region",
+      "team_2": "Band-e-Amir Region",
+      "status": "UPCOMING",
+      "event_name": "Super Cola National T20 Cup, 2026",
+      "match_name": "Mis E Ainak Region Vs Band E Amir Region",
+      "match_id": 142416,
+      "startTime": "09 May 2026 03:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -338,20 +366,6 @@
       "match_name": "Atp Masters Internazionali Bnl D'italia 2026",
       "match_id": 142222,
       "startTime": "08 May 2026 05:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "South Korea Vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-      "team_1": "South Korea",
-      "team_2": "Papua New Guinea",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
-      "match_name": "South Korea Vs Papua New Guinea",
-      "match_id": 142308,
-      "startTime": "09 May 2026 10:30 AM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -408,20 +422,6 @@
       "match_name": "Marquee Group   Day 2",
       "match_id": 142097,
       "startTime": "08 May 2026 09:00 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mis E Ainak Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-      "team_1": "Mis-e-Ainak Region",
-      "team_2": "Band-e-Amir Region",
-      "status": "UPCOMING",
-      "event_name": "Super Cola National T20 Cup, 2026",
-      "match_name": "Mis E Ainak Region Vs Band E Amir Region",
-      "match_id": 142416,
-      "startTime": "09 May 2026 03:00 PM",
       "dai_url": "",
       "adfree_url": ""
     },
@@ -524,20 +524,6 @@
       "adfree_url": ""
     },
     {
-      "event_category": "Kabaddi",
-      "title": "River Ranger Vs Jungle Panthers (Young Star Kabaddi League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-      "team_1": "River Ranger",
-      "team_2": "Jungle Panthers",
-      "status": "UPCOMING",
-      "event_name": "Young Star Kabaddi League 2026",
-      "match_name": "River Ranger Vs Jungle Panthers",
-      "match_id": 142457,
-      "startTime": "09 May 2026 01:30 PM",
-      "dai_url": "",
-      "adfree_url": ""
-    },
-    {
       "event_category": "Football",
       "title": "Elche Cf Vs Deportivo Alaves (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131176_5427_ELC_ALA_FC-Web.png",
@@ -548,6 +534,20 @@
       "match_name": "Elche Cf Vs Deportivo Alaves",
       "match_id": 131176,
       "startTime": "09 May 2026 05:30 PM",
+      "dai_url": "",
+      "adfree_url": ""
+    },
+    {
+      "event_category": "Kabaddi",
+      "title": "River Ranger Vs Jungle Panthers (Young Star Kabaddi League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
+      "team_1": "River Ranger",
+      "team_2": "Jungle Panthers",
+      "status": "UPCOMING",
+      "event_name": "Young Star Kabaddi League 2026",
+      "match_name": "River Ranger Vs Jungle Panthers",
+      "match_id": 142457,
+      "startTime": "09 May 2026 01:30 PM",
       "dai_url": "",
       "adfree_url": ""
     },
