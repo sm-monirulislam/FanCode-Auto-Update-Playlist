@@ -2,8 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:59:16 AM 08-05-2026 (BD Time)
-# 📺 Live Matches: 0
+# 🕒 Last Updated: 08:38:41 AM 08-05-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Vanuatu Vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket | LIVE",Vanuatu Vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
+https://bd-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Indonesia Vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket | LIVE",Indonesia Vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
+https://bd-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="China Women Vs Malaysia Women (CHK Women's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket | LIVE",China Women Vs Malaysia Women (CHK Women's T20I Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Fc Goa Junior Vs Classic Football Academy (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football | LIVE",Fc Goa Junior Vs Classic Football Academy (Dream Sports Championship Football 2026)
+https://bd-mc-flive.fancode.com/mumbai/142364_english_hls_cbcffe621d27521_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778291466~_GO=Generated~acl=/mumbai/142364_english_hls_cbcffe621d27521_1ta-di_h264/*~Signature=AeHCm9oKJh9I9lyE9rJw0c8kZOVaMWarewOIfDP6yrhiAebd5mTEk2Lb-wWbkDlW6ThPxcE0cUUUnfZJfbfWB_d6-I0G
+
+#EXTINF:-1 tvg-name="Reliance Foundation Young Champs Vs Alchemy International Fa (Dream Sports Championship Football 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="Football | LIVE",Reliance Foundation Young Champs Vs Alchemy International Fa (Dream Sports Championship Football 2026)
+https://bd-mc-flive.fancode.com/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778291467~_GO=Generated~acl=/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/*~Signature=AeHCm9rrn1C2bQwqvyWq-DTSht5lsY9XKdHDc1nGRDT04aD9xF96DRIdE93Wa25BPCrHrtyZkrVj6OuDonI-Jv2tAzYA
