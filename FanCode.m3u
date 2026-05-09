@@ -2,30 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:05:28 PM 09-05-2026 (BD Time)
-# 📺 Live Matches: 15
+# 🕒 Last Updated: 10:29:15 PM 09-05-2026 (BD Time)
+# 📺 Live Matches: 11
 #=================================
-
-#EXTINF:-1 tvg-name="Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football | LIVE",Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/140511_english_dash_30148_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football | LIVE",Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/140511_hindi_dash_26844_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football | LIVE",Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/140511_malayalam_dash_27536_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="Football | LIVE",Jamshedpur Fc Vs Bengaluru Fc (ISL 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/140511_bengali_dash_1744_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Sevilla Fc Vs Rcd Espanyol (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131178_5427_SEV_ESL_FC-Web.png" group-title="Football | LIVE",Sevilla Fc Vs Rcd Espanyol (LALIGA 2025-26)
 https://bd-mc-flive.fancode.com/mumbai/131178_english_dash_8823_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-name="Atletico De Madrid Vs Rc Celta (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="Football | LIVE",Atletico De Madrid Vs Rc Celta (LALIGA 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/131172_english_dash_64092_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Real Valladolid Vs Real Zaragoza (LALIGA Hypermotion 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="Football | LIVE",Real Valladolid Vs Real Zaragoza (LALIGA Hypermotion 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/1080p.m3u8
+
 #EXTINF:-1 tvg-name="Stevenage Vs Stockport County (League One 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="Football | LIVE",Stevenage Vs Stockport County (League One 2025-26)
 https://bd-mc-flive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778420659~_GO=Generated~acl=/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/*~Signature=AeHCm9oTByvLQydqMVZ7AjioM45ho6lvu9g_YU5c-2QZNrWHvtpU6Uv8VWc-Axqq3X-LnVxPzNLsnL2Jl33dhdbsN40C
-
-#EXTINF:-1 tvg-name="France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP | LIVE",France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)
-https://bd-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1778424247~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9rzghwxI9zaVMZN--xPgIy2c0t6t-NAVecT4l-wO_XIfgypH02rxj99cHQa0v_9Okr_aOlRGDhyatCcKEoU364M
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-plive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778417466~_GO=Generated~acl=/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/*~Signature=AeHCm9pglMqGGznriW4e3O-uedf3ONvXA6brIPJFr91v-6Cg-qlWcpamiD9wtp5gN_DUy4GHEifJ_roJHTxX1CyBj-cC
@@ -39,14 +30,11 @@ https://bd-mc-plive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di
 #EXTINF:-1 tvg-name="Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-plive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778420653~_GO=Generated~acl=/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/*~Signature=AeHCm9px-D2JHXMFw7_jJSL4BxfFupeCKc7lKmccjo9xf33eY4nrmE9tXYkaI2xO6yL2AkegTV0z8hsVH9OXSFep1qAN
 
-#EXTINF:-1 tvg-name="Day 4   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778425086~_GO=Generated~acl=/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/*~Signature=AeHCm9o0WOM9W-shzy0j07hpCyLVJoU52tTDaH7CT6Zb_kyyCyVhUPhQqJgBTceGbfOzBjJG5e8FvUTlJx94ROvSeA8F
-
 #EXTINF:-1 tvg-name="Main Feed   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Main Feed   Day 3 (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778427024~_GO=Generated~acl=/mumbai/142100_english_hls_991728742681189_1ta-di_h264/*~Signature=AeHCm9ocMZH-GVFjKwq2CeBPoxOMvob6T7PecfpORMeyvEV-EljWriAM7nu1rT3T0Irz9pDXYr3XRgahWSfq0uWQlRYC
 
 #EXTINF:-1 tvg-name="Featured Groups   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Featured Groups   Day 3 (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778428270~_GO=Generated~acl=/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/*~Signature=AeHCm9qE5AiqgCAYHdJBjDSPTAFwrxblGATqMYDpGX9Tao2cI0x1AdJB7XSeR00RPM26I4Zbofcq8NnBqMHcq31HSwgB
 
 #EXTINF:-1 tvg-name="Marquee Group   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Marquee Group   Day 3 (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778429947~_GO=Generated~acl=/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/*~Signature=AeHCm9p3dwciYpaxgMX8Z0UiHEZoRsVNZQFqNHmjPCPDzh3DMIz0BWBr3pRCd6JAQbwXKLPOyZ3eoxIFELboEFepO5wG
