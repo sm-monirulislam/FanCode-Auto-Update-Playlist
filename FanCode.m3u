@@ -2,12 +2,9 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:29:15 PM 09-05-2026 (BD Time)
-# 📺 Live Matches: 11
+# 🕒 Last Updated: 11:32:12 PM 09-05-2026 (BD Time)
+# 📺 Live Matches: 10
 #=================================
-
-#EXTINF:-1 tvg-name="Sevilla Fc Vs Rcd Espanyol (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131178_5427_SEV_ESL_FC-Web.png" group-title="Football | LIVE",Sevilla Fc Vs Rcd Espanyol (LALIGA 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/131178_english_dash_8823_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Atletico De Madrid Vs Rc Celta (LALIGA 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="Football | LIVE",Atletico De Madrid Vs Rc Celta (LALIGA 2025-26)
 https://bd-mc-flive.fancode.com/mumbai/131172_english_dash_64092_1drmta-di_h264/index.mpd
@@ -15,17 +12,14 @@ https://bd-mc-flive.fancode.com/mumbai/131172_english_dash_64092_1drmta-di_h264/
 #EXTINF:-1 tvg-name="Real Valladolid Vs Real Zaragoza (LALIGA Hypermotion 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="Football | LIVE",Real Valladolid Vs Real Zaragoza (LALIGA Hypermotion 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Stevenage Vs Stockport County (League One 2025-26)" tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="Football | LIVE",Stevenage Vs Stockport County (League One 2025-26)
-https://bd-mc-flive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778420659~_GO=Generated~acl=/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/*~Signature=AeHCm9oTByvLQydqMVZ7AjioM45ho6lvu9g_YU5c-2QZNrWHvtpU6Uv8VWc-Axqq3X-LnVxPzNLsnL2Jl33dhdbsN40C
-
-#EXTINF:-1 tvg-name="Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778417466~_GO=Generated~acl=/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/*~Signature=AeHCm9pglMqGGznriW4e3O-uedf3ONvXA6brIPJFr91v-6Cg-qlWcpamiD9wtp5gN_DUy4GHEifJ_roJHTxX1CyBj-cC
+#EXTINF:-1 tvg-name="J. Sinner Vs S. Ofner (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Sebastian-Ofner_fc_web_1778344010279.jpg" group-title="Tennis | LIVE",J. Sinner Vs S. Ofner (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-plive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778432286~_GO=Generated~acl=/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/*~Signature=AeHCm9oopJRoXN2JMHrf9yDDAWcDzKsKCALdXLu_O_JmDfaiLyNhlg6NdyXfCXIcKKCt0WkjAQUFnrHDik0v7BLW1tAC
 
 #EXTINF:-1 tvg-name="Day 4   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778417467~_GO=Generated~acl=/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/*~Signature=AeHCm9rTdymSTbDW6w9PVukb8gIj7ZYh71v-6KMR5oj3Q4JBpPZLiopl5e5fzFaqQ2PMaOG_T9uh9HDLi5UNK_pGPAIH
+https://bd-mc-plive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778432288~_GO=Generated~acl=/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/*~Signature=AeHCm9qEkO_qF9HNifuA1S624V6AMe3o9ckcEnuWyzMTCe3jdiEQLVBvwTI7T2aE-ARAh5Ijf7rz6a_d2xMXowL8LygB
 
 #EXTINF:-1 tvg-name="Day 4   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778417469~_GO=Generated~acl=/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/*~Signature=AeHCm9rfZA6zENpwucHUg9--WXNfeRsHrpfG_IVucXhhQYRd4kmQn-kqFBYBncIj6OqzTnGl6JLCbI5ZYFW_BFeqy3IH
+https://bd-mc-plive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778432289~_GO=Generated~acl=/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/*~Signature=AeHCm9pERvEr-VfW8pVw2-H5F3ugt9nWvPr65pbQrptEViiV2XHPladcahOpwNztrUxi85U5cjv9xRVaE-L7sI5qHvsP
 
 #EXTINF:-1 tvg-name="Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-plive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778420653~_GO=Generated~acl=/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/*~Signature=AeHCm9px-D2JHXMFw7_jJSL4BxfFupeCKc7lKmccjo9xf33eY4nrmE9tXYkaI2xO6yL2AkegTV0z8hsVH9OXSFep1qAN
@@ -38,3 +32,6 @@ https://bd-mc-plive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-di
 
 #EXTINF:-1 tvg-name="Marquee Group   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Marquee Group   Day 3 (Truist Championship 2026)
 https://bd-mc-plive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778429947~_GO=Generated~acl=/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/*~Signature=AeHCm9p3dwciYpaxgMX8Z0UiHEZoRsVNZQFqNHmjPCPDzh3DMIz0BWBr3pRCd6JAQbwXKLPOyZ3eoxIFELboEFepO5wG
+
+#EXTINF:-1 tvg-name="World Feed   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",World Feed   Day 3 (Truist Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142099_english_hls_1b80ffdd6a33104_1ta-di_h264/1080p.m3u8
