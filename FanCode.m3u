@@ -2,12 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 12:22:12 PM 09-05-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 02:17:40 PM 09-05-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket | LIVE",Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)
-https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778384646~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/*~Signature=AeHCm9rii1eIO4D94bbUSGgkyEPhVdBPZb6pHLdklZkaG1u8Httio6JbfJrr0KyRgGZjOmN-eKThrmaXH31egqbHl8QP
+https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778399476~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/*~Signature=AeHCm9pVHPtFKjO9791N0S4FD-CDjkjtU2PZ2WCRBU5LB8VvfEPD-u8Vy7vgyG_Ysa703btsg9XiNJt9pRjlyLH_frwI
 
 #EXTINF:-1 tvg-name="Speen Ghar Region Vs Amo Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Speen Ghar Region Vs Amo Region (Super Cola National T20 Cup, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142415_english_hls_893fbefb6b22873_1ta-di_h264/1080p.m3u8
@@ -18,5 +18,8 @@ https://bd-mc-fblive.fancode.com/mumbai/142308_english_hls_cfd0d9ed5953911_1ta-d
 #EXTINF:-1 tvg-name="Auckland Vs Adelaide United (A League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg" group-title="Football | LIVE",Auckland Vs Adelaide United (A League 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142504_english_hls_bb4a42f7738151_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Goat Warriors Vs Roaring Rhinos (Young Star Kabaddi League 2026)" tvg-logo="https://images.fancode.com/aig/match/v1778306880632/142456_CASACARDS_APP.png" group-title="Kabaddi | LIVE",Goat Warriors Vs Roaring Rhinos (Young Star Kabaddi League 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142456_english_hls_91d92ed7122299_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="River Ranger Vs Jungle Panthers (Young Star Kabaddi League 2026)" tvg-logo="https://images.fancode.com/aig/match/v1778306880655/142457_CASACARDS_APP.png" group-title="Kabaddi | LIVE",River Ranger Vs Jungle Panthers (Young Star Kabaddi League 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142457_english_hls_e9c14f9d5849062_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP | LIVE",France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8
