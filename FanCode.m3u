@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:53:07 PM 09-05-2026 (BD Time)
-# 📺 Live Matches: 9
+# 🕒 Last Updated: 05:02:04 PM 09-05-2026 (BD Time)
+# 📺 Live Matches: 11
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket | LIVE",Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)
@@ -12,14 +12,14 @@ https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di
 #EXTINF:-1 tvg-name="Mis E Ainak Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Mis E Ainak Region Vs Band E Amir Region (Super Cola National T20 Cup, 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142416_english_hls_4a16d36c7993263_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Raging Bulls Vs Roaring Rhinos (Young Star Kabaddi League 2026)" tvg-logo="https://images.fancode.com/aig/match/v1778306880658/142458_CASACARDS_APP.png" group-title="Kabaddi | LIVE",Raging Bulls Vs Roaring Rhinos (Young Star Kabaddi League 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142458_english_hls_483c3b6af450217_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Sydney Fc Vs Newcastle Jets (A League 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg" group-title="Football | LIVE",Sydney Fc Vs Newcastle Jets (A League 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142505_english_hls_e5ed7d9a1944800_1ta-di_h264/1080p.m3u8
 
+#EXTINF:-1 tvg-name="Lightning Lions Vs Jungle Panthers (Young Star Kabaddi League 2026)" tvg-logo="https://images.fancode.com/aig/match/v1778306880647/142459_CASACARDS_APP.png" group-title="Kabaddi | LIVE",Lightning Lions Vs Jungle Panthers (Young Star Kabaddi League 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142459_english_hls_8233d9bcd474693_1ta-di_h264/1080p.m3u8
+
 #EXTINF:-1 tvg-name="France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP | LIVE",France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8
+https://bd-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1778409426~_GO=Generated~acl=/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/*~Signature=AeHCm9oIuzSHxEHuFik6uTKKM3x34sfbRJnLcOa4Nt2PY3ovtFFdCP1WxScrKwF0DQr0yVsK_vW5tC5Zd7EdOApOrKoM
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/1080p.m3u8
@@ -32,3 +32,9 @@ https://bd-mc-fblive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-d
 
 #EXTINF:-1 tvg-name="Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Bnp Paribas (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Bengaluru Football Club Vs Football 4 Change Academy (Dream Sports Championship Football 2026)" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="Football | LIVE",Bengaluru Football Club Vs Football 4 Change Academy (Dream Sports Championship Football 2026)
+https://bd-mc-flive.fancode.com/mumbai/142369_english_hls_cf8c4aa81035720_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778408346~_GO=Generated~acl=/mumbai/142369_english_hls_cf8c4aa81035720_1ta-di_h264/*~Signature=AeHCm9rtfZ3xJO2K4VyJebMywnSVdqE_AB4iw0U0L_2okzCurwEzfuy_GLUsoFWuVDh-O4Ic0X_GZjJFcSQg_7Ij2wIF
+
+#EXTINF:-1 tvg-name="Day 4   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Court 1 (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/1080p.m3u8
