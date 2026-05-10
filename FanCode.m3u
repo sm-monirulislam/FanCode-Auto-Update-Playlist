@@ -2,21 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:39:32 PM 10-05-2026 (BD Time)
+# 🕒 Last Updated: 03:42:43 PM 10-05-2026 (BD Time)
 # 📺 Live Matches: 5
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket | LIVE",Bangladesh Vs Pakistan (Pakistan tour of Bangladesh, 2026)
-https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa78342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778471468~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa78342_1ta-di_h264/*~Signature=AeHCm9rJjugh3TRZgfbLgqYNSWUtC9J3I4zGEQgcn2f1bcGC_RQIStgqWiIQ0quZUf9QscuTbD91mtK3VzjJS-KZ20sH
+https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa78342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778486289~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa78342_1ta-di_h264/*~Signature=AeHCm9pW2aFfeW9zJ3dTSSCRUEhmGOapeI_fGwGEIlymo2_fe7qUJSawOwituCbraz__55YKnN3g5uRBpE-K2Q19yJEP
 
-#EXTINF:-1 tvg-name="Amo Region Vs Boost Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Amo Region Vs Boost Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142417_english_hls_c4c4eed3a517349_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Band E Amir Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Band E Amir Region Vs Speen Ghar Region (Super Cola National T20 Cup, 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142418_english_hls_0e6e00efa010475_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Papua New Guinea Vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket | LIVE",Papua New Guinea Vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
-https://bd-mc-fblive.fancode.com/mumbai/142311_english_hls_2c998a69a592361_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Hong Kong, China Women Vs China Women (CHK Women's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket | LIVE",Hong Kong, China Women Vs China Women (CHK Women's T20I Series 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142300_english_hls_703684b43230643_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Lightning Lions Vs Goat Warriors (Young Star Kabaddi League 2026)" tvg-logo="https://images.fancode.com/aig/match/v1778306880669/142463_CASACARDS_APP.png" group-title="Kabaddi | LIVE",Lightning Lions Vs Goat Warriors (Young Star Kabaddi League 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142463_english_hls_c4bbd267f535081_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP | LIVE",France Gp (MICHELIN® GRAND PRIX OF FRANCE 2026)
 https://bd-mc-fblive.fancode.com/mumbai/139941_english_hls_14f6b6e7f515407_1ta-di_h264/1080p5.m3u8
+
+#EXTINF:-1 tvg-name="Day 5   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 5   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/1080p.m3u8
