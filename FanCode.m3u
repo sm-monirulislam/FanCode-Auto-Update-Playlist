@@ -2,18 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:26:16 AM 10-05-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 07:22:12 AM 10-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
-#EXTINF:-1 tvg-name="Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778447106~_GO=Generated~acl=/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/*~Signature=AeHCm9peGlCm45T3tRh5Bj6T8N1vJLHW2aqdvuocGxwkxvuxCnMh5tSRPZLDN2ELL7SnzW0aUJXcNvqGK98BmmyQr5UL
+#EXTINF:-1 tvg-name="Fiji Vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket | LIVE",Fiji Vs Japan (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
+https://bd-mc-fblive.fancode.com/mumbai/142310_english_hls_85474e22c661364_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Day 4   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 4   Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-plive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778447108~_GO=Generated~acl=/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/*~Signature=AeHCm9oKCHR22MdCnOVXIQ2ucP4yPyoJBPdLqXR3qBxiJN_pzVF0IbvfvtnPkb9Y2fdcRLp2IwOg8lN4OUOJ1GqRXlcH
+#EXTINF:-1 tvg-name="Samoa Vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket | LIVE",Samoa Vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )
+https://bd-mc-fblive.fancode.com/mumbai/142309_english_hls_b2d75f26d889538_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Featured Groups   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",Featured Groups   Day 3 (Truist Championship 2026)
-https://bd-mc-plive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778443091~_GO=Generated~acl=/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/*~Signature=AeHCm9pkuMEDDSlZ22IYW1-UcW7nvE0pH0cWiX9UMrIPVRrHRd0QhC_SuEPkGbUP1h4zrJnjOOF3oo0mhHx1tRR6SoMD
-
-#EXTINF:-1 tvg-name="World Feed   Day 3 (Truist Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf | LIVE",World Feed   Day 3 (Truist Championship 2026)
-https://bd-mc-plive.fancode.com/mumbai/142099_english_hls_1b80ffdd6a33104_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778446687~_GO=Generated~acl=/mumbai/142099_english_hls_1b80ffdd6a33104_1ta-di_h264/*~Signature=AeHCm9q4oY8AcAOHkq9Ttob8riBAXRpqBEuiPHkZIhBZN2Ip_d8yyk-5rO9CEiAaQiWnPwgJNThCVXjfU9l_DeOjDXgN
+#EXTINF:-1 tvg-name="Malaysia Women Vs Hong Kong, China Women (CHK Women's T20I Series 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket | LIVE",Malaysia Women Vs Hong Kong, China Women (CHK Women's T20I Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142299_english_hls_d3b0302a8225304_1ta-di_h264/1080p.m3u8
