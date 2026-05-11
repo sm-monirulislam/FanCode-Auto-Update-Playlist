@@ -2,21 +2,39 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:42:23 PM 11-05-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 10:06:47 PM 11-05-2026 (BD Time)
+# 📺 Live Matches: 11
 #=================================
 
-#EXTINF:-1 tvg-name="Speen Ghar Region Vs Mis E Ainak Region (Super Cola National T20 Cup, 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket | LIVE",Speen Ghar Region Vs Mis E Ainak Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142420_english_hls_e1a2f381a261033_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs West Indies Academy (West Indies Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket | LIVE",Guyana Harpy Eagles Vs West Indies Academy (West Indies Championship 2026)
+https://bd-mc-plive.fancode.com/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778593867~_GO=Generated~acl=/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/*~Signature=AeHCm9qSvtlv7ESRBHpuBbWoK-JSAhPiKoVx1rJ_BIqb5VNscbmaav0cm4p8yMBXCFuclYGi3TljQUwd8ZNatPEoo-IE
 
-#EXTINF:-1 tvg-name="Day 6   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 6   Main Feed (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142230_english_hls_f194df34f598159_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Trinidad & Tobago Red Force Vs Barbados Pride (West Indies Championship 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket | LIVE",Trinidad & Tobago Red Force Vs Barbados Pride (West Indies Championship 2026)
+https://bd-mc-plive.fancode.com/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778593455~_GO=Generated~acl=/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/*~Signature=AeHCm9qVSbr_SHJmobKgJjzZXDf8kYQuvWv39RhcXx2LJjelx4gk0zyQNm7MK8yUayYYsreUaYozj2nhn5tazb8H3OED
+
+#EXTINF:-1 tvg-name="East Bengal Fc Vs Punjab Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="Football | LIVE",East Bengal Fc Vs Punjab Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140496_english_dash_2068_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="East Bengal Fc Vs Punjab Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="Football | LIVE",East Bengal Fc Vs Punjab Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140496_hindi_dash_87492_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="East Bengal Fc Vs Punjab Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="Football | LIVE",East Bengal Fc Vs Punjab Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140496_malayalam_dash_10006_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="East Bengal Fc Vs Punjab Fc (ISL 2025-26)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="Football | LIVE",East Bengal Fc Vs Punjab Fc (ISL 2025-26)
+https://bd-mc-flive.fancode.com/mumbai/140496_bengali_dash_11912_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="J. Sinner Vs A. Popyrin (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web.jpg" group-title="Tennis | LIVE",J. Sinner Vs A. Popyrin (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-plive.fancode.com/mumbai/142230_english_hls_f194df34f598159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778590267~_GO=Generated~acl=/mumbai/142230_english_hls_f194df34f598159_1ta-di_h264/*~Signature=AeHCm9oYGc9IEz_ms7gXoJnqEpZ0wUSlwEZZ65F2KR4hCmBHhAyD2hhBEfLaprljXhCxGAejDI2gjOhx3HqJHNUhuKcD
 
 #EXTINF:-1 tvg-name="Day 6   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 6   Pietrangeli (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142624_english_hls_1b11ce40f280770_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142624_english_hls_1b11ce40f280770_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778590269~_GO=Generated~acl=/mumbai/142624_english_hls_1b11ce40f280770_1ta-di_h264/*~Signature=AeHCm9p7C9-DSBeCGesAgnBynYTW63UfuY1m-M6ut7QBQ7YuLxMNlMza55HE0_zvyDYUYQd6R_KSEKXOqHsI3weMz8UK
 
 #EXTINF:-1 tvg-name="Day 6: Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 6: Supertennis Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142229_english_hls_7817bfb19f23164_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142229_english_hls_7817bfb19f23164_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778597468~_GO=Generated~acl=/mumbai/142229_english_hls_7817bfb19f23164_1ta-di_h264/*~Signature=AeHCm9psrHpYKOhb83f-6UQoB2F5Nj3d_0sTd1E5V7tT21jn8kq7kop0ZPcO2lhkVIZJDsRVosEuAtEK5Th3RL14CSMN
 
 #EXTINF:-1 tvg-name="Day 6   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 6   Bnp Paribas Arena (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142228_english_hls_993c00ffb750041_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142228_english_hls_993c00ffb750041_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778599808~_GO=Generated~acl=/mumbai/142228_english_hls_993c00ffb750041_1ta-di_h264/*~Signature=AeHCm9rih9a0Hqn3-QS887_uja1B_lccNkhZ5mcbxgY7XXQR2GD83dgk_hacbH0qY7QrWkQMjNUxr6ttyzrFELd3j3oM
+
+#EXTINF:-1 tvg-name="Day 6   F. Cobolli Vs T A Tirante (ATP Masters Internazionali BNL d'Italia 2026)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis | LIVE",Day 6   F. Cobolli Vs T A Tirante (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142626_english_hls_6d909e8b6047454_1ta-di_h264/1080p.m3u8
