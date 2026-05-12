@@ -2,30 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:01:36 AM 13-05-2026 (BD Time)
-# 📺 Live Matches: 8
+# 🕒 Last Updated: 03:50:32 AM 13-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Guyana Harpy Eagles Vs West Indies Academy
 https://bd-mc-plive.fancode.com/mumbai/141957_english_hls_416027e7cb55508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778694666~_GO=Generated~acl=/mumbai/141957_english_hls_416027e7cb55508_1ta-di_h264/*~Signature=AeHCm9pbj748U8zZE8cCYqTc70HSFQlTTKw-Xg99HsSE9J8TEnGhfvXa12ZBFmgpyopKxcbslpPN2B6p6mEFzevHposN
-
-#EXTINF:-1 tvg-name="Trinidad & Tobago Red Force Vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Trinidad & Tobago Red Force Vs Barbados Pride
-https://bd-mc-plive.fancode.com/mumbai/141956_english_hls_d853788a8693331_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778694668~_GO=Generated~acl=/mumbai/141956_english_hls_d853788a8693331_1ta-di_h264/*~Signature=AeHCm9rghPdTvqm-XDVCLsMUxOmBWvPoTq10WHA3OOIjjkw-2Gq6K1rRCVoLaN0bbkNApaN9L_ZHZmU6x__MLfri5F4K
-
-#EXTINF:-1 tvg-name="Real Betis Vs Elche Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png" group-title="Football",Real Betis Vs Elche Cf
-https://bd-mc-flive.fancode.com/mumbai/131181_english_dash_42463_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Al Nassr Fc Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142151_5655_ANF_AHS_fc-web_1778594630736.jpg" group-title="Football",Al Nassr Fc Vs Al Hilal Sfc
-https://bd-mc-fblive.fancode.com/mumbai/142151_english_hls_8c758cdae578773_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Southampton F.c. Vs Middlesbrough F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg" group-title="Football",Southampton F.c. Vs Middlesbrough F.c.
 https://bd-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Ca Osasuna Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png" group-title="Football",Ca Osasuna Vs Atletico De Madrid
 https://bd-mc-flive.fancode.com/mumbai/131186_english_dash_51821_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Day 7   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 7   Main Feed
-https://bd-mc-plive.fancode.com/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778691494~_GO=Generated~acl=/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/*~Signature=AeHCm9pL3jnrDi5YhDB8on1QOIHOl0lKHWUb5a7Wlb-MRha_vQancgamhaQ7yH0JrvEZokO7vGvL3qNHxU8OWgNtDhwJ
-
-#EXTINF:-1 tvg-name="Day 7   T A Tirante Vs D Medvedev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 7   T A Tirante Vs D Medvedev
-https://bd-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/1080p.m3u8
