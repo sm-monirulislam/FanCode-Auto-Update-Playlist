@@ -2,24 +2,33 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:25:36 PM 13-05-2026 (BD Time)
-# 📺 Live Matches: 6
+# 🕒 Last Updated: 12:24:57 AM 14-05-2026 (BD Time)
+# 📺 Live Matches: 9
 #=================================
 
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Guyana Harpy Eagles Vs West Indies Academy
-https://bd-mc-plive.fancode.com/mumbai/141957_english_hls_416027e7cb43562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778766666~_GO=Generated~acl=/mumbai/141957_english_hls_416027e7cb43562_1ta-di_h264/*~Signature=AQoI29KFdo4AK6ITyR2wBcZpXGe1dBZXox2bgjXkYbA9CewOezmWJQMCnB1kK-G2iH8PjKMzXvqV2E4T5O4bagSAHT8E
+https://bd-mc-plive.fancode.com/mumbai/141957_english_hls_416027e7cb43562_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778781487~_GO=Generated~acl=/mumbai/141957_english_hls_416027e7cb43562_1ta-di_h264/*~Signature=AQoI29L9rwGo5d0JiQBWIMMvjxV6_ZuNvXlzxebgeHHVBzl_IjaLV-L-77OCJ_e62LS6xCwCNcZOP2F0ct1YVwH2Y5gF
 
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force Vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Trinidad & Tobago Red Force Vs Barbados Pride
-https://bd-mc-plive.fancode.com/mumbai/141956_english_hls_d853788a8633387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778766668~_GO=Generated~acl=/mumbai/141956_english_hls_d853788a8633387_1ta-di_h264/*~Signature=AQoI29I34sjBWqGQwloUJM0p9xLoFEVfVnHqB_CleCu6GaYaTVFAU2bB92hhSRSpw4d07EdS9dkV0fCM1YwOZxizGkED
+https://bd-mc-plive.fancode.com/mumbai/141956_english_hls_d853788a8633387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778781489~_GO=Generated~acl=/mumbai/141956_english_hls_d853788a8633387_1ta-di_h264/*~Signature=AQoI29J0ijxEgoVINWASFARYLa_S13VEdfKLMkL_MkWdnyzmneyhKUY4HcvQ1Liyu--jjWa8m47APPW7MRzPM9waJwkK
 
-#EXTINF:-1 tvg-name="Uzbekistan Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg" group-title="Football",Uzbekistan Vs Australia
-https://bd-mc-fblive.fancode.com/mumbai/142259_english_hls_19f4135d8c80846_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Villarreal Cf Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131188_5427_VIL_SEV_FC-Web.png" group-title="Football",Villarreal Cf Vs Sevilla Fc
+https://bd-mc-flive.fancode.com/mumbai/131188_english_dash_76561_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-name="Day 8   Supertennis Arena" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 8   Supertennis Arena
-https://bd-mc-plive.fancode.com/mumbai/142233_english_hls_cc62ff64e737337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778773868~_GO=Generated~acl=/mumbai/142233_english_hls_cc62ff64e737337_1ta-di_h264/*~Signature=AQoI29IGaDTcW04oy5riTOHtJnAuBO-qKAzDYH8hLRPYxflKsuufbIIfXFpx3Llv3eZ0FBa4bir_uFBYvfoC10hCPqUG
+#EXTINF:-1 tvg-name="Rcd Espanyol Vs Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131185_5427_ESL_ATH_FC-Web.png" group-title="Football",Rcd Espanyol Vs Athletic Club
+https://bd-mc-flive.fancode.com/mumbai/131185_english_dash_5689_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Vietnam Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg" group-title="Football",Vietnam Vs United Arab Emirates
+https://bd-mc-fblive.fancode.com/mumbai/142258_english_hls_2d0641948518140_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Korea Republic Vs Yemen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg" group-title="Football",Korea Republic Vs Yemen
+https://bd-mc-fblive.fancode.com/mumbai/142257_english_hls_b066a3bf0324433_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 8   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 8   Main Feed
-https://bd-mc-fblive.fancode.com/mumbai/142234_english_hls_8994bd359e88030_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142234_english_hls_8994bd359e88030_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778777469~_GO=Generated~acl=/mumbai/142234_english_hls_8994bd359e88030_1ta-di_h264/*~Signature=AQoI29LPwL43hVLHzq1EQFuPjEsWQ71iZ8Q--3j-lt4mYraCxuUFWWbtecC091XQ75bOsyzBW7NhD9cUT9fhEWMrIGYB
 
 #EXTINF:-1 tvg-name="Day 8   Goransson/king Vs Bolelli/vavassori" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 8   Goransson/king Vs Bolelli/vavassori
-https://bd-mc-fblive.fancode.com/mumbai/142643_english_hls_db713dcab621383_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142643_english_hls_db713dcab621383_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778779566~_GO=Generated~acl=/mumbai/142643_english_hls_db713dcab621383_1ta-di_h264/*~Signature=AQoI29Ls9xioALJh6cUaxfvLjh6EbevlnLm0EMf_GYAhJ536Wmp_dE3i-MbtvZq2ENwKro2bCwEuYyrKGSdr05KywE0N
+
+#EXTINF:-1 tvg-name="Qf: R. Jodar Vs L. Darderi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rafael-Jodar-vs-Luciano-Darderi_fc_web.jpg" group-title="Tennis",Qf: R. Jodar Vs L. Darderi
+https://bd-mc-fblive.fancode.com/mumbai/142674_english_hls_aad7d1345d26144_1ta-di_h264/1080p.m3u8
