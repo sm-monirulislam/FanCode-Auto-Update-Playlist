@@ -2,9 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 07:27:02 AM 14-05-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 11:28:42 AM 14-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
-#EXTINF:-1 tvg-name="Papua New Guinea Vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket",Papua New Guinea Vs Indonesia
-https://bd-mc-fblive.fancode.com/mumbai/142316_english_hls_0a20ddc2bb10274_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Scotland Vs Usa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket",Scotland Vs Usa
+https://bd-mc-fblive.fancode.com/mumbai/142290_english_hls_5da25249c098684_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Japan Vs Cook Islands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket",Japan Vs Cook Islands
+https://bd-mc-fblive.fancode.com/mumbai/142317_english_hls_834021c14359094_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Goat Warriors Vs Jungle Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi",Goat Warriors Vs Jungle Panthers
+https://bd-mc-fblive.fancode.com/mumbai/142480_english_hls_2aa974c43027917_1ta-di_h264/1080p.m3u8
