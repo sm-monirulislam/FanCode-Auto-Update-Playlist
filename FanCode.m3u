@@ -2,8 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:54 AM 15-05-2026 (BD Time)
-# 📺 Live Matches: 0
+# 🕒 Last Updated: 01:42:07 PM 15-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Sri Lanka A Women Vs New Zealand A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="Cricket",Sri Lanka A Women Vs New Zealand A Women
+https://bd-mc-fblive.fancode.com/mumbai/142510_english_hls_65f3be4ba685626_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Lightning Lions Vs Roaring Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi",Lightning Lions Vs Roaring Rhinos
+https://bd-mc-fblive.fancode.com/mumbai/142486_english_hls_f780d5038787739_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Catalonia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP",Catalonia Gp
+https://bd-mc-fblive.fancode.com/mumbai/139942_english_hls_ebf51c020a40261_1ta-di_h264/1080p5.m3u8
