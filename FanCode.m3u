@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:12:15 PM 16-05-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 04:45:57 PM 16-05-2026 (BD Time)
+# 📺 Live Matches: 7
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket",Bangladesh Vs Pakistan
@@ -12,11 +12,17 @@ https://bd-mc-plive.fancode.com/mumbai/142161_english_hls_e85dce235970990_1ta-di
 #EXTINF:-1 tvg-name="Guernsey Vs Sweden" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142426_6076_GSY_SWE_fc-web.jpg" group-title="Cricket",Guernsey Vs Sweden
 https://bd-mc-fblive.fancode.com/mumbai/142426_english_hls_b776a9200569347_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Cyprus Vs France" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142425_6076_CYP_FRA_fc-web.jpg" group-title="Cricket",Cyprus Vs France
-https://bd-mc-fblive.fancode.com/mumbai/142425_english_hls_15a855bc2241593_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Usa Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket",Usa Vs Nepal
-https://bd-mc-plive.fancode.com/mumbai/142291_english_hls_ff8a0c3ef280931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779003427~_GO=Generated~acl=/mumbai/142291_english_hls_ff8a0c3ef280931_1ta-di_h264/*~Signature=AQoI29IlhldfUv3LU9uXvMd97yLktxMKzISas5QBmZIXbv3GyX2Q7x9wMNyQrqe2FLXJRCMPQOYLnvXjLlR8SF8yPY8H
+#EXTINF:-1 tvg-name="Newcastle Jets Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg" group-title="Football",Newcastle Jets Vs Sydney Fc
+https://bd-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Catalonia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP",Catalonia Gp
-https://bd-mc-fblive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/1080p5.m3u8
+https://bd-mc-plive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779014222~_GO=Generated~acl=/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/*~Signature=AQoI29LxZH_ITy2sZqZrKSAROCd4DQFw6kcLZjIchpZOaXnMhQaHX0SFQZkwMZeuxe0FL9UQN92NvXLLtVmg5Z-lgxEF
+
+#EXTINF:-1 tvg-name="Sf: Krajicek/mektic Vs Granollers/zeballos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Sf: Krajicek/mektic Vs Granollers/zeballos
+https://bd-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Sf: Bolelli/vavassori Vs Harrison/skupski" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Sf: Bolelli/vavassori Vs Harrison/skupski
+https://bd-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Cyprus Vs France Cricket" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142425_6076_CYP_FRA_fc-web.jpg" group-title="Cricket",Cyprus Vs France Cricket
+https://bd-mc-fblive.fancode.com/mumbai/142425_english_hls_15a855bc2241593_1ta-di_h264/1080p.m3u8
