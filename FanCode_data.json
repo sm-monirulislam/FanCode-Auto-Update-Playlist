@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 50,
-  "last update time": "01:14:17 AM 17-05-2026",
+  "match_amount": 49,
+  "last update time": "02:11:37 AM 17-05-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -20,22 +20,6 @@
       "startTime": "16 May 2026 11:30 PM",
       "dai_url": "",
       "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142153_english_hls_bb15d18b8d39804_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Football",
-      "title": "Racing Club Vs Real Valladolid",
-      "src": "https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png",
-      "team_1": "Racing Club",
-      "team_2": "Real Valladolid",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing Club Vs Real Valladolid",
-      "match_id": 142633,
-      "startTime": "16 May 2026 10:00 PM",
-      "dai_url": "",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142633_english_hls_0130d26d2061615_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Football",
@@ -646,6 +630,22 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Nepal Vs Scotland",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+      "team_1": "Nepal",
+      "team_2": "Scotland",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2 Nepal, 2026",
+      "match_name": "Nepal Vs Scotland",
+      "match_id": 142292,
+      "startTime": "18 May 2026 09:15 AM",
+      "dai_url": "",
+      "stream_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Al Ahli Saudi Fc Vs Al Kholood Club",
       "src": "https://images.fancode.com/aig/match/v1776758603895/142153_CASACARDS_SPORTY_APP.png",
@@ -770,22 +770,6 @@
       "match_name": "Slovenia Vs Austria",
       "match_id": 142431,
       "startTime": "17 May 2026 06:00 PM",
-      "dai_url": "",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Racing Club Vs Real Valladolid",
-      "src": "https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing Club Vs Real Valladolid",
-      "match_id": 142633,
-      "startTime": "16 May 2026 10:00 PM",
       "dai_url": "",
       "stream_url": ""
     },
