@@ -2,15 +2,9 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 02:11:37 AM 17-05-2026 (BD Time)
-# 📺 Live Matches: 3
+# 🕒 Last Updated: 03:25:56 AM 17-05-2026 (BD Time)
+# 📺 Live Matches: 1
 #=================================
 
-#EXTINF:-1 tvg-name="Al Ahli Saudi Fc Vs Al Kholood Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142153_5655_AAS_ALK_fc-web.jpg" group-title="Football",Al Ahli Saudi Fc Vs Al Kholood Club
-https://bd-mc-fblive.fancode.com/mumbai/142153_english_hls_bb15d18b8d39804_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Al Nassr Fc Vs Gamba Osaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFL-Championship_Al_Nasar_vs_Gamba_Oska_FC-WEB.jpg" group-title="Football",Al Nassr Fc Vs Gamba Osaka
-https://bd-mc-fblive.fancode.com/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf",Day 3
-https://bd-mc-fblive.fancode.com/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/1080p.m3u8
+https://bd-mc-plive.fancode.com/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779051483~_GO=Generated~acl=/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/*~Signature=AQoI29LRZK38W6-YY1V08GYsGe0OAGEYhKtinRuKkk8q8M0UCemCehULpvi-PIZu2e42uBIVnikKVLKPAinFuBJeMh0K
