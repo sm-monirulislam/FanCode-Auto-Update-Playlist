@@ -2,27 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:56:02 PM 16-05-2026 (BD Time)
-# 📺 Live Matches: 18
+# 🕒 Last Updated: 07:49:44 PM 16-05-2026 (BD Time)
+# 📺 Live Matches: 17
 #=================================
 
-#EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket",Bangladesh Vs Pakistan
-https://bd-mc-plive.fancode.com/mumbai/142161_english_hls_e85dce235970990_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779006363~_GO=Generated~acl=/mumbai/142161_english_hls_e85dce235970990_1ta-di_h264/*~Signature=AQoI29JjMimF_ZNPOdijHd1ohVctVjUZylcVjcS38zPVnagl_vxyakC9Bj2bCePPdPzNEwotQmgjvhUFGofZiEGLdLMH
+#EXTINF:-1 tvg-name="Malta Vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142428_6076_AUT_MAL_fc-web.jpg" group-title="Cricket",Malta Vs Austria
+https://bd-mc-fblive.fancode.com/mumbai/142428_english_hls_837227617f29396_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Chennaiyin Fc Vs Bengaluru Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football",Chennaiyin Fc Vs Bengaluru Fc
-https://bd-mc-flive.fancode.com/mumbai/140521_english_dash_66605_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Chennaiyin Fc Vs Bengaluru Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football",Chennaiyin Fc Vs Bengaluru Fc
-https://bd-mc-flive.fancode.com/mumbai/140521_hindi_dash_76170_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Chennaiyin Fc Vs Bengaluru Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football",Chennaiyin Fc Vs Bengaluru Fc
-https://bd-mc-flive.fancode.com/mumbai/140521_tamil_dash_16846_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Chennaiyin Fc Vs Bengaluru Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football",Chennaiyin Fc Vs Bengaluru Fc
-https://bd-mc-flive.fancode.com/mumbai/140521_malayalam_dash_88668_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Chennaiyin Fc Vs Bengaluru Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg" group-title="Football",Chennaiyin Fc Vs Bengaluru Fc
-https://bd-mc-flive.fancode.com/mumbai/140521_bengali_dash_90452_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-name="Switzerland Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142427_6076_JER_SUI_fc-web.jpg" group-title="Cricket",Switzerland Vs Jersey
+https://bd-mc-fblive.fancode.com/mumbai/142427_english_hls_ff4eff117b99431_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="West Ham United Women Vs Manchester City Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg" group-title="Football",West Ham United Women Vs Manchester City Women
 https://bd-mc-fblive.fancode.com/mumbai/142177_english_hls_d3a9e3746196409_1ta-di_h264/1080p5.m3u8
@@ -42,14 +30,20 @@ https://bd-mc-fblive.fancode.com/mumbai/142179_english_hls_3e9753904d26395_1ta-d
 #EXTINF:-1 tvg-name="London City Lionesses Vs Aston Villa Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg" group-title="Football",London City Lionesses Vs Aston Villa Women
 https://bd-mc-fblive.fancode.com/mumbai/142178_english_hls_acf394a0cb49151_1ta-di_h264/1080p5.m3u8
 
-#EXTINF:-1 tvg-name="Newcastle Jets Vs Sydney Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg" group-title="Football",Newcastle Jets Vs Sydney Fc
-https://bd-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Odisha Fc Vs Punjab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg" group-title="Football",Odisha Fc Vs Punjab Fc
+https://bd-mc-flive.fancode.com/mumbai/140435_english_dash_66128_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Odisha Fc Vs Punjab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg" group-title="Football",Odisha Fc Vs Punjab Fc
+https://bd-mc-flive.fancode.com/mumbai/140435_hindi_dash_38043_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Odisha Fc Vs Punjab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg" group-title="Football",Odisha Fc Vs Punjab Fc
+https://bd-mc-flive.fancode.com/mumbai/140435_malayalam_dash_97251_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Odisha Fc Vs Punjab Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg" group-title="Football",Odisha Fc Vs Punjab Fc
+https://bd-mc-flive.fancode.com/mumbai/140435_bengali_dash_23751_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Catalonia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP",Catalonia Gp
 https://bd-mc-plive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779014222~_GO=Generated~acl=/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/*~Signature=AQoI29LxZH_ITy2sZqZrKSAROCd4DQFw6kcLZjIchpZOaXnMhQaHX0SFQZkwMZeuxe0FL9UQN92NvXLLtVmg5Z-lgxEF
-
-#EXTINF:-1 tvg-name="Sf: Krajicek/mektic Vs Granollers/zeballos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Sf: Krajicek/mektic Vs Granollers/zeballos
-https://bd-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Sf: Bolelli/vavassori Vs Harrison/skupski" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Sf: Bolelli/vavassori Vs Harrison/skupski
 https://bd-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/1080p.m3u8
@@ -59,3 +53,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di
 
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf",Day 3
 https://bd-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Sf: J. Sinner Vs D. Medvedev" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg" group-title="Tennis",Sf: J. Sinner Vs D. Medvedev
+https://bd-mc-fblive.fancode.com/mumbai/142239_english_hls_03c417900b86056_1ta-di_h264/1080p.m3u8
