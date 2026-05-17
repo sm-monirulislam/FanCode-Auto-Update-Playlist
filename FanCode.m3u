@@ -2,21 +2,39 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:10:06 PM 17-05-2026 (BD Time)
-# 📺 Live Matches: 5
+# 🕒 Last Updated: 05:39:29 PM 17-05-2026 (BD Time)
+# 📺 Live Matches: 11
 #=================================
+
+#EXTINF:-1 tvg-name="Band E Amir Region Vs Mis E Ainak Region" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket",Band E Amir Region Vs Mis E Ainak Region
+https://bd-mc-plive.fancode.com/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779092342~_GO=Generated~acl=/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/*~Signature=AQoI29JSW3PslGTSgLU4b0jtm8l040ERQGIrYA1zbuSmROQDTTmzK8Bh7yL-uZVCLmF2qR7kZb1xuo1XlQ8okDiFhD8O
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket",Bangladesh Vs Pakistan
 https://bd-mc-plive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779090662~_GO=Generated~acl=/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/*~Signature=AQoI29IHvweFlseSzcEvuPbJ5fVK2TIXPFBtaEiP63MrjVEp9rpBRCUac2pxLWogcuc0_ZVWfPJd8R9D_-nCS9vYWzcC
 
-#EXTINF:-1 tvg-name="Band E Amir Region Vs Mis E Ainak Region" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",Band E Amir Region Vs Mis E Ainak Region
-https://bd-mc-plive.fancode.com/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779092342~_GO=Generated~acl=/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/*~Signature=AQoI29JSW3PslGTSgLU4b0jtm8l040ERQGIrYA1zbuSmROQDTTmzK8Bh7yL-uZVCLmF2qR7kZb1xuo1XlQ8okDiFhD8O
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Inter Kashi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football",Sporting Club Delhi Vs Inter Kashi
+https://bd-mc-flive.fancode.com/mumbai/140514_english_dash_67335_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-name="France Cricket Vs Croatia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg" group-title="Cricket",France Cricket Vs Croatia
-https://bd-mc-fblive.fancode.com/mumbai/142430_english_hls_b8ec86217377096_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Inter Kashi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football",Sporting Club Delhi Vs Inter Kashi
+https://bd-mc-flive.fancode.com/mumbai/140514_hindi_dash_41230_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-name="Malta Vs Guernsey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142429_6076_MAL_GSY_fc-web.jpg" group-title="Cricket",Malta Vs Guernsey
-https://bd-mc-fblive.fancode.com/mumbai/142429_english_hls_f4d9d66d1594442_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Inter Kashi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football",Sporting Club Delhi Vs Inter Kashi
+https://bd-mc-flive.fancode.com/mumbai/140514_malayalam_dash_30666_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Sporting Club Delhi Vs Inter Kashi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Football",Sporting Club Delhi Vs Inter Kashi
+https://bd-mc-flive.fancode.com/mumbai/140514_bengali_dash_70393_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Dpr Korea Women Vs Japan Women" tvg-logo="https://images.fancode.com/aig/match/v1778774608920/142256_CASACARDS_APP.png" group-title="Football",Dpr Korea Women Vs Japan Women
+https://bd-mc-fblive.fancode.com/mumbai/142256_english_hls_c4f89821aa61991_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Catalonia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP",Catalonia Gp
-https://bd-mc-fblive.fancode.com/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/1080p5.m3u8
+https://bd-mc-plive.fancode.com/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779104222~_GO=Generated~acl=/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/*~Signature=AQoI29IDxbwz6Cthkh39L_k8mo-8uMUz4r17mM1pzpJ5a2o82D5yD-dDsOY53IW0MR5nBozNOS6dXw164epvuhJOr04M
+
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf",Day 4
+https://bd-mc-fblive.fancode.com/mumbai/142328_english_hls_638019926218324_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 1   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis",Day 1   Main Feed
+https://bd-mc-fblive.fancode.com/mumbai/142261_english_hls_649061a43666015_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Spielberg   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports",Spielberg   Day 2
+https://bd-mc-fblive.fancode.com/mumbai/142637_english_hls_df826df69b30602_1ta-di_h264/1080p5.m3u8
