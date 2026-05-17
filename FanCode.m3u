@@ -2,20 +2,9 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:00:58 AM 18-05-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 04:26:43 AM 18-05-2026 (BD Time)
+# 📺 Live Matches: 1
 #=================================
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131192_5427_BAR_RB_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Betis | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cafc30d071134e3c9ae90a466e55599d:dca4c0a94499296b345e612f247a6d80
-https://bd-mc-flive.fancode.com/mumbai/131192_english_dash_70836_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs Trinidad & Tobago Red Force" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Guyana Harpy Eagles Vs Trinidad & Tobago Red Force
-https://bd-mc-plive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779126663~_GO=Generated~acl=/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/*~Signature=AQoI29JJiRgRt0f0G5-duid2cutSJSIc-GYJk9pLF6i062YsHdGt8FkGpERE5mFa5SeDCXtD3eKellEpmmpHTEL5ydMN
-
-#EXTINF:-1 tvg-name="Real Zaragoza Vs Sporting De Gijón" tvg-logo="https://images.fancode.com/aig/match/v1778920809564/142634_CASACARDS_APP.png" group-title="Football",Real Zaragoza Vs Sporting De Gijón
-https://bd-mc-fblive.fancode.com/mumbai/142634_english_hls_c9d387db2f59165_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf",Day 4
 https://bd-mc-plive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779137882~_GO=Generated~acl=/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/*~Signature=AQoI29JH-NQ3bRr6FEKPtHSROyqiDTrNx9VAzP6cXXnll8aU2BvMIGxnUuYu0koAPdIshWdQYQC4ml5MKZ3kAPSpfXUA
