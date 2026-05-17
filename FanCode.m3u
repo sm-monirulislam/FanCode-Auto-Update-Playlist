@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:45:38 AM 18-05-2026 (BD Time)
-# 📺 Live Matches: 10
+# 🕒 Last Updated: 03:00:58 AM 18-05-2026 (BD Time)
+# 📺 Live Matches: 4
 #=================================
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131192_5427_BAR_RB_FC-Web.png" group-title="Football", Fc Barcelona Vs Real Betis | LALIGA 2025-26 (ENGLISH) [DRM]
@@ -18,34 +18,4 @@ https://bd-mc-plive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di
 https://bd-mc-fblive.fancode.com/mumbai/142634_english_hls_c9d387db2f59165_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf",Day 4
-https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Football", Sevilla Fc Vs Real Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2ef2e7a2f30461793c75610220bc060:0c76b92c9e0558d82fb4694216aa6fa1
-https://bd-mc-flive.fancode.com/mumbai/131199_english_dash_13549_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Football", Sevilla Fc Vs Real Madrid | LALIGA 2025-26 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5760f378aa44c2297b8967a318f04df:3d2e39b402679c32bb4e03803ef57d5f
-https://bd-mc-flive.fancode.com/mumbai/131199_hindi_dash_67565_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Football", Sevilla Fc Vs Real Madrid | LALIGA 2025-26 (BENGALI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22be92acea046ba8aa93aa74aabb1a8:2dc3ee5dd87203600d9d6c789442d7e9
-https://bd-mc-flive.fancode.com/mumbai/131199_bengali_dash_35899_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131195_5427_RVL_VIL_FC-Web.png" group-title="Football", Rayo Vallecano Vs Villarreal Cf | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93017825de94adfad5f1cfde6ae7738:1279fdc2e28aa5ab242acfcfeb09a911
-https://bd-mc-flive.fancode.com/mumbai/131195_english_dash_82725_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png" group-title="Football", Atletico De Madrid Vs Girona Fc | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6f8135eaf04b56b66318a600a7f939:c5cbe30c10ab4619c095d5adc48e32f3
-https://bd-mc-flive.fancode.com/mumbai/131191_english_dash_8350_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png" group-title="Football", Real Sociedad Vs Valencia Cf | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4766db3e84bc44c990658b355453c262:9097550db22a8504678331fe789cbca4
-https://bd-mc-flive.fancode.com/mumbai/131196_english_dash_59919_1drmta-di_h264/index.mpd
+https://bd-mc-plive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779137882~_GO=Generated~acl=/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/*~Signature=AQoI29JH-NQ3bRr6FEKPtHSROyqiDTrNx9VAzP6cXXnll8aU2BvMIGxnUuYu0koAPdIshWdQYQC4ml5MKZ3kAPSpfXUA
