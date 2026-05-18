@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:33:24 AM 18-05-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 10:13:16 AM 18-05-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Cook Islands Vs Samoa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket",Cook Islands Vs Samoa
-https://bd-mc-fblive.fancode.com/mumbai/142322_english_hls_a36cb1683690533_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket",Bangladesh Vs Pakistan
+https://bd-mc-plive.fancode.com/mumbai/142161_english_hls_e85dce23599256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779162242~_GO=Generated~acl=/mumbai/142161_english_hls_e85dce23599256_1ta-di_h264/*~Signature=AQoI29IQ--vmcWL3sT2Sp9s-2EFo2vNcuw47R-kuknA-70HrQ0zoQyoqnAhBfmUWar-nlSImDCuFYl0lSvlFOLHLGY4G
+
+#EXTINF:-1 tvg-name="Scotland Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket",Scotland Vs Nepal
+https://bd-mc-fblive.fancode.com/mumbai/142292_english_hls_cc47d076e114375_1ta-di_h264/1080p.m3u8
