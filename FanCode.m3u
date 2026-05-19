@@ -2,9 +2,14 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 07:30:54 AM 19-05-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 12:14:37 PM 19-05-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Kowloon Lions Vs New Territories Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skywarriors_web.png" group-title="Cricket",Kowloon Lions Vs New Territories Tigers
-https://bd-mc-fblive.fancode.com/mumbai/142760_english_hls_1fc8f9226832274_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket",Bangladesh Vs Pakistan
+https://bd-mc-plive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779248644~_GO=Generated~acl=/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/*~Signature=AQoI29J9ee9R1RpOC_ltodIpj8Rhv_2QML1uXPWakWHmAH76XQQ3-BzLAPnBr683VqCchn1D2-_q_OCosGkClNniFvQK
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament, 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=020c8893946b436288da804889721b04:3472ec1404d77c6fa42e5007fc3b18b3
+https://bd-mc-flive.fancode.com/mumbai/142741_english_dash_12695_1drmta-di_h264/index.mpd
