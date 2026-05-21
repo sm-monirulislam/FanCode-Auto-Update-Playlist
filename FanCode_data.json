@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 48,
-  "last update time": "10:18:00 AM 21-05-2026",
+  "match_amount": 49,
+  "last update time": "12:36:59 PM 21-05-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -22,18 +22,18 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Sri Lanka A Women Vs New Zealand A Women",
+      "title": "New Zealand A Women Vs Sri Lanka A Women",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-      "team_1": "Sri Lanka A Women",
-      "team_2": "New Zealand A Women",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "status": "UPCOMING",
+      "team_1": "New Zealand A Women",
+      "team_2": "Sri Lanka A Women",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "status": "LIVE",
       "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
-      "match_name": "Sri Lanka A Women Vs New Zealand A Women",
+      "match_name": "New Zealand A Women Vs Sri Lanka A Women",
       "match_id": 142512,
       "startTime": "21 May 2026 10:00 AM",
-      "stream_url": ""
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142512_english_hls_3227481a6963517_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -723,6 +723,21 @@
       "match_name": "Band E Amir Region Vs Boost Region",
       "match_id": 142744,
       "startTime": "22 May 2026 10:00 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka A Women Vs New Zealand A Women",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "New Zealand Women\u2019s A tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka A Women Vs New Zealand A Women",
+      "match_id": 142512,
+      "startTime": "21 May 2026 10:00 AM",
       "stream_url": ""
     }
   ]

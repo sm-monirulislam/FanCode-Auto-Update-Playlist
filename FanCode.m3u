@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:18:00 AM 21-05-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 12:36:59 PM 21-05-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
 #EXTINF:-1 tvg-name="Amo Region Vs Speen Ghar Region" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket",Amo Region Vs Speen Ghar Region
 https://bd-mc-fblive.fancode.com/mumbai/142743_english_hls_6a5076f6598290_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="New Zealand A Women Vs Sri Lanka A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="Cricket",New Zealand A Women Vs Sri Lanka A Women
+https://bd-mc-fblive.fancode.com/mumbai/142512_english_hls_3227481a6963517_1ta-di_h264/1080p.m3u8
