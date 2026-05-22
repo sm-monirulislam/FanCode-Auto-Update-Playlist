@@ -2,15 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 12:02:28 AM 23-05-2026 (BD Time)
-# 📺 Live Matches: 8
+# 🕒 Last Updated: 02:06:45 AM 23-05-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
-#EXTINF:-1 tvg-name="China Pr Vs Japan" tvg-logo="https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png" group-title="Football",China Pr Vs Japan
-https://bd-mc-fblive.fancode.com/mumbai/142554_english_hls_7cd85c873c21539_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Day 2   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 2   Main Feed
-https://bd-mc-plive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779551464~_GO=Generated~acl=/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/*~Signature=ASfvW0WX2NqNAFxrrHrfXQr7miRa-2kOBIBdZhzhdhDstN41sgP9nvMh_y_rsx15id30ulyvfgxpxuAZ6J4DW4cQk5wA
+https://bd-mc-plive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779566284~_GO=Generated~acl=/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/*~Signature=ASfvW0XtvVC_o4VV2S6ydJOIOMtkv1XGYulPXosqSWTX4FAygOgoRlqF_IXtuyoTnKB1fxupFSQgWZ9tivpMJTLAsaYB
 
 #EXTINF:-1 tvg-name="Day 2   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 2   Featured Groups
 https://bd-mc-plive.fancode.com/mumbai/142123_english_hls_28f9e5a60c64227_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779552725~_GO=Generated~acl=/mumbai/142123_english_hls_28f9e5a60c64227_1ta-di_h264/*~Signature=ASfvW0Upa7Q2_qL-sm3PKakpAme0RPQ-pJkCfP3VHeWuR4ObvA4vtK_WLvWJQH7I9N6zT0vHH0mKZKaj0YeqnzPdjqsD
@@ -21,15 +18,5 @@ https://bd-mc-plive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-di
 #EXTINF:-1 tvg-name="Day 2   Featured Holes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 2   Featured Holes
 https://bd-mc-plive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779554225~_GO=Generated~acl=/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/*~Signature=ASfvW0VCvjnHkFtq1bjQLtN0dTAW-4U5SA1R8JacYRzucHdjqL4P24f3royqe9hiT3CZCkGqAz3HimMsQ6zgTen9VWkN
 
-#EXTINF:-1 tvg-name="Day 6   Men's Sf's" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis",Day 6   Men's Sf's
-https://bd-mc-plive.fancode.com/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779558244~_GO=Generated~acl=/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/*~Signature=ASfvW0WTUdOLiRBgCpnZkRmvRkLBhMoagNkI78bXnDMqiZbfpELMSVpK14hvHVUKsG7MNtc7z0195W_p1Meu9Mo5yZkA
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web.jpg" group-title="Formula 1", Practice 1 | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7438b09c4cd349848c573ff47a74990e:71ce118d256ea77f77ee74f09d276a5f
-https://bd-mc-flive.fancode.com/mumbai/139442_english_dash_32380_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="Motorsports", Qualifying Session | F2 MONTREAL 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b472e1d0ca5f4ea9bdcbf40ada8fdc87:274bbcf7340559eb6c8d1a6604d55b35
-https://bd-mc-flive.fancode.com/mumbai/142088_english_dash_27851_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 2   World Feed
+https://bd-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/1080p5.m3u8
