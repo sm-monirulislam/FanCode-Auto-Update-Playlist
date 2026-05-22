@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:22:50 AM 23-05-2026 (BD Time)
+# 🕒 Last Updated: 04:32:58 AM 23-05-2026 (BD Time)
 # 📺 Live Matches: 6
 #=================================
 
@@ -21,7 +21,7 @@ https://bd-mc-plive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di
 #EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 2   World Feed
 https://bd-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/1080p5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Sprint Qualifying | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="Motorsports", Day 1   Qualifying | F1 ACADEMY CANADA 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=185cca9ea97a45e5a324333ccc595430:35d8fee2d63a209d7f3413b3111a9ab0
-https://bd-mc-flive.fancode.com/mumbai/139443_english_dash_2925_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd26799c095c47b1be2d6f452737a2f4:05dc546ac4aba39b76a19948aef88f36
+https://bd-mc-flive.fancode.com/mumbai/142675_english_dash_47711_1drmta-di_h264/index.mpd
