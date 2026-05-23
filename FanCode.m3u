@@ -2,71 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:07:15 AM 24-05-2026 (BD Time)
-# 📺 Live Matches: 15
+# 🕒 Last Updated: 04:06:34 AM 24-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
-#EXTINF:-1 tvg-name="Fc Bayern München Vs Vfb Stuttgart" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png" group-title="Football",Fc Bayern München Vs Vfb Stuttgart
-https://bd-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png" group-title="Football", Girona Fc Vs Elche Cf | LALIGA 2025-26 (ENGLISH) [DRM]
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="Motorsports", Reverse Grid Race | F1 ACADEMY CANADA 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ec6cf8ad8bc4e72821ffeeb8f91eaff:0470c7bf1d32cc28ec7e4706e11a9683
-https://bd-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png" group-title="Football", Valencia Cf Vs Fc Barcelona | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c131ae1498a64774b6e95487722c7132:9a17350805a2750c6695fd75410c8b63
-https://bd-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b4125375c4514ceca4e03d1c420c8d6e:da4bdd3f0611ee29a5e43a7e00de5b1b
+https://bd-mc-flive.fancode.com/mumbai/139687_english_dash_90917_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png" group-title="Football", Getafe Cf Vs Ca Osasuna | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1696e156ea8b47d291aeb8e371a90be3:32470beb6ab876fc827b18f9a89343bd
 https://bd-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png" group-title="Football", Rcd Espanyol Vs Real Sociedad | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79
-https://bd-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png" group-title="Football", Rc Celta Vs Sevilla Fc | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557
 https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png" group-title="Football", Real Betis Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2
-https://bd-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png" group-title="Football", Deportivo Alaves Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89914be43bd6443f856a9923fc57796c:d0a1b22270703a3c90c413eb702a7371
-https://bd-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 3   Main Feed
-https://bd-mc-plive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779647824~_GO=Generated~acl=/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/*~Signature=ASfvW0Xs5u65nV2RRqRdwxDvhPNKwrtbnr6tGwFmASowV6ca5ZS_v1WiEWGXRa_7yyqAt-CsgEMmAUKtaJbPwpe90fYA
-
-#EXTINF:-1 tvg-name="Day 3   Featured Holes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 3   Featured Holes
-https://bd-mc-plive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779649924~_GO=Generated~acl=/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/*~Signature=ASfvW0U7ncySxTzKz1ot3E09BhopJRiM_Y1MPgwnpnaGxfNRrVkkvlWIihzLvFtBnkToSTgMN1h-1Gni98aa_Js1s6gC
-
-#EXTINF:-1 tvg-name="Day 3   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 3   Featured Groups
-https://bd-mc-plive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779649926~_GO=Generated~acl=/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/*~Signature=ASfvW0UR6m84YnD8jN0xr9yXBcxkRdMBhZ2Ln9dTDewyrgbCq-JoqGVZIxY9DbvkDTvwd08Q_is6BVFZb4ZeDuIdodYC
-
-#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf",Day 3   World Feed
-https://bd-mc-plive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1779656285~_GO=Generated~acl=/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/*~Signature=ASfvW0XvM1Kv3LrjStwKyfbVA1lP-6bMy3nBifp6fF8dhiUNn7D9BsCPtpEBLGFChYCZPhHlay5LkMBftRu5QbZmZqsE
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg" group-title="Formula 1", Qualifying | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f604a1095c04c03a8b8bd74e700e24c:3f51d9eac47fec41dea2b38932277dd7
-https://bd-mc-flive.fancode.com/mumbai/139445_english_dash_90667_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png" group-title="Football", Real Madrid Vs Athletic Club | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de6666a7ef1545deb55ff0fe12689dc5:ef3ff332bf817281daf1e0edbcdf39e7
-https://bd-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png" group-title="Football", Rcd Mallorca Vs Real Oviedo | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740
-https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd
