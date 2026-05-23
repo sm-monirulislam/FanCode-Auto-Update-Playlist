@@ -2,18 +2,27 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:01:04 AM 23-05-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 01:41:22 PM 23-05-2026 (BD Time)
+# 📺 Live Matches: 7
 #=================================
 
 #EXTINF:-1 tvg-name="Mis E Ainak Region Vs Amo Region" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket",Mis E Ainak Region Vs Amo Region
 https://bd-mc-plive.fancode.com/mumbai/142745_english_hls_9995a269b3658_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Malta Vs Switzerland" tvg-logo="https://images.fancode.com/aig/match/v1779508475492/142446_CASACARDS_APP.png" group-title="Cricket",Malta Vs Switzerland
+https://bd-mc-plive.fancode.com/mumbai/142446_english_hls_a40b7ee88451238_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="France Cricket Vs Sweden" tvg-logo="https://images.fancode.com/aig/match/v1779508475492/142445_CASACARDS_APP.png" group-title="Cricket",France Cricket Vs Sweden
+https://bd-mc-plive.fancode.com/mumbai/142445_english_hls_7e9799430699976_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-name="Sri Lanka A Women Vs New Zealand A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="Cricket",Sri Lanka A Women Vs New Zealand A Women
 https://bd-mc-plive.fancode.com/mumbai/142513_english_hls_6d89bb5ae146376_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Tokyo Verdy Beleza Vs Naegohyang Women's Fc" tvg-logo="https://images.fancode.com/aig/match/v1779430932321/141770_CASACARDS_APP.png" group-title="Football",Tokyo Verdy Beleza Vs Naegohyang Women's Fc
-https://bd-mc-flive.fancode.com/mumbai/141770_english_hls_1356380d3337553_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Rwanda Vs Cameroon" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket",Rwanda Vs Cameroon
+https://bd-mc-plive.fancode.com/mumbai/142907_english_hls_d83af0637c6569_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Japan   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports",Japan   Day 1
-https://bd-mc-plive.fancode.com/mumbai/142755_english_hls_3e40a0f6a024855_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Tokyo Verdy Beleza Vs Naegohyang Women's Fc" tvg-logo="https://images.fancode.com/aig/match/v1779430932321/141770_CASACARDS_APP.png" group-title="Football",Tokyo Verdy Beleza Vs Naegohyang Women's Fc
+https://bd-mc-plive.fancode.com/mumbai/141770_english_hls_1356380d3337553_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 2 Qualifying 1   Zandvoort" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Motorsports",Day 2 Qualifying 1   Zandvoort
+https://bd-mc-flive.fancode.com/mumbai/142530_english_hls_8b538a432e26578_1ta-di_h264/index.m3u8
