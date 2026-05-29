@@ -2,8 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:40:26 AM 29-05-2026 (BD Time)
-# 📺 Live Matches: 0
+# 🕒 Last Updated: 02:28:50 PM 29-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Ivory Coast Vs Sierra Leone" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket",Ivory Coast Vs Sierra Leone
+https://bd-mc-fblive.fancode.com/mumbai/142923_english_hls_bec8aeb9761698_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Cameroon Vs Mali" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket",Cameroon Vs Mali
+https://bd-mc-fblive.fancode.com/mumbai/142922_english_hls_26d34ad3d825623_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Italy Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="MotoGP",Italy Gp
+https://bd-mc-fblive.fancode.com/mumbai/139945_english_hls_47f793d15f94969_1ta-di_h264/1080p5.m3u8
