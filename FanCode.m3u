@@ -2,18 +2,15 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 03:39:58 AM 31-05-2026 (BD Time)
-# 📺 Live Matches: 4
+# 🕒 Last Updated: 04:37:09 AM 31-05-2026 (BD Time)
+# 📺 Live Matches: 3
 #=================================
 
 #EXTINF:-1 tvg-name="Court Suzanne Lenglen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis",Court Suzanne Lenglen
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1780263430~acl=%2f*~id=e0c3c641-b541-490c-a2e7-83a010c5a75f~data=hdntl~hmac=5fcf1ff3ba03f18c48c28cf774a2ba78057bd99a98ee7c3a05480ae80644b548/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAGqhxqAAAAAGNhV5QFgKJx1%2fSLJKc8kZagTYIJALCji7f51LukSyh22r6BoOPhww2+seZC1Q7Bi%2fxTovgmbOSZ&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis",Court Philippe Chatrier
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1780251128~acl=%2f*~id=6badcb84-a6af-40aa-a815-eaa25cb65c05~data=hdntl~hmac=d4002e9bfac2650e7cfd504fb651f5965fa7c53e12cfc9cef44c2e4d26db42ea/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD4eRxqAAAAAIyCGfJOjFX%2fpBA88+XvAEn1RKC8Nb2dsoX9tAVu3Y3KR0SWRy7TdpUiYJ8U2caYc8efBQQSpZkv&aka_media_format_type=hls
-
-#EXTINF:-1 tvg-name="Day 3   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf",Day 3   Featured Groups
-https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/1080p.m3u8
+https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1780266369~acl=%2f*~id=5e753fd6-4777-481d-bf7d-b9b751ad95a4~data=hdntl~hmac=47bd2539bd4ca1ee5359635ae7c9bc8d9146d90e95379264b713168b9931327c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACBtRxqAAAAAEeh%2f5MHw3YflwAkHgzdOYTisi4aziJjCNzNQ1MGM4Qn0LO5gYi1xP3ddHXBlkOIut13NBhtPWCi&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf",Day 3   World Feed
 https://bd-mc-fblive.fancode.com/mumbai/142896_english_hls_c80b57ab6d25455_1ta-di_h264/1080p.m3u8

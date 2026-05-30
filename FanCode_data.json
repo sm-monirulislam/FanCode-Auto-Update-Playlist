@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 50,
-  "last update time": "03:39:58 AM 31-05-2026",
+  "match_amount": 49,
+  "last update time": "04:37:09 AM 31-05-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -33,22 +33,7 @@
       "match_name": "Court Philippe Chatrier",
       "match_id": 142684,
       "startTime": "30 May 2026 03:30 PM",
-      "stream_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1780251128~acl=%2f*~id=6badcb84-a6af-40aa-a815-eaa25cb65c05~data=hdntl~hmac=d4002e9bfac2650e7cfd504fb651f5965fa7c53e12cfc9cef44c2e4d26db42ea/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD4eRxqAAAAAIyCGfJOjFX%2fpBA88+XvAEn1RKC8Nb2dsoX9tAVu3Y3KR0SWRy7TdpUiYJ8U2caYc8efBQQSpZkv&aka_media_format_type=hls"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 3   Featured Groups",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-      "team_1": "Day 3 - Featured Groups",
-      "team_2": "Colonial Country Club - Fort Worth, Texas",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Charles Schwab Challenge 2026",
-      "match_name": "Day 3   Featured Groups",
-      "match_id": 142899,
-      "startTime": "30 May 2026 07:00 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/1080p.m3u8"
+      "stream_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1780266369~acl=%2f*~id=5e753fd6-4777-481d-bf7d-b9b751ad95a4~data=hdntl~hmac=47bd2539bd4ca1ee5359635ae7c9bc8d9146d90e95379264b713168b9931327c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACBtRxqAAAAAEeh%2f5MHw3YflwAkHgzdOYTisi4aziJjCNzNQ1MGM4Qn0LO5gYi1xP3ddHXBlkOIut13NBhtPWCi&aka_media_format_type=hls"
     },
     {
       "event_category": "Golf",
@@ -276,6 +261,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Band E Amir Region Vs Amo Region",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+      "team_1": "Band-e-Amir Region",
+      "team_2": "Amo Region",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Supercola Regional List A Tournament, 2026",
+      "match_name": "Band E Amir Region Vs Amo Region",
+      "match_id": 142752,
+      "startTime": "01 June 2026 10:00 AM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 4   Main Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
@@ -348,21 +348,6 @@
       "match_name": "Speen Ghar Region Vs Mis E Ainak Region",
       "match_id": 142748,
       "startTime": "30 May 2026 10:00 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Band E Amir Region Vs Amo Region",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-      "team_1": "Band-e-Amir Region",
-      "team_2": "Amo Region",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Supercola Regional List A Tournament, 2026",
-      "match_name": "Band E Amir Region Vs Amo Region",
-      "match_id": 142752,
-      "startTime": "01 June 2026 10:00 AM",
       "stream_url": ""
     },
     {
@@ -606,6 +591,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "West Indies Vs Sri Lanka",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "West Indies",
+      "team_2": "Sri Lanka",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "West Indies Vs Sri Lanka",
+      "match_id": 142972,
+      "startTime": "03 June 2026 08:00 PM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Tennis",
       "title": "Court Suzanne Lenglen",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
@@ -723,21 +723,6 @@
       "match_name": "Court Simonne Mathieu",
       "match_id": 142686,
       "startTime": "31 May 2026 02:30 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 3   Featured Groups",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "Charles Schwab Challenge 2026",
-      "match_name": "Day 3   Featured Groups",
-      "match_id": 142899,
-      "startTime": "30 May 2026 07:00 PM",
       "stream_url": ""
     },
     {
