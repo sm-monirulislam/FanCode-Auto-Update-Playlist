@@ -2,14 +2,14 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:45:18 PM 03-06-2026 (BD Time)
-# 📺 Live Matches: 9
+# 🕒 Last Updated: 06:07:26 PM 03-06-2026 (BD Time)
+# 📺 Live Matches: 10
 #=================================
 
 #EXTINF:-1 tvg-name="Nepal Women Vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SAFF_NepalvsBangladesh_web.jpg" group-title="Football",Nepal Women Vs Bangladesh Women
 https://bd-mc-fblive.fancode.com/mumbai/142941_english_hls_a25a7eeb5667730_1ta-di_h264/1080p5.m3u8
 
-#EXTINF:-1 tvg-name="Court Philippe Chatrier" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis",Court Philippe Chatrier
+#EXTINF:-1 tvg-name="Sabalenka Vs Shnaider" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Aryna-Sabalenka-vs-Diana-Shnaider_FC-WEB.jpg" group-title="Tennis",Sabalenka Vs Shnaider
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1780562649~acl=%2f*~id=614a9000-bb1c-4f67-ae5d-c5e36e0b3e7e~data=hdntl~hmac=b8ae4bb7a0e28d073f79b08704c7b18a7873c310726b526201a2bdfc2e088409/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADZOiFqAAAAADbK6ta7WzoXJBdXGRagBXQrLwIT%2f4YbetfqirSl3lNBVvxoy7Nu36DccvABp3mHYadIUv9%2fdVdb&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Top Seeds In Action" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis",Top Seeds In Action
@@ -32,3 +32,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=
 
 #EXTINF:-1 tvg-name="Men's Doubles Ft. Balaji" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_N_Balaji_Doubles_FC-WEB_1780480795135.jpg" group-title="Tennis",Men's Doubles Ft. Balaji
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1780567094~acl=%2f*~id=c0a0db91-43be-4a36-8e09-d82c23bbffd8~data=hdntl~hmac=6e6dad986da3956778edf64f7eb13eeab4d7f374fb5de5d4dadd9f941cdf13f4/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA2TCFqAAAAAK2KSPMgLbbJ2tkeG6USPiO39GjOl1vglqfzC5+RJQNwndtf93BmS2aa%2fvIUiESOfLUlVJhQbXZO&aka_media_format_type=hls
+
+#EXTINF:-1 tvg-name="Scotland Women Vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_ND-W-old.jpg" group-title="Cricket",Scotland Women Vs Netherlands Women
+https://bd-mc-fblive.fancode.com/mumbai/143006_english_hls_fd3711366922063_1ta-di_h264/1080p.m3u8
