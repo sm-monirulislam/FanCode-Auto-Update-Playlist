@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:18:48 AM 04-06-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 11:18:29 AM 04-06-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-fblive.fancode.com/mumbai/142972_english_hls_7c348e1c1f92012_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Amo Region Vs Speen Ghar Region" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket",Amo Region Vs Speen Ghar Region
+https://bd-mc-fblive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Chambal Ghariyals Women Vs Gwalior Shernis" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Cricket",Chambal Ghariyals Women Vs Gwalior Shernis
+https://bd-mc-fblive.fancode.com/mumbai/143018_english_hls_97974655575689_1ta-di_h264/1080p.m3u8
