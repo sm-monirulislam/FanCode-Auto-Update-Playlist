@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 46,
-  "last update time": "02:22:47 AM 05-06-2026",
+  "last update time": "03:58:18 AM 05-06-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -33,7 +33,7 @@
       "match_name": "Featured Groups   Day 1",
       "match_id": 143108,
       "startTime": "04 June 2026 05:30 PM",
-      "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780690326~_GO=Generated~acl=/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/*~Signature=AVb4nkwYf6x0gNsb6KlRblhV2ZeQPeUp0FVXIlzuYkGGqXkFeZY5XDc_QDtZjiIoOyP5Wqp8YUzvkNLyeSe0Qc6NvoYO"
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Golf",
@@ -63,7 +63,7 @@
       "match_name": "World Feed   Day 1",
       "match_id": 143046,
       "startTime": "04 June 2026 11:30 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/1080p.m3u8"
+      "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780696684~_GO=Generated~acl=/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/*~Signature=AVb4nkzcxli7lf3Ay47ToFx3eP7eKWnL2o-5V4Lq_pH3y0wqL3y5EMRuNYwoaq06zz1XZoyxRvl7q9mdISBFxm55wJEM"
     },
     {
       "event_category": "Golf",
@@ -78,7 +78,7 @@
       "match_name": "Day 1",
       "match_id": 143229,
       "startTime": "04 June 2026 11:30 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/1080p.m3u8"
+      "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780696687~_GO=Generated~acl=/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/*~Signature=AVb4nkzkxgQmgLykUucM_F5CkcaGC6BJ_FfRheMp4yWzuSFhvXbAE08C5bRJdFVh4UegP6SqvhkUX4vIdRhEygAStrAK"
     },
     {
       "event_category": "Cricket",
@@ -306,36 +306,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-      "team_1": "Sri Lanka",
-      "team_2": "West Indies",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "Sri Lanka Vs West Indies",
-      "match_id": 142972,
-      "startTime": "03 June 2026 08:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Speen Ghar Region Vs Amo Region",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-      "team_1": "Speen Ghar Region",
-      "team_2": "Amo Region",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Supercola Regional List A Tournament, 2026",
-      "match_name": "Speen Ghar Region Vs Amo Region",
-      "match_id": 142754,
-      "startTime": "04 June 2026 10:00 AM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
@@ -348,36 +318,6 @@
       "match_name": "Qualifying Session",
       "match_id": 139555,
       "startTime": "05 June 2026 06:40 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
-      "team_1": "Gujarat Diamonds",
-      "team_2": "Mumbai Marines",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Mumbai Marines",
-      "match_id": 142986,
-      "startTime": "04 June 2026 07:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Ireland Women Vs Pakistan Women",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Women's T20I Tri-Series in Ireland 2026",
-      "match_name": "Ireland Women Vs Pakistan Women",
-      "match_id": 143057,
-      "startTime": "04 June 2026 08:30 PM",
       "stream_url": ""
     },
     {
@@ -408,6 +348,66 @@
       "match_name": "Marquee Feed   Day 2",
       "match_id": 143110,
       "startTime": "05 June 2026 07:45 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka Vs West Indies",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "team_1": "Sri Lanka",
+      "team_2": "West Indies",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "Sri Lanka Vs West Indies",
+      "match_id": 142972,
+      "startTime": "03 June 2026 08:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Speen Ghar Region Vs Amo Region",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+      "team_1": "Speen Ghar Region",
+      "team_2": "Amo Region",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Supercola Regional List A Tournament, 2026",
+      "match_name": "Speen Ghar Region Vs Amo Region",
+      "match_id": 142754,
+      "startTime": "04 June 2026 10:00 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Gujarat Diamonds Vs Mumbai Marines",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
+      "team_1": "Gujarat Diamonds",
+      "team_2": "Mumbai Marines",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Mumbai Marines",
+      "match_id": 142986,
+      "startTime": "04 June 2026 07:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Ireland Women Vs Pakistan Women",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Women's T20I Tri-Series in Ireland 2026",
+      "match_name": "Ireland Women Vs Pakistan Women",
+      "match_id": 143057,
+      "startTime": "04 June 2026 08:30 PM",
       "stream_url": ""
     },
     {
@@ -546,21 +546,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "MotoGP",
-      "title": "Hungary Gp",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Balaton",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "GRAND PRIX OF HUNGARY 2026",
-      "match_name": "Hungary Gp",
-      "match_id": 139949,
-      "startTime": "06 June 2026 12:10 PM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Mumbai Marines Vs Northern Challengers",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg",
@@ -573,6 +558,21 @@
       "match_name": "Mumbai Marines Vs Northern Challengers",
       "match_id": 142990,
       "startTime": "06 June 2026 07:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "MotoGP",
+      "title": "Hungary Gp",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Balaton",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "GRAND PRIX OF HUNGARY 2026",
+      "match_name": "Hungary Gp",
+      "match_id": 139949,
+      "startTime": "06 June 2026 12:10 PM",
       "stream_url": ""
     },
     {
