@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:53:48 AM 05-06-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 02:38:53 PM 05-06-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="Royal Nimar Eagles Women Vs Chambal Ghariyals Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Cricket",Royal Nimar Eagles Women Vs Chambal Ghariyals Women
-https://bd-mc-fblive.fancode.com/mumbai/143020_english_hls_8212eea5fc32605_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Northern Challengers Vs Up Brij Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg" group-title="Cricket",Northern Challengers Vs Up Brij Stars
+https://bd-mc-fblive.fancode.com/mumbai/142987_english_hls_46038a46e995209_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="MotoGP",Hungary Gp
+https://bd-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/1080p5.m3u8
