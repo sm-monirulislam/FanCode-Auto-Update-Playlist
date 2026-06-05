@@ -2,15 +2,9 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:09:52 AM 06-06-2026 (BD Time)
-# 📺 Live Matches: 3
+# 🕒 Last Updated: 05:36:27 AM 06-06-2026 (BD Time)
+# 📺 Live Matches: 1
 #=================================
-
-#EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Main Feed   Day 2
-https://bd-mc-fblive.fancode.com/mumbai/143109_english_hls_300bf6ea6921533_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",World Feed   Day 2
-https://bd-mc-fblive.fancode.com/mumbai/143047_english_hls_1079d2d79735979_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="Golf",Day 2
 https://bd-mc-fblive.fancode.com/mumbai/143230_english_hls_9e368c2d6b71674_1ta-di_h264/1080p.m3u8
