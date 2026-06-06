@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:01:33 PM 06-06-2026 (BD Time)
-# 📺 Live Matches: 7
+# 🕒 Last Updated: 11:33:36 PM 06-06-2026 (BD Time)
+# 📺 Live Matches: 8
 #=================================
 
 #EXTINF:-1 tvg-name="Northern Challengers Vs Mumbai Marines" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg" group-title="Cricket",Northern Challengers Vs Mumbai Marines
@@ -26,3 +26,6 @@ https://bd-mc-fblive.fancode.com/mumbai/143114_english_hls_4a412e3fa939074_1ta-d
 
 #EXTINF:-1 tvg-name="Marquee Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Marquee Feed   Day 3
 https://bd-mc-fblive.fancode.com/mumbai/143113_english_hls_64e26a4d1663220_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",World Feed   Day 3
+https://bd-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/1080p.m3u8
