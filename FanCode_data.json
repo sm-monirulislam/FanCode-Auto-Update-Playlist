@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 45,
-  "last update time": "12:51:34 AM 07-06-2026",
+  "last update time": "02:04:46 AM 07-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -19,6 +19,36 @@
       "match_id": 143195,
       "startTime": "06 June 2026 08:00 PM",
       "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka Vs West Indies",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "team_1": "Sri Lanka",
+      "team_2": "West Indies",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "status": "LIVE",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "Sri Lanka Vs West Indies",
+      "match_id": 142973,
+      "startTime": "07 June 2026 01:00 AM",
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Football",
+      "title": "Bolivia Vs Scotland",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
+      "team_1": "Bolivia",
+      "team_2": "Scotland",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png",
+      "status": "LIVE",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Bolivia Vs Scotland",
+      "match_id": 143341,
+      "startTime": "07 June 2026 01:30 AM",
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Golf",
@@ -93,21 +123,6 @@
       "match_name": "Liege Red Lions Vs Ghent Gladiators",
       "match_id": 143150,
       "startTime": "06 June 2026 08:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs Sri Lanka",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-      "team_1": "West Indies",
-      "team_2": "Sri Lanka",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "West Indies Vs Sri Lanka",
-      "match_id": 142973,
-      "startTime": "07 June 2026 01:00 AM",
       "stream_url": ""
     },
     {
@@ -217,21 +232,6 @@
     },
     {
       "event_category": "Football",
-      "title": "Bolivia Vs Scotland",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg",
-      "team_1": "Bolivia",
-      "team_2": "Scotland",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Bolivia Vs Scotland",
-      "match_id": 143341,
-      "startTime": "07 June 2026 01:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Football",
       "title": "Brazil Vs Egypt",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
       "team_1": "Brazil",
@@ -243,21 +243,6 @@
       "match_name": "Brazil Vs Egypt",
       "match_id": 141609,
       "startTime": "07 June 2026 03:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Argentina Vs Honduras",
-      "src": "https://images.fancode.com/aig/match/v1780742459454/143342_CASACARDS_APP.png",
-      "team_1": "Argentina",
-      "team_2": "Honduras",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/HON-FT1@2x.png",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Argentina Vs Honduras",
-      "match_id": 143342,
-      "startTime": "07 June 2026 05:30 AM",
       "stream_url": ""
     },
     {
@@ -273,6 +258,21 @@
       "match_name": "Gwalior Shernis Vs Bundelkhand Bulls Women",
       "match_id": 143024,
       "startTime": "07 June 2026 09:30 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Argentina Vs Honduras",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
+      "team_1": "Argentina",
+      "team_2": "Honduras",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/HON-FT1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Argentina Vs Honduras",
+      "match_id": 143342,
+      "startTime": "07 June 2026 05:30 AM",
       "stream_url": ""
     },
     {
@@ -591,6 +591,36 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "West Indies Vs Sri Lanka",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "West Indies Vs Sri Lanka",
+      "match_id": 142973,
+      "startTime": "07 June 2026 01:00 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Bolivia Vs Scotland",
+      "src": "https://images.fancode.com/aig/match/v1780742459455/143341_CASACARDS_SPORTY_APP.png",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Bolivia Vs Scotland",
+      "match_id": 143341,
+      "startTime": "07 June 2026 01:30 AM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Main Feed   Day 3",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
@@ -648,36 +678,6 @@
       "match_name": "World Feed   Day 3",
       "match_id": 143048,
       "startTime": "06 June 2026 10:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Liege Red Lions Vs Ghent Gladiators",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Liege Red Lions Vs Ghent Gladiators",
-      "match_id": 143150,
-      "startTime": "06 June 2026 08:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs Sri Lanka",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "West Indies Vs Sri Lanka",
-      "match_id": 142973,
-      "startTime": "07 June 2026 01:00 AM",
       "stream_url": ""
     }
   ]
