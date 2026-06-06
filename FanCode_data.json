@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 45,
-  "last update time": "02:04:46 AM 07-06-2026",
+  "last update time": "03:16:05 AM 07-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -172,21 +172,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "India Vs Afghanistan",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-      "team_1": "India",
-      "team_2": "Afghanistan",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "status": "LIVE",
-      "event_name": "Afghanistan tour of India, 2026",
-      "match_name": "India Vs Afghanistan",
-      "match_id": 143243,
-      "startTime": "06 June 2026 09:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Jb Bruges Vs Ghent Gladiators",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png",
       "team_1": "JB Bruges",
@@ -198,6 +183,21 @@
       "match_name": "Jb Bruges Vs Ghent Gladiators",
       "match_id": 143151,
       "startTime": "07 June 2026 04:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "India Vs Afghanistan",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
+      "team_1": "India",
+      "team_2": "Afghanistan",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "status": "LIVE",
+      "event_name": "Afghanistan tour of India, 2026",
+      "match_name": "India Vs Afghanistan",
+      "match_id": 143243,
+      "startTime": "06 June 2026 09:30 AM",
       "stream_url": ""
     },
     {
@@ -231,21 +231,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Brazil Vs Egypt",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
-      "team_1": "Brazil",
-      "team_2": "Egypt",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Brazil Vs Egypt",
-      "match_id": 141609,
-      "startTime": "07 June 2026 03:30 AM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Gwalior Shernis Vs Bundelkhand Bulls Women",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
@@ -258,6 +243,21 @@
       "match_name": "Gwalior Shernis Vs Bundelkhand Bulls Women",
       "match_id": 143024,
       "startTime": "07 June 2026 09:30 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Brazil Vs Egypt",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg",
+      "team_1": "Brazil",
+      "team_2": "Egypt",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Brazil Vs Egypt",
+      "match_id": 141609,
+      "startTime": "07 June 2026 03:30 AM",
       "stream_url": ""
     },
     {
@@ -321,21 +321,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Morocco Vs Norway",
-      "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
-      "team_1": "Morocco",
-      "team_2": "Norway",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Morocco Vs Norway",
-      "match_id": 143343,
-      "startTime": "08 June 2026 12:30 AM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Day 3",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
@@ -348,6 +333,21 @@
       "match_name": "Day 3",
       "match_id": 143231,
       "startTime": "07 June 2026 02:30 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Morocco Vs Norway",
+      "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+      "team_1": "Morocco",
+      "team_2": "Norway",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Morocco Vs Norway",
+      "match_id": 143343,
+      "startTime": "08 June 2026 12:30 AM",
       "stream_url": ""
     },
     {
@@ -441,51 +441,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
-      "team_1": "Gujarat Diamonds",
-      "team_2": "UP Brij Stars",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
-      "match_id": 142989,
-      "startTime": "06 June 2026 02:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Jb Bruges Vs Akcel United Brussels",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-      "team_1": "JB Bruges",
-      "team_2": "Akcel United Brussels",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
-      "status": "UPCOMING",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Jb Bruges Vs Akcel United Brussels",
-      "match_id": 143149,
-      "startTime": "06 June 2026 04:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Northern Challengers Vs Mumbai Marines",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg",
-      "team_1": "Northern Challengers",
-      "team_2": "Mumbai Marines",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Northern Challengers Vs Mumbai Marines",
-      "match_id": 142990,
-      "startTime": "06 June 2026 07:00 PM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Motorsports",
       "title": "F1 Kids 2026",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
@@ -543,6 +498,51 @@
       "match_name": "Featured Groups   Day 4",
       "match_id": 143117,
       "startTime": "07 June 2026 07:15 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
+      "team_1": "Gujarat Diamonds",
+      "team_2": "UP Brij Stars",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
+      "match_id": 142989,
+      "startTime": "06 June 2026 02:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Jb Bruges Vs Akcel United Brussels",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
+      "team_1": "JB Bruges",
+      "team_2": "Akcel United Brussels",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
+      "status": "UPCOMING",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Jb Bruges Vs Akcel United Brussels",
+      "match_id": 143149,
+      "startTime": "06 June 2026 04:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Northern Challengers Vs Mumbai Marines",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg",
+      "team_1": "Northern Challengers",
+      "team_2": "Mumbai Marines",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Northern Challengers Vs Mumbai Marines",
+      "match_id": 142990,
+      "startTime": "06 June 2026 07:00 PM",
       "stream_url": ""
     },
     {
