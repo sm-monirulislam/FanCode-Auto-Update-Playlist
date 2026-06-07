@@ -3,23 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 46,
-  "last update time": "03:34:56 AM 08-06-2026",
+  "last update time": "04:43:48 AM 08-06-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Morocco Vs Norway",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143343_6020_MOR_NRW_FC-WEB.jpg",
-      "team_1": "Morocco",
-      "team_2": "Norway",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png",
-      "status": "LIVE",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Morocco Vs Norway",
-      "match_id": 143343,
-      "startTime": "08 June 2026 12:30 AM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143343_english_hls_604d2ae08e97617_1ta-di_h264/1080p.m3u8"
-    },
     {
       "event_category": "Golf",
       "title": "World Feed   Day 4",
@@ -78,6 +63,21 @@
       "match_name": "Southern Spartans Vs Northern Challengers",
       "match_id": 142985,
       "startTime": "08 June 2026 07:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Morocco Vs Norway",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143343_6020_MOR_NRW_FC-WEB.jpg",
+      "team_1": "Morocco",
+      "team_2": "Norway",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NRW-FT1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Morocco Vs Norway",
+      "match_id": 143343,
+      "startTime": "08 June 2026 12:30 AM",
       "stream_url": ""
     },
     {
@@ -576,21 +576,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Football",
-      "title": "Morocco Vs Norway",
-      "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_SPORTY_APP.png",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Morocco Vs Norway",
-      "match_id": 143343,
-      "startTime": "08 June 2026 12:30 AM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Golf",
       "title": "World Feed   Day 4",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
@@ -633,6 +618,21 @@
       "match_name": "Southern Spartans Vs Northern Challengers",
       "match_id": 142985,
       "startTime": "08 June 2026 07:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Football",
+      "title": "Morocco Vs Norway",
+      "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_SPORTY_APP.png",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Morocco Vs Norway",
+      "match_id": 143343,
+      "startTime": "08 June 2026 12:30 AM",
       "stream_url": ""
     },
     {
