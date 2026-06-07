@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:48:31 PM 07-06-2026 (BD Time)
-# 📺 Live Matches: 15
+# 🕒 Last Updated: 10:07:06 PM 07-06-2026 (BD Time)
+# 📺 Live Matches: 11
 #=================================
 
 #EXTINF:-1 tvg-name="Antwerp Anchors Vs Akcel United Brussels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Akcel United Brussels
@@ -32,24 +32,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/RGFCKAN/hdntl=exp=17
 
 #EXTINF:-1 tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Main Feed   Day 4
 https://bd-mc-fblive.fancode.com/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="F1 Kids 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="Motorsports",F1 Kids 2026
-https://bd-mc-fblive.fancode.com/mumbai/143310_english_hls_fcadf7e6d422076_1ta-di_h264/1080p5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="Formula 1", Race | F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9db195cef3f42cbacb6421ee3057c17:1f75e928657bc034acdc7418ea9c15ff
-https://bd-mc-flive.fancode.com/mumbai/139451_english_dash_39948_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="Formula 1", Race | F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=580c0651c1064c3e85ba7b569785071d:b045adf73fc5814a124856c2ec581910
-https://bd-mc-flive.fancode.com/mumbai/139451_hindi_dash_53469_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="Formula 1", Race | F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 (TAMIL) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47ec2fb49d4e4c53ad1e3fd0b17207ed:42a284cbe38800a308715a0b6b2ad6fe
-https://bd-mc-flive.fancode.com/mumbai/139451_tamil_dash_27925_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Featured Groups   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="Golf",Featured Groups   Day 4
 https://bd-mc-fblive.fancode.com/mumbai/143117_english_hls_32345f30b140789_1ta-di_h264/1080p.m3u8
