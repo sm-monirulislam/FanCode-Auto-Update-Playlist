@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 50,
-  "last update time": "04:23:44 PM 09-06-2026",
+  "match_amount": 51,
+  "last update time": "07:22:38 PM 09-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -22,21 +22,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mp Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
-      "team_1": "Gujarat Diamonds",
-      "team_2": "MP Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png",
-      "status": "LIVE",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Mp Tigers",
-      "match_id": 142993,
-      "startTime": "09 June 2026 02:00 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Cricket",
       "title": "Liege Red Lions Vs Akcel United Brussels",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
       "team_1": "Liege Red Lions",
@@ -49,6 +34,21 @@
       "match_id": 143155,
       "startTime": "09 June 2026 04:00 PM",
       "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Up Brij Stars Vs Southern Spartans",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
+      "team_1": "UP Brij Stars",
+      "team_2": "Southern Spartans",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
+      "status": "LIVE",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Up Brij Stars Vs Southern Spartans",
+      "match_id": 142994,
+      "startTime": "09 June 2026 07:00 PM",
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Tennis",
@@ -81,19 +81,19 @@
       "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/1080p.m3u8"
     },
     {
-      "event_category": "Cricket",
-      "title": "Up Brij Stars Vs Southern Spartans",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
-      "team_1": "UP Brij Stars",
-      "team_2": "Southern Spartans",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Up Brij Stars Vs Southern Spartans",
-      "match_id": 142994,
-      "startTime": "09 June 2026 07:00 PM",
-      "stream_url": ""
+      "event_category": "Tennis",
+      "title": "Day 2   Court 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+      "team_1": "Day 2 - Court 1",
+      "team_2": "Netherlands",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Libema Open",
+      "match_name": "Day 2   Court 1",
+      "match_id": 143350,
+      "startTime": "09 June 2026 06:30 PM",
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -141,6 +141,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Antwerp Anchors Vs Liege Red Lions",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png",
+      "team_1": "Antwerp Anchors",
+      "team_2": "Liege Red Lions",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
+      "status": "UPCOMING",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Antwerp Anchors Vs Liege Red Lions",
+      "match_id": 143158,
+      "startTime": "10 June 2026 04:00 PM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Argentina Vs Iceland",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
@@ -172,32 +187,17 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Antwerp Anchors Vs Liege Red Lions",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png",
-      "team_1": "Antwerp Anchors",
-      "team_2": "Liege Red Lions",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
+      "title": "Gujarat Diamonds Vs Northern Challengers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
+      "team_1": "Gujarat Diamonds",
+      "team_2": "Northern Challengers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
       "status": "UPCOMING",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Antwerp Anchors Vs Liege Red Lions",
-      "match_id": 143158,
-      "startTime": "10 June 2026 04:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs Sri Lanka",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-      "team_1": "West Indies",
-      "team_2": "Sri Lanka",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "West Indies Vs Sri Lanka",
-      "match_id": 142974,
-      "startTime": "09 June 2026 01:00 AM",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Northern Challengers",
+      "match_id": 142996,
+      "startTime": "10 June 2026 07:00 PM",
       "stream_url": ""
     },
     {
@@ -232,21 +232,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Northern Challengers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
-      "team_1": "Gujarat Diamonds",
-      "team_2": "Northern Challengers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Northern Challengers",
-      "match_id": 142996,
-      "startTime": "10 June 2026 07:00 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "team_1": "TBC",
@@ -258,6 +243,21 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143159,
       "startTime": "10 June 2026 08:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "West Indies Vs Sri Lanka",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "team_1": "West Indies",
+      "team_2": "Sri Lanka",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "West Indies Vs Sri Lanka",
+      "match_id": 142974,
+      "startTime": "09 June 2026 01:00 AM",
       "stream_url": ""
     },
     {
@@ -348,6 +348,21 @@
       "match_name": "Netherlands Vs Usa",
       "match_id": 143196,
       "startTime": "08 June 2026 08:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Gujarat Diamonds Vs Mp Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
+      "team_1": "Gujarat Diamonds",
+      "team_2": "MP Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Mp Tigers",
+      "match_id": 142993,
+      "startTime": "09 June 2026 02:00 PM",
       "stream_url": ""
     },
     {
@@ -591,21 +606,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1   Marquee Group",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "team_1": "Day 1 - Marquee Group",
-      "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "RBC Canadian Open 2026",
-      "match_name": "Day 1   Marquee Group",
-      "match_id": 143203,
-      "startTime": "11 June 2026 05:30 PM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Bangladesh Vs Australia",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
@@ -618,21 +618,6 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142965,
       "startTime": "09 June 2026 10:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mp Tigers",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Mp Tigers",
-      "match_id": 142993,
-      "startTime": "09 June 2026 02:00 PM",
       "stream_url": ""
     },
     {
@@ -711,6 +696,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Antwerp Anchors Vs Liege Red Lions",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Antwerp Anchors Vs Liege Red Lions",
+      "match_id": 143158,
+      "startTime": "10 June 2026 04:00 PM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Football",
       "title": "Argentina Vs Iceland",
       "src": "https://images.fancode.com/aig/match/v1780742459455/143344_CASACARDS_SPORTY_APP.png",
@@ -753,6 +753,21 @@
       "match_name": "Day 2",
       "match_id": 143119,
       "startTime": "09 June 2026 02:30 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 2   Court 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Libema Open",
+      "match_name": "Day 2   Court 1",
+      "match_id": 143350,
+      "startTime": "09 June 2026 06:30 PM",
       "stream_url": ""
     }
   ]
