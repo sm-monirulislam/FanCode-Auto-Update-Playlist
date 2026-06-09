@@ -2,9 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 12:41:20 PM 09-06-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 04:23:44 PM 09-06-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket",Bangladesh Vs Australia
 https://bd-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Gujarat Diamonds Vs Mp Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg" group-title="Cricket",Gujarat Diamonds Vs Mp Tigers
+https://bd-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Liege Red Lions Vs Akcel United Brussels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png" group-title="Cricket",Liege Red Lions Vs Akcel United Brussels
+https://bd-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis",Day 2
+https://bd-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis",Day 2
+https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/1080p.m3u8
