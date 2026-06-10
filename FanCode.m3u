@@ -2,27 +2,24 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 04:34:09 PM 10-06-2026 (BD Time)
-# 📺 Live Matches: 7
+# 🕒 Last Updated: 07:59:57 PM 10-06-2026 (BD Time)
+# 📺 Live Matches: 6
 #=================================
 
-#EXTINF:-1 tvg-name="Mumbai Marines Vs Mp Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg" group-title="Cricket",Mumbai Marines Vs Mp Tigers
-https://bd-mc-fblive.fancode.com/mumbai/142995_english_hls_cf991e17d447156_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Antwerp Anchors Vs Liege Red Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Liege Red Lions
+https://bd-mc-fblive.fancode.com/mumbai/143158_english_hls_a36aa6d2b379632_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Mumbai Marines Vs Mp Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg" group-title="Cricket",Mumbai Marines Vs Mp Tigers
-https://bd-mc-fblive.fancode.com/mumbai/142995_hindi_hls_62989abf8818660_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Gujarat Diamonds Vs Northern Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg" group-title="Cricket",Gujarat Diamonds Vs Northern Challengers
+https://bd-mc-fblive.fancode.com/mumbai/142996_english_hls_2cd66be2dc25013_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Indore Pink Panthers Vs Rewa Jaguars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg" group-title="Cricket",Indore Pink Panthers Vs Rewa Jaguars
-https://bd-mc-fblive.fancode.com/mumbai/143071_english_hls_a9a502a7e275444_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Gujarat Diamonds Vs Northern Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg" group-title="Cricket",Gujarat Diamonds Vs Northern Challengers
+https://bd-mc-fblive.fancode.com/mumbai/142996_hindi_hls_a7530f545477854_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Bhopal Leopards Vs Ujjain Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg" group-title="Cricket",Bhopal Leopards Vs Ujjain Falcons
-https://bd-mc-fblive.fancode.com/mumbai/143072_english_hls_5c005d49e31864_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Bundelkhand Bulls Vs Malwa Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143073_6102_BBS_MWS_FC-WEB.jpg" group-title="Cricket",Bundelkhand Bulls Vs Malwa Stallions
+https://bd-mc-fblive.fancode.com/mumbai/143073_english_hls_bbb533919676786_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 3   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis",Day 3   Centre Court
 https://bd-mc-fblive.fancode.com/mumbai/143120_english_hls_07628292df62798_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Day 3   Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis",Day 3   Court 1
-https://bd-mc-fblive.fancode.com/mumbai/143387_english_hls_d586241b904972_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Antwerp Anchors Vs Liege Red Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Liege Red Lions
-https://bd-mc-fblive.fancode.com/mumbai/143158_english_hls_a36aa6d2b379632_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 3   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis",Day 3   Centre Court
+https://bd-mc-fblive.fancode.com/mumbai/143127_english_hls_d25aada37a30837_1ta-di_h264/1080p.m3u8
