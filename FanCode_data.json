@@ -2,24 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 49,
-  "last update time": "10:14:35 AM 12-06-2026",
+  "match_amount": 48,
+  "last update time": "02:42:31 PM 12-06-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-      "team_1": "Sri Lanka",
-      "team_2": "West Indies",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "status": "LIVE",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "Sri Lanka Vs West Indies",
-      "match_id": 142975,
-      "startTime": "12 June 2026 06:00 AM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/1080p.m3u8"
-    },
     {
       "event_category": "Cricket",
       "title": "Rewa Jaguars Vs Royal Nimar Eagles",
@@ -167,7 +152,7 @@
       "event_name": "Madhya Pradesh League T20, 2026",
       "match_name": "Malwa Stallions Vs Jabalpur Royal Lions",
       "match_id": 143080,
-      "startTime": "13 June 2026 10:00 AM",
+      "startTime": "13 June 2026 09:30 AM",
       "stream_url": ""
     },
     {
@@ -187,30 +172,15 @@
     },
     {
       "event_category": "Tennis",
-      "title": "Atp 250   Libema Open",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-      "team_1": "ATP 250 - Libema Open",
-      "team_2": "Netherlands",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Libema Open",
-      "match_name": "Atp 250   Libema Open",
-      "match_id": 143129,
-      "startTime": "12 June 2026 02:30 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Atp 250   Boss Open 2026",
+      "title": "Day 5   Center Court",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-      "team_1": "ATP 250 - BOSS OPEN 2026",
+      "team_1": "Day 5 - Center Court",
       "team_2": "Stuttgart, Germany",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
       "status": "UPCOMING",
       "event_name": "ATP 250 - BOSS OPEN 2026",
-      "match_name": "Atp 250   Boss Open 2026",
+      "match_name": "Day 5   Center Court",
       "match_id": 143122,
       "startTime": "12 June 2026 02:30 PM",
       "stream_url": ""
@@ -228,6 +198,21 @@
       "match_name": "Free Practice",
       "match_id": 139570,
       "startTime": "12 June 2026 02:35 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 5   Center Court",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+      "team_1": "Day 5 - Center Court",
+      "team_2": "Netherlands",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Libema Open",
+      "match_name": "Day 5   Center Court",
+      "match_id": 143129,
+      "startTime": "12 June 2026 04:00 PM",
       "stream_url": ""
     },
     {
@@ -321,6 +306,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+      "team_1": "Antwerp Anchors",
+      "team_2": "Ghent Gladiators",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+      "status": "UPCOMING",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
+      "match_id": 143164,
+      "startTime": "13 June 2026 04:00 PM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
@@ -378,21 +378,6 @@
       "match_name": "Day 2   World Feed",
       "match_id": 143206,
       "startTime": "13 June 2026 12:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-      "team_1": "Antwerp Anchors",
-      "team_2": "Ghent Gladiators",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
-      "status": "UPCOMING",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
-      "match_id": 143164,
-      "startTime": "13 June 2026 04:00 PM",
       "stream_url": ""
     },
     {
@@ -468,6 +453,21 @@
       "match_name": "Jb Bruges Vs Ghent Gladiators",
       "match_id": 143161,
       "startTime": "11 June 2026 08:00 PM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka Vs West Indies",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
+      "team_1": "Sri Lanka",
+      "team_2": "West Indies",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "Sri Lanka Vs West Indies",
+      "match_id": 142975,
+      "startTime": "12 June 2026 06:00 AM",
       "stream_url": ""
     },
     {
@@ -607,21 +607,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "West Indies Vs Sri Lanka",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "West Indies Vs Sri Lanka",
-      "match_id": 142975,
-      "startTime": "12 June 2026 06:00 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "team_1": "",
@@ -711,18 +696,18 @@
       "stream_url": ""
     },
     {
-      "event_category": "Formula 1",
-      "title": "Practice 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "event_category": "Cricket",
+      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "team_1": "",
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
       "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_name": "Practice 2",
-      "match_id": 139453,
-      "startTime": "12 June 2026 08:30 PM",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
+      "match_id": 143164,
+      "startTime": "13 June 2026 04:00 PM",
       "stream_url": ""
     },
     {
