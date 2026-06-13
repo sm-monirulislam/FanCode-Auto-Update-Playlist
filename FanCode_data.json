@@ -2,24 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 17,
-  "last update time": "10:03:07 PM 13-06-2026",
+  "match_amount": 14,
+  "last update time": "11:43:37 PM 13-06-2026",
   "matches": [
-    {
-      "event_category": "Formula 1",
-      "title": "Qualifying",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_name": "Qualifying",
-      "match_id": 139455,
-      "startTime": "13 June 2026 07:30 PM",
-      "stream_url": ""
-    },
     {
       "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
@@ -33,6 +18,21 @@
       "match_name": "West Indies Vs Sri Lanka",
       "match_id": 142976,
       "startTime": "14 June 2026 06:00 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Qualifying",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_name": "Qualifying",
+      "match_id": 139455,
+      "startTime": "13 June 2026 07:30 PM",
       "stream_url": ""
     },
     {
@@ -112,36 +112,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
-      "match_id": 143001,
-      "startTime": "13 June 2026 07:00 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_english_hls_fae7e2e2de58102_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443145~_GO=Generated~acl=/mumbai/143001_english_hls_fae7e2e2de58102_1ta-di_h264/*~Signature=ATZ0w6f0biffoDt8v1CCcy6WDg52nR2f0n5HfH1u7yEf-RBSg7EECLqmveZCL7F8S3SGoum1zspFKo_cOVZ004Tex9MD"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
-      "match_id": 143001,
-      "startTime": "13 June 2026 07:00 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443146~_GO=Generated~acl=/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/*~Signature=ATZ0w6f94XYpeytmS2Ri0eSCKoyKsaGHMYCzb2i1W7jw4Cco3CPvhxEut340lF0-_iSzjgWevB3HB0Mu_1aMiTb8OakB"
-    },
-    {
-      "event_category": "Cricket",
       "title": "Akcel United Brussels Vs Jb Bruges",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
       "team_1": "",
@@ -171,36 +141,6 @@
       "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781444645~_GO=Generated~acl=/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/*~Signature=ATZ0w6f4lWWWKxC45op3rM3-aiY-ygEZ06FMUi069Qlx9yUolnsdZHObIvWWBXSwUK-aOX_SkvpfF99YFQk5iC24fZML"
     },
     {
-      "event_category": "Tennis",
-      "title": "Day 6   Center Court",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "ATP 250 - BOSS OPEN 2026",
-      "match_name": "Day 6   Center Court",
-      "match_id": 143123,
-      "startTime": "13 June 2026 03:30 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781445067~_GO=Generated~acl=/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/*~Signature=ATZ0w6eduCT3Sj_I_e63IpgyVaylgRcXStPmqU2BJ6lqOGrDk95ZiPXJWyvrdrMaTw-8bY4Li63qGjtTpWj_FS-deUgG"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 6   Center Court",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Libema Open",
-      "match_name": "Day 6   Center Court",
-      "match_id": 143130,
-      "startTime": "13 June 2026 04:00 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143130_english_hls_39aa5a2a7267112_1ta-di_h264/1080p.m3u8"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 3   Featured Groups",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
@@ -213,7 +153,22 @@
       "match_name": "Day 3   Featured Groups",
       "match_id": 143215,
       "startTime": "13 June 2026 05:45 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781438705~_GO=Generated~acl=/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/*~Signature=ATZ0w6ekQHmcB5pDaCD_n7fe033uochcPIgkkbERtsteDvOtbVTDcGDXSQLw0HFL8mZiJ7g-rBnJKPNxgwAQajXRnHEE"
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781453945~_GO=Generated~acl=/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/*~Signature=ATZ0w6dexgyyg9kstOq1aa8LSLteNLtdOizKL3pNyxDeH9qablyBFv-5uXR8NKpfv6krKeEqTsFCuoh2jxqs0v5vJnMI"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "LIVE",
+      "event_name": "RBC Canadian Open 2026",
+      "match_name": "Day 3   World Feed",
+      "match_id": 143211,
+      "startTime": "13 June 2026 10:30 PM",
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781455865~_GO=Generated~acl=/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/*~Signature=ATZ0w6cUVyB9teTg3QRX-A8KRq2HhnCQ7fL6Q2Bd6G3EWRkpJTOWpqR1x0zB0W7zVb3o_1E51pmLvv52w3-UgDkbCYUH"
     },
     {
       "event_category": "Golf",
@@ -243,7 +198,7 @@
       "match_name": "Day 3   Featured Holes",
       "match_id": 143214,
       "startTime": "13 June 2026 05:45 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/1080p.m3u8"
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781453954~_GO=Generated~acl=/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/*~Signature=ATZ0w6erbzqoXrJBY3BsAagkfim5-FdJi2-yuThUSEpYtNXAeJQUlCjUrWIH_YIP8sOg2vXCqJfZTZrxuxVlOCvTTxEP"
     },
     {
       "event_category": "Golf",
