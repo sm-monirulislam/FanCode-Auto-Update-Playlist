@@ -2,23 +2,23 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 16,
-  "last update time": "06:15:23 PM 13-06-2026",
+  "match_amount": 15,
+  "last update time": "08:34:47 PM 13-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "team_1": "",
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
       "status": "LIVE",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
-      "match_id": 143164,
-      "startTime": "13 June 2026 04:00 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143164_english_hls_d7f3a7a77889235_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781431505~_GO=Generated~acl=/mumbai/143164_english_hls_d7f3a7a77889235_1ta-di_h264/*~Signature=ATZ0w6eJFr7pc2iniLYbuRsaA2ZEAGStK8Y8aV21_WzNi_5a_dBXLCRErhJ8RZo_4L3YDzw4HrEnn09vDM7dy9ztL4gA"
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
+      "match_id": 143001,
+      "startTime": "13 June 2026 07:00 PM",
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_english_hls_fae7e2e2de58102_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443145~_GO=Generated~acl=/mumbai/143001_english_hls_fae7e2e2de58102_1ta-di_h264/*~Signature=ATZ0w6f0biffoDt8v1CCcy6WDg52nR2f0n5HfH1u7yEf-RBSg7EECLqmveZCL7F8S3SGoum1zspFKo_cOVZ004Tex9MD"
     },
     {
       "event_category": "Cricket",
@@ -28,12 +28,12 @@
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Big Cricket League Season 2",
       "match_name": "Gujarat Diamonds Vs Up Brij Stars",
       "match_id": 143001,
       "startTime": "13 June 2026 07:00 PM",
-      "stream_url": ""
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443146~_GO=Generated~acl=/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/*~Signature=ATZ0w6f94XYpeytmS2Ri0eSCKoyKsaGHMYCzb2i1W7jw4Cco3CPvhxEut340lF0-_iSzjgWevB3HB0Mu_1aMiTb8OakB"
     },
     {
       "event_category": "Cricket",
@@ -43,12 +43,28 @@
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EUT20 Belgium, 2026",
       "match_name": "Akcel United Brussels Vs Jb Bruges",
       "match_id": 143165,
       "startTime": "13 June 2026 08:00 PM",
-      "stream_url": ""
+      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Qualifying",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "LIVE",
+      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_name": "Qualifying",
+      "match_id": 139455,
+      "startTime": "13 June 2026 07:30 PM",
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139455_english_dash_7650_1drmta-di_h264/index.mpd",
+      "drm_key": "684ddaa83d8a41b9839ecd4d9c7e1b1a:83d08bdd4f9d6a4e3de79ce5d3cb4d29"
     },
     {
       "event_category": "Cricket",
@@ -112,33 +128,18 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Bundelkhand Bulls Vs Gwalior Cheetahs",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
+      "title": "Chambal Ghariyals Women Vs Gwalior Shernis",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
       "team_1": "",
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
       "status": "LIVE",
-      "event_name": "Madhya Pradesh League T20, 2026",
-      "match_name": "Bundelkhand Bulls Vs Gwalior Cheetahs",
-      "match_id": 143081,
-      "startTime": "13 June 2026 02:30 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143081_english_hls_6665a9145990768_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781427065~_GO=Generated~acl=/mumbai/143081_english_hls_6665a9145990768_1ta-di_h264/*~Signature=ATZ0w6c3ebef5vNxYVI1lhUi6r8O7jwDpNyEMN5KEY-H2003i_LkPhJs4NajdzKs4zttulv01vGw0_pzynFctlNNShkL"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Ujjain Falcons Vs Rewa Jaguars",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "Madhya Pradesh League T20, 2026",
-      "match_name": "Ujjain Falcons Vs Rewa Jaguars",
-      "match_id": 143082,
-      "startTime": "13 June 2026 03:00 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143082_english_hls_e1fd6d48bc69474_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781428745~_GO=Generated~acl=/mumbai/143082_english_hls_e1fd6d48bc69474_1ta-di_h264/*~Signature=ATZ0w6fj0CMQOn-XhkEAUqP5HK8SX260Jkro7stcT7a5s4asZYpuKeW42e1TTGe6GNphyqhuOzt_-BX9UVi5C8-7DTcF"
+      "event_name": "Madhya Pradesh League T20 Women's 2026",
+      "match_name": "Chambal Ghariyals Women Vs Gwalior Shernis",
+      "match_id": 143029,
+      "startTime": "13 June 2026 07:30 PM",
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781444645~_GO=Generated~acl=/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/*~Signature=ATZ0w6f4lWWWKxC45op3rM3-aiY-ygEZ06FMUi069Qlx9yUolnsdZHObIvWWBXSwUK-aOX_SkvpfF99YFQk5iC24fZML"
     },
     {
       "event_category": "Tennis",
@@ -153,7 +154,7 @@
       "match_name": "Day 6   Center Court",
       "match_id": 143123,
       "startTime": "13 June 2026 03:30 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781430245~_GO=Generated~acl=/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/*~Signature=ATZ0w6cn6F6jFph9z8Ce0oH37vZn7MjPwvhodhMLZ9hkl38GovB-sEXzt2GBO14eJOe4eyxYPyW_ASFPfhj31qPlnlsP"
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781445067~_GO=Generated~acl=/mumbai/143123_english_hls_0450a3840943384_1ta-di_h264/*~Signature=ATZ0w6eduCT3Sj_I_e63IpgyVaylgRcXStPmqU2BJ6lqOGrDk95ZiPXJWyvrdrMaTw-8bY4Li63qGjtTpWj_FS-deUgG"
     },
     {
       "event_category": "Tennis",
@@ -199,21 +200,6 @@
       "match_id": 143213,
       "startTime": "13 June 2026 05:00 PM",
       "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Formula 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "F2 BARCELONA 2026",
-      "match_name": "Formula 2",
-      "match_id": 139628,
-      "startTime": "13 June 2026 05:45 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/139628_english_hls_ddecbed4207001_1ta-di_h264/1080p5.m3u8"
     },
     {
       "event_category": "Golf",
