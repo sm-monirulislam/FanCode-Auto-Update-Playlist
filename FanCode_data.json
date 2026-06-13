@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 14,
-  "last update time": "11:43:37 PM 13-06-2026",
+  "match_amount": 12,
+  "last update time": "12:57:10 AM 14-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -21,21 +21,6 @@
       "stream_url": ""
     },
     {
-      "event_category": "Formula 1",
-      "title": "Qualifying",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_name": "Qualifying",
-      "match_id": 139455,
-      "startTime": "13 June 2026 07:30 PM",
-      "stream_url": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Bangladesh Vs Australia",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
@@ -48,6 +33,21 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142967,
       "startTime": "14 June 2026 10:30 AM",
+      "stream_url": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Qualifying",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_name": "Qualifying",
+      "match_id": 139455,
+      "startTime": "13 June 2026 07:30 PM",
       "stream_url": ""
     },
     {
@@ -109,36 +109,6 @@
       "match_id": 142977,
       "startTime": "15 June 2026 06:00 AM",
       "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Akcel United Brussels Vs Jb Bruges",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Akcel United Brussels Vs Jb Bruges",
-      "match_id": 143165,
-      "startTime": "13 June 2026 08:00 PM",
-      "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Chambal Ghariyals Women Vs Gwalior Shernis",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "Madhya Pradesh League T20 Women's 2026",
-      "match_name": "Chambal Ghariyals Women Vs Gwalior Shernis",
-      "match_id": 143029,
-      "startTime": "13 June 2026 07:30 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781444645~_GO=Generated~acl=/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/*~Signature=ATZ0w6f4lWWWKxC45op3rM3-aiY-ygEZ06FMUi069Qlx9yUolnsdZHObIvWWBXSwUK-aOX_SkvpfF99YFQk5iC24fZML"
     },
     {
       "event_category": "Golf",
