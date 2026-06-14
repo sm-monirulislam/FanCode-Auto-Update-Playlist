@@ -2,21 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:28:02 PM 14-06-2026 (BD Time)
+# 🕒 Last Updated: 08:40:17 PM 14-06-2026 (BD Time)
 # 📺 Live Matches (IN): 8
 #=================================
 
-#EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket",Bangladesh Vs Australia
-https://in-mc-plive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781526368~_GO=Generated~acl=/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/*~Signature=ATZ0w6fDMaAu547hFmzvxHfhE0on3afF9AeNA6aoT6Vlm4FYKr1AJ9qObrhGDDxUXZnMdUz4Han4i7ZiHAIxOFMqAG8G
-
-#EXTINF:-1 tvg-name="Royal Nimar Eagles Vs Ujjain Falcons" tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png" group-title="Cricket",Royal Nimar Eagles Vs Ujjain Falcons
-https://in-mc-fblive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Patiala Panthers Vs Bathinda Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" group-title="Cricket",Patiala Panthers Vs Bathinda Bulls
-https://in-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781517069~_GO=Generated~acl=/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/*~Signature=ATZ0w6eVaGV3CIjYCtROzFNu9iWSjQOuvZxOm9jnFYdcjX6Ax0DyNpsfw66S2HXEeo26jg2hagO-OooS0pOVFZWdyMED
-
-#EXTINF:-1 tvg-name="Final   Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis",Final   Center Court
-https://in-mc-fblive.fancode.com/mumbai/143124_english_hls_a6240f4b8f4552_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Antwerp Anchors Vs Ghent Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Ghent Gladiators
+https://in-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Final   Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis",Final   Center Court
 https://in-mc-fblive.fancode.com/mumbai/143131_english_hls_526d61351b83381_1ta-di_h264/1080p.m3u8
@@ -35,3 +26,12 @@ https://in-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=574eed3b7a444b9894be7394371ef904:bedbdda130683cd9375278f2cc94135c
 https://in-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Day 4   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Featured Groups
+https://in-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 4   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Main Feed
+https://in-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 4   Featured Holes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Featured Holes
+https://in-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8
