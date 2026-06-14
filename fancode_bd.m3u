@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:10:02 PM 14-06-2026 (BD Time)
-# 📺 Live Matches (BD): 6
+# 🕒 Last Updated: 11:45:10 PM 14-06-2026 (BD Time)
+# 📺 Live Matches (BD): 7
 #=================================
 
 #EXTINF:-1 tvg-name="Antwerp Anchors Vs Ghent Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Ghent Gladiators
@@ -23,3 +23,6 @@ https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-d
 
 #EXTINF:-1 tvg-name="Day 4   Marquee Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Marquee Group
 https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781537405~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6d6D21Nusf2BY60EFiLJiZoElzOsvo-b6CGx7DcpliDokyIRz-muznDQvn6HiptWtHLrfId0kxIvNlntMpUpbEB
+
+#EXTINF:-1 tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   World Feed
+https://bd-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM
