@@ -2,24 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:45:10 PM 14-06-2026 (BD Time)
-# 📺 Live Matches (BD): 7
+# 🕒 Last Updated: 12:59:21 AM 15-06-2026 (BD Time)
+# 📺 Live Matches (BD): 6
 #=================================
 
-#EXTINF:-1 tvg-name="Antwerp Anchors Vs Ghent Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="Cricket",Antwerp Anchors Vs Ghent Gladiators
-https://bd-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Usa Vs Netherlands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg" group-title="Cricket",Usa Vs Netherlands
-https://bd-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Málaga Vs Almería" tvg-logo="https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png" group-title="Football",Málaga Vs Almería
+https://bd-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE
 
 #EXTINF:-1 tvg-name="Day 4   Featured Groups" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Featured Groups
-https://bd-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547969~_GO=Generated~acl=/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/*~Signature=ATZ0w6c31S7SvqM84CQmR3iHWjWTt1vzXNy3e5XMOnhITffqnnz3lYu6cc5Kwv3hJ4fOOtjiwo0kHBLwOiDuEMZPiZkC
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Main Feed
-https://bd-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P
 
 #EXTINF:-1 tvg-name="Day 4   Featured Holes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Featured Holes
-https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G
 
 #EXTINF:-1 tvg-name="Day 4   Marquee Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf",Day 4   Marquee Group
 https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781537405~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6d6D21Nusf2BY60EFiLJiZoElzOsvo-b6CGx7DcpliDokyIRz-muznDQvn6HiptWtHLrfId0kxIvNlntMpUpbEB

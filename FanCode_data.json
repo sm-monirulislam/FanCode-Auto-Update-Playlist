@@ -3,39 +3,23 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:45:10 PM 14-06-2026",
+  "last update time": "12:59:21 AM 15-06-2026",
   "matches": [
     {
-      "event_category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-      "team_1": "Antwerp Anchors",
-      "team_2": "Ghent Gladiators",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+      "event_category": "Football",
+      "title": "M\u00e1laga Vs Almer\u00eda",
+      "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png",
+      "team_1": "M\u00e1laga",
+      "team_2": "Almer\u00eda",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png",
       "status": "LIVE",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
-      "match_id": 143166,
-      "startTime": "14 June 2026 08:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Usa Vs Netherlands",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg",
-      "team_1": "USA",
-      "team_2": "Netherlands",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "status": "LIVE",
-      "event_name": "ICC CWC League 2 Canada, 2026",
-      "match_name": "Usa Vs Netherlands",
-      "match_id": 143199,
-      "startTime": "14 June 2026 08:30 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/1080p.m3u8"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "M\u00e1laga Vs Almer\u00eda",
+      "match_id": 143391,
+      "startTime": "15 June 2026 12:30 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE"
     },
     {
       "event_category": "Golf",
@@ -50,8 +34,8 @@
       "match_name": "Day 4   Featured Groups",
       "match_id": 143220,
       "startTime": "14 June 2026 08:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547969~_GO=Generated~acl=/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/*~Signature=ATZ0w6c31S7SvqM84CQmR3iHWjWTt1vzXNy3e5XMOnhITffqnnz3lYu6cc5Kwv3hJ4fOOtjiwo0kHBLwOiDuEMZPiZkC",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547969~_GO=Generated~acl=/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/*~Signature=ATZ0w6c31S7SvqM84CQmR3iHWjWTt1vzXNy3e5XMOnhITffqnnz3lYu6cc5Kwv3hJ4fOOtjiwo0kHBLwOiDuEMZPiZkC"
     },
     {
       "event_category": "Golf",
@@ -66,8 +50,8 @@
       "match_name": "Day 4   Main Feed",
       "match_id": 143217,
       "startTime": "14 June 2026 08:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P"
     },
     {
       "event_category": "Golf",
@@ -82,8 +66,8 @@
       "match_name": "Day 4   Featured Holes",
       "match_id": 143219,
       "startTime": "14 June 2026 08:15 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G"
     },
     {
       "event_category": "Golf",
@@ -230,22 +214,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Football",
-      "title": "M\u00e1laga Vs Almer\u00eda",
-      "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png",
-      "team_1": "M\u00e1laga",
-      "team_2": "Almer\u00eda",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "M\u00e1laga Vs Almer\u00eda",
-      "match_id": 143391,
-      "startTime": "15 June 2026 12:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
       "src": "https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png",
@@ -359,22 +327,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Akcel United Brussels Vs Jb Bruges",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-      "team_1": "Akcel United Brussels",
-      "team_2": "JB Bruges",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-      "status": "UPCOMING",
-      "event_name": "EUT20 Belgium, 2026",
-      "match_name": "Akcel United Brussels Vs Jb Bruges",
-      "match_id": 143165,
-      "startTime": "13 June 2026 08:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Sri Lanka Vs West Indies",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
       "team_1": "Sri Lanka",
@@ -402,6 +354,38 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142967,
       "startTime": "14 June 2026 10:30 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+      "team_1": "Antwerp Anchors",
+      "team_2": "Ghent Gladiators",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+      "status": "UPCOMING",
+      "event_name": "EUT20 Belgium, 2026",
+      "match_name": "Antwerp Anchors Vs Ghent Gladiators",
+      "match_id": 143166,
+      "startTime": "14 June 2026 08:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Usa Vs Netherlands",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg",
+      "team_1": "USA",
+      "team_2": "Netherlands",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2 Canada, 2026",
+      "match_name": "Usa Vs Netherlands",
+      "match_id": 143199,
+      "startTime": "14 June 2026 08:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -600,7 +584,7 @@
     {
       "event_category": "Cricket",
       "title": "Bangladesh Vs Australia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://images.fancode.com/aig/match/v1781455524834/142968_CASACARDS_SPORTY_APP.png",
       "team_1": "Bangladesh",
       "team_2": "Australia",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
@@ -610,6 +594,22 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142968,
       "startTime": "17 June 2026 01:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Malmo Mavericks Vs Vasteras United",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+      "team_1": "Malmo Mavericks",
+      "team_2": "Vasteras United",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Nordic Smash T20 Cup, 2026",
+      "match_name": "Malmo Mavericks Vs Vasteras United",
+      "match_id": 143181,
+      "startTime": "17 June 2026 12:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
