@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:43:52 AM 14-06-2026 (BD Time)
-# 📺 Live Matches: 1
+# 🕒 Last Updated: 10:45:28 AM 14-06-2026 (BD Time)
+# 📺 Live Matches: 2
 #=================================
 
-#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg" group-title="Cricket",West Indies Vs Sri Lanka
-https://bd-mc-flive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781481905~_GO=Generated~acl=/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/*~Signature=ATZ0w6ctGbHf7B6TuKGHTdrpyMPfqB5n6HGn14vNogNjVBJEtVjYICFZWuhgDaRCfM6bp4fjQ7mAXWsgGVTtMZohl0kF
+#EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket",Bangladesh Vs Australia
+https://bd-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781497145~_GO=Generated~acl=/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/*~Signature=ATZ0w6fTC_R-5gVfyyfCYaPEodfRLcQnNuy5CN65w8SLEnjDVV9HNNxBV_jAEewDLX4LucKeYI5BTqVed9G8Jg5pGaQL
+
+#EXTINF:-1 tvg-name="Chambal Ghariyals Vs Indore Pink Panthers" tvg-logo="https://images.fancode.com/aig/match/v1780469022421/143083_CASACARDS_SPORTY_APP.png" group-title="Cricket",Chambal Ghariyals Vs Indore Pink Panthers
+https://bd-mc-fblive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/1080p.m3u8
