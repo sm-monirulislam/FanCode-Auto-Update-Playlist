@@ -2,15 +2,21 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:09:30 PM 14-06-2026 (BD Time)
-# 📺 Live Matches: 3
+# 🕒 Last Updated: 04:31:37 PM 14-06-2026 (BD Time)
+# 📺 Live Matches: 5
 #=================================
 
 #EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket",Bangladesh Vs Australia
-https://bd-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781497145~_GO=Generated~acl=/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/*~Signature=ATZ0w6fTC_R-5gVfyyfCYaPEodfRLcQnNuy5CN65w8SLEnjDVV9HNNxBV_jAEewDLX4LucKeYI5BTqVed9G8Jg5pGaQL
+https://bd-mc-fblive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Chambal Ghariyals Vs Indore Pink Panthers" tvg-logo="https://images.fancode.com/aig/match/v1780469022421/143083_CASACARDS_SPORTY_APP.png" group-title="Cricket",Chambal Ghariyals Vs Indore Pink Panthers
-https://bd-mc-fblive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Royal Nimar Eagles Vs Ujjain Falcons" tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png" group-title="Cricket",Royal Nimar Eagles Vs Ujjain Falcons
+https://bd-mc-fblive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg" group-title="Motorsports",Race
-https://bd-mc-flive.fancode.com/mumbai/139720_english_hls_de1c0af98653630_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1781505006~_GO=Generated~acl=/mumbai/139720_english_hls_de1c0af98653630_1ta-di_h264/*~Signature=ATZ0w6doOOaqLw7KPO97vGbzNIT9iNkYskpdjPl5SZMg_zFaulqOmEbz1AzYq8pzfMlkJhjq-Gt3_hx0bTih5iXn8vkK
+#EXTINF:-1 tvg-name="Amritsar Alligators Vs Ludhiana Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg" group-title="Cricket",Amritsar Alligators Vs Ludhiana Lions
+https://bd-mc-flive.fancode.com/mumbai/143031_english_hls_b24a84258753154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781510707~_GO=Generated~acl=/mumbai/143031_english_hls_b24a84258753154_1ta-di_h264/*~Signature=ATZ0w6cF9YPiQHIQwZNXmZWx0hnKMs50A2es-9a_Y8z2I7f1PLowh4lPWvjZDoDDE_cl3mXedi4SHN9GMk3Oq6zDB-EL
+
+#EXTINF:-1 tvg-name="Patiala Panthers Vs Bathinda Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" group-title="Cricket",Patiala Panthers Vs Bathinda Bulls
+https://bd-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781517069~_GO=Generated~acl=/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/*~Signature=ATZ0w6eVaGV3CIjYCtROzFNu9iWSjQOuvZxOm9jnFYdcjX6Ax0DyNpsfw66S2HXEeo26jg2hagO-OooS0pOVFZWdyMED
+
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg" group-title="Motorsports",Feature Race
+https://bd-mc-flive.fancode.com/mumbai/139629_english_hls_f292e1b37048068_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1781515145~_GO=Generated~acl=/mumbai/139629_english_hls_f292e1b37048068_1ta-di_h264/*~Signature=ATZ0w6fqfUvpkFWpJ9RrytTTRhyCKjwX86AL3QegqUBu9M7bw57wOxvYGUuY-sFHsVoNeBVWn0_5a_v0AOkv-HcKNqIG
