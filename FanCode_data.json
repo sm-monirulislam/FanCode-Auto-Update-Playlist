@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 8,
-  "last update time": "05:47:56 AM 14-06-2026",
+  "match_amount": 7,
+  "last update time": "08:43:52 AM 14-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -13,12 +13,12 @@
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Sri Lanka tour of West Indies 2026",
       "match_name": "West Indies Vs Sri Lanka",
       "match_id": 142976,
       "startTime": "14 June 2026 06:00 AM",
-      "stream_url": ""
+      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781481905~_GO=Generated~acl=/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/*~Signature=ATZ0w6ctGbHf7B6TuKGHTdrpyMPfqB5n6HGn14vNogNjVBJEtVjYICFZWuhgDaRCfM6bp4fjQ7mAXWsgGVTtMZohl0kF"
     },
     {
       "event_category": "Cricket",
@@ -33,36 +33,6 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142967,
       "startTime": "14 June 2026 10:30 AM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Formula 1",
-      "title": "Qualifying",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_name": "Qualifying",
-      "match_id": 139455,
-      "startTime": "13 June 2026 07:30 PM",
-      "stream_url": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "team_1": "",
-      "team_2": "",
-      "team_1_logo": "",
-      "team_2_logo": "",
-      "status": "UPCOMING",
-      "event_name": "Big Cricket League Season 2",
-      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
-      "match_id": 143001,
-      "startTime": "13 June 2026 07:00 PM",
       "stream_url": ""
     },
     {
@@ -96,6 +66,21 @@
       "stream_url": ""
     },
     {
+      "event_category": "Formula 1",
+      "title": "Qualifying",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "team_1": "",
+      "team_2": "",
+      "team_1_logo": "",
+      "team_2_logo": "",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_name": "Qualifying",
+      "match_id": 139455,
+      "startTime": "13 June 2026 07:30 PM",
+      "stream_url": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
@@ -111,19 +96,19 @@
       "stream_url": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 3   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "event_category": "Cricket",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "team_1": "",
       "team_2": "",
       "team_1_logo": "",
       "team_2_logo": "",
-      "status": "LIVE",
-      "event_name": "RBC Canadian Open 2026",
-      "match_name": "Day 3   World Feed",
-      "match_id": 143211,
-      "startTime": "13 June 2026 10:30 PM",
-      "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781471105~_GO=Generated~acl=/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/*~Signature=ATZ0w6eiHCQX8oR8y8wvzCKEF0M_B3-F90BaYoSacew5y7_gW9ho40rEdfYpoioVAIluOpBiOaoWa7qmTJEOvk4y6uME"
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2",
+      "match_name": "Gujarat Diamonds Vs Up Brij Stars",
+      "match_id": 143001,
+      "startTime": "13 June 2026 07:00 PM",
+      "stream_url": ""
     }
   ]
 }
