@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "02:19:28 AM 15-06-2026",
+  "last update time": "03:48:52 AM 15-06-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -39,22 +39,6 @@
     },
     {
       "event_category": "Golf",
-      "title": "Day 4   Featured Holes",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "team_1": "Day 4 - Featured Holes",
-      "team_2": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "RBC Canadian Open 2026",
-      "match_name": "Day 4   Featured Holes",
-      "match_id": 143219,
-      "startTime": "14 June 2026 08:15 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G"
-    },
-    {
-      "event_category": "Golf",
       "title": "Day 4   Marquee Group",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
       "team_1": "Day 4 - Marquee Group",
@@ -82,8 +66,8 @@
       "match_name": "Day 4   World Feed",
       "match_id": 143216,
       "startTime": "14 June 2026 10:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781557089~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6ckHE1VljzKyZq4NNgbW2mMIMvTKEKpAOy4xyVOzK5EZJxDMfmZAJCbnVVFjz8XFHC0uA1hmFPBcg_UQBIvI8sH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781557089~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6ckHE1VljzKyZq4NNgbW2mMIMvTKEKpAOy4xyVOzK5EZJxDMfmZAJCbnVVFjz8XFHC0uA1hmFPBcg_UQBIvI8sH"
     },
     {
       "event_category": "Cricket",
@@ -610,6 +594,22 @@
       "match_name": "Bhopal Leopards Vs Malwa Stallions",
       "match_id": 143089,
       "startTime": "17 June 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Jalandhar Jaguars Vs Mohali Monsters",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143038_6095_JJ_MM_fc-app.jpg",
+      "team_1": "Jalandhar Jaguars",
+      "team_2": "Mohali Monsters",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAJ@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Punjab T10 2026",
+      "match_name": "Jalandhar Jaguars Vs Mohali Monsters",
+      "match_id": 143038,
+      "startTime": "17 June 2026 03:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
