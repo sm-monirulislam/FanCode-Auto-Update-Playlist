@@ -2,8 +2,27 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 11:29:20 AM 16-06-2026 (BD Time)
-# 📺 Live Matches (IN): 0
+# 🕒 Last Updated: 04:25:35 PM 16-06-2026 (BD Time)
+# 📺 Live Matches (IN): 7
 #=================================
 
-# No Live Match Available
+#EXTINF:-1 tvg-name="Indore Pink Panthers Vs Royal Nimar Eagles" tvg-logo="https://images.fancode.com/aig/match/v1780469022416/143087_CASACARDS_SPORTY_APP.png" group-title="Cricket",Indore Pink Panthers Vs Royal Nimar Eagles
+https://in-mc-flive.fancode.com/mumbai/143087_english_hls_1ea1e21f5e1227_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781687528~_GO=Generated~acl=/mumbai/143087_english_hls_1ea1e21f5e1227_1ta-di_h264/*~Signature=ATZ0w6fhewNzxBCjISKOe17RjVoWCgZ7r0KqZdkhR5nQ7eI_6a6NgvpHLumHyMKtehdvMIw-Io27RV5JH10FoA2lQgcF
+
+#EXTINF:-1 tvg-name="Amritsar Alligators Vs Bathinda Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143036_6095_AAL_BBU_fc-app.jpg" group-title="Cricket",Amritsar Alligators Vs Bathinda Bulls
+https://in-mc-flive.fancode.com/mumbai/143036_english_hls_91f2f47d9816237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781691127~_GO=Generated~acl=/mumbai/143036_english_hls_91f2f47d9816237_1ta-di_h264/*~Signature=ATZ0w6ff610pQGCUo7oiT_D4obtnh1J0PpOVPg0trnS4-h6Vx-Y2NSlMUAggtNLgPMp5WSMkzORiUGqobTfJzs4sOwAB
+
+#EXTINF:-1 tvg-name="Uppsala Tigers Vs Malmo Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143179_6109_UPP_MLM_FC-WEB.jpg" group-title="Cricket",Uppsala Tigers Vs Malmo Mavericks
+https://in-mc-fblive.fancode.com/mumbai/143179_english_hls_142143dcc357177_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 2   Schauinsland Reisen Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis",Day 2   Schauinsland Reisen Court
+https://in-mc-flive.fancode.com/mumbai/143256_english_hls_afa8eaf6d566469_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781687530~_GO=Generated~acl=/mumbai/143256_english_hls_afa8eaf6d566469_1ta-di_h264/*~Signature=ATZ0w6dpWnY5NLHlvOE1tzGrBqMxyCkkMcp0r9BSPzQdneVc32CV1LoUAAgDjnf0qhpyTj5lHR1FgsEsg3mJye5QTNIO
+
+#EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis",Day 2   World Feed
+https://in-mc-flive.fancode.com/mumbai/143255_english_hls_c6a679691185272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781687531~_GO=Generated~acl=/mumbai/143255_english_hls_c6a679691185272_1ta-di_h264/*~Signature=ATZ0w6fo4bYmd6sUMAAsb1n2xcvME3ZN3mJ9e1_2kIAj-EZfg5HhJ6YqeY9BYCFlgiAFcZQFVAuZOk1wIGRe7evpqroJ
+
+#EXTINF:-1 tvg-name="Day 2   Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis",Day 2   Court 1
+https://in-mc-fblive.fancode.com/mumbai/143133_english_hls_a34e01f7c792836_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis",Day 2   World Feed
+https://in-mc-fblive.fancode.com/mumbai/143136_english_hls_c9b1ec756f6672_1ta-di_h264/1080p.m3u8
