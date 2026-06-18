@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "02:12:15 AM 19-06-2026",
+  "last update time": "04:25:00 AM 19-06-2026",
   "matches": [
-    {
-      "event_category": "Tennis",
-      "title": "Day.4   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-      "team_1": "Day.4 - World Feed",
-      "team_2": "London, Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 500 - HSBC Championship 2026",
-      "match_name": "Day.4   World Feed",
-      "match_id": 143141,
-      "startTime": "18 June 2026 04:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143141_english_hls_2130187af355310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781893810~_GO=Generated~acl=/mumbai/143141_english_hls_2130187af355310_1ta-di_h264/*~Signature=Afto3p0BtuKYZOFoBh0BrHiEu9PLxO_sXIgugYibhYFFhNak6RIX7ToKimusBSOGUByoJTaD_LeODR2mUj_p88RxsuoA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143141_english_hls_2130187af355310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781893810~_GO=Generated~acl=/mumbai/143141_english_hls_2130187af355310_1ta-di_h264/*~Signature=Afto3p0BtuKYZOFoBh0BrHiEu9PLxO_sXIgugYibhYFFhNak6RIX7ToKimusBSOGUByoJTaD_LeODR2mUj_p88RxsuoA"
-    },
     {
       "event_category": "Golf",
       "title": "Day 1",
@@ -642,6 +626,22 @@
       "match_name": "North America   Race 1",
       "match_id": 143346,
       "startTime": "21 June 2026 01:55 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bangladesh Vs Australia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Australia",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Australia tour of Bangladesh, 2026",
+      "match_name": "Bangladesh Vs Australia",
+      "match_id": 142970,
+      "startTime": "21 June 2026 01:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
