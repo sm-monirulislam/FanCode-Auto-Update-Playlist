@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "06:06:57 AM 19-06-2026",
+  "last update time": "11:22:04 AM 19-06-2026",
   "matches": [
-    {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png",
-      "team_1": "Day 1",
-      "team_2": "Shinnecock Hills Golf Club, NY",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "US Open 2026",
-      "match_name": "Day 1",
-      "match_id": 143293,
-      "startTime": "18 June 2026 09:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143293_english_hls_32f31080cb93754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781913490~_GO=Generated~acl=/mumbai/143293_english_hls_32f31080cb93754_1ta-di_h264/*~Signature=Afto3p2TidZ0_m-Bjk-EgVnCnaK8G4QMqMnIvXPCyjmdTjMHM2i5eV66HAuvrE0QfrTCFVuCBdrcBPQpzFJenXMvwrcN",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143293_english_hls_32f31080cb93754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781913490~_GO=Generated~acl=/mumbai/143293_english_hls_32f31080cb93754_1ta-di_h264/*~Signature=Afto3p2TidZ0_m-Bjk-EgVnCnaK8G4QMqMnIvXPCyjmdTjMHM2i5eV66HAuvrE0QfrTCFVuCBdrcBPQpzFJenXMvwrcN"
-    },
     {
       "event_category": "Cricket",
       "title": "Bangladesh Vs Australia",
@@ -390,22 +374,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "MotoGP",
-      "title": "Czechia Gp",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
-      "team_1": "Day 2",
-      "team_2": "BRNO",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "GRAND PRIX OF CZECHIA 2026",
-      "match_name": "Czechia Gp",
-      "match_id": 139952,
-      "startTime": "20 June 2026 12:10 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia Vs Nigeria",
       "src": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
@@ -418,6 +386,22 @@
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143316,
       "startTime": "20 June 2026 05:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "MotoGP",
+      "title": "Czechia Gp",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+      "team_1": "Day 2",
+      "team_2": "BRNO",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "GRAND PRIX OF CZECHIA 2026",
+      "match_name": "Czechia Gp",
+      "match_id": 139952,
+      "startTime": "20 June 2026 12:10 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,6 +626,22 @@
       "match_name": "Bangladesh Vs Australia",
       "match_id": 142970,
       "startTime": "21 June 2026 01:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Coastal Kings Mangaluru",
+      "team_2": "Hubli Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Coastal Kings Mangaluru Vs Hubli Tigers",
+      "match_id": 143417,
+      "startTime": "21 June 2026 02:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
