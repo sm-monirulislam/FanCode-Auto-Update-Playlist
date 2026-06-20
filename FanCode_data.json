@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "01:54:03 AM 21-06-2026",
+  "last update time": "03:04:48 AM 21-06-2026",
   "matches": [
     {
       "event_category": "Football",
@@ -34,8 +34,8 @@
       "match_name": "Day 3",
       "match_id": 143295,
       "startTime": "20 June 2026 09:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782056648~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p0qrvrg_zEkQnyrRLxCHGmSr8H9jAkBmghQ4Na-b9n-1lK6Ag2bXd-GKtZY9CCQstLTSYN2EZ5kUHqVKFGfK40J",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782056648~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p0qrvrg_zEkQnyrRLxCHGmSr8H9jAkBmghQ4Na-b9n-1lK6Ag2bXd-GKtZY9CCQstLTSYN2EZ5kUHqVKFGfK40J"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782071467~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p1L3KGrxql4jCgrhHriZCrbAgqaTbtVuaMyumcrKcLKaZzDo3SlCG9IDMyas0saRnnXPsN3480brArRu6eErJAH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782071467~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p1L3KGrxql4jCgrhHriZCrbAgqaTbtVuaMyumcrKcLKaZzDo3SlCG9IDMyas0saRnnXPsN3480brArRu6eErJAH"
     },
     {
       "event_category": "Tennis",
@@ -45,13 +45,13 @@
       "team_2": "Germany",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "ATP 500 - Terra Wortmann Open 2026",
       "match_name": "Day 4   Doubles Semifinal 2",
       "match_id": 143541,
       "startTime": "20 June 2026 09:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782057067~_GO=Generated~acl=/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/*~Signature=Afto3p2i3iaLYIXa--tE2HOwWOfpoBT7-ldE4B2-CHGk0-1-TKFvzsXPa4mFA3wewVIRD5YuiWvXEf32z1rbWeHatpAL",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782057067~_GO=Generated~acl=/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/*~Signature=Afto3p2i3iaLYIXa--tE2HOwWOfpoBT7-ldE4B2-CHGk0-1-TKFvzsXPa4mFA3wewVIRD5YuiWvXEf32z1rbWeHatpAL"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -178,22 +178,6 @@
       "match_name": "Bermuda Vs Bahamas",
       "match_id": 143284,
       "startTime": "21 June 2026 11:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "North America   Race 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-      "team_1": "North America - Race 1",
-      "team_2": "Laguna Seca",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Ferrari Challenge Series 2026",
-      "match_name": "North America   Race 1",
-      "match_id": 143346,
-      "startTime": "21 June 2026 01:55 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -370,22 +354,6 @@
       "match_name": "Day 4",
       "match_id": 143296,
       "startTime": "21 June 2026 08:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "North America   Race 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-      "team_1": "North America - Race 2",
-      "team_2": "Laguna Seca",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Ferrari Challenge Series 2026",
-      "match_name": "North America   Race 2",
-      "match_id": 143347,
-      "startTime": "22 June 2026 02:40 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -610,6 +578,38 @@
       "match_name": "Indore Pink Panthers Vs Gwalior Cheetahs",
       "match_id": 143099,
       "startTime": "23 June 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Thailand Vs Singapore",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Thailand",
+      "team_2": "Singapore",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THLD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SNG@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_name": "Thailand Vs Singapore",
+      "match_id": 143546,
+      "startTime": "23 June 2026 04:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "src": "https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png",
+      "team_1": "Namibia",
+      "team_2": "Nigeria",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Men's T20I Tri series in Namibia 2026",
+      "match_name": "Namibia Vs Nigeria",
+      "match_id": 143319,
+      "startTime": "23 June 2026 05:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
