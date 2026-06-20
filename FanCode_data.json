@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:21:36 AM 21-06-2026",
+  "last update time": "05:41:46 AM 21-06-2026",
   "matches": [
-    {
-      "event_category": "Football",
-      "title": "Almer\u00eda Vs M\u00e1laga",
-      "src": "https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_SPORTY_APP.png",
-      "team_1": "Almer\u00eda",
-      "team_2": "M\u00e1laga",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Almer\u00eda Vs M\u00e1laga",
-      "match_id": 143392,
-      "startTime": "21 June 2026 12:30 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782068282~_GO=Generated~acl=/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/*~Signature=Afto3p01s5OP9prkkw6VK31rHGXc1gK7Njd6ACj1pruVbYD84zIWX25bYkP9W4dro3ioyaTS6AZXcr3QzWrARL4kgqQJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782068282~_GO=Generated~acl=/mumbai/143392_english_hls_8479fafc8d73428_1ta-di_h264/*~Signature=Afto3p01s5OP9prkkw6VK31rHGXc1gK7Njd6ACj1pruVbYD84zIWX25bYkP9W4dro3ioyaTS6AZXcr3QzWrARL4kgqQJ"
-    },
     {
       "event_category": "Golf",
       "title": "Day 3",
@@ -36,22 +20,6 @@
       "startTime": "20 June 2026 09:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782071467~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p1L3KGrxql4jCgrhHriZCrbAgqaTbtVuaMyumcrKcLKaZzDo3SlCG9IDMyas0saRnnXPsN3480brArRu6eErJAH",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782071467~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p1L3KGrxql4jCgrhHriZCrbAgqaTbtVuaMyumcrKcLKaZzDo3SlCG9IDMyas0saRnnXPsN3480brArRu6eErJAH"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 4   Doubles Semifinal 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "team_1": "Day 4 - Doubles Semifinal 2",
-      "team_2": "Germany",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Terra Wortmann Open 2026",
-      "match_name": "Day 4   Doubles Semifinal 2",
-      "match_id": 143541,
-      "startTime": "20 June 2026 09:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -610,6 +578,38 @@
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143319,
       "startTime": "23 June 2026 05:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+      "team_1": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
+      "team_2": "Mallorca, Spain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+      "match_name": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
+      "match_id": 143272,
+      "startTime": "23 June 2026 02:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Atp 250   Lexus Eastbourne Open 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
+      "team_2": "Eastbourne, Great Britain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_name": "Atp 250   Lexus Eastbourne Open 2026",
+      "match_id": 143278,
+      "startTime": "23 June 2026 02:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
