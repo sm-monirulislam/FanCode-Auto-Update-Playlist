@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "03:49:13 AM 23-06-2026",
+  "last update time": "05:12:31 AM 23-06-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Brazil Vs Panama",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143286_6120_BRA_PAN_fc-App_1782137828167.jpg",
-      "team_1": "Brazil",
-      "team_2": "Panama",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PANA@2x.png",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-      "match_name": "Brazil Vs Panama",
-      "match_id": 143286,
-      "startTime": "22 June 2026 11:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P"
-    },
     {
       "event_category": "Cricket",
       "title": "Uzbekistan Vs Indonesia",
@@ -642,6 +626,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143550,
       "startTime": "26 June 2026 04:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "F3 Spielberg 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "F3 SPIELBERG 2026",
+      "team_2": "Spielberg",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F3 AUSTRIA 2026",
+      "match_name": "F3 Spielberg 2026",
+      "match_id": 139725,
+      "startTime": "26 June 2026 01:25 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
