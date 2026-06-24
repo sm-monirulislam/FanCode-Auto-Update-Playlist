@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "03:12:34 AM 25-06-2026",
+  "last update time": "04:39:40 AM 25-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,24 +18,8 @@
       "match_name": "Brazil Vs Belize",
       "match_id": 143288,
       "startTime": "24 June 2026 11:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782409863~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WIq3DOWoCnC1fmXXCzDqwpsyZdcAL_eDDyOWBFxqMQ_wTT9Y6rv7y0sfRc4WxZtJ4FXyGxKTFbhwCrXUJoh2akG",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782409863~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WIq3DOWoCnC1fmXXCzDqwpsyZdcAL_eDDyOWBFxqMQ_wTT9Y6rv7y0sfRc4WxZtJ4FXyGxKTFbhwCrXUJoh2akG"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "src": "https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Hubli Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "match_id": 143424,
-      "startTime": "24 June 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782424683~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WI0u6lhq8ocbOL4fjWNat0grV9fkc7TXdUjSkXQLIOUX7Ijm4PF8esfPamQN5i1-juoawJd4-gwiNX9RETt-J4L",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782424683~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WI0u6lhq8ocbOL4fjWNat0grV9fkc7TXdUjSkXQLIOUX7Ijm4PF8esfPamQN5i1-juoawJd4-gwiNX9RETt-J4L"
     },
     {
       "event_category": "Cricket",
@@ -278,22 +262,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "World Feed   Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "team_1": "World Feed - Day 1",
-      "team_2": "TPC River Highlands - Cromwell, Connecticut",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Travelers Championship 2026",
-      "match_name": "World Feed   Day 1",
-      "match_id": 143297,
-      "startTime": "26 June 2026 01:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Kcc Vs Itahari Super Kings",
       "src": "https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png",
@@ -306,6 +274,22 @@
       "match_name": "Kcc Vs Itahari Super Kings",
       "match_id": 143522,
       "startTime": "26 June 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed   Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "team_1": "World Feed - Day 1",
+      "team_2": "TPC River Highlands - Cromwell, Connecticut",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Travelers Championship 2026",
+      "match_name": "World Feed   Day 1",
+      "match_id": 143297,
+      "startTime": "26 June 2026 01:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,6 +626,22 @@
       "match_name": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters",
       "match_id": 143427,
       "startTime": "27 June 2026 02:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Karim Capital Chargers Vs Jayqo Panthers Faridabad",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "team_1": "Karim Capital Chargers",
+      "team_2": "Jayqo Panthers Faridabad",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPF@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Future Star U-15 Championship 2026",
+      "match_name": "Karim Capital Chargers Vs Jayqo Panthers Faridabad",
+      "match_id": 143557,
+      "startTime": "27 June 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
