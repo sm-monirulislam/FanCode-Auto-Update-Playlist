@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "11:57:56 PM 24-06-2026",
+  "match_amount": 40,
+  "last update time": "01:43:18 AM 25-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -29,45 +29,13 @@
       "team_2": "Hubli Tigers",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "Maharaja T20 Trophy, 2026",
       "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
       "match_id": 143424,
       "startTime": "24 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WKKKM9nhxJGAFl2tanJ5VfxcyW4cdZF0qLhD1PalmwTIT20YCZd2hYFwt9lIVbwI_gCKYzSElBXuOKHklE9VkUN",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WKKKM9nhxJGAFl2tanJ5VfxcyW4cdZF0qLhD1PalmwTIT20YCZd2hYFwt9lIVbwI_gCKYzSElBXuOKHklE9VkUN"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "src": "https://images.fancode.com/aig/match/v1781841438701/143424_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Hubli Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "match_id": 143424,
-      "startTime": "24 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WKPH_MZ3zcJ1atRi_xTvgVDfwP3sx98FWmECbv6MS6D6nzALC1W0N4rLBH7NWFTQLVboo9uKsUf5pCM2K77m5QP",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WKPH_MZ3zcJ1atRi_xTvgVDfwP3sx98FWmECbv6MS6D6nzALC1W0N4rLBH7NWFTQLVboo9uKsUf5pCM2K77m5QP"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 3",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-      "team_1": "Day 3",
-      "team_2": "Eastbourne, Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_name": "Day 3",
-      "match_id": 143279,
-      "startTime": "24 June 2026 03:30 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -658,6 +626,22 @@
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143321,
       "startTime": "27 June 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters",
+      "src": "https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png",
+      "team_1": "Shivamogga Yodhas",
+      "team_2": "Kalyani Bengaluru Blasters",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Shivamogga Yodhas Vs Kalyani Bengaluru Blasters",
+      "match_id": 143427,
+      "startTime": "27 June 2026 02:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
