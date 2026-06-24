@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "07:35:15 PM 24-06-2026",
+  "last update time": "09:59:47 PM 24-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,22 +20,6 @@
       "startTime": "24 June 2026 07:00 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bahadurgarh Royals Vs Aca Gurugram Vipers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "Bahadurgarh Royals",
-      "team_2": "ACA Gurugram Vipers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BGR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACAGV@2x.png",
-      "status": "LIVE",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Bahadurgarh Royals Vs Aca Gurugram Vipers",
-      "match_id": 143551,
-      "startTime": "24 June 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782393962~_GO=Generated~acl=/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/*~Signature=ARZJ1WKY9qqaiS7He4trWNK6oNf5xdJslMibWUf5M90ad4b4DKa1JMwjb6OwCIlwFPXQOmMiKz3q8EvV5QfM5KK-7rUA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782393962~_GO=Generated~acl=/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/*~Signature=ARZJ1WKY9qqaiS7He4trWNK6oNf5xdJslMibWUf5M90ad4b4DKa1JMwjb6OwCIlwFPXQOmMiKz3q8EvV5QfM5KK-7rUA"
     },
     {
       "event_category": "Cricket",
@@ -70,6 +54,22 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393545~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WIdcwt9JbMWHIMcIJ0_l2u6Uvutc4CFKd74VqveUvG4enV_xvt-L9QqS0AUWaXwCosW_nw4gsIemPW--j5xe50O"
     },
     {
+      "event_category": "Cricket",
+      "title": "Flying Fire Delhi Chargers Vs Karim Capital Chargers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "team_1": "Flying Fire Delhi Chargers",
+      "team_2": "Karim Capital Chargers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FFDC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
+      "status": "LIVE",
+      "event_name": "Future Star U-15 Championship 2026",
+      "match_name": "Flying Fire Delhi Chargers Vs Karim Capital Chargers",
+      "match_id": 143552,
+      "startTime": "24 June 2026 07:30 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143552_english_hls_d56e97fbf474930_1ta-di_h264/1080p5.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143552_english_hls_d56e97fbf474930_1ta-di_h264/1080p5.m3u8"
+    },
+    {
       "event_category": "Tennis",
       "title": "Day 3",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
@@ -82,8 +82,8 @@
       "match_name": "Day 3",
       "match_id": 143279,
       "startTime": "24 June 2026 03:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782380643~_GO=Generated~acl=/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/*~Signature=ARZJ1WIFmPF1TPuXG8M3RJcECtavsWiJts7yei1wPXrQRV20XV8jIO3NaYMgUlcPbT80X6QLncFsdCg2Mgqk4BVsz9gL",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782380643~_GO=Generated~acl=/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/*~Signature=ARZJ1WIFmPF1TPuXG8M3RJcECtavsWiJts7yei1wPXrQRV20XV8jIO3NaYMgUlcPbT80X6QLncFsdCg2Mgqk4BVsz9gL"
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Tennis",
@@ -98,40 +98,8 @@
       "match_name": "Day 4",
       "match_id": 143273,
       "startTime": "24 June 2026 04:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782382742~_GO=Generated~acl=/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/*~Signature=ARZJ1WJxi9iRe_2y5Je4EIrPwXmaGmiM57MxY_j_MckR7PHMZCRI2GS5VIxjT45cPKgr7tIxE93o32MYA0AbDc1PyQwA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782382742~_GO=Generated~acl=/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/*~Signature=ARZJ1WJxi9iRe_2y5Je4EIrPwXmaGmiM57MxY_j_MckR7PHMZCRI2GS5VIxjT45cPKgr7tIxE93o32MYA0AbDc1PyQwA"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gwalior Cheetahs Vs Royal Nimar Eagles",
-      "src": "https://images.fancode.com/aig/match/v1780469022415/143102_CASACARDS_SPORTY_APP.png",
-      "team_1": "Gwalior Cheetahs",
-      "team_2": "Royal Nimar Eagles",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Madhya Pradesh League T20, 2026",
-      "match_name": "Gwalior Cheetahs Vs Royal Nimar Eagles",
-      "match_id": 143102,
-      "startTime": "24 June 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Flying Fire Delhi Chargers Vs Karim Capital Chargers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "Flying Fire Delhi Chargers",
-      "team_2": "Karim Capital Chargers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FFDC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Flying Fire Delhi Chargers Vs Karim Capital Chargers",
-      "match_id": 143552,
-      "startTime": "24 June 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782397566~_GO=Generated~acl=/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/*~Signature=ARZJ1WIxkixZFpm9WAgjS6YjJvWZGoSrCsIjvnaD9Kw75r5z_DiqnxTWtXVS_gRJPJxCP-VjLe_RkuNHjjSS-RBpSBYN",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782397566~_GO=Generated~acl=/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/*~Signature=ARZJ1WIxkixZFpm9WAgjS6YjJvWZGoSrCsIjvnaD9Kw75r5z_DiqnxTWtXVS_gRJPJxCP-VjLe_RkuNHjjSS-RBpSBYN"
     },
     {
       "event_category": "Cricket",
@@ -167,22 +135,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-      "team_1": "Namibia",
-      "team_2": "Nigeria",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Nigeria tour of Namibia 2026",
-      "match_name": "Namibia Vs Nigeria",
-      "match_id": 143320,
-      "startTime": "25 June 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "team_1": "West Indies",
@@ -194,6 +146,22 @@
       "match_name": "West Indies Vs Sri Lanka",
       "match_id": 142978,
       "startTime": "25 June 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+      "team_1": "Namibia",
+      "team_2": "Nigeria",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Nigeria tour of Namibia 2026",
+      "match_name": "Namibia Vs Nigeria",
+      "match_id": 143320,
+      "startTime": "25 June 2026 01:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +626,38 @@
       "match_name": "Practice 2",
       "match_id": 139458,
       "startTime": "26 June 2026 08:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed   Day 2",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "team_1": "World Feed - Day 2",
+      "team_2": "TPC River Highlands - Cromwell, Connecticut",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Travelers Championship 2026",
+      "match_name": "World Feed   Day 2",
+      "match_id": 143298,
+      "startTime": "27 June 2026 01:30 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Practice Session",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Practice Session",
+      "team_2": "Red Bull Ring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Supercup 2026",
+      "match_name": "Practice Session",
+      "match_id": 143571,
+      "startTime": "26 June 2026 10:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
