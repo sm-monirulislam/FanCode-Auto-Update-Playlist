@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "03:57:14 PM 25-06-2026",
+  "last update time": "06:14:18 PM 25-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -71,6 +71,22 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Singapore Vs Indonesia",
+      "src": "https://images.fancode.com/aig/match/v1782018540421/143548_CASACARDS_SPORTY_APP.png",
+      "team_1": "Singapore",
+      "team_2": "Indonesia",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SNG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDO@2x.png",
+      "status": "LIVE",
+      "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_name": "Singapore Vs Indonesia",
+      "match_id": 143548,
+      "startTime": "25 June 2026 04:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Namibia Vs Nigeria",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
       "team_1": "Namibia",
@@ -82,8 +98,8 @@
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143320,
       "startTime": "25 June 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782473403~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJl5GquDF7ZkZnHL2kJCAOosr-9Dl5ATP_aJz-QK15Jvue8Vjse-xZ_Hin9y-c4aoGHe6q77HjxXrO0Tohj5R4K",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782473403~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJl5GquDF7ZkZnHL2kJCAOosr-9Dl5ATP_aJz-QK15Jvue8Vjse-xZ_Hin9y-c4aoGHe6q77HjxXrO0Tohj5R4K"
     },
     {
       "event_category": "Tennis",
@@ -118,6 +134,22 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143280_english_hls_4b57dd43a573509_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782467043~_GO=Generated~acl=/mumbai/143280_english_hls_4b57dd43a573509_1ta-di_h264/*~Signature=ARZJ1WKwEGUX8seye5pFrlOnBbJAO6tLn4QzG3UZp9Nt1W-p1PZnmdMCSbCfdIX60c2wbxrF94SRn-bU6M4B8ZYqLeQH"
     },
     {
+      "event_category": "Golf",
+      "title": "Main Feed   Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "team_1": "Main Feed - Day 1",
+      "team_2": "TPC River Highlands - Cromwell, Connecticut",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "Travelers Championship 2026",
+      "match_name": "Main Feed   Day 1",
+      "match_id": 143574,
+      "startTime": "25 June 2026 05:45 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782475503~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WLBId_eieYg566YZMxvNQHyVI7OBW1RvmLq5Gpa1EvrFNZeEPuFwV_PmE0DH9vQZIhQMjPrnSm5slvld6KZt1MJ",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782475503~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WLBId_eieYg566YZMxvNQHyVI7OBW1RvmLq5Gpa1EvrFNZeEPuFwV_PmE0DH9vQZIhQMjPrnSm5slvld6KZt1MJ"
+    },
+    {
       "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
@@ -130,22 +162,6 @@
       "match_name": "West Indies Vs Sri Lanka",
       "match_id": 142978,
       "startTime": "25 June 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Singapore Vs Indonesia",
-      "src": "https://images.fancode.com/aig/match/v1782018540421/143548_CASACARDS_SPORTY_APP.png",
-      "team_1": "Singapore",
-      "team_2": "Indonesia",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SNG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDO@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_name": "Singapore Vs Indonesia",
-      "match_id": 143548,
-      "startTime": "25 June 2026 04:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -294,38 +310,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Main Feed   Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "team_1": "Main Feed - Day 1",
-      "team_2": "TPC River Highlands - Cromwell, Connecticut",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Travelers Championship 2026",
-      "match_name": "Main Feed   Day 1",
-      "match_id": 143574,
-      "startTime": "25 June 2026 05:45 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "World Feed   Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "team_1": "World Feed - Day 1",
-      "team_2": "TPC River Highlands - Cromwell, Connecticut",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Travelers Championship 2026",
-      "match_name": "World Feed   Day 1",
-      "match_id": 143297,
-      "startTime": "26 June 2026 01:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -354,6 +338,22 @@
       "match_name": "Aca Gurugram Vipers Vs Ka Noida Blaze",
       "match_id": 143556,
       "startTime": "26 June 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "World Feed   Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "team_1": "World Feed - Day 1",
+      "team_2": "TPC River Highlands - Cromwell, Connecticut",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Travelers Championship 2026",
+      "match_name": "World Feed   Day 1",
+      "match_id": 143297,
+      "startTime": "26 June 2026 01:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -529,7 +529,7 @@
       "event_name": "Porsche Mobil 1 Supercup 2026",
       "match_name": "Practice Session",
       "match_id": 143571,
-      "startTime": "26 June 2026 10:00 PM",
+      "startTime": "26 June 2026 10:05 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
