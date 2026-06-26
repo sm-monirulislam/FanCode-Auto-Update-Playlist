@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "02:49:16 AM 27-06-2026",
+  "last update time": "04:09:07 AM 27-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142978,
       "startTime": "25 June 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782581843~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WI4XWuPYw7OkDUiUfSLfBoArWQqDA-jzBwhP2QqGMso2J1ghJFWklBvQibBSte9JIk2aaZ4hOLuobiqwBZDsj0E",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782581843~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WI4XWuPYw7OkDUiUfSLfBoArWQqDA-jzBwhP2QqGMso2J1ghJFWklBvQibBSte9JIk2aaZ4hOLuobiqwBZDsj0E"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782596648~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WK7JIwacspAmlFZ25vTM9dyV5EGp4P5QKJSWNc6j9pMwJtbw_EKilVD4FRpZ60DInSUWrVaB4sI82QIr80fGrcP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782596648~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WK7JIwacspAmlFZ25vTM9dyV5EGp4P5QKJSWNc6j9pMwJtbw_EKilVD4FRpZ60DInSUWrVaB4sI82QIr80fGrcP"
     },
     {
       "event_category": "Golf",
@@ -45,13 +45,13 @@
       "team_2": "TPC River Highlands - Cromwell, Connecticut",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "Travelers Championship 2026",
       "match_name": "World Feed   Day 2",
       "match_id": 143298,
       "startTime": "27 June 2026 01:30 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143298_english_hls_6a04ee84cc74516_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782589451~_GO=Generated~acl=/mumbai/143298_english_hls_6a04ee84cc74516_1ta-di_h264/*~Signature=ARZJ1WLZ_zscYa_lqZ5tMyHrq9RHtZxBXcsk5xqcVqSm0_VmXjDWq7-OnmMgoK93Mc_kwksBVt_clcD177nWJapb6wUN",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143298_english_hls_6a04ee84cc74516_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782589451~_GO=Generated~acl=/mumbai/143298_english_hls_6a04ee84cc74516_1ta-di_h264/*~Signature=ARZJ1WLZ_zscYa_lqZ5tMyHrq9RHtZxBXcsk5xqcVqSm0_VmXjDWq7-OnmMgoK93Mc_kwksBVt_clcD177nWJapb6wUN"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
