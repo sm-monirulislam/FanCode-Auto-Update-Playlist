@@ -1,9 +1,7 @@
 name: Auto Update FanCode playlist
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "*/15 * * * *"   # প্রতি ১৫ মিনিটে run
+  repository_dispatch:
 
 permissions:
   contents: write
@@ -29,25 +27,19 @@ jobs:
           python-version: "3.11"
 
       - name: Install Dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Run Python Script
-        run: |
-          python fancode_sm.py
+        run: python fancode_sm.py
 
       - name: Delete Python Script After Run
-        run: |
-          rm -f fancode_sm.py
+        run: rm -f fancode_sm.py
 
       - name: Commit & Push Output Files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git pull
-          
-          # এখানে নতুন ফাইলের নামগুলো আপডেট করা হয়েছে
+          git pull --rebase origin main
           git add fancode_bd.m3u fancode_in.m3u FanCode_data.json
-          
           git diff --cached --quiet || git commit -m "Auto Update FanCode - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
