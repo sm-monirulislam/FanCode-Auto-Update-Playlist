@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 39,
-  "last update time": "11:59:06 PM 27-06-2026",
+  "match_amount": 38,
+  "last update time": "01:38:23 AM 28-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,38 +20,6 @@
       "startTime": "25 June 2026 07:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668229~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WJbnFYOEF6Go_Ma9GtpRqQxdY0UNFQJFDOTeMVkpLb1ZMiWSiiRO5Q_Qs4vT3e7SCP1zImrcMA3z6-oCMpKqa4H",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668229~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WJbnFYOEF6Go_Ma9GtpRqQxdY0UNFQJFDOTeMVkpLb1ZMiWSiiRO5Q_Qs4vT3e7SCP1zImrcMA3z6-oCMpKqa4H"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mysore Warriors Vs Gulbarga Mystics",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg",
-      "team_1": "Mysore Warriors",
-      "team_2": "Gulbarga Mystics",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Mysore Warriors Vs Gulbarga Mystics",
-      "match_id": 143428,
-      "startTime": "27 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667572~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WJfvhlbrAYk2h0g1OiX3Y8NE1egiTmYlR5ObEYns5kPPSIrsGK2oHaDIKaVLL3x-uPeLs2kv8ijGJcGpwkziLEO",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667572~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WJfvhlbrAYk2h0g1OiX3Y8NE1egiTmYlR5ObEYns5kPPSIrsGK2oHaDIKaVLL3x-uPeLs2kv8ijGJcGpwkziLEO"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mysore Warriors Vs Gulbarga Mystics",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143428_6134_MW_GMY_FC-WEB_1782272593056.jpg",
-      "team_1": "Mysore Warriors",
-      "team_2": "Gulbarga Mystics",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Mysore Warriors Vs Gulbarga Mystics",
-      "match_id": 143428,
-      "startTime": "27 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667573~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WJ40_4yvBSGy0FZCssqsPmfz0u5lyS_e_bSAwLnRi-nCIPa4FeR6tw8-W95hiLjCQBaxuc-_nNpNsTK9OAprEkK",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667573~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WJ40_4yvBSGy0FZCssqsPmfz0u5lyS_e_bSAwLnRi-nCIPa4FeR6tw8-W95hiLjCQBaxuc-_nNpNsTK9OAprEkK"
     },
     {
       "event_category": "Cricket",
@@ -84,22 +52,6 @@
       "startTime": "27 June 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782665048~_GO=Generated~acl=/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/*~Signature=ARZJ1WILJy4A0pxKBHNIaGT9h04VQ5qv5DBZK5n5LxbkQxKYvtGaTUYpjS_P2BAUQMAcqvKj3wykfxf1Qz7zCA_kWZEB",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782665048~_GO=Generated~acl=/mumbai/143576_english_hls_2f9ee357a788544_1ta-di_h264/*~Signature=ARZJ1WILJy4A0pxKBHNIaGT9h04VQ5qv5DBZK5n5LxbkQxKYvtGaTUYpjS_P2BAUQMAcqvKj3wykfxf1Qz7zCA_kWZEB"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Men's Final",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-      "team_1": "Men's Final",
-      "team_2": "Eastbourne, Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_name": "Men's Final",
-      "match_id": 143282,
-      "startTime": "27 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Golf",
@@ -626,6 +578,38 @@
       "match_name": "Mis E Ainak Knights Vs Speen Ghar Tigers",
       "match_id": 143583,
       "startTime": "01 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Itahari Super Kings Vs Kcc",
+      "src": "https://images.fancode.com/aig/match/v1781869172003/143533_CASACARDS_SPORTY_APP.png",
+      "team_1": "Itahari Super Kings",
+      "team_2": "KCC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Itahari Super Kings Vs Kcc",
+      "match_id": 143533,
+      "startTime": "02 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Rml Sports Vs Hpca Patna",
+      "src": "https://images.fancode.com/aig/match/v1781869164718/143534_CASACARDS_SPORTY_APP.png",
+      "team_1": "RML Sports",
+      "team_2": "HPCA Patna",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HPCAP@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Rml Sports Vs Hpca Patna",
+      "match_id": 143534,
+      "startTime": "02 July 2026 12:45 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
