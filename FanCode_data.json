@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "08:05:54 PM 27-06-2026",
+  "last update time": "09:38:18 PM 27-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -34,8 +34,24 @@
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143321,
       "startTime": "27 June 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782660608~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WIFFxvz1M5AtqLo8l3fc46SGAJJIi8BIYhmt1lvIbmF5YC985gGFmp6am7X9M83mkmSYX51BF6C-oHKKdJuwpEA",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782660608~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WIFFxvz1M5AtqLo8l3fc46SGAJJIi8BIYhmt1lvIbmF5YC985gGFmp6am7X9M83mkmSYX51BF6C-oHKKdJuwpEA"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bahamas Vs Belize",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg",
+      "team_1": "Bahamas",
+      "team_2": "Belize",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLE@2x.png",
+      "status": "LIVE",
+      "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+      "match_name": "Bahamas Vs Belize",
+      "match_id": 143291,
+      "startTime": "27 June 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK"
     },
     {
       "event_category": "Cricket",
@@ -71,22 +87,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Bahamas Vs Belize",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-App_1782198649880.jpg",
-      "team_1": "Bahamas",
-      "team_2": "Belize",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLE@2x.png",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-      "match_name": "Bahamas Vs Belize",
-      "match_id": 143291,
-      "startTime": "27 June 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK"
-    },
-    {
-      "event_category": "Cricket",
       "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "team_1": "Bahadurgarh Royals",
@@ -114,8 +114,8 @@
       "match_name": "Netherlands Gp",
       "match_id": 139955,
       "startTime": "27 June 2026 12:10 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782643025~_GO=Generated~acl=/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/*~Signature=ARZJ1WIrxSlI7dZfQnvpA6sfIcekmfvGw1nzNDsDJtNFsucM8_3LM1hxKwnqOGPjeQtSAwQZtqnBH7Nru0GU5Si3NecF",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782643025~_GO=Generated~acl=/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/*~Signature=ARZJ1WIrxSlI7dZfQnvpA6sfIcekmfvGw1nzNDsDJtNFsucM8_3LM1hxKwnqOGPjeQtSAwQZtqnBH7Nru0GU5Si3NecF"
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/1080p5.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/139955_english_hls_1ac25133f375303_1ta-di_h264/1080p5.m3u8"
     },
     {
       "event_category": "Golf",
@@ -260,23 +260,6 @@
       "startTime": "28 June 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
-    },
-    {
-      "event_category": "Formula 1",
-      "title": "Qualifying",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Austria",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "LIVE",
-      "event_name": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
-      "match_name": "Qualifying",
-      "match_id": 139460,
-      "startTime": "27 June 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-      "drm_key": "5c951b07000b4d23ab8078aea19241d8:4b1dae3614d4fa32ae6fd7fca3c20393"
     },
     {
       "event_category": "Cricket",
@@ -627,6 +610,22 @@
       "match_name": "Mysore Warriors Vs Coastal Kings Mangaluru",
       "match_id": 143433,
       "startTime": "30 June 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Mills Cricket Club Vs Rml Sports",
+      "src": "https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png",
+      "team_1": "Mills Cricket Club",
+      "team_2": "RML Sports",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ML@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Mills Cricket Club Vs Rml Sports",
+      "match_id": 143531,
+      "startTime": "01 July 2026 08:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
