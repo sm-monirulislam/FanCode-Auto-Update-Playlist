@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "01:10:54 PM 29-06-2026",
+  "last update time": "01:20:24 PM 29-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,22 +20,6 @@
       "startTime": "28 June 2026 01:00 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Itahari Super Kings Vs Mills Cricket Club",
-      "src": "https://images.fancode.com/aig/match/v1781869164717/143527_CASACARDS_SPORTY_APP.png",
-      "team_1": "Itahari Super Kings",
-      "team_2": "Mills Cricket Club",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ML@2x.png",
-      "status": "LIVE",
-      "event_name": "KPL Indo Nepal T20 2026",
-      "match_name": "Itahari Super Kings Vs Mills Cricket Club",
-      "match_id": 143527,
-      "startTime": "29 June 2026 08:45 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782802693~_GO=Generated~acl=/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/*~Signature=ARZJ1WIHfczq6WZBKRIY45XjPPQCNSySLfeC18t09VBvieQoJ2NAWGGFV3DAC8sxJsHa4_4sNrnHV_TxNe1kQSefR_kA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782802693~_GO=Generated~acl=/mumbai/143527_english_hls_326b1a1f7d22680_1ta-di_h264/*~Signature=ARZJ1WIHfczq6WZBKRIY45XjPPQCNSySLfeC18t09VBvieQoJ2NAWGGFV3DAC8sxJsHa4_4sNrnHV_TxNe1kQSefR_kA"
     },
     {
       "event_category": "Cricket",
@@ -61,13 +45,13 @@
       "team_2": "Nigeria",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Nigeria tour of Namibia 2026",
       "match_name": "Namibia Vs Nigeria",
       "match_id": 143322,
       "startTime": "29 June 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803945~_GO=Generated~acl=/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/*~Signature=ARZJ1WJYMjDChagHwabdQr800HfNtl3mPdYVo-CtJdRa3Ns0wQnGn25tfeCVDhFvU3dbNukmo4IY3ORFODU3DvFoT60E",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803945~_GO=Generated~acl=/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/*~Signature=ARZJ1WJYMjDChagHwabdQr800HfNtl3mPdYVo-CtJdRa3Ns0wQnGn25tfeCVDhFvU3dbNukmo4IY3ORFODU3DvFoT60E"
     },
     {
       "event_category": "Cricket",
@@ -642,6 +626,22 @@
       "match_name": "F2 Great Britain 2026",
       "match_id": 139634,
       "startTime": "03 July 2026 02:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
+      "team_1": "Day 2",
+      "team_2": "Hulencourt Golf Club, Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Hulencourt Women's Open 2026",
+      "match_name": "Day 2",
+      "match_id": 143409,
+      "startTime": "03 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
