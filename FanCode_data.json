@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "07:31:11 PM 29-06-2026",
+  "last update time": "08:01:10 PM 29-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,22 +20,6 @@
       "startTime": "28 June 2026 01:00 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782817511~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/*~Signature=ARZJ1WLhFRCOm6uja8El-2KJq4MjF4DeGUreRMOj40yr-JBVyIjPR3Q8ftQVqBAOyxgcJ5TQcGoQb3HDuU9n4xALsGIN",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782817511~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/*~Signature=ARZJ1WLhFRCOm6uja8El-2KJq4MjF4DeGUreRMOj40yr-JBVyIjPR3Q8ftQVqBAOyxgcJ5TQcGoQb3HDuU9n4xALsGIN"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-      "team_1": "Namibia",
-      "team_2": "Nigeria",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
-      "status": "LIVE",
-      "event_name": "Nigeria tour of Namibia 2026",
-      "match_name": "Namibia Vs Nigeria",
-      "match_id": 143322,
-      "startTime": "29 June 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -70,6 +54,22 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143431_kannada_hls_a268e9b1be67619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782825547~_GO=Generated~acl=/mumbai/143431_kannada_hls_a268e9b1be67619_1ta-di_h264/*~Signature=ARZJ1WLeWvmCCStYAPZU6-PT0JVW8hnumYzcI2nSae5m9_cfLNxVts_J3xja20OILMP5kV2sbyBISNx0IDPEK-0VtxwH"
     },
     {
+      "event_category": "Cricket",
+      "title": "Jayqo Panthers Faridabad Vs Flying Fire Delhi Chargers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "team_1": "Jayqo Panthers Faridabad",
+      "team_2": "Flying Fire Delhi Chargers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPF@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FFDC@2x.png",
+      "status": "LIVE",
+      "event_name": "Future Star U-15 Championship 2026",
+      "match_name": "Jayqo Panthers Faridabad Vs Flying Fire Delhi Chargers",
+      "match_id": 143562,
+      "startTime": "29 June 2026 07:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782827465~_GO=Generated~acl=/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/*~Signature=ARZJ1WK6HHs30esrT9q0qgANe92-PD8FL7S9CBuaizFq-sQUN_AChL5l_lqT4izHbOt7_3V2VkWPDAC2pyOTZEDk95oL",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782827465~_GO=Generated~acl=/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/*~Signature=ARZJ1WK6HHs30esrT9q0qgANe92-PD8FL7S9CBuaizFq-sQUN_AChL5l_lqT4izHbOt7_3V2VkWPDAC2pyOTZEDk95oL"
+    },
+    {
       "event_category": "Golf",
       "title": "World Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
@@ -100,22 +100,6 @@
       "startTime": "29 June 2026 12:45 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782817925~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WJNZgIhYQe9pWdFHVR61gBO5pK-_wSXVBDGkZsbhervQbFF5ZFAAVP4hJF8hiRC_FAzRY_JhmSS281lSiv7VQsL",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782817925~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WJNZgIhYQe9pWdFHVR61gBO5pK-_wSXVBDGkZsbhervQbFF5ZFAAVP4hJF8hiRC_FAzRY_JhmSS281lSiv7VQsL"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Jayqo Panthers Faridabad Vs Flying Fire Delhi Chargers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "Jayqo Panthers Faridabad",
-      "team_2": "Flying Fire Delhi Chargers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPF@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FFDC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Jayqo Panthers Faridabad Vs Flying Fire Delhi Chargers",
-      "match_id": 143562,
-      "startTime": "29 June 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -344,7 +328,7 @@
     {
       "event_category": "Cricket",
       "title": "Namibia Vs Vidarbha",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vidarbha-vs-Namibia_fc-web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143628_6150_NAM_VID_fc-web.jpg",
       "team_1": "Namibia",
       "team_2": "Vidarbha",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
@@ -454,6 +438,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Day 1   Main Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "team_1": "Day 1 - Main Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 1   Main Feed",
+      "match_id": 143665,
+      "startTime": "02 July 2026 06:15 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Chhinnamasta Lions Vs Itahari Super Kings",
       "src": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
@@ -466,6 +466,22 @@
       "match_name": "Chhinnamasta Lions Vs Itahari Super Kings",
       "match_id": 143535,
       "startTime": "03 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "team_1": "Day 1 - World Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 1   World Feed",
+      "match_id": 143664,
+      "startTime": "03 July 2026 02:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,22 +658,6 @@
       "match_name": "F2 Great Britain 2026",
       "match_id": 139635,
       "startTime": "03 July 2026 07:25 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 2",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 2",
-      "match_id": 143409,
-      "startTime": "03 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
