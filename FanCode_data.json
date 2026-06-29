@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "02:12:46 PM 29-06-2026",
+  "match_amount": 41,
+  "last update time": "02:27:41 PM 29-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -61,13 +61,29 @@
       "team_2": "Hubli Tigers",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Maharaja T20 Trophy, 2026",
       "match_name": "Gulbarga Mystics Vs Hubli Tigers",
       "match_id": 143430,
       "startTime": "29 June 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807545~_GO=Generated~acl=/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/*~Signature=ARZJ1WIieTThchoGbxPDu4RjFJbN5TTH8Xy-HHmFuACP-eCqBLxOKxgUxRaFEXctYU-9zF764OkrVfRfKLcWZQGzz-MH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807545~_GO=Generated~acl=/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/*~Signature=ARZJ1WIieTThchoGbxPDu4RjFJbN5TTH8Xy-HHmFuACP-eCqBLxOKxgUxRaFEXctYU-9zF764OkrVfRfKLcWZQGzz-MH"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Gulbarga Mystics Vs Hubli Tigers",
+      "src": "https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png",
+      "team_1": "Gulbarga Mystics",
+      "team_2": "Hubli Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Gulbarga Mystics Vs Hubli Tigers",
+      "match_id": 143430,
+      "startTime": "29 June 2026 02:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807546~_GO=Generated~acl=/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/*~Signature=ARZJ1WJhQR4QCcbb97j_AYCxHggPd3v_aN5XjP_48JhLtAwk3s1CGrzol81lfTMKMVBCJDBnY7C-RCohKfB4LckXnRAP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807546~_GO=Generated~acl=/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/*~Signature=ARZJ1WJhQR4QCcbb97j_AYCxHggPd3v_aN5XjP_48JhLtAwk3s1CGrzol81lfTMKMVBCJDBnY7C-RCohKfB4LckXnRAP"
     },
     {
       "event_category": "Cricket",
