@@ -30,24 +30,28 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests
 
       - name: Run Python Script
         run: |
           python fancode_sm.py
 
-      - name: Delete Python Script After Run
+      - name: Cleanup
         run: |
           rm -f fancode_sm.py
 
       - name: Commit & Push Output Files
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git pull
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # এখানে নতুন ফাইলের নামগুলো আপডেট করা হয়েছে
-          git add fancode_bd.m3u fancode_in.m3u FanCode_data.json
-          
-          git diff --cached --quiet || git commit -m "Auto Update FanCode - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          # চেক করুন কোনো ফাইল আপডেট হয়েছে কি না
+          if [[ -n $(git status -s) ]]; then
+            git add fancode_bd.m3u fancode_in.m3u FanCode_data.json
+            git commit -m "Auto Update FanCode - $(date +'%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
