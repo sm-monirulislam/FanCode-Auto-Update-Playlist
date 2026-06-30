@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "07:00:43 PM 30-06-2026",
+  "match_amount": 42,
+  "last update time": "07:30:39 PM 30-06-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -39,19 +39,19 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Ddh Meerut Spartans Vs Sonipat Kings",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "DDH Meerut Spartans",
-      "team_2": "Sonipat Kings",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDHMS@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SK@2x.png",
+      "title": "Mysore Warriors Vs Coastal Kings Mangaluru",
+      "src": "https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png",
+      "team_1": "Mysore Warriors",
+      "team_2": "Coastal Kings Mangaluru",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
       "status": "LIVE",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Ddh Meerut Spartans Vs Sonipat Kings",
-      "match_id": 143563,
-      "startTime": "30 June 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782897125~_GO=Generated~acl=/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/*~Signature=ARZJ1WK-ccw8wYa5FTA-3Z-sS2oMZKupvYppIo7VcEhqa-AdCq9mfKkYLToRmqy0hYeFbMzzqmAq5auJp0yHRXw-CGgP",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782897125~_GO=Generated~acl=/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/*~Signature=ARZJ1WK-ccw8wYa5FTA-3Z-sS2oMZKupvYppIo7VcEhqa-AdCq9mfKkYLToRmqy0hYeFbMzzqmAq5auJp0yHRXw-CGgP"
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Mysore Warriors Vs Coastal Kings Mangaluru",
+      "match_id": 143433,
+      "startTime": "30 June 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911945~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WJRJiQsxa14498Z8VpAjFbq4o2vbCSvjpRCc_U5xCTnN6G-b64072f8--Y4npmHd44ladmbXdCudsazk2I2-RcA",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911945~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WJRJiQsxa14498Z8VpAjFbq4o2vbCSvjpRCc_U5xCTnN6G-b64072f8--Y4npmHd44ladmbXdCudsazk2I2-RcA"
     },
     {
       "event_category": "Cricket",
@@ -61,13 +61,13 @@
       "team_2": "Coastal Kings Mangaluru",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Maharaja T20 Trophy, 2026",
       "match_name": "Mysore Warriors Vs Coastal Kings Mangaluru",
       "match_id": 143433,
       "startTime": "30 June 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911946~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKlpqjAydIHD5Fu0XefGsllZcswX0b4TrrpHr6Ubd0RIQSas_KjB-bHfP2Xp0scQ-l5U8jwhJieS7Y97b7BHlYB",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911946~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKlpqjAydIHD5Fu0XefGsllZcswX0b4TrrpHr6Ubd0RIQSas_KjB-bHfP2Xp0scQ-l5U8jwhJieS7Y97b7BHlYB"
     },
     {
       "event_category": "Cricket",
@@ -658,6 +658,22 @@
       "match_name": "Day 2",
       "match_id": 143579,
       "startTime": "04 July 2026 03:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143537,
+      "startTime": "04 July 2026 08:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
