@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "11:30:39 PM 30-06-2026",
+  "last update time": "12:00:45 AM 01-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -36,22 +36,6 @@
       "startTime": "30 June 2026 07:00 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Karim Capital Chargers Vs Ka Noida Blaze",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "Karim Capital Chargers",
-      "team_2": "KA Noida Blaze",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANB@2x.png",
-      "status": "LIVE",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Karim Capital Chargers Vs Ka Noida Blaze",
-      "match_id": 143565,
-      "startTime": "30 June 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA"
     },
     {
       "event_category": "Cricket",
@@ -658,6 +642,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143538,
       "startTime": "04 July 2026 12:45 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
+      "team_1": "Namibia",
+      "team_2": "Vidarbha",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Cricket Association tour of Namibia",
+      "match_name": "Namibia Vs Vidarbha",
+      "match_id": 143629,
+      "startTime": "04 July 2026 01:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
