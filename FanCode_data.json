@@ -2,41 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 42,
-  "last update time": "07:30:39 PM 30-06-2026",
+  "match_amount": 41,
+  "last update time": "08:00:40 PM 30-06-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
-      "src": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Gulbarga Mystics",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Gulbarga Mystics",
-      "match_id": 143432,
-      "startTime": "30 June 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782909145~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WJ6vVmGM7iOUcnXcW661o2gU9zOiTaaiRc4CUov53TCVj_9DuOIAxW6SteRaasqSOQnnnvCZsWSvRdHgQsmwIoJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782909145~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WJ6vVmGM7iOUcnXcW661o2gU9zOiTaaiRc4CUov53TCVj_9DuOIAxW6SteRaasqSOQnnnvCZsWSvRdHgQsmwIoJ"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
-      "src": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Gulbarga Mystics",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Gulbarga Mystics",
-      "match_id": 143432,
-      "startTime": "30 June 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782909145~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WJQZlMXr7cIbOPA0KvY_a1taQeUjVHD15jenMH1s1YvA1xoLxRZ_seoKR-h_AYSt_qXTQtrXlVBJr8RDqjUPaID",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782909145~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WJQZlMXr7cIbOPA0KvY_a1taQeUjVHD15jenMH1s1YvA1xoLxRZ_seoKR-h_AYSt_qXTQtrXlVBJr8RDqjUPaID"
-    },
     {
       "event_category": "Cricket",
       "title": "Mysore Warriors Vs Coastal Kings Mangaluru",
@@ -77,13 +45,13 @@
       "team_2": "KA Noida Blaze",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANB@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Future Star U-15 Championship 2026",
       "match_name": "Karim Capital Chargers Vs Ka Noida Blaze",
       "match_id": 143565,
       "startTime": "30 June 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA"
     },
     {
       "event_category": "Cricket",
@@ -674,6 +642,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143537,
       "startTime": "04 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143538,
+      "startTime": "04 July 2026 12:45 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
