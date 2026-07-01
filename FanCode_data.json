@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "11:30:20 PM 01-07-2026",
+  "last update time": "12:00:21 AM 02-07-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Karim Capital Chargers Vs Ddh Meerut Spartans",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "team_1": "Karim Capital Chargers",
-      "team_2": "DDH Meerut Spartans",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDHMS@2x.png",
-      "status": "LIVE",
-      "event_name": "Future Star U-15 Championship 2026",
-      "match_name": "Karim Capital Chargers Vs Ddh Meerut Spartans",
-      "match_id": 143564,
-      "startTime": "01 July 2026 06:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE"
-    },
     {
       "event_category": "Cricket",
       "title": "Itahari Super Kings Vs Kcc",
@@ -642,6 +626,22 @@
       "match_name": "Sprint",
       "match_id": 139464,
       "startTime": "04 July 2026 04:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Dtm Race 1   Norisring",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "team_1": "DTM Race 1 - Norisring",
+      "team_2": "Norisring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "DTM 2026",
+      "match_name": "Dtm Race 1   Norisring",
+      "match_id": 143623,
+      "startTime": "04 July 2026 04:45 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
