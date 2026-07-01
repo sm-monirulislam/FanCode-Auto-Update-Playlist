@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "09:00:37 AM 01-07-2026",
+  "last update time": "09:30:43 AM 01-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -13,13 +13,13 @@
       "team_2": "RML Sports",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ML@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "KPL Indo Nepal T20 2026",
       "match_name": "Mills Cricket Club Vs Rml Sports",
       "match_id": 143531,
       "startTime": "01 July 2026 08:45 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782961505~_GO=Generated~acl=/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/*~Signature=ARZJ1WL3jv7-ARfK2SGBzsHS-pvMbPu4slI7vEKghd2-EaT4LJMuudtgcUpKVsaYxCJjlHcCzznqJZRsXGELygD97K4A",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782961505~_GO=Generated~acl=/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/*~Signature=ARZJ1WL3jv7-ARfK2SGBzsHS-pvMbPu4slI7vEKghd2-EaT4LJMuudtgcUpKVsaYxCJjlHcCzznqJZRsXGELygD97K4A"
     },
     {
       "event_category": "Cricket",
@@ -71,8 +71,24 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Itahari Super Kings Vs Kcc",
+      "src": "https://images.fancode.com/aig/match/v1781869172003/143533_CASACARDS_SPORTY_APP.png",
+      "team_1": "Itahari Super Kings",
+      "team_2": "KCC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Itahari Super Kings Vs Kcc",
+      "match_id": 143533,
+      "startTime": "02 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Amo Sharks Vs Band E Amir Dragons",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-App_1782724982761.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
       "team_1": "Amo Sharks",
       "team_2": "Band-e-Amir Dragons",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
@@ -88,7 +104,7 @@
     {
       "event_category": "Cricket",
       "title": "Mis E Ainak Knights Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-App_1782724982806.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
       "team_1": "Mis-e-Ainak Knights",
       "team_2": "Speen Ghar Tigers",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
@@ -114,22 +130,6 @@
       "match_name": "Bangladesh Vs Zimbabwe",
       "match_id": 143399,
       "startTime": "28 June 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Itahari Super Kings Vs Kcc",
-      "src": "https://images.fancode.com/aig/match/v1781869172003/143533_CASACARDS_SPORTY_APP.png",
-      "team_1": "Itahari Super Kings",
-      "team_2": "KCC",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "KPL Indo Nepal T20 2026",
-      "match_name": "Itahari Super Kings Vs Kcc",
-      "match_id": 143533,
-      "startTime": "02 July 2026 08:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -184,7 +184,7 @@
     {
       "event_category": "Cricket",
       "title": "Bost Defenders Vs Amo Sharks",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-App_1782724983534.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
       "team_1": "Bost Defenders",
       "team_2": "Amo Sharks",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
@@ -216,7 +216,7 @@
     {
       "event_category": "Cricket",
       "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-App_1782724982799.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
       "team_1": "Speen Ghar Tigers",
       "team_2": "Band-e-Amir Dragons",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
@@ -424,7 +424,7 @@
     {
       "event_category": "Cricket",
       "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-App_1782724982806.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg",
       "team_1": "Band-e-Amir Dragons",
       "team_2": "Mis-e-Ainak Knights",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
@@ -632,7 +632,7 @@
     {
       "event_category": "Cricket",
       "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-App_1782724982781.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
       "team_1": "Bost Defenders",
       "team_2": "Speen Ghar Tigers",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
