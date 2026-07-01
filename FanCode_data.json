@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "06:30:22 PM 01-07-2026",
+  "last update time": "07:00:21 PM 01-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -45,13 +45,13 @@
       "team_2": "DDH Meerut Spartans",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDHMS@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Future Star U-15 Championship 2026",
       "match_name": "Karim Capital Chargers Vs Ddh Meerut Spartans",
       "match_id": 143564,
       "startTime": "01 July 2026 06:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8"
     },
     {
       "event_category": "Cricket",
