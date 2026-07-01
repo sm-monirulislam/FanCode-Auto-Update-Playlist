@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "03:00:19 PM 01-07-2026",
+  "last update time": "03:30:26 PM 01-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -55,19 +55,19 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Band E Amir Dragons Vs Amo Sharks",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Amo Sharks",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
+      "title": "Mis E Ainak Knights Vs Speen Ghar Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
+      "team_1": "Mis-e-Ainak Knights",
+      "team_2": "Speen Ghar Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
       "status": "LIVE",
       "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Band E Amir Dragons Vs Amo Sharks",
-      "match_id": 143582,
-      "startTime": "01 July 2026 10:00 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143582_english_hls_94a6d2b78b41805_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782980764~_GO=Generated~acl=/mumbai/143582_english_hls_94a6d2b78b41805_1ta-di_h264/*~Signature=ARZJ1WLkSnvXKyYelr26KjFzJ3GjZM0VAZzf5eemhM8QsIOyb5jqYoAZWN_x0p88bZHiisVrd4Zvxpv4XoSLDjbNk0EF",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143582_english_hls_94a6d2b78b41805_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782980764~_GO=Generated~acl=/mumbai/143582_english_hls_94a6d2b78b41805_1ta-di_h264/*~Signature=ARZJ1WLkSnvXKyYelr26KjFzJ3GjZM0VAZzf5eemhM8QsIOyb5jqYoAZWN_x0p88bZHiisVrd4Zvxpv4XoSLDjbNk0EF"
+      "match_name": "Mis E Ainak Knights Vs Speen Ghar Tigers",
+      "match_id": 143583,
+      "startTime": "01 July 2026 03:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782983944~_GO=Generated~acl=/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/*~Signature=ARZJ1WJSIVJnGeaAfpZmqeB9if5drSZlktLxMWN2HWjmrTfJT0j1h2KhAAfJV8gpMF1smYO_Du7ZA-43BKEzxbhmQYUD",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782983944~_GO=Generated~acl=/mumbai/143583_english_hls_8a8c35625189867_1ta-di_h264/*~Signature=ARZJ1WJSIVJnGeaAfpZmqeB9if5drSZlktLxMWN2HWjmrTfJT0j1h2KhAAfJV8gpMF1smYO_Du7ZA-43BKEzxbhmQYUD"
     },
     {
       "event_category": "Cricket",
@@ -146,22 +146,6 @@
       "match_name": "Hubli Tigers Vs Mysore Warriors",
       "match_id": 143435,
       "startTime": "02 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Mis E Ainak Knights Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
-      "team_1": "Mis-e-Ainak Knights",
-      "team_2": "Speen Ghar Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Mis E Ainak Knights Vs Speen Ghar Tigers",
-      "match_id": 143583,
-      "startTime": "01 July 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +642,22 @@
       "match_name": "Dtm Qualifying 1   Norisring",
       "match_id": 143622,
       "startTime": "04 July 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Sprint Race",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "team_1": "Sprint Race",
+      "team_2": "Silverstone",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F3 GREAT BRITAIN 2026",
+      "match_name": "Sprint Race",
+      "match_id": 139723,
+      "startTime": "04 July 2026 01:45 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
