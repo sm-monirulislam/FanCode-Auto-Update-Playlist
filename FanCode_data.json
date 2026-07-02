@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "07:30:51 PM 02-07-2026",
+  "last update time": "08:00:55 PM 02-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -54,22 +54,6 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/*~Signature=Ac2BFenQDsppOEE0LWd2BkAjV0-CJZAnkzmPXJ-8yDYtLWBw1okVc1flLbrgg37Pk8wDnls9gXxDzTfNYcO1W-y04QUL"
     },
     {
-      "event_category": "Cricket",
-      "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
-      "team_1": "Speen Ghar Tigers",
-      "team_2": "Band-e-Amir Dragons",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "status": "LIVE",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Speen Ghar Tigers Vs Band E Amir Dragons",
-      "match_id": 143585,
-      "startTime": "02 July 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084750~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFenzs2f_FEf7Q5yoDGtIWJFROHL3E9tk0R417WzkUz42e9m-5QiU9ETqMV_fQEy7mLk52SiC5S3AHLendw5P-dEA",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084750~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFenzs2f_FEf7Q5yoDGtIWJFROHL3E9tk0R417WzkUz42e9m-5QiU9ETqMV_fQEy7mLk52SiC5S3AHLendw5P-dEA"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 1   Main Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
@@ -84,6 +68,22 @@
       "startTime": "02 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
+      "team_1": "Day 1",
+      "team_2": "Hulencourt Golf Club, Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "Hulencourt Women's Open 2026",
+      "match_name": "Day 1",
+      "match_id": 143408,
+      "startTime": "02 July 2026 07:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783086665~_GO=Generated~acl=/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/*~Signature=Ac2BFeniSesACkjaU7gG1dL6qdsJAHPDE1fKVtkqC2zgbvgn3RaMkd37hUMtWg7Bm9xgAjZobg-hhdNq2ty2igpHeFAB",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783086665~_GO=Generated~acl=/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/*~Signature=Ac2BFeniSesACkjaU7gG1dL6qdsJAHPDE1fKVtkqC2zgbvgn3RaMkd37hUMtWg7Bm9xgAjZobg-hhdNq2ty2igpHeFAB"
     },
     {
       "event_category": "Cricket",
@@ -119,22 +119,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Gulbarga Mystics Vs Mysore Warriors",
-      "src": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
-      "team_1": "Gulbarga Mystics",
-      "team_2": "Mysore Warriors",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Gulbarga Mystics Vs Mysore Warriors",
-      "match_id": 143437,
-      "startTime": "03 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "team_1": "West Indies",
@@ -150,18 +134,18 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 1",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "event_category": "Cricket",
+      "title": "Gulbarga Mystics Vs Mysore Warriors",
+      "src": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
+      "team_1": "Gulbarga Mystics",
+      "team_2": "Mysore Warriors",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
       "status": "UPCOMING",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 1",
-      "match_id": 143408,
-      "startTime": "02 July 2026 07:30 PM",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Gulbarga Mystics Vs Mysore Warriors",
+      "match_id": 143437,
+      "startTime": "03 July 2026 02:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +642,22 @@
       "match_name": "Day 3",
       "match_id": 143410,
       "startTime": "04 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Qualifying",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+      "team_1": "Qualifying",
+      "team_2": "Great Britain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_name": "Qualifying",
+      "match_id": 139465,
+      "startTime": "04 July 2026 08:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
