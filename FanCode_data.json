@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "06:00:19 PM 02-07-2026",
+  "match_amount": 40,
+  "last update time": "06:30:27 PM 02-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -23,38 +23,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Hubli Tigers Vs Mysore Warriors",
-      "src": "https://images.fancode.com/aig/match/v1781841438724/143435_CASACARDS_SPORTY_APP.png",
-      "team_1": "Hubli Tigers",
-      "team_2": "Mysore Warriors",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Hubli Tigers Vs Mysore Warriors",
-      "match_id": 143435,
-      "startTime": "02 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066745~_GO=Generated~acl=/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/*~Signature=Ac2BFenNMUsxN_9KVFCajhs2MvbzoFc32MmADXVDppUGWcMeF9xsmbTixrY24Hp0Lb47ZWwEc3oS-9m8eFNbWfTUI7oD",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066745~_GO=Generated~acl=/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/*~Signature=Ac2BFenNMUsxN_9KVFCajhs2MvbzoFc32MmADXVDppUGWcMeF9xsmbTixrY24Hp0Lb47ZWwEc3oS-9m8eFNbWfTUI7oD"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Hubli Tigers Vs Mysore Warriors",
-      "src": "https://images.fancode.com/aig/match/v1781841438724/143435_CASACARDS_SPORTY_APP.png",
-      "team_1": "Hubli Tigers",
-      "team_2": "Mysore Warriors",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Hubli Tigers Vs Mysore Warriors",
-      "match_id": 143435,
-      "startTime": "02 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066746~_GO=Generated~acl=/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/*~Signature=Ac2BFeljuaApOVxYJAfsfnhD7aFXkxYdjxDikwMYlK7TjJ24WJdzUyEbf3UbYdNs9auKZfx1r77U0DKZl_ezYDPfrX8M",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066746~_GO=Generated~acl=/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/*~Signature=Ac2BFeljuaApOVxYJAfsfnhD7aFXkxYdjxDikwMYlK7TjJ24WJdzUyEbf3UbYdNs9auKZfx1r77U0DKZl_ezYDPfrX8M"
-    },
-    {
-      "event_category": "Cricket",
       "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
       "team_1": "Speen Ghar Tigers",
@@ -68,6 +36,22 @@
       "startTime": "02 July 2026 03:00 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1   Main Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 1 - Main Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 1   Main Feed",
+      "match_id": 143665,
+      "startTime": "02 July 2026 06:15 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ"
     },
     {
       "event_category": "Cricket",
@@ -162,22 +146,6 @@
       "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
       "match_id": 143438,
       "startTime": "03 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 1   Main Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 1 - Main Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 1   Main Feed",
-      "match_id": 143665,
-      "startTime": "02 July 2026 06:15 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +626,22 @@
       "match_name": "Adac Gt Race 1   Norisring",
       "match_id": 143620,
       "startTime": "04 July 2026 06:35 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
+      "team_1": "Day 3",
+      "team_2": "Hulencourt Golf Club, Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Hulencourt Women's Open 2026",
+      "match_name": "Day 3",
+      "match_id": 143410,
+      "startTime": "04 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
