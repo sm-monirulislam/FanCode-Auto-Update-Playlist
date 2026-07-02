@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "02:30:53 AM 03-07-2026",
+  "match_amount": 38,
+  "last update time": "03:00:50 AM 03-07-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -18,24 +18,24 @@
       "match_name": "Day 1   Main Feed",
       "match_id": 143665,
       "startTime": "02 July 2026 06:15 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783096627~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFemoy-CN4tgYsVUSYt_716jKmB2cClHy9XsKhaFWzOw_GplXioO6rftcDjvKC3d4ANZHTxa3ZfXARBOtqNomKB0M",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783096627~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFemoy-CN4tgYsVUSYt_716jKmB2cClHy9XsKhaFWzOw_GplXioO6rftcDjvKC3d4ANZHTxa3ZfXARBOtqNomKB0M"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783111448~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFekCx1dbgaXgkID1oQQ2YVH7EVgg4CzdNSpYKUbEbaOkwaXa88hIfohfbZT8BQeH2sHCn5rzwgqp4ZR2a0Ms9dwH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783111448~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFekCx1dbgaXgkID1oQQ2YVH7EVgg4CzdNSpYKUbEbaOkwaXa88hIfohfbZT8BQeH2sHCn5rzwgqp4ZR2a0Ms9dwH"
     },
     {
       "event_category": "Golf",
-      "title": "Day 1   Am",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
-      "team_1": "Day 1 - AM",
-      "team_2": "United States of America",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+      "title": "Day 1   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 1 - World Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "US Senior Open Championship 2026",
-      "match_name": "Day 1   Am",
-      "match_id": 143578,
-      "startTime": "02 July 2026 09:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "status": "LIVE",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 1   World Feed",
+      "match_id": 143664,
+      "startTime": "03 July 2026 02:30 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143664_english_hls_2bbc5ce08e54358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783111865~_GO=Generated~acl=/mumbai/143664_english_hls_2bbc5ce08e54358_1ta-di_h264/*~Signature=Ac2BFemPtpD_IbX-r-m2-FowDRIM2s-VCarBkJDJh1ZnXFr8-DAxHL4_XpG2uStuaEwKbNgTLV7crveyM2KdZZ-3tq0D",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143664_english_hls_2bbc5ce08e54358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783111865~_GO=Generated~acl=/mumbai/143664_english_hls_2bbc5ce08e54358_1ta-di_h264/*~Signature=Ac2BFemPtpD_IbX-r-m2-FowDRIM2s-VCarBkJDJh1ZnXFr8-DAxHL4_XpG2uStuaEwKbNgTLV7crveyM2KdZZ-3tq0D"
     },
     {
       "event_category": "Cricket",
@@ -114,22 +114,6 @@
       "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
       "match_id": 143438,
       "startTime": "03 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 1   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 1 - World Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 1   World Feed",
-      "match_id": 143664,
-      "startTime": "03 July 2026 02:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -342,22 +326,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 2   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 2 - World Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 2   World Feed",
-      "match_id": 143666,
-      "startTime": "04 July 2026 02:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
@@ -370,6 +338,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143537,
       "startTime": "04 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 2 - World Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 2   World Feed",
+      "match_id": 143666,
+      "startTime": "04 July 2026 02:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -626,22 +610,6 @@
       "match_name": "Day 3",
       "match_id": 143580,
       "startTime": "04 July 2026 10:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Reverse Grid Race",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
-      "team_1": "Reverse Grid Race",
-      "team_2": "Silverstone",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
-      "match_name": "Reverse Grid Race",
-      "match_id": 139691,
-      "startTime": "04 July 2026 10:35 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
