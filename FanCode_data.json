@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "12:00:52 AM 03-07-2026",
+  "last update time": "12:30:54 AM 03-07-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
-      "team_1": "Coastal Kings Mangaluru",
-      "team_2": "Shivamogga Yodhas",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "match_id": 143436,
-      "startTime": "02 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
     {
       "event_category": "Golf",
       "title": "Day 1   Main Feed",
@@ -45,13 +29,13 @@
       "team_2": "United States of America",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "US Senior Open Championship 2026",
       "match_name": "Day 1   Am",
       "match_id": 143578,
       "startTime": "02 July 2026 09:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143578_english_hls_a7c39b97b089896_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783091945~_GO=Generated~acl=/mumbai/143578_english_hls_a7c39b97b089896_1ta-di_h264/*~Signature=Ac2BFem-N-nPTQKmcktm0YINIHjp5wL8DcacSlcyhhEmPbj8FI3uInI3jD5OXVJBHfLlaM_5MkWFaOgPNTy8VD4jILgJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143578_english_hls_a7c39b97b089896_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783091945~_GO=Generated~acl=/mumbai/143578_english_hls_a7c39b97b089896_1ta-di_h264/*~Signature=Ac2BFem-N-nPTQKmcktm0YINIHjp5wL8DcacSlcyhhEmPbj8FI3uInI3jD5OXVJBHfLlaM_5MkWFaOgPNTy8VD4jILgJ"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -642,6 +626,22 @@
       "match_name": "Day 3",
       "match_id": 143580,
       "startTime": "04 July 2026 10:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Reverse Grid Race",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+      "team_1": "Reverse Grid Race",
+      "team_2": "Silverstone",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
+      "match_name": "Reverse Grid Race",
+      "match_id": 139691,
+      "startTime": "04 July 2026 10:35 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
