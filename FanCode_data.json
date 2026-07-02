@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "05:00:19 PM 02-07-2026",
+  "last update time": "05:30:19 PM 02-07-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Rml Sports Vs Hpca Patna",
-      "src": "https://images.fancode.com/aig/match/v1781869164718/143534_CASACARDS_SPORTY_APP.png",
-      "team_1": "RML Sports",
-      "team_2": "HPCA Patna",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HPCAP@2x.png",
-      "status": "LIVE",
-      "event_name": "KPL Indo Nepal T20 2026",
-      "match_name": "Rml Sports Vs Hpca Patna",
-      "match_id": 143534,
-      "startTime": "02 July 2026 12:45 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143534_english_hls_d0a522383192555_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143534_english_hls_d0a522383192555_1ta-di_h264/1080p.m3u8"
-    },
     {
       "event_category": "Cricket",
       "title": "Namibia Vs Vidarbha",
@@ -34,8 +18,8 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143628,
       "startTime": "02 July 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783063145~_GO=Generated~acl=/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/*~Signature=Ac2BFenbIHYTYsOCry4dym0ndQ4Ip1J-uOkWTThB3WWwPbFM9ZbSbxdPrOPy9pvk_2BWoLTSlRpbfL_1P3nPmIrod0wK",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783063145~_GO=Generated~acl=/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/*~Signature=Ac2BFenbIHYTYsOCry4dym0ndQ4Ip1J-uOkWTThB3WWwPbFM9ZbSbxdPrOPy9pvk_2BWoLTSlRpbfL_1P3nPmIrod0wK"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783077967~_GO=Generated~acl=/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/*~Signature=Ac2BFeloCylUaHcWVZnguBFMvKCA6wbJGelt4CB7IC5YG_3yP0O7VidpgE5x-IKRUUMNDwfzqP5zdUJfjwV6csT-pjYE",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783077967~_GO=Generated~acl=/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/*~Signature=Ac2BFeloCylUaHcWVZnguBFMvKCA6wbJGelt4CB7IC5YG_3yP0O7VidpgE5x-IKRUUMNDwfzqP5zdUJfjwV6csT-pjYE"
     },
     {
       "event_category": "Cricket",
@@ -166,6 +150,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
+      "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
+      "team_1": "Hubli Tigers",
+      "team_2": "Kalyani Bengaluru Blasters",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
+      "match_id": 143438,
+      "startTime": "03 July 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 1   Main Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
@@ -242,22 +242,6 @@
       "match_name": "Day 1   Pm",
       "match_id": 143672,
       "startTime": "03 July 2026 03:45 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-      "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
-      "team_1": "Hubli Tigers",
-      "team_2": "Kalyani Bengaluru Blasters",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-      "match_id": 143438,
-      "startTime": "03 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -598,22 +582,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Formula 1",
-      "title": "Sprint",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
-      "team_1": "Sprint",
-      "team_2": "Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_name": "Sprint",
-      "match_id": 139464,
-      "startTime": "04 July 2026 04:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Motorsports",
       "title": "Dtm Race 1   Norisring",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
@@ -626,6 +594,22 @@
       "match_name": "Dtm Race 1   Norisring",
       "match_id": 143623,
       "startTime": "04 July 2026 04:45 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Sprint",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
+      "team_1": "Sprint",
+      "team_2": "Great Britain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_name": "Sprint",
+      "match_id": 139464,
+      "startTime": "04 July 2026 05:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +642,22 @@
       "match_name": "Day 3   Main Feed",
       "match_id": 143669,
       "startTime": "04 July 2026 06:15 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Adac Gt Race 1   Norisring",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "ADAC GT Race 1 - Norisring",
+      "team_2": "Norisring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "DTM 2026",
+      "match_name": "Adac Gt Race 1   Norisring",
+      "match_id": 143620,
+      "startTime": "04 July 2026 06:35 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
