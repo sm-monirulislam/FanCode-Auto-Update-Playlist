@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "11:00:55 PM 02-07-2026",
+  "match_amount": 40,
+  "last update time": "11:30:53 PM 02-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -13,29 +13,13 @@
       "team_2": "Shivamogga Yodhas",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "Maharaja T20 Trophy, 2026",
       "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
       "match_id": 143436,
       "startTime": "02 July 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/*~Signature=Ac2BFeka0nhjl5HDOtVZEItiozpHU0xckltUEQHEtBbbX1-A93t1JzSuMqnEL9kqPeXTcxyzXaIDuyOuScUXeikqxFIG",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/*~Signature=Ac2BFeka0nhjl5HDOtVZEItiozpHU0xckltUEQHEtBbbX1-A93t1JzSuMqnEL9kqPeXTcxyzXaIDuyOuScUXeikqxFIG"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
-      "team_1": "Coastal Kings Mangaluru",
-      "team_2": "Shivamogga Yodhas",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "match_id": 143436,
-      "startTime": "02 July 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/*~Signature=Ac2BFenQDsppOEE0LWd2BkAjV0-CJZAnkzmPXJ-8yDYtLWBw1okVc1flLbrgg37Pk8wDnls9gXxDzTfNYcO1W-y04QUL",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/*~Signature=Ac2BFenQDsppOEE0LWd2BkAjV0-CJZAnkzmPXJ-8yDYtLWBw1okVc1flLbrgg37Pk8wDnls9gXxDzTfNYcO1W-y04QUL"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Golf",
@@ -52,22 +36,6 @@
       "startTime": "02 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783096627~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFemoy-CN4tgYsVUSYt_716jKmB2cClHy9XsKhaFWzOw_GplXioO6rftcDjvKC3d4ANZHTxa3ZfXARBOtqNomKB0M",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783096627~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFemoy-CN4tgYsVUSYt_716jKmB2cClHy9XsKhaFWzOw_GplXioO6rftcDjvKC3d4ANZHTxa3ZfXARBOtqNomKB0M"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 1",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 1",
-      "match_id": 143408,
-      "startTime": "02 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783086665~_GO=Generated~acl=/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/*~Signature=Ac2BFeniSesACkjaU7gG1dL6qdsJAHPDE1fKVtkqC2zgbvgn3RaMkd37hUMtWg7Bm9xgAjZobg-hhdNq2ty2igpHeFAB",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783086665~_GO=Generated~acl=/mumbai/143408_english_hls_965c0fd80d45502_1ta-di_h264/*~Signature=Ac2BFeniSesACkjaU7gG1dL6qdsJAHPDE1fKVtkqC2zgbvgn3RaMkd37hUMtWg7Bm9xgAjZobg-hhdNq2ty2igpHeFAB"
     },
     {
       "event_category": "Golf",
@@ -658,6 +626,22 @@
       "match_name": "F1 Kids 2026",
       "match_id": 143674,
       "startTime": "04 July 2026 04:25 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg",
+      "team_1": "Day 3",
+      "team_2": "United States of America",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "US Senior Open Championship 2026",
+      "match_name": "Day 3",
+      "match_id": 143580,
+      "startTime": "04 July 2026 10:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
