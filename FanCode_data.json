@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "07:00:56 PM 02-07-2026",
+  "match_amount": 41,
+  "last update time": "07:30:51 PM 02-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -23,6 +23,38 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
+      "team_1": "Coastal Kings Mangaluru",
+      "team_2": "Shivamogga Yodhas",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "match_id": 143436,
+      "startTime": "02 July 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/*~Signature=Ac2BFeka0nhjl5HDOtVZEItiozpHU0xckltUEQHEtBbbX1-A93t1JzSuMqnEL9kqPeXTcxyzXaIDuyOuScUXeikqxFIG",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_english_hls_59f5fffe6a59098_1ta-di_h264/*~Signature=Ac2BFeka0nhjl5HDOtVZEItiozpHU0xckltUEQHEtBbbX1-A93t1JzSuMqnEL9kqPeXTcxyzXaIDuyOuScUXeikqxFIG"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
+      "team_1": "Coastal Kings Mangaluru",
+      "team_2": "Shivamogga Yodhas",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "match_id": 143436,
+      "startTime": "02 July 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/*~Signature=Ac2BFenQDsppOEE0LWd2BkAjV0-CJZAnkzmPXJ-8yDYtLWBw1okVc1flLbrgg37Pk8wDnls9gXxDzTfNYcO1W-y04QUL",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084745~_GO=Generated~acl=/mumbai/143436_kannada_hls_c377c2840f3970_1ta-di_h264/*~Signature=Ac2BFenQDsppOEE0LWd2BkAjV0-CJZAnkzmPXJ-8yDYtLWBw1okVc1flLbrgg37Pk8wDnls9gXxDzTfNYcO1W-y04QUL"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
       "team_1": "Speen Ghar Tigers",
@@ -34,8 +66,8 @@
       "match_name": "Speen Ghar Tigers Vs Band E Amir Dragons",
       "match_id": 143585,
       "startTime": "02 July 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084750~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFenzs2f_FEf7Q5yoDGtIWJFROHL3E9tk0R417WzkUz42e9m-5QiU9ETqMV_fQEy7mLk52SiC5S3AHLendw5P-dEA",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783084750~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFenzs2f_FEf7Q5yoDGtIWJFROHL3E9tk0R417WzkUz42e9m-5QiU9ETqMV_fQEy7mLk52SiC5S3AHLendw5P-dEA"
     },
     {
       "event_category": "Golf",
@@ -52,22 +84,6 @@
       "startTime": "02 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783081804~_GO=Generated~acl=/mumbai/143665_english_hls_823e4baffa56364_1ta-di_h264/*~Signature=Ac2BFek5LORxn7-FMGtTP0Sih-5vDK_4eHUdRLj05jv516cWCQzkTA8e_QkOuaDOB2J4kUXyG3j_S83s6RxvYV2sxBoJ"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
-      "team_1": "Coastal Kings Mangaluru",
-      "team_2": "Shivamogga Yodhas",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
-      "match_id": 143436,
-      "startTime": "02 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -134,22 +150,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-      "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
-      "team_1": "Hubli Tigers",
-      "team_2": "Kalyani Bengaluru Blasters",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-      "match_id": 143438,
-      "startTime": "03 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Day 1",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
@@ -162,6 +162,22 @@
       "match_name": "Day 1",
       "match_id": 143408,
       "startTime": "02 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
+      "src": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
+      "team_1": "Hubli Tigers",
+      "team_2": "Kalyani Bengaluru Blasters",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
+      "match_id": 143438,
+      "startTime": "03 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
