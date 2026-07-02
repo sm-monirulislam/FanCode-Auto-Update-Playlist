@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "03:00:24 PM 02-07-2026",
+  "last update time": "03:30:19 PM 02-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -71,6 +71,22 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
+      "team_1": "Speen Ghar Tigers",
+      "team_2": "Band-e-Amir Dragons",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+      "status": "LIVE",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Speen Ghar Tigers Vs Band E Amir Dragons",
+      "match_id": 143585,
+      "startTime": "02 July 2026 03:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
       "src": "https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png",
       "team_1": "Coastal Kings Mangaluru",
@@ -98,22 +114,6 @@
       "match_name": "Chhinnamasta Lions Vs Itahari Super Kings",
       "match_id": 143535,
       "startTime": "03 July 2026 08:45 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
-      "team_1": "Speen Ghar Tigers",
-      "team_2": "Band-e-Amir Dragons",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Speen Ghar Tigers Vs Band E Amir Dragons",
-      "match_id": 143585,
-      "startTime": "02 July 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
