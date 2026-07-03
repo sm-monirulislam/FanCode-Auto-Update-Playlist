@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:00:57 AM 04-07-2026",
+  "last update time": "04:30:51 AM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -29,13 +29,13 @@
       "team_2": "TPC Deere Run Silvis, Illinois",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "John Deere Classic 2026",
       "match_name": "Day 2   Main Feed",
       "match_id": 143667,
       "startTime": "03 July 2026 06:15 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783197847~_GO=Generated~acl=/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/*~Signature=Ac2BFelMQby9p92lwaX-OXA6hWT-7nT04Z1BbZJSVtjLUldG2Lo1bnssgb_DttLMfVYmiGNOPzDHlf8_-v82j_dNVqsI",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783197847~_GO=Generated~acl=/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/*~Signature=Ac2BFelMQby9p92lwaX-OXA6hWT-7nT04Z1BbZJSVtjLUldG2Lo1bnssgb_DttLMfVYmiGNOPzDHlf8_-v82j_dNVqsI"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Golf",
@@ -52,6 +52,22 @@
       "startTime": "04 July 2026 02:30 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143666_english_hls_25c91452b317294_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783198265~_GO=Generated~acl=/mumbai/143666_english_hls_25c91452b317294_1ta-di_h264/*~Signature=Ac2BFen0sOqDqj0nXcDvoMqZaa6iZ1-EjjkGIDmtxadkYqumg0PzG5tqfatdAmDM0tXC6VFkh21pXmTOkBrBbP0AnZAN",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143666_english_hls_25c91452b317294_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783198265~_GO=Generated~acl=/mumbai/143666_english_hls_25c91452b317294_1ta-di_h264/*~Signature=Ac2BFen0sOqDqj0nXcDvoMqZaa6iZ1-EjjkGIDmtxadkYqumg0PzG5tqfatdAmDM0tXC6VFkh21pXmTOkBrBbP0AnZAN"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 2   Pm",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
+      "team_1": "Day 2 - PM",
+      "team_2": "United States of America",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "US Senior Open Championship 2026",
+      "match_name": "Day 2   Pm",
+      "match_id": 143673,
+      "startTime": "04 July 2026 03:45 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC"
     },
     {
       "event_category": "Cricket",
@@ -98,22 +114,6 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143629,
       "startTime": "04 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 2   Pm",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
-      "team_1": "Day 2 - PM",
-      "team_2": "United States of America",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "US Senior Open Championship 2026",
-      "match_name": "Day 2   Pm",
-      "match_id": 143673,
-      "startTime": "04 July 2026 03:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -326,22 +326,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 3   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 3 - World Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 3   World Feed",
-      "match_id": 143668,
-      "startTime": "04 July 2026 11:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
@@ -354,6 +338,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143539,
       "startTime": "05 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 3 - World Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 3   World Feed",
+      "match_id": 143668,
+      "startTime": "04 July 2026 11:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
