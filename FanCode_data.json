@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "06:30:51 PM 03-07-2026",
+  "last update time": "07:00:51 PM 03-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -38,23 +38,6 @@
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/1080p.m3u8"
     },
     {
-      "event_category": "Formula 1",
-      "title": "Practice 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
-      "team_1": "Practice 1",
-      "team_2": "Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "LIVE",
-      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_name": "Practice 1",
-      "match_id": 139462,
-      "startTime": "03 July 2026 05:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-      "drm_key": "4e7ffaa39b57444f88d138eb4a52d219:b4812cd1b4776b0ce47cda0ec2b5a3d8"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 2   Main Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
@@ -69,6 +52,22 @@
       "startTime": "03 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Qualifying Session",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "team_1": "Qualifying Session",
+      "team_2": "Silverstone",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "F3 GREAT BRITAIN 2026",
+      "match_name": "Qualifying Session",
+      "match_id": 139722,
+      "startTime": "03 July 2026 06:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO"
     },
     {
       "event_category": "Cricket",
@@ -147,22 +146,6 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143629,
       "startTime": "04 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Silverstone",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F3 GREAT BRITAIN 2026",
-      "match_name": "Qualifying Session",
-      "match_id": 139722,
-      "startTime": "03 July 2026 06:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -627,6 +610,22 @@
       "match_name": "Amo Sharks Vs Speen Ghar Tigers",
       "match_id": 143590,
       "startTime": "05 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Hubli Tigers",
+      "src": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
+      "team_1": "Shivamogga Yodhas",
+      "team_2": "Hubli Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
+      "match_id": 143440,
+      "startTime": "05 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
