@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:30:51 AM 03-07-2026",
+  "last update time": "06:00:50 AM 03-07-2026",
   "matches": [
-    {
-      "event_category": "Golf",
-      "title": "Day 1   Pm",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
-      "team_1": "Day 1 - PM",
-      "team_2": "United States of America",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "US Senior Open Championship 2026",
-      "match_name": "Day 1   Pm",
-      "match_id": 143672,
-      "startTime": "03 July 2026 03:45 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO"
-    },
     {
       "event_category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
@@ -214,6 +198,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143537,
+      "startTime": "04 July 2026 08:45 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
@@ -274,22 +274,6 @@
       "match_name": "Day 2   Am",
       "match_id": 143579,
       "startTime": "03 July 2026 09:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-      "status": "UPCOMING",
-      "event_name": "KPL Indo Nepal T20 2026",
-      "match_name": "Tbc Vs Tbc",
-      "match_id": 143537,
-      "startTime": "04 July 2026 08:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -610,6 +594,22 @@
       "match_name": "Day 3   World Feed",
       "match_id": 143668,
       "startTime": "04 July 2026 11:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143539,
+      "startTime": "05 July 2026 08:45 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
