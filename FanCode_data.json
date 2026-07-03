@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "05:00:51 PM 03-07-2026",
+  "last update time": "05:30:52 PM 03-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Kcc Vs Mills Cricket Club",
       "match_id": 143536,
       "startTime": "03 July 2026 12:45 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783148706~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFenLuhBYM7yPLIwOfQic5YgA8gksgEUaIadAFZgpuJ1-GncW6yt7JxIpAAQXdhFlZ_wBtsabsgIE6zv8DY4pmbcB",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783148706~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFenLuhBYM7yPLIwOfQic5YgA8gksgEUaIadAFZgpuJ1-GncW6yt7JxIpAAQXdhFlZ_wBtsabsgIE6zv8DY4pmbcB"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG"
     },
     {
       "event_category": "Cricket",
@@ -52,6 +52,23 @@
       "startTime": "03 July 2026 02:00 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783153146~_GO=Generated~acl=/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/*~Signature=Ac2BFekapaGj_f4BoSPZoWB4kQhxmAHaOo5OciDfGzmQt3Ek3bU8Kdj_aMvDxaqxyEZy8SlbuQ2VQQIqg55fL1WCAJIF",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783153146~_GO=Generated~acl=/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/*~Signature=Ac2BFekapaGj_f4BoSPZoWB4kQhxmAHaOo5OciDfGzmQt3Ek3bU8Kdj_aMvDxaqxyEZy8SlbuQ2VQQIqg55fL1WCAJIF"
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Practice 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+      "team_1": "Practice 1",
+      "team_2": "Great Britain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "LIVE",
+      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_name": "Practice 1",
+      "match_id": 139462,
+      "startTime": "03 July 2026 05:00 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+      "drm_key": "4e7ffaa39b57444f88d138eb4a52d219:b4812cd1b4776b0ce47cda0ec2b5a3d8"
     },
     {
       "event_category": "Cricket",
@@ -130,22 +147,6 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143629,
       "startTime": "04 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Formula 1",
-      "title": "Practice 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
-      "team_1": "Practice 1",
-      "team_2": "Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_name": "Practice 1",
-      "match_id": 139462,
-      "startTime": "03 July 2026 05:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
