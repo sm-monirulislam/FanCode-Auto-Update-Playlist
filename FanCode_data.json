@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "11:00:54 PM 03-07-2026",
+  "last update time": "11:30:57 PM 03-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -34,8 +34,8 @@
       "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
       "match_id": 143438,
       "startTime": "03 July 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171145~_GO=Generated~acl=/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/*~Signature=Ac2BFenOutHpgu-7ist2Rlr7VtzRIpbMmlg-OgS17PeFQTVCQO0qsCsg7VlBWpR4-JgKEjnNv7vOMRv9zXLCLopChfoF",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171145~_GO=Generated~acl=/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/*~Signature=Ac2BFenOutHpgu-7ist2Rlr7VtzRIpbMmlg-OgS17PeFQTVCQO0qsCsg7VlBWpR4-JgKEjnNv7vOMRv9zXLCLopChfoF"
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -50,8 +50,8 @@
       "match_name": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
       "match_id": 143438,
       "startTime": "03 July 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171147~_GO=Generated~acl=/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/*~Signature=Ac2BFem71Sti7LHjnh3MqtJRd9JfXlm1jGGPiuFWDzJ95PO193fMqj-TQ86cPhKAChLSU9Rxt80rP6lDtCDXQ6JVlDEM",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171147~_GO=Generated~acl=/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/*~Signature=Ac2BFem71Sti7LHjnh3MqtJRd9JfXlm1jGGPiuFWDzJ95PO193fMqj-TQ86cPhKAChLSU9Rxt80rP6lDtCDXQ6JVlDEM"
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143438_kannada_hls_c26c5b326173672_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Golf",
@@ -68,22 +68,6 @@
       "startTime": "03 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 2",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 2",
-      "match_id": 143409,
-      "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783173067~_GO=Generated~acl=/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/*~Signature=Ac2BFenUaN1JeW8i5mcTUNex6CfwDaECHdj8xexXkOy6JeNibIAayM2iVoWFNmzZAkNVkq4cL1nVzxVFgZ6aeecnOqgH",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783173067~_GO=Generated~acl=/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/*~Signature=Ac2BFenUaN1JeW8i5mcTUNex6CfwDaECHdj8xexXkOy6JeNibIAayM2iVoWFNmzZAkNVkq4cL1nVzxVFgZ6aeecnOqgH"
     },
     {
       "event_category": "Golf",
@@ -626,6 +610,22 @@
       "match_name": "Day 4",
       "match_id": 143411,
       "startTime": "05 July 2026 06:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Adac Gt Race 2   Norisring",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "team_1": "ADAC GT Race 2 - Norisring",
+      "team_2": "Norisring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "DTM 2026",
+      "match_name": "Adac Gt Race 2   Norisring",
+      "match_id": 143621,
+      "startTime": "05 July 2026 06:40 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
