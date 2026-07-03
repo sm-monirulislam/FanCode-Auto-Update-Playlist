@@ -2,20 +2,20 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 06:00:57 PM 03-07-2026 (BD Time)
+# 🕒 Last Updated: 06:30:51 PM 03-07-2026 (BD Time)
 # 📺 Live Matches (IN): 4
 #=================================
 
-#EXTINF:-1 tvg-name="Kcc Vs Mills Cricket Club" tvg-logo="https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png" group-title="Cricket",Kcc Vs Mills Cricket Club
-https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG
+#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Mysore Warriors" tvg-logo="https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png" group-title="Cricket",Gulbarga Mystics Vs Mysore Warriors
+https://in-mc-fblive.fancode.com/mumbai/143437_english_hls_5dcf59494b39448_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Gulbarga Mystics Vs Mysore Warriors" tvg-logo="https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png" group-title="Cricket",Gulbarga Mystics Vs Mysore Warriors
-https://in-mc-flive.fancode.com/mumbai/143437_english_hls_5dcf59494b39448_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783153145~_GO=Generated~acl=/mumbai/143437_english_hls_5dcf59494b39448_1ta-di_h264/*~Signature=Ac2BFenlmGsNx_-69qZCF5Za8XjvjYyQMRaHBSAPoe0XSs9TBnWmA8JpS520_gOWK3-IvVxBkJ68fJsk1a3SiTukkuEP
-
-#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Mysore Warriors" tvg-logo="https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png" group-title="Cricket",Gulbarga Mystics Vs Mysore Warriors
-https://in-mc-flive.fancode.com/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783153146~_GO=Generated~acl=/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/*~Signature=Ac2BFekapaGj_f4BoSPZoWB4kQhxmAHaOo5OciDfGzmQt3Ek3bU8Kdj_aMvDxaqxyEZy8SlbuQ2VQQIqg55fL1WCAJIF
+https://in-mc-fblive.fancode.com/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Practice 1 | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e7ffaa39b57444f88d138eb4a52d219:b4812cd1b4776b0ce47cda0ec2b5a3d8
 https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Day 2   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf",Day 2   Main Feed
+https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8
