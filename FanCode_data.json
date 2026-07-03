@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "12:00:51 AM 04-07-2026",
+  "last update time": "12:30:52 AM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -68,22 +68,6 @@
       "startTime": "03 July 2026 06:15 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 2   Am",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
-      "team_1": "Day 2 - AM",
-      "team_2": "United States of America",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "US Senior Open Championship 2026",
-      "match_name": "Day 2   Am",
-      "match_id": 143579,
-      "startTime": "03 July 2026 09:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -626,6 +610,22 @@
       "match_name": "Race",
       "match_id": 139466,
       "startTime": "05 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 4",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
+      "team_1": "Day 4",
+      "team_2": "United States of America",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "US Senior Open Championship 2026",
+      "match_name": "Day 4",
+      "match_id": 143581,
+      "startTime": "05 July 2026 11:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
