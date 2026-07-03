@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "10:00:51 AM 03-07-2026",
+  "last update time": "10:30:52 AM 03-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,6 +20,22 @@
       "startTime": "03 July 2026 08:45 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Mis-e-Ainak Knights",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
+      "status": "LIVE",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Band E Amir Dragons Vs Mis E Ainak Knights",
+      "match_id": 143586,
+      "startTime": "03 July 2026 10:00 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143586_english_hls_205af5800894171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783138745~_GO=Generated~acl=/mumbai/143586_english_hls_205af5800894171_1ta-di_h264/*~Signature=Ac2BFelsw09y9lSRJfdl8udJdMxmI4XpWeZPV4wf36EOH7YfgxdAsPR4Am5B5twsATlCNl2RJwLsVE7n0XZgLJFSnL0G",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143586_english_hls_205af5800894171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783138745~_GO=Generated~acl=/mumbai/143586_english_hls_205af5800894171_1ta-di_h264/*~Signature=Ac2BFelsw09y9lSRJfdl8udJdMxmI4XpWeZPV4wf36EOH7YfgxdAsPR4Am5B5twsATlCNl2RJwLsVE7n0XZgLJFSnL0G"
     },
     {
       "event_category": "Cricket",
@@ -102,22 +118,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Mis-e-Ainak Knights",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "match_id": 143586,
-      "startTime": "03 July 2026 10:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Motorsports",
       "title": "Practice Session",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
@@ -178,6 +178,22 @@
       "match_name": "Practice 1",
       "match_id": 139462,
       "startTime": "03 July 2026 05:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "KPL Indo Nepal T20 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143538,
+      "startTime": "04 July 2026 12:45 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -278,6 +294,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
+      "team_1": "Namibia",
+      "team_2": "Vidarbha",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Cricket Association tour of Namibia",
+      "match_name": "Namibia Vs Vidarbha",
+      "match_id": 143629,
+      "startTime": "04 July 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
@@ -294,22 +326,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-      "status": "UPCOMING",
-      "event_name": "KPL Indo Nepal T20 2026",
-      "match_name": "Tbc Vs Tbc",
-      "match_id": 143538,
-      "startTime": "04 July 2026 12:45 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Golf",
       "title": "Day 2   World Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
@@ -322,22 +338,6 @@
       "match_name": "Day 2   World Feed",
       "match_id": 143666,
       "startTime": "04 July 2026 02:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Vidarbha",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Vidarbha Cricket Association tour of Namibia",
-      "match_name": "Namibia Vs Vidarbha",
-      "match_id": 143629,
-      "startTime": "04 July 2026 01:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
