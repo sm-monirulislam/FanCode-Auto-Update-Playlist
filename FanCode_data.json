@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "04:30:51 PM 04-07-2026",
+  "last update time": "05:00:52 PM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -54,6 +54,39 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783243142~_GO=Generated~acl=/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/*~Signature=Ac2BFenl-T_tYJMXoaP3ePIXMWkoJNF8GydonoYd1UYu1s8oMOn_eGh_CH96Qwoa8rsDnPqF9rvvpoN6ly-eeq8SykII"
     },
     {
+      "event_category": "Formula 1",
+      "title": "Sprint",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
+      "team_1": "Sprint",
+      "team_2": "Great Britain",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "LIVE",
+      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_name": "Sprint",
+      "match_id": 139464,
+      "startTime": "04 July 2026 04:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139464_english_dash_90941_1drmta-di_h264/index.mpd",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139464_english_dash_90941_1drmta-di_h264/index.mpd",
+      "drm_key": "7b3cd995106c47b287923bb4f82dbb05:2494e66ba4ea93fc1e8b7d7033ab0011"
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "F1 Kids 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "team_1": "F1 Kids 2026",
+      "team_2": "Silverstone",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "F1 Kids 2026",
+      "match_name": "F1 Kids 2026",
+      "match_id": 143674,
+      "startTime": "04 July 2026 04:25 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783248242~_GO=Generated~acl=/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/*~Signature=Ac2BFek-r9WVpKWzVNFC1JZ9fLk6cCty-YpUSZ79NM-mlNgXMIx0sBHow1nLP4rHG5_EOVpr-Kuba-rfR8FcNrzne2sP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783248242~_GO=Generated~acl=/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/*~Signature=Ac2BFek-r9WVpKWzVNFC1JZ9fLk6cCty-YpUSZ79NM-mlNgXMIx0sBHow1nLP4rHG5_EOVpr-Kuba-rfR8FcNrzne2sP"
+    },
+    {
       "event_category": "Cricket",
       "title": "Sri Lanka Vs West Indies",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
@@ -66,8 +99,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783247410~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelt0o4989Z8aNmwxLkYpoC2uuKGsmlSJRlLDRRkSGnUK3inTvNpvYHijSE5foLcSKIB1YFEAXnjHJkX4aNPilwO",
-      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783247410~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelt0o4989Z8aNmwxLkYpoC2uuKGsmlSJRlLDRRkSGnUK3inTvNpvYHijSE5foLcSKIB1YFEAXnjHJkX4aNPilwO"
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783248671~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFel-oMavgWfkCz3rJzPNXThK7S1y5tASdK5KtwNXd-qwW8p5UoXUmCtxsiaLu5Z3XEKajiFMA5IGi8mDhoEKh8ED",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783248671~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFel-oMavgWfkCz3rJzPNXThK7S1y5tASdK5KtwNXd-qwW8p5UoXUmCtxsiaLu5Z3XEKajiFMA5IGi8mDhoEKh8ED"
     },
     {
       "event_category": "Cricket",
@@ -82,22 +115,6 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143539,
       "startTime": "05 July 2026 08:45 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Formula 1",
-      "title": "Sprint",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
-      "team_1": "Sprint",
-      "team_2": "Great Britain",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_name": "Sprint",
-      "match_id": 139464,
-      "startTime": "04 July 2026 04:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -146,22 +163,6 @@
       "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
       "match_id": 143439,
       "startTime": "05 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
-      "team_1": "F1 Kids 2026",
-      "team_2": "Silverstone",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 Kids 2026",
-      "match_name": "F1 Kids 2026",
-      "match_id": 143674,
-      "startTime": "04 July 2026 04:25 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
