@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "05:00:52 PM 04-07-2026",
+  "last update time": "05:30:53 PM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -34,8 +34,8 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143629,
       "startTime": "04 July 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783236371~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFem1yxjh4bU_rX65lqMYsimkzCWUvtbl1q05uMrkAd4ZNHPS8SW4YhyJHyu4Pt_hoGcKJ7bEDHQQjLhDsMQ-ZR8E",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783236371~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFem1yxjh4bU_rX65lqMYsimkzCWUvtbl1q05uMrkAd4ZNHPS8SW4YhyJHyu4Pt_hoGcKJ7bEDHQQjLhDsMQ-ZR8E"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251007~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFenZCY0aqmoDq4b42DsCYuepRkIGZkcVOAwxcgHyk0dg0ebPiHGr0rEDSafnlyxzhZy8_QUVPNIncAZdE_QQhhAB",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251007~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFenZCY0aqmoDq4b42DsCYuepRkIGZkcVOAwxcgHyk0dg0ebPiHGr0rEDSafnlyxzhZy8_QUVPNIncAZdE_QQhhAB"
     },
     {
       "event_category": "Cricket",
@@ -72,6 +72,38 @@
     },
     {
       "event_category": "Motorsports",
+      "title": "Dtm Race 1   Norisring",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "team_1": "DTM Race 1 - Norisring",
+      "team_2": "Norisring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "DTM 2026",
+      "match_name": "Dtm Race 1   Norisring",
+      "match_id": 143623,
+      "startTime": "04 July 2026 05:00 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143623_english_hls_4d6448ffec97837_1ta-di_h264/1080p5.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143623_english_hls_4d6448ffec97837_1ta-di_h264/1080p5.m3u8"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 3   Main Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 3 - Main Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 3   Main Feed",
+      "match_id": 143669,
+      "startTime": "04 July 2026 05:00 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Motorsports",
       "title": "F1 Kids 2026",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "team_1": "F1 Kids 2026",
@@ -99,8 +131,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783248671~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFel-oMavgWfkCz3rJzPNXThK7S1y5tASdK5KtwNXd-qwW8p5UoXUmCtxsiaLu5Z3XEKajiFMA5IGi8mDhoEKh8ED",
-      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783248671~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFel-oMavgWfkCz3rJzPNXThK7S1y5tASdK5KtwNXd-qwW8p5UoXUmCtxsiaLu5Z3XEKajiFMA5IGi8mDhoEKh8ED"
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251010~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFekH1fy5iAjE5JLeOW2Bit6-bPn35iZSi5hOl2i5qEc03cV-MoIoINy4giINBBJMP5nst-1spQQ2My5YHAQIVVMC",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251010~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFekH1fy5iAjE5JLeOW2Bit6-bPn35iZSi5hOl2i5qEc03cV-MoIoINy4giINBBJMP5nst-1spQQ2My5YHAQIVVMC"
     },
     {
       "event_category": "Cricket",
@@ -119,38 +151,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Motorsports",
-      "title": "Dtm Race 1   Norisring",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "team_1": "DTM Race 1 - Norisring",
-      "team_2": "Norisring",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "DTM 2026",
-      "match_name": "Dtm Race 1   Norisring",
-      "match_id": 143623,
-      "startTime": "04 July 2026 05:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 3   Main Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 3 - Main Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 3   Main Feed",
-      "match_id": 143669,
-      "startTime": "04 July 2026 05:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
       "src": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
@@ -163,6 +163,22 @@
       "match_name": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
       "match_id": 143439,
       "startTime": "05 July 2026 02:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Hubli Tigers",
+      "src": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
+      "team_1": "Shivamogga Yodhas",
+      "team_2": "Hubli Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
+      "match_id": 143440,
+      "startTime": "05 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -275,22 +291,6 @@
       "match_name": "Day 3   World Feed",
       "match_id": 143668,
       "startTime": "04 July 2026 11:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "src": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Hubli Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "match_id": 143440,
-      "startTime": "05 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
