@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "10:00:51 AM 04-07-2026",
+  "last update time": "10:30:54 AM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,6 +20,22 @@
       "startTime": "04 July 2026 08:45 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143537_english_hls_3ee783f9f97534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783221125~_GO=Generated~acl=/mumbai/143537_english_hls_3ee783f9f97534_1ta-di_h264/*~Signature=Ac2BFellmHcjCsv5bO_-S8eBEhS2Wsrfl-pHt3e2RTXOyAT7sDq49V3BC6dlff2dgw2An4PCYglCZ6zYaGf-cm9ZHwwE",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143537_english_hls_3ee783f9f97534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783221125~_GO=Generated~acl=/mumbai/143537_english_hls_3ee783f9f97534_1ta-di_h264/*~Signature=Ac2BFellmHcjCsv5bO_-S8eBEhS2Wsrfl-pHt3e2RTXOyAT7sDq49V3BC6dlff2dgw2An4PCYglCZ6zYaGf-cm9ZHwwE"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bost Defenders Vs Speen Ghar Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
+      "team_1": "Bost Defenders",
+      "team_2": "Speen Ghar Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+      "status": "LIVE",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Bost Defenders Vs Speen Ghar Tigers",
+      "match_id": 143587,
+      "startTime": "04 July 2026 10:00 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783225146~_GO=Generated~acl=/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/*~Signature=Ac2BFeki1FSRmj4dsra7DlOCsRIX4GScPBOf_GzQW3cEGj574uhkluotMOO--SPNnwcRC5UWhiKElFFWTe6l6N_SNA8C",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783225146~_GO=Generated~acl=/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/*~Signature=Ac2BFeki1FSRmj4dsra7DlOCsRIX4GScPBOf_GzQW3cEGj574uhkluotMOO--SPNnwcRC5UWhiKElFFWTe6l6N_SNA8C"
     },
     {
       "event_category": "Cricket",
@@ -66,22 +82,6 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143539,
       "startTime": "05 July 2026 08:45 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-      "team_1": "Bost Defenders",
-      "team_2": "Speen Ghar Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Bost Defenders Vs Speen Ghar Tigers",
-      "match_id": 143587,
-      "startTime": "04 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
