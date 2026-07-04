@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:00:52 AM 05-07-2026",
+  "last update time": "03:30:52 AM 05-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -29,13 +29,13 @@
       "team_2": "TPC Deere Run Silvis, Illinois",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "John Deere Classic 2026",
       "match_name": "Day 3   Main Feed",
       "match_id": 143669,
       "startTime": "04 July 2026 05:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783279567~_GO=Generated~acl=/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/*~Signature=Ac2BFemWoRdSZOtjzDEoSlb2t_DHSiYV0hIR5q7LGd7k4-0Wp0UhVSOXe_ZJ0cz3Ciex6Ozyx-ELZT0W34ttQRl-V98N",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783279567~_GO=Generated~acl=/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/*~Signature=Ac2BFemWoRdSZOtjzDEoSlb2t_DHSiYV0hIR5q7LGd7k4-0Wp0UhVSOXe_ZJ0cz3Ciex6Ozyx-ELZT0W34ttQRl-V98N"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Golf",
@@ -246,6 +246,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Golf",
+      "title": "Day 4",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
+      "team_1": "Day 4",
+      "team_2": "United States of America",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "US Senior Open Championship 2026",
+      "match_name": "Day 4",
+      "match_id": 143581,
+      "startTime": "05 July 2026 06:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Motorsports",
       "title": "Adac Gt Race 2   Norisring",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
@@ -290,22 +306,6 @@
       "match_name": "Race",
       "match_id": 139466,
       "startTime": "05 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
-      "team_1": "Day 4",
-      "team_2": "United States of America",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-US@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "US Senior Open Championship 2026",
-      "match_name": "Day 4",
-      "match_id": 143581,
-      "startTime": "05 July 2026 11:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
