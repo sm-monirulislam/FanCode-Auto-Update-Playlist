@@ -2,15 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:30:50 PM 04-07-2026 (BD Time)
+# 🕒 Last Updated: 09:00:54 PM 04-07-2026 (BD Time)
 # 📺 Live Matches (IN): 6
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
 https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783258202~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelVKnQaKmEcXJKu-O_1XTytKC7qqB1MRjuq4NdTLgVOfNbr7OvsGs3c5wFHOB2e-V_yvE0KBR6eWH5kLmr51ikC
-
-#EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="Cricket",Namibia Vs Vidarbha
-https://in-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251007~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFenZCY0aqmoDq4b42DsCYuepRkIGZkcVOAwxcgHyk0dg0ebPiHGr0rEDSafnlyxzhZy8_QUVPNIncAZdE_QQhhAB
 
 #EXTINF:-1 tvg-name="Day 3   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf",Day 3   Main Feed
 https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8
@@ -23,3 +20,8 @@ https://in-mc-flive.fancode.com/mumbai/143620_english_hls_017771f64f82845_1ta-di
 
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Golf",Day 3
 https://in-mc-flive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783259042~_GO=Generated~acl=/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/*~Signature=Ac2BFekPJk44scGM_6rsGd1kgdhpjm1Zz52FubRHEah4ICqpMonTPL_xV5-vX56d95tATNvlJzwviTH20bMHnOWXbUcD
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Qualifying | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=895cc7e35b7349b0bf6641d73e80cafd:669cf14493b2cddac22114ad8651cc74
+https://in-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd
