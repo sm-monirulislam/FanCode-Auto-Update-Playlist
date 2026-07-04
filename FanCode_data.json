@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "11:00:52 PM 04-07-2026",
+  "last update time": "11:30:55 PM 04-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783258202~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelVKnQaKmEcXJKu-O_1XTytKC7qqB1MRjuq4NdTLgVOfNbr7OvsGs3c5wFHOB2e-V_yvE0KBR6eWH5kLmr51ikC",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783258202~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFelVKnQaKmEcXJKu-O_1XTytKC7qqB1MRjuq4NdTLgVOfNbr7OvsGs3c5wFHOB2e-V_yvE0KBR6eWH5kLmr51ikC"
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783272603~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFenHxLFu4-bXetsgLSF9atshRqAKFsJhlUYFDK_ubHB2hhGui0SCzhR2sRnCXA5zVEPzwDEqB2SX3yY78OqvOB4N",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783272603~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFenHxLFu4-bXetsgLSF9atshRqAKFsJhlUYFDK_ubHB2hhGui0SCzhR2sRnCXA5zVEPzwDEqB2SX3yY78OqvOB4N"
     },
     {
       "event_category": "Golf",
@@ -52,22 +52,6 @@
       "startTime": "04 July 2026 06:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783270688~_GO=Generated~acl=/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/*~Signature=Ac2BFen9qHkzZ__MHKN94xZJCAWc28gUxg-JoUy0nSANv1UU0trBKxYdNsTzrtV9PPJ7J0KjoZc_oRpl_vDU3CWWybwF",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783270688~_GO=Generated~acl=/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/*~Signature=Ac2BFen9qHkzZ__MHKN94xZJCAWc28gUxg-JoUy0nSANv1UU0trBKxYdNsTzrtV9PPJ7J0KjoZc_oRpl_vDU3CWWybwF"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 3",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 3",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 3",
-      "match_id": 143410,
-      "startTime": "04 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783259042~_GO=Generated~acl=/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/*~Signature=Ac2BFekPJk44scGM_6rsGd1kgdhpjm1Zz52FubRHEah4ICqpMonTPL_xV5-vX56d95tATNvlJzwviTH20bMHnOWXbUcD",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783259042~_GO=Generated~acl=/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/*~Signature=Ac2BFekPJk44scGM_6rsGd1kgdhpjm1Zz52FubRHEah4ICqpMonTPL_xV5-vX56d95tATNvlJzwviTH20bMHnOWXbUcD"
     },
     {
       "event_category": "Motorsports",
@@ -610,6 +594,22 @@
       "match_name": "Day 1",
       "match_id": 4246584,
       "startTime": "08 July 2026 09:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
+      "src": "https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png",
+      "team_1": "Coastal Kings Mangaluru",
+      "team_2": "Gulbarga Mystics",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
+      "match_id": 143444,
+      "startTime": "08 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
