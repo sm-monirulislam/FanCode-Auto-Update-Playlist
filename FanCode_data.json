@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "07:00:51 PM 05-07-2026",
+  "last update time": "07:30:49 PM 05-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,24 +18,8 @@
       "match_name": "Speen Ghar Tigers Vs Amo Sharks",
       "match_id": 143590,
       "startTime": "05 July 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783329542~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFelOgtNjP8f6WcMlHs8uqjw5IoOItYWvsDJXjCoGKmoduH4_-4G3zz9zuUOuEKwMld-B9Pl5qOEWBHF-OE7zHBYI",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783329542~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFelOgtNjP8f6WcMlHs8uqjw5IoOItYWvsDJXjCoGKmoduH4_-4G3zz9zuUOuEKwMld-B9Pl5qOEWBHF-OE7zHBYI"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Dtm Race 2   Norisring",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "team_1": "DTM Race 2 - Norisring",
-      "team_2": "Norisring",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "DTM 2026",
-      "match_name": "Dtm Race 2   Norisring",
-      "match_id": 143625,
-      "startTime": "05 July 2026 05:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/1080p5.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/1080p5.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344362~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFel-vzg9fLVfy8wwHEOKUObkB9wnn05wtrYY9GcXhE2_GaTykH0IrkmYFTz7A5_IH7BZjwJqID4XMKPXxvIPUmIB",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344362~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFel-vzg9fLVfy8wwHEOKUObkB9wnn05wtrYY9GcXhE2_GaTykH0IrkmYFTz7A5_IH7BZjwJqID4XMKPXxvIPUmIB"
     },
     {
       "event_category": "Golf",
@@ -84,6 +68,22 @@
       "startTime": "05 July 2026 06:30 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Adac Gt Race 2   Norisring",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "team_1": "ADAC GT Race 2 - Norisring",
+      "team_2": "Norisring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "DTM 2026",
+      "match_name": "Adac Gt Race 2   Norisring",
+      "match_id": 143621,
+      "startTime": "05 July 2026 06:40 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8"
     },
     {
       "event_category": "Formula 1",
@@ -149,24 +149,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783342273~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFenOriKqQJyCmtfMUOJV3_QPyQddjeWlvoqEVynmCIfkBaFZ3pMeJL39bosEvkHFKb2y6jRh9GxCOKDG18cM72kC",
-      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783342273~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFenOriKqQJyCmtfMUOJV3_QPyQddjeWlvoqEVynmCIfkBaFZ3pMeJL39bosEvkHFKb2y6jRh9GxCOKDG18cM72kC"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "team_1": "Zimbabwe",
-      "team_2": "Bangladesh",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs Bangladesh",
-      "match_id": 143400,
-      "startTime": "06 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344370~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFemnRmp5IH1l8OX-kwN4WPts8yJCN5WRzHN49rAv8ToUkeplo4Nq_UJtSk8gChttB57L_1uckF2phGz_nJ08jKYP",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344370~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFemnRmp5IH1l8OX-kwN4WPts8yJCN5WRzHN49rAv8ToUkeplo4Nq_UJtSk8gChttB57L_1uckF2phGz_nJ08jKYP"
     },
     {
       "event_category": "Cricket",
@@ -181,6 +165,22 @@
       "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
       "match_id": 143440,
       "startTime": "05 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+      "team_1": "Zimbabwe",
+      "team_2": "Bangladesh",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh tour of Zimbabwe, 2026",
+      "match_name": "Zimbabwe Vs Bangladesh",
+      "match_id": 143400,
+      "startTime": "06 July 2026 01:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -218,17 +218,17 @@
     },
     {
       "event_category": "Motorsports",
-      "title": "Adac Gt Race 2   Norisring",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "team_1": "ADAC GT Race 2 - Norisring",
-      "team_2": "Norisring",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png",
+      "title": "F1 Kids 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "team_1": "F1 Kids 2026",
+      "team_2": "Silverstone",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
       "status": "UPCOMING",
-      "event_name": "DTM 2026",
-      "match_name": "Adac Gt Race 2   Norisring",
-      "match_id": 143621,
-      "startTime": "05 July 2026 06:40 PM",
+      "event_name": "F1 Kids 2026",
+      "match_name": "F1 Kids 2026",
+      "match_id": 143675,
+      "startTime": "05 July 2026 07:25 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -245,22 +245,6 @@
       "match_name": "Gulbarga Mystics Vs Kalyani Bengaluru Blasters",
       "match_id": 143442,
       "startTime": "06 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
-      "team_1": "F1 Kids 2026",
-      "team_2": "Silverstone",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F1 Kids 2026",
-      "match_name": "F1 Kids 2026",
-      "match_id": 143675,
-      "startTime": "05 July 2026 07:25 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -645,6 +629,22 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143632,
       "startTime": "10 July 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143445,
+      "startTime": "10 July 2026 02:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
