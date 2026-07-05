@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 10:00:55 PM 05-07-2026 (BD Time)
-# 📺 Live Matches (BD): 9
+# 🕒 Last Updated: 10:30:51 PM 05-07-2026 (BD Time)
+# 📺 Live Matches (BD): 5
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
@@ -20,21 +20,3 @@ https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-d
 
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg" group-title="Golf",Day 4
 https://bd-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="F1 Kids 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports",F1 Kids 2026
-https://bd-mc-fblive.fancode.com/mumbai/143675_english_hls_363cacff8938439_1ta-di_h264/1080p5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d51dfc5f4de4770a888eb6a257ba8fa:108c67f9a787fcfbe36e05487621ccf2
-https://bd-mc-flive.fancode.com/mumbai/139466_english_dash_85733_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9658e3a89ebc439c8a8141c6c6ca1769:c9e7441bce5fa4a3ce3643524550d887
-https://bd-mc-flive.fancode.com/mumbai/139466_hindi_dash_39642_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (TAMIL) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6899f7649544805b080acdbea19cebf:63e53d263f8b763ba01a2719939095ba
-https://bd-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd
