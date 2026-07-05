@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 37,
-  "last update time": "10:00:58 AM 05-07-2026",
+  "last update time": "10:30:49 AM 05-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,6 +20,22 @@
       "startTime": "05 July 2026 08:45 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143539_english_hls_4ac018b69377625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783306263~_GO=Generated~acl=/mumbai/143539_english_hls_4ac018b69377625_1ta-di_h264/*~Signature=Ac2BFen46nQPAGlWUuPSdAHx63YULOze752xrYv_iKrbO2gUnn8nFfPh8vNSiwQxnnhsPYONXDLfaLmFBCIf-Pls_QMJ",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143539_english_hls_4ac018b69377625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783306263~_GO=Generated~acl=/mumbai/143539_english_hls_4ac018b69377625_1ta-di_h264/*~Signature=Ac2BFen46nQPAGlWUuPSdAHx63YULOze752xrYv_iKrbO2gUnn8nFfPh8vNSiwQxnnhsPYONXDLfaLmFBCIf-Pls_QMJ"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Band E Amir Dragons Vs Bost Defenders",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143589_6148_BOS_BD_fc-web_1782725011503.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Bost Defenders",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+      "status": "LIVE",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Band E Amir Dragons Vs Bost Defenders",
+      "match_id": 143589,
+      "startTime": "05 July 2026 10:00 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143589_english_hls_f7ee3fa73e40060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783311543~_GO=Generated~acl=/mumbai/143589_english_hls_f7ee3fa73e40060_1ta-di_h264/*~Signature=Ac2BFelbT8wlDgm5n772DsaCQ21QO7-r3s5vYSchHDDqsYKFNvlincgpX93wAYcE1WcoFCIabTSK6oqzVqF4iA1wTE0P",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143589_english_hls_f7ee3fa73e40060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783311543~_GO=Generated~acl=/mumbai/143589_english_hls_f7ee3fa73e40060_1ta-di_h264/*~Signature=Ac2BFelbT8wlDgm5n772DsaCQ21QO7-r3s5vYSchHDDqsYKFNvlincgpX93wAYcE1WcoFCIabTSK6oqzVqF4iA1wTE0P"
     },
     {
       "event_category": "Cricket",
@@ -66,22 +82,6 @@
       "match_name": "Zimbabwe Vs Bangladesh",
       "match_id": 143400,
       "startTime": "06 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bost Defenders Vs Band E Amir Dragons",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143589_6148_BOS_BD_fc-web_1782725011503.jpg",
-      "team_1": "Bost Defenders",
-      "team_2": "Band-e-Amir Dragons",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Bost Defenders Vs Band E Amir Dragons",
-      "match_id": 143589,
-      "startTime": "05 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -278,22 +278,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 4   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "team_1": "Day 4 - World Feed",
-      "team_2": "TPC Deere Run Silvis, Illinois",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "John Deere Classic 2026",
-      "match_name": "Day 4   World Feed",
-      "match_id": 143670,
-      "startTime": "05 July 2026 11:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Namibia Vs Vidarbha",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143630_6150_NAM_VID_fc-web.jpg",
@@ -306,6 +290,22 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143630,
       "startTime": "06 July 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 4   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "team_1": "Day 4 - World Feed",
+      "team_2": "TPC Deere Run Silvis, Illinois",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "John Deere Classic 2026",
+      "match_name": "Day 4   World Feed",
+      "match_id": 143670,
+      "startTime": "05 July 2026 11:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
