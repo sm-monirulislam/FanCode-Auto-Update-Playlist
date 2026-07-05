@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "08:30:57 PM 05-07-2026",
+  "last update time": "09:00:55 PM 05-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -103,22 +103,6 @@
     },
     {
       "event_category": "Motorsports",
-      "title": "Adac Gt Race 2   Norisring",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "team_1": "ADAC GT Race 2 - Norisring",
-      "team_2": "Norisring",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-ADAC@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "DTM 2026",
-      "match_name": "Adac Gt Race 2   Norisring",
-      "match_id": 143621,
-      "startTime": "05 July 2026 06:40 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8"
-    },
-    {
-      "event_category": "Motorsports",
       "title": "F1 Kids 2026",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "team_1": "F1 Kids 2026",
@@ -183,22 +167,6 @@
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd",
       "drm_key": "e6899f7649544805b080acdbea19cebf:63e53d263f8b763ba01a2719939095ba"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Speen Ghar Tigers Vs Amo Sharks",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
-      "team_1": "Speen Ghar Tigers",
-      "team_2": "Amo Sharks",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Speen Ghar Tigers Vs Amo Sharks",
-      "match_id": 143590,
-      "startTime": "05 July 2026 03:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -661,6 +629,38 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143445,
       "startTime": "10 July 2026 02:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Ireland Women Vs West Indies Women",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "West Indies Women",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "West Indies Women tour of Ireland, 2026",
+      "match_name": "Ireland Women Vs West Indies Women",
+      "match_id": 143143,
+      "startTime": "10 July 2026 03:15 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Belgium Vs Serbia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "team_1": "Belgium",
+      "team_2": "Serbia",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_name": "Belgium Vs Serbia",
+      "match_id": 4246563,
+      "startTime": "10 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
