@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 39,
-  "last update time": "01:00:53 AM 06-07-2026",
+  "match_amount": 38,
+  "last update time": "01:30:53 AM 06-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -22,38 +22,6 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783359423~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFek3tb6Pcwl6LbLd2s-a-tSS0QAFh1poVbe8o5k3KsTk8EUQQxl_fFbUJaqvt_VRmLLI1M2KW1Ysg2LHvmv8grsO"
     },
     {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "src": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Hubli Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "match_id": 143440,
-      "startTime": "05 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360686~_GO=Generated~acl=/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/*~Signature=Ac2BFenxMyKHC61FeOioVTJ-Kg1M2Xm4rNO_naZsiboHTdZdwfWdQmg5yudXvBIcTz3kNPVefEG2aFWqKvtYXfgq8ScB",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360686~_GO=Generated~acl=/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/*~Signature=Ac2BFenxMyKHC61FeOioVTJ-Kg1M2Xm4rNO_naZsiboHTdZdwfWdQmg5yudXvBIcTz3kNPVefEG2aFWqKvtYXfgq8ScB"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "src": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Hubli Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "match_id": 143440,
-      "startTime": "05 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360687~_GO=Generated~acl=/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/*~Signature=Ac2BFekcZ7YxC4uj303eLHBinONKJ-nzECo5bihigTqnvXW-UgXjLIwi9yOcaQCZsUs2VsaY8o1C-lHqDlZuT1OfqzQI",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360687~_GO=Generated~acl=/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/*~Signature=Ac2BFekcZ7YxC4uj303eLHBinONKJ-nzECo5bihigTqnvXW-UgXjLIwi9yOcaQCZsUs2VsaY8o1C-lHqDlZuT1OfqzQI"
-    },
-    {
       "event_category": "Golf",
       "title": "Day 4   Main Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
@@ -66,8 +34,8 @@
       "match_name": "Day 4   Main Feed",
       "match_id": 143671,
       "startTime": "05 July 2026 05:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783366205~_GO=Generated~acl=/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/*~Signature=Ac2BFelMijYci7fIhT5L1J2V3VCkHaL4fbOuJStVuLH_OYQjRzAUM8ZbL1CM76_Xmk4-mZdLI2qqe8_oNZHAtfEXKfMA",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783366205~_GO=Generated~acl=/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/*~Signature=Ac2BFelMijYci7fIhT5L1J2V3VCkHaL4fbOuJStVuLH_OYQjRzAUM8ZbL1CM76_Xmk4-mZdLI2qqe8_oNZHAtfEXKfMA"
     },
     {
       "event_category": "Golf",
@@ -626,6 +594,22 @@
       "match_name": "Bost Defenders Vs Band E Amir Dragons",
       "match_id": 143597,
       "startTime": "10 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "MotoGP",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
+      "team_1": "Day 1",
+      "team_2": "Sachsenring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+      "match_name": "Day 1",
+      "match_id": 139957,
+      "startTime": "10 July 2026 05:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
