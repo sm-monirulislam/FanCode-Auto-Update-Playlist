@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "09:30:51 PM 05-07-2026",
+  "last update time": "10:00:55 PM 05-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -68,22 +68,6 @@
       "startTime": "05 July 2026 05:00 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "event_category": "Golf",
-      "title": "Day 4",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "team_1": "Day 4",
-      "team_2": "Hulencourt Golf Club, Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Hulencourt Women's Open 2026",
-      "match_name": "Day 4",
-      "match_id": 143411,
-      "startTime": "05 July 2026 06:30 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Golf",
@@ -660,6 +644,22 @@
       "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_name": "Belgium Vs Serbia",
       "match_id": 4246563,
+      "startTime": "10 July 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Turkiye Vs Norway",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "team_1": "Turkiye",
+      "team_2": "Norway",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_name": "Turkiye Vs Norway",
+      "match_id": 4246571,
       "startTime": "10 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
