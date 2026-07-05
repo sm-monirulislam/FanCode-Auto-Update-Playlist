@@ -2,12 +2,18 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 07:30:49 PM 05-07-2026 (BD Time)
-# 📺 Live Matches (IN): 9
+# 🕒 Last Updated: 08:00:50 PM 05-07-2026 (BD Time)
+# 📺 Live Matches (IN): 11
 #=================================
 
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg" group-title="Cricket",Speen Ghar Tigers Vs Amo Sharks
-https://in-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344362~_GO=Generated~acl=/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/*~Signature=Ac2BFel-vzg9fLVfy8wwHEOKUObkB9wnn05wtrYY9GcXhE2_GaTykH0IrkmYFTz7A5_IH7BZjwJqID4XMKPXxvIPUmIB
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
+https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344602~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFenx8w5eidFF-FOORh9GtSzvQ7IW0e0DW_SvHJJ9yJh-EGFYJ3om2yp_iLIv1hVYPXmbI-boDsIP2zsohAhQYA8P
+
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://in-mc-fblive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://in-mc-fblive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 4   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf",Day 4   Main Feed
 https://in-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/1080p.m3u8
@@ -20,6 +26,9 @@ https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-d
 
 #EXTINF:-1 tvg-name="Adac Gt Race 2   Norisring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Motorsports",Adac Gt Race 2   Norisring
 https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p5.m3u8
+
+#EXTINF:-1 tvg-name="F1 Kids 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports",F1 Kids 2026
+https://in-mc-fblive.fancode.com/mumbai/143675_english_hls_363cacff8938439_1ta-di_h264/1080p5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Race | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,6 +44,3 @@ https://in-mc-flive.fancode.com/mumbai/139466_hindi_dash_39642_1drmta-di_h264/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6899f7649544805b080acdbea19cebf:63e53d263f8b763ba01a2719939095ba
 https://in-mc-flive.fancode.com/mumbai/139466_tamil_dash_5813_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
-https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344370~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFemnRmp5IH1l8OX-kwN4WPts8yJCN5WRzHN49rAv8ToUkeplo4Nq_UJtSk8gChttB57L_1uckF2phGz_nJ08jKYP
