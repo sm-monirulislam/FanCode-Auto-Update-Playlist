@@ -2,15 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 08:30:51 PM 06-07-2026 (BD Time)
-# 📺 Live Matches (BD): 4
+# 🕒 Last Updated: 09:01:03 PM 06-07-2026 (BD Time)
+# 📺 Live Matches (BD): 3
 #=================================
 
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket",Sri Lanka Vs West Indies
 https://bd-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143630_6150_NAM_VID_fc-web.jpg" group-title="Cricket",Namibia Vs Vidarbha
-https://bd-mc-flive.fancode.com/mumbai/143630_english_hls_1c1d6be59d88580_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783423565~_GO=Generated~acl=/mumbai/143630_english_hls_1c1d6be59d88580_1ta-di_h264/*~Signature=Ac2BFen0uVLWf8szGeVxPmVOkxy-KLzpJhWcsO5948ZfQnpRuk3fyoVyZ0TMhLxoJLH9djwkHcQlRkiBWAw6jjBxXL4M
 
 #EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Gulbarga Mystics" tvg-logo="https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png" group-title="Cricket",Kalyani Bengaluru Blasters Vs Gulbarga Mystics
 https://bd-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/1080p.m3u8
