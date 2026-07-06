@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "07:00:56 PM 06-07-2026",
+  "match_amount": 41,
+  "last update time": "07:30:54 PM 06-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -39,6 +39,38 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "src": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
+      "team_1": "Kalyani Bengaluru Blasters",
+      "team_2": "Gulbarga Mystics",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "match_id": 143442,
+      "startTime": "06 July 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "src": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
+      "team_1": "Kalyani Bengaluru Blasters",
+      "team_2": "Gulbarga Mystics",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "match_id": 143442,
+      "startTime": "06 July 2026 07:00 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
       "title": "Amo Sharks Vs Band E Amir Dragons",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143592_6148_AM_BD_fc-web_1782725011552.jpg",
       "team_1": "Amo Sharks",
@@ -55,22 +87,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Hubli Tigers Vs Coastal Kings Mangaluru",
-      "src": "https://images.fancode.com/aig/match/v1781841438716/143441_CASACARDS_SPORTY_APP.png",
-      "team_1": "Hubli Tigers",
-      "team_2": "Coastal Kings Mangaluru",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Hubli Tigers Vs Coastal Kings Mangaluru",
-      "match_id": 143441,
-      "startTime": "06 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Sri Lanka Vs West Indies",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "team_1": "Sri Lanka",
@@ -82,24 +98,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Gulbarga Mystics Vs Kalyani Bengaluru Blasters",
-      "src": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
-      "team_1": "Gulbarga Mystics",
-      "team_2": "Kalyani Bengaluru Blasters",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Gulbarga Mystics Vs Kalyani Bengaluru Blasters",
-      "match_id": 143442,
-      "startTime": "06 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG"
     },
     {
       "event_category": "Cricket",
@@ -642,6 +642,22 @@
       "match_name": "Day 4",
       "match_id": 4246602,
       "startTime": "11 July 2026 09:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Bost Defenders Vs Mis E Ainak Knights",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
+      "team_1": "Bost Defenders",
+      "team_2": "Mis-e-Ainak Knights",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Bost Defenders Vs Mis E Ainak Knights",
+      "match_id": 143599,
+      "startTime": "11 July 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
