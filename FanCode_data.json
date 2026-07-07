@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "03:30:34 AM 08-07-2026",
+  "last update time": "04:00:31 AM 08-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Sri Lanka Vs West Indies",
       "match_id": 142979,
       "startTime": "03 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783532649~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFekIs6zTDE4WD7fMymcV1rgQiheEq3qxhiAhyA4gzwrj6t5ao12Ye0qC3K4OKLfYywpDESBINl-28U4mjvZ-VVIK",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783532649~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFekIs6zTDE4WD7fMymcV1rgQiheEq3qxhiAhyA4gzwrj6t5ao12Ye0qC3K4OKLfYywpDESBINl-28U4mjvZ-VVIK"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783547469~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFemUbwHyIXlB41KfgtdP8KI1gkD2-xJ32tQdeK_oMN9maX7KNCslkWg6FswKPyrpx9uwCeWuyNCxGDUTZoehK78M",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783547469~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d315809_1ta-di_h264/*~Signature=Ac2BFemUbwHyIXlB41KfgtdP8KI1gkD2-xJ32tQdeK_oMN9maX7KNCslkWg6FswKPyrpx9uwCeWuyNCxGDUTZoehK78M"
     },
     {
       "event_category": "Cricket",
@@ -134,22 +134,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Live Events",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
-      "team_1": "Day 1",
-      "team_2": "Goa",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Dream UTT Juniors 2026",
-      "match_name": "Day 1",
-      "match_id": 4246584,
-      "startTime": "08 July 2026 09:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Zimbabwe Vs Bangladesh",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
@@ -178,6 +162,22 @@
       "match_name": "Denmark Vs Turkiye",
       "match_id": 4246568,
       "startTime": "09 July 2026 02:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
+      "team_1": "Day 1",
+      "team_2": "Goa",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Dream UTT Juniors 2026",
+      "match_name": "Day 1",
+      "match_id": 4246584,
+      "startTime": "08 July 2026 09:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
