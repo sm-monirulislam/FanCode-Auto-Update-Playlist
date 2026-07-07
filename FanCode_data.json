@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "01:00:30 PM 07-07-2026",
+  "last update time": "01:30:32 PM 07-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Itahari Super Kings Vs Chinnamasta Lions",
       "match_id": 143540,
       "startTime": "07 July 2026 08:45 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783479485~_GO=Generated~acl=/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/*~Signature=Ac2BFemeRSHijkHY_cJ4Viy6Kye8JButaCjPYyYT4qfOOnplTILwVEjGelxlY3b839Fc2uYnnJX0qIWfNY1g4Oob-98F",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783479485~_GO=Generated~acl=/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/*~Signature=Ac2BFemeRSHijkHY_cJ4Viy6Kye8JButaCjPYyYT4qfOOnplTILwVEjGelxlY3b839Fc2uYnnJX0qIWfNY1g4Oob-98F"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783494306~_GO=Generated~acl=/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/*~Signature=Ac2BFemMXSRmy_Fx6U7w5uergL-BTUeclvug-_RKcIvKp00IoFQsF1rDW6Sa4PEhiR8h9CJAEpDaEzdzm4QgQs6uXXMD",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783494306~_GO=Generated~acl=/mumbai/143540_english_hls_97bfb0174a50205_1ta-di_h264/*~Signature=Ac2BFemMXSRmy_Fx6U7w5uergL-BTUeclvug-_RKcIvKp00IoFQsF1rDW6Sa4PEhiR8h9CJAEpDaEzdzm4QgQs6uXXMD"
     },
     {
       "event_category": "Cricket",
@@ -50,22 +50,6 @@
       "match_name": "Denmark Vs Estonia",
       "match_id": 4246561,
       "startTime": "08 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "team_1": "Zimbabwe",
-      "team_2": "Bangladesh",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs Bangladesh",
-      "match_id": 143400,
-      "startTime": "06 July 2026 01:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -103,22 +87,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143593_6148_BD_SG_fc-web_1782725011420.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Speen Ghar Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "match_id": 143593,
-      "startTime": "08 July 2026 10:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Norway Vs Hungary",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "team_1": "Norway",
@@ -146,6 +114,38 @@
       "match_name": "Romania Vs Serbia",
       "match_id": 4246562,
       "startTime": "08 July 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+      "team_1": "Zimbabwe",
+      "team_2": "Bangladesh",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh tour of Zimbabwe, 2026",
+      "match_name": "Zimbabwe Vs Bangladesh",
+      "match_id": 143400,
+      "startTime": "06 July 2026 01:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143593_6148_BD_SG_fc-web_1782725011420.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Speen Ghar Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Band E Amir Dragons Vs Speen Ghar Tigers",
+      "match_id": 143593,
+      "startTime": "08 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
