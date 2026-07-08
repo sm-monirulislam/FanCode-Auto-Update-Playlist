@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 41,
-  "last update time": "10:00:51 PM 08-07-2026",
+  "last update time": "11:00:51 PM 08-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -29,29 +29,13 @@
       "team_2": "Serbia",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_name": "Romania Vs Serbia",
       "match_id": 4246562,
       "startTime": "08 July 2026 07:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603567~_GO=Generated~acl=/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/*~Signature=AfBeBzhfs49p-JgdWTwE2QTvp_e3y_5M-DXItN1423MVtJrtsOKkatxmLc555RUTm6ckTs4D1xMlJPBzYZKxa9rHpB0J",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783603567~_GO=Generated~acl=/mumbai/4246562_english_hls_291d0bf0f582108_1ta-di_h264/*~Signature=AfBeBzhfs49p-JgdWTwE2QTvp_e3y_5M-DXItN1423MVtJrtsOKkatxmLc555RUTm6ckTs4D1xMlJPBzYZKxa9rHpB0J"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Vidarbha",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
-      "status": "LIVE",
-      "event_name": "Vidarbha Cricket Association tour of Namibia",
-      "match_name": "Namibia Vs Vidarbha",
-      "match_id": 143631,
-      "startTime": "08 July 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783611006~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=AfBeBzgJAk7LEPjO7QO_NxH4WsMDMNG-OhPyAT7CE2RSWpAdzGn6iDxSY2K_lIcX9ZpHBU1UyyIHiwrOC4ZuxxHwXj4D",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783611006~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=AfBeBzgJAk7LEPjO7QO_NxH4WsMDMNG-OhPyAT7CE2RSWpAdzGn6iDxSY2K_lIcX9ZpHBU1UyyIHiwrOC4ZuxxHwXj4D"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -310,22 +294,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "MotoGP",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
-      "team_1": "Day 1",
-      "team_2": "Sachsenring",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-      "status": "UPCOMING",
-      "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
-      "match_name": "Day 1",
-      "match_id": 139957,
-      "startTime": "10 July 2026 12:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Belgium Vs Serbia",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
@@ -354,6 +322,22 @@
       "match_name": "Turkiye Vs Norway",
       "match_id": 4246571,
       "startTime": "10 July 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "MotoGP",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
+      "team_1": "Day 1",
+      "team_2": "Sachsenring",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+      "match_name": "Day 1",
+      "match_id": 139957,
+      "startTime": "10 July 2026 12:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -658,6 +642,22 @@
       "match_name": "Race Day",
       "match_id": 139959,
       "startTime": "12 July 2026 02:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Tbc Vs Tbc",
+      "match_id": 143448,
+      "startTime": "12 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
