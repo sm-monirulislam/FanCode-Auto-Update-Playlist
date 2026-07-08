@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "05:00:51 PM 08-07-2026",
+  "match_amount": 40,
+  "last update time": "06:00:50 PM 08-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -50,8 +50,8 @@
       "match_name": "Namibia Vs Vidarbha",
       "match_id": 143631,
       "startTime": "08 July 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783581545~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=Ac2BFemWRYo9GKLJu3c4FKoGDCWwUzVEswPUbubxdWSDHd7fsJx1TZ13hTqrhyQUYV2dxeCIhutKSIPxctCba01cvisH",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783581545~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=Ac2BFemWRYo9GKLJu3c4FKoGDCWwUzVEswPUbubxdWSDHd7fsJx1TZ13hTqrhyQUYV2dxeCIhutKSIPxctCba01cvisH"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783596365~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=AfBeBzjDmfwtDrWOX-3Xq3z8qX-CasX24Rj_NoXUxgg4Rh9fy1l2JblEZdJML9l4Be7mKIFPzDYKxmaRY1XRBsGFaD0C",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783596365~_GO=Generated~acl=/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/*~Signature=AfBeBzjDmfwtDrWOX-3Xq3z8qX-CasX24Rj_NoXUxgg4Rh9fy1l2JblEZdJML9l4Be7mKIFPzDYKxmaRY1XRBsGFaD0C"
     },
     {
       "event_category": "Cricket",
@@ -61,29 +61,13 @@
       "team_2": "Mysore Warriors",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "Maharaja T20 Trophy, 2026",
       "match_name": "Shivamogga Yodhas Vs Mysore Warriors",
       "match_id": 143443,
       "startTime": "08 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783585148~_GO=Generated~acl=/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/*~Signature=Ac2BFel1TDGBjIJ1pO9dfS8s1Zpr9aSEZP3UIwkv9HKeqboCa9K0vw4zCdFhSjktlYBB2_0rJvrc83xBkzeuRytz4S0O",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783585148~_GO=Generated~acl=/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/*~Signature=Ac2BFel1TDGBjIJ1pO9dfS8s1Zpr9aSEZP3UIwkv9HKeqboCa9K0vw4zCdFhSjktlYBB2_0rJvrc83xBkzeuRytz4S0O"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "src": "https://images.fancode.com/aig/match/v1781841438721/143443_CASACARDS_SPORTY_APP.png",
-      "team_1": "Shivamogga Yodhas",
-      "team_2": "Mysore Warriors",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Shivamogga Yodhas Vs Mysore Warriors",
-      "match_id": 143443,
-      "startTime": "08 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143443_kannada_hls_87640217c567227_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783585149~_GO=Generated~acl=/mumbai/143443_kannada_hls_87640217c567227_1ta-di_h264/*~Signature=Ac2BFenKXlmEXqwjhnxR-BoB2rkjT_WPPTF_rSs4tbm1jlPPjpAyX19s1ZCR0hqSS8xL4VWNqW8iqjeW06rdSdbWo0gJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143443_kannada_hls_87640217c567227_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783585149~_GO=Generated~acl=/mumbai/143443_kannada_hls_87640217c567227_1ta-di_h264/*~Signature=Ac2BFenKXlmEXqwjhnxR-BoB2rkjT_WPPTF_rSs4tbm1jlPPjpAyX19s1ZCR0hqSS8xL4VWNqW8iqjeW06rdSdbWo0gJ"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -113,22 +97,6 @@
       "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_name": "Romania Vs Serbia",
       "match_id": 4246562,
-      "startTime": "08 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
-      "src": "https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png",
-      "team_1": "Coastal Kings Mangaluru",
-      "team_2": "Gulbarga Mystics",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2026",
-      "match_name": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
-      "match_id": 143444,
       "startTime": "08 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
@@ -167,6 +135,22 @@
     },
     {
       "event_category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
+      "src": "https://images.fancode.com/aig/match/v1781841438710/143444_CASACARDS_SPORTY_APP.png",
+      "team_1": "Coastal Kings Mangaluru",
+      "team_2": "Gulbarga Mystics",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2026",
+      "match_name": "Coastal Kings Mangaluru Vs Gulbarga Mystics",
+      "match_id": 143444,
+      "startTime": "08 July 2026 07:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
       "title": "Estonia Vs Norway",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "team_1": "Estonia",
@@ -178,22 +162,6 @@
       "match_name": "Estonia Vs Norway",
       "match_id": 4246566,
       "startTime": "09 July 2026 07:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-      "team_1": "Sri Lanka",
-      "team_2": "West Indies",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of West Indies 2026",
-      "match_name": "Sri Lanka Vs West Indies",
-      "match_id": 142979,
-      "startTime": "03 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -210,6 +178,22 @@
       "match_name": "Day 2",
       "match_id": 4246600,
       "startTime": "09 July 2026 09:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Sri Lanka Vs West Indies",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+      "team_1": "Sri Lanka",
+      "team_2": "West Indies",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of West Indies 2026",
+      "match_name": "Sri Lanka Vs West Indies",
+      "match_id": 142979,
+      "startTime": "03 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
