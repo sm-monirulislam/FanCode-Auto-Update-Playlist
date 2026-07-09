@@ -3,8 +3,24 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "01:00:53 AM 10-07-2026",
+  "last update time": "02:00:52 AM 10-07-2026",
   "matches": [
+    {
+      "event_category": "Golf",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
+      "team_1": "Day 1",
+      "team_2": "Hurstbourne Country Club",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "ISCO Championship 2026",
+      "match_name": "Day 1",
+      "match_id": 4246547,
+      "startTime": "10 July 2026 01:30 AM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/1080p.m3u8"
+    },
     {
       "event_category": "Cricket",
       "title": "Romania Vs Gibraltar",
@@ -134,22 +150,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "team_1": "Day 1",
-      "team_2": "Hurstbourne Country Club",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "ISCO Championship 2026",
-      "match_name": "Day 1",
-      "match_id": 4246547,
-      "startTime": "10 July 2026 01:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Live Events",
       "title": "Day 3",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
@@ -194,22 +194,6 @@
       "match_name": "Bost Defenders Vs Band E Amir Dragons",
       "match_id": 143597,
       "startTime": "10 July 2026 03:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Norway Vs Hungary",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "team_1": "Norway",
-      "team_2": "Hungary",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_name": "Norway Vs Hungary",
-      "match_id": 4246560,
-      "startTime": "08 July 2026 07:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -294,22 +278,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Live Events",
-      "title": "Day 4",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "team_1": "Day 4",
-      "team_2": "Goa",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Dream UTT Juniors 2026",
-      "match_name": "Day 4",
-      "match_id": 4246602,
-      "startTime": "11 July 2026 09:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Tbc Vs Tbc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -322,6 +290,22 @@
       "match_name": "Tbc Vs Tbc",
       "match_id": 143447,
       "startTime": "11 July 2026 02:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 4",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "team_1": "Day 4",
+      "team_2": "Goa",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Dream UTT Juniors 2026",
+      "match_name": "Day 4",
+      "match_id": 4246602,
+      "startTime": "11 July 2026 09:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,6 +626,22 @@
       "match_name": "Day 6",
       "match_id": 4246604,
       "startTime": "13 July 2026 09:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Speen Ghar Tigers",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2026",
+      "match_name": "Band E Amir Dragons Vs Speen Ghar Tigers",
+      "match_id": 143697,
+      "startTime": "13 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
