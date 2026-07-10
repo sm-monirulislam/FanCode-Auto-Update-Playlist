@@ -2,25 +2,9 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 40,
-  "last update time": "05:00:53 AM 10-07-2026",
+  "match_amount": 38,
+  "last update time": "06:00:50 AM 10-07-2026",
   "matches": [
-    {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "team_1": "Day 1",
-      "team_2": "Hurstbourne Country Club",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ISCO Championship 2026",
-      "match_name": "Day 1",
-      "match_id": 4246547,
-      "startTime": "10 July 2026 01:30 AM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/1080p.m3u8"
-    },
     {
       "event_category": "Cricket",
       "title": "Romania Vs Gibraltar",
@@ -626,22 +610,6 @@
       "match_name": "Day 6",
       "match_id": 4246604,
       "startTime": "13 July 2026 09:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Speen Ghar Tigers",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2026",
-      "match_name": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "match_id": 143697,
-      "startTime": "13 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
