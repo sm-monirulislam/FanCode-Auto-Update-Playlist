@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 39,
-  "last update time": "09:00:30 PM 10-07-2026",
+  "last update time": "10:00:27 PM 10-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -55,22 +55,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-      "team_1": "Namibia",
-      "team_2": "Vidarbha",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
-      "status": "LIVE",
-      "event_name": "Vidarbha Cricket Association tour of Namibia",
-      "match_name": "Namibia Vs Vidarbha",
-      "match_id": 143632,
-      "startTime": "10 July 2026 01:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783769162~_GO=Generated~acl=/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/*~Signature=AfBeBzhjLaBEheNcYKpd6ngg47d9FUwuVbMKw_aIgpp2fW7Oztud9JnBQ2HXIly7D8KW8dHgAqZJHTlc5vpUdxo37AMO",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783769162~_GO=Generated~acl=/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/*~Signature=AfBeBzhjLaBEheNcYKpd6ngg47d9FUwuVbMKw_aIgpp2fW7Oztud9JnBQ2HXIly7D8KW8dHgAqZJHTlc5vpUdxo37AMO"
-    },
-    {
-      "event_category": "Cricket",
       "title": "Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg",
       "team_1": "Kalyani Bengaluru Blasters",
@@ -100,6 +84,22 @@
       "startTime": "10 July 2026 07:00 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143446_kannada_hls_4854dad70547108_1ta-di_h264/1080p.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143446_kannada_hls_4854dad70547108_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+      "team_1": "Namibia",
+      "team_2": "Vidarbha",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
+      "status": "LIVE",
+      "event_name": "Vidarbha Cricket Association tour of Namibia",
+      "match_name": "Namibia Vs Vidarbha",
+      "match_id": 143632,
+      "startTime": "10 July 2026 01:00 PM",
+      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783783563~_GO=Generated~acl=/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/*~Signature=AfBeBzisqx4tG-Rq6tLCR-465apqKs4z2WspYOqNTBPib61p2lYZXTfQXo8_4vGOTuRLcK0ylk97RkPCNMH4zDjXibAF",
+      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783783563~_GO=Generated~acl=/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/*~Signature=AfBeBzisqx4tG-Rq6tLCR-465apqKs4z2WspYOqNTBPib61p2lYZXTfQXo8_4vGOTuRLcK0ylk97RkPCNMH4zDjXibAF"
     },
     {
       "event_category": "Cricket",
