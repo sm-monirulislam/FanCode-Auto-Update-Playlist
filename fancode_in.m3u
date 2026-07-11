@@ -2,9 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 01:00:33 PM 11-07-2026 (BD Time)
-# 📺 Live Matches (IN): 2
+# 🕒 Last Updated: 02:00:28 PM 11-07-2026 (BD Time)
+# 📺 Live Matches (IN): 3
 #=================================
+
+#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Cricket",Zimbabwe Vs Bangladesh
+https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg" group-title="Cricket",Speen Ghar Tigers Vs Amo Sharks
 https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8

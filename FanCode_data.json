@@ -3,8 +3,24 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "01:00:33 PM 11-07-2026",
+  "last update time": "02:00:28 PM 11-07-2026",
   "matches": [
+    {
+      "event_category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+      "team_1": "Zimbabwe",
+      "team_2": "Bangladesh",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "status": "LIVE",
+      "event_name": "Bangladesh tour of Zimbabwe, 2026",
+      "match_name": "Zimbabwe Vs Bangladesh",
+      "match_id": 143402,
+      "startTime": "11 July 2026 01:00 PM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8"
+    },
     {
       "event_category": "Cricket",
       "title": "Speen Ghar Tigers Vs Amo Sharks",
@@ -36,22 +52,6 @@
       "startTime": "11 July 2026 12:10 PM",
       "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/1080p5.m3u8",
       "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/1080p5.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "team_1": "Zimbabwe",
-      "team_2": "Bangladesh",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs Bangladesh",
-      "match_id": 143402,
-      "startTime": "11 July 2026 01:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
