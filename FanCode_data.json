@@ -3,23 +3,23 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "12:00:57 AM 14-07-2026",
+  "last update time": "01:00:59 AM 14-07-2026",
   "matches": [
     {
-      "event_category": "Tennis",
-      "title": "Day 1   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "team_1": "Day 1 - World Feed",
-      "team_2": "Switzerland",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "event_category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
       "status": "LIVE",
-      "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_name": "Day 1   World Feed",
-      "match_id": 143490,
-      "startTime": "13 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784046365~_GO=Generated~acl=/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/*~Signature=AfBeBzglu5cIRaxjcOyBN7M765xEOxqk41iK87YNpcDSRloGW50xkFj-hsLRAIj477ByeVfVqJnzA17QMggHjqTdvpAO",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784046365~_GO=Generated~acl=/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/*~Signature=AfBeBzglu5cIRaxjcOyBN7M765xEOxqk41iK87YNpcDSRloGW50xkFj-hsLRAIj477ByeVfVqJnzA17QMggHjqTdvpAO"
+      "event_name": "New Zealand tour of West Indies, 2026",
+      "match_name": "West Indies Vs New Zealand",
+      "match_id": 143604,
+      "startTime": "14 July 2026 12:00 AM",
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Tennis",
@@ -36,22 +36,6 @@
       "startTime": "13 July 2026 07:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784051465~_GO=Generated~acl=/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/*~Signature=AfBeBzhYrbbIjuJKRceXxtj2S20sqyUp-RdeIJuF_8Zsa-CE8L46exJQt5Fx3xGSdUgH9kKtgJSFul_-qbqYCGUN09gP",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784051465~_GO=Generated~acl=/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/*~Signature=AfBeBzhYrbbIjuJKRceXxtj2S20sqyUp-RdeIJuF_8Zsa-CE8L46exJQt5Fx3xGSdUgH9kKtgJSFul_-qbqYCGUN09gP"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs New Zealand",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "status": "LIVE",
-      "event_name": "New Zealand tour of West Indies, 2026",
-      "match_name": "West Indies Vs New Zealand",
-      "match_id": 143604,
-      "startTime": "14 July 2026 12:00 AM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -610,6 +594,22 @@
       "match_name": "Day 5",
       "match_id": 143501,
       "startTime": "17 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Practice 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "team_1": "Practice 1",
+      "team_2": "Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_name": "Practice 1",
+      "match_id": 139467,
+      "startTime": "17 July 2026 05:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
