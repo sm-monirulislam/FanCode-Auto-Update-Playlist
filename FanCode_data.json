@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "06:01:01 AM 13-07-2026",
+  "last update time": "07:00:57 AM 13-07-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -13,13 +13,13 @@
       "team_2": "Hurstbourne Country Club",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "ISCO Championship 2026",
       "match_name": "Day 4",
       "match_id": 4246550,
       "startTime": "13 July 2026 01:30 AM",
-      "fancode_bd": "https://bd-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783987091~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgwG4I75WhCT1iO5PkO2f3qg7lnuQqCdeGQbdARWXcI4d4-R_8-nN-oV0uQ_DiJvLTOFk4ZsDRK0cZ_v1ToNlkK",
-      "fancode_in": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783987091~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgwG4I75WhCT1iO5PkO2f3qg7lnuQqCdeGQbdARWXcI4d4-R_8-nN-oV0uQ_DiJvLTOFk4ZsDRK0cZ_v1ToNlkK"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
