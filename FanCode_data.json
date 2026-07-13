@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:00:59 PM 13-07-2026",
+  "last update time": "04:00:57 PM 13-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -109,13 +109,13 @@
       "team_2": "Amo Sharks",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAK@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Shpageeza Cricket League, 2026",
       "match_name": "Mis E Ainak Knights Vs Amo Sharks",
       "match_id": 143698,
       "startTime": "13 July 2026 03:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8",
+      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8"
     },
     {
       "event_category": "Cricket",
