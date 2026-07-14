@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "06:00:39 PM 14-07-2026",
+  "last update time": "07:00:30 PM 14-07-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Serbia Vs Estonia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "team_1": "Serbia",
-      "team_2": "Estonia",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_name": "Serbia Vs Estonia",
-      "match_id": 4246581,
-      "startTime": "14 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8"
-    },
     {
       "event_category": "Tennis",
       "title": "Day 2   World Feed",
@@ -34,8 +18,8 @@
       "match_name": "Day 2   World Feed",
       "match_id": 143491,
       "startTime": "14 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK"
     },
     {
       "event_category": "Tennis",
@@ -50,8 +34,8 @@
       "match_name": "Day 2   World Feed",
       "match_id": 143484,
       "startTime": "14 July 2026 02:30 PM",
-      "fancode_bd": "https://bd-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8",
-      "fancode_in": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC"
     },
     {
       "event_category": "Cricket",
@@ -167,22 +151,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Denmark Vs Hungary",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "team_1": "Denmark",
-      "team_2": "Hungary",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_name": "Denmark Vs Hungary",
-      "match_id": 4246570,
-      "startTime": "13 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "Estonia Vs Turkiye",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "team_1": "Estonia",
@@ -225,6 +193,22 @@
       "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_name": "Belgium Vs Hungary",
       "match_id": 4246582,
+      "startTime": "14 July 2026 02:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Serbia Vs Estonia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "team_1": "Serbia",
+      "team_2": "Estonia",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_name": "Serbia Vs Estonia",
+      "match_id": 4246581,
       "startTime": "14 July 2026 02:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
@@ -642,6 +626,22 @@
       "match_name": "Practice Session",
       "match_id": 143608,
       "startTime": "17 July 2026 10:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Kandy Royals Vs Dambulla Sixers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Kandy Royals",
+      "team_2": "Dambulla Sixers",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Kandy Royals Vs Dambulla Sixers",
+      "match_id": 4246709,
+      "startTime": "18 July 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
