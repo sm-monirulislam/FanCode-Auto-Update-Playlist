@@ -2,15 +2,12 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 05:00:27 PM 14-07-2026 (BD Time)
-# 📺 Live Matches (IN): 5
+# 🕒 Last Updated: 06:00:39 PM 14-07-2026 (BD Time)
+# 📺 Live Matches (IN): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Serbia Vs Estonia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket",Serbia Vs Estonia
 https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="Belgium Vs Hungary" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket",Belgium Vs Hungary
-https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis",Day 2   World Feed
 https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8
