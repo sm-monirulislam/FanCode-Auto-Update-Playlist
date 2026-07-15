@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "10:01:19 AM 15-07-2026",
+  "last update time": "11:01:15 AM 15-07-2026",
   "matches": [
     {
       "event_category": "Live Events",
@@ -61,13 +61,13 @@
       "team_2": "Speen Ghar Tigers",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Shpageeza Cricket League, 2026",
       "match_name": "Amo Sharks Vs Speen Ghar Tigers",
       "match_id": 143696,
       "startTime": "15 July 2026 10:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF"
     },
     {
       "event_category": "Tennis",
