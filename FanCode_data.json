@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "10:01:16 PM 16-07-2026",
+  "last update time": "11:01:16 PM 16-07-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -34,8 +34,8 @@
       "match_name": "Day 4   World Feed",
       "match_id": 143493,
       "startTime": "16 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784291164~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cX951BK-Plnqirx7erVb6crYQO2UsakVoJHUjsgORU2GezjHzCaOcwAZLLMO4_80ois6KdlxMMrI1ZoOoSIt5QJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784291164~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cX951BK-Plnqirx7erVb6crYQO2UsakVoJHUjsgORU2GezjHzCaOcwAZLLMO4_80ois6KdlxMMrI1ZoOoSIt5QJ"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784305805~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cVQYHHt9YEUVCb3oyIINJxCNb55T0vfkIzfAjo9dTqVuZbxlqeknQRLhBr581q-yqZZ876aHLkf74yPVthRtLwM",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784305805~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cVQYHHt9YEUVCb3oyIINJxCNb55T0vfkIzfAjo9dTqVuZbxlqeknQRLhBr581q-yqZZ876aHLkf74yPVthRtLwM"
     },
     {
       "event_category": "Tennis",
@@ -50,8 +50,8 @@
       "match_name": "Day 4   World Feed",
       "match_id": 143486,
       "startTime": "16 July 2026 02:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784292664~_GO=Generated~acl=/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/*~Signature=AeRM5cVuxgwA1GsdiQoY5WR2WujLiSfAxuxGPOzbUUP350Da1YEf0cMXt6ZDdSquMbeiiCckCW9eVmx1YeFAKsjvKIsD",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784292664~_GO=Generated~acl=/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/*~Signature=AeRM5cVuxgwA1GsdiQoY5WR2WujLiSfAxuxGPOzbUUP350Da1YEf0cMXt6ZDdSquMbeiiCckCW9eVmx1YeFAKsjvKIsD"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784307065~_GO=Generated~acl=/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/*~Signature=AeRM5cUP9jAI1Wi2NXAQZ5udiAaIBBy9vzHRs9EjAZ9Jl2ORGfn2UN0Y86aUqlNyxdHxdwKIvB5-uYj8rBgNQyKcbDMP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784307065~_GO=Generated~acl=/mumbai/143486_english_hls_3440f4b86a36375_1ta-di_h264/*~Signature=AeRM5cUP9jAI1Wi2NXAQZ5udiAaIBBy9vzHRs9EjAZ9Jl2ORGfn2UN0Y86aUqlNyxdHxdwKIvB5-uYj8rBgNQyKcbDMP"
     },
     {
       "event_category": "Tennis",
@@ -68,6 +68,22 @@
       "startTime": "16 July 2026 07:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143500_english_hls_7bbdedc9af52746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784296264~_GO=Generated~acl=/mumbai/143500_english_hls_7bbdedc9af52746_1ta-di_h264/*~Signature=AeRM5cXbkz28HFFl8Dir2zap01CnwD5uwR6qhwWy-7XObUH-2uxkwsOBM_f2NlJrgHXU4Fsg33aWSZiWI3H1_bhIRQIC",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143500_english_hls_7bbdedc9af52746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784296264~_GO=Generated~acl=/mumbai/143500_english_hls_7bbdedc9af52746_1ta-di_h264/*~Signature=AeRM5cXbkz28HFFl8Dir2zap01CnwD5uwR6qhwWy-7XObUH-2uxkwsOBM_f2NlJrgHXU4Fsg33aWSZiWI3H1_bhIRQIC"
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+      "team_1": "Day 1",
+      "team_2": "Puntacana Resort & Club, Dominican Republic",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "Corales Puntacana Championship 2026",
+      "match_name": "Day 1",
+      "match_id": 4246623,
+      "startTime": "16 July 2026 10:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784306644~_GO=Generated~acl=/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/*~Signature=AeRM5cVYRc268gLF2iX3w7IJDfDm6cN0aCXAqJjH86-qpVqSJsVUQcLE8Cqq8bhbS6Z5KB-07A-TNqji3OvBGxrVJuIN",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784306644~_GO=Generated~acl=/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/*~Signature=AeRM5cVYRc268gLF2iX3w7IJDfDm6cN0aCXAqJjH86-qpVqSJsVUQcLE8Cqq8bhbS6Z5KB-07A-TNqji3OvBGxrVJuIN"
     },
     {
       "event_category": "Cricket",
@@ -118,22 +134,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
-      "team_1": "Day 1",
-      "team_2": "Puntacana Resort & Club, Dominican Republic",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Corales Puntacana Championship 2026",
-      "match_name": "Day 1",
-      "match_id": 4246623,
-      "startTime": "16 July 2026 10:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Live Events",
       "title": "Day 10",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
@@ -162,38 +162,6 @@
       "match_name": "Day 2",
       "match_id": 4246809,
       "startTime": "17 July 2026 11:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Women Vs Ireland Women",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-      "team_1": "West Indies Women",
-      "team_2": "Ireland Women",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "status": "UPCOMING",
-      "event_name": "West Indies Women tour of Ireland, 2026",
-      "match_name": "West Indies Women Vs Ireland Women",
-      "match_id": 143145,
-      "startTime": "15 July 2026 03:15 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "team_1": "Zimbabwe",
-      "team_2": "Bangladesh",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs Bangladesh",
-      "match_id": 143403,
-      "startTime": "15 July 2026 04:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,6 +610,38 @@
       "match_name": "Zimbabwe Vs Bangladesh",
       "match_id": 143405,
       "startTime": "19 July 2026 04:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Feature Race",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "team_1": "Feature Race",
+      "team_2": "Spa-Francorchamps",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F3 BELGIUM 2026",
+      "match_name": "Feature Race",
+      "match_id": 139732,
+      "startTime": "19 July 2026 12:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "New Zealand tour of West Indies, 2026",
+      "match_name": "West Indies Vs New Zealand",
+      "match_id": 143606,
+      "startTime": "19 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
