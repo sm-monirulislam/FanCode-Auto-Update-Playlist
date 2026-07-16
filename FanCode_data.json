@@ -3,8 +3,24 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "12:01:20 AM 17-07-2026",
+  "last update time": "01:01:17 AM 17-07-2026",
   "matches": [
+    {
+      "event_category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "status": "LIVE",
+      "event_name": "New Zealand tour of West Indies, 2026",
+      "match_name": "West Indies Vs New Zealand",
+      "match_id": 143605,
+      "startTime": "17 July 2026 12:00 AM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784311504~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cXly0E7X3BCueAReteDgo_DYRKY3OhMPTTqygVlVyOnprv5JvL2epHx_0YJS7bC1RyT9fseumcgGhNFVXk90IUK",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784311504~_GO=Generated~acl=/mumbai/143605_english_hls_2af830d3f124274_1ta-di_h264/*~Signature=AeRM5cXly0E7X3BCueAReteDgo_DYRKY3OhMPTTqygVlVyOnprv5JvL2epHx_0YJS7bC1RyT9fseumcgGhNFVXk90IUK"
+    },
     {
       "event_category": "Golf",
       "title": "Day 1",
@@ -20,22 +36,6 @@
       "startTime": "16 July 2026 11:00 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784309404~_GO=Generated~acl=/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/*~Signature=AeRM5cUjfThiKA81zyofIeQH1GEzyl625QIsCPTIoX4-qVEjEzljJhfgExfX1nhbH04utno9K3VNoU9vLfOwjYBfJhgM",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784309404~_GO=Generated~acl=/mumbai/4246808_english_hls_cd63cc5f7314604_1ta-di_h264/*~Signature=AeRM5cUjfThiKA81zyofIeQH1GEzyl625QIsCPTIoX4-qVEjEzljJhfgExfX1nhbH04utno9K3VNoU9vLfOwjYBfJhgM"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 4   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "team_1": "Day 4 - World Feed",
-      "team_2": "Switzerland",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_name": "Day 4   World Feed",
-      "match_id": 143493,
-      "startTime": "16 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784305805~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cVQYHHt9YEUVCb3oyIINJxCNb55T0vfkIzfAjo9dTqVuZbxlqeknQRLhBr581q-yqZZ876aHLkf74yPVthRtLwM",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784305805~_GO=Generated~acl=/mumbai/143493_english_hls_b547409e2039401_1ta-di_h264/*~Signature=AeRM5cVQYHHt9YEUVCb3oyIINJxCNb55T0vfkIzfAjo9dTqVuZbxlqeknQRLhBr581q-yqZZ876aHLkf74yPVthRtLwM"
     },
     {
       "event_category": "Tennis",
@@ -84,22 +84,6 @@
       "startTime": "16 July 2026 10:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784306644~_GO=Generated~acl=/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/*~Signature=AeRM5cVYRc268gLF2iX3w7IJDfDm6cN0aCXAqJjH86-qpVqSJsVUQcLE8Cqq8bhbS6Z5KB-07A-TNqji3OvBGxrVJuIN",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784306644~_GO=Generated~acl=/mumbai/4246623_english_hls_06092def8531484_1ta-di_h264/*~Signature=AeRM5cVYRc268gLF2iX3w7IJDfDm6cN0aCXAqJjH86-qpVqSJsVUQcLE8Cqq8bhbS6Z5KB-07A-TNqji3OvBGxrVJuIN"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs New Zealand",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "New Zealand tour of West Indies, 2026",
-      "match_name": "West Indies Vs New Zealand",
-      "match_id": 143605,
-      "startTime": "17 July 2026 12:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -641,6 +625,22 @@
       "event_name": "New Zealand tour of West Indies, 2026",
       "match_name": "West Indies Vs New Zealand",
       "match_id": 143606,
+      "startTime": "19 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Colombo Kaps Vs Kandy Royals",
+      "src": "https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png",
+      "team_1": "Colombo Kaps",
+      "team_2": "Kandy Royals",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+      "status": "UPCOMING",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Colombo Kaps Vs Kandy Royals",
+      "match_id": 4246712,
       "startTime": "19 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
