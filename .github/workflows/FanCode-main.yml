@@ -47,7 +47,7 @@ jobs:
           # চেক করুন কোনো ফাইল আপডেট হয়েছে কি না
           if [[ -n $(git status -s) ]]; then
             git add fancode_bd.m3u fancode_in.m3u FanCode_data.json
-            git commit -m "Auto Update FanCode - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "🔁 Auto Update FanCode - $(date +'%Y-%m-%d %H:%M:%S')"
             git pull --rebase origin main
             git push origin main
           else
