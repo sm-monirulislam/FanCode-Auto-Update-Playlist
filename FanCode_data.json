@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "12:01:15 PM 16-07-2026",
+  "last update time": "01:01:13 PM 16-07-2026",
   "matches": [
-    {
-      "event_category": "Live Events",
-      "title": "Day 9",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "team_1": "Day 9",
-      "team_2": "Goa",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "Dream UTT Juniors 2026",
-      "match_name": "Day 9",
-      "match_id": 4246607,
-      "startTime": "16 July 2026 09:00 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246607_english_hls_d8a2b1573c67728_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784258344~_GO=Generated~acl=/mumbai/4246607_english_hls_d8a2b1573c67728_1ta-di_h264/*~Signature=AeRM5cWe_dr2n8pilMt1mxWfzVhyHeJu6hrDbfbjIr4GTJxYyXKU2VSrtrUnyVD43RI7w3MpjxLhxNn_VKGKSHhf2XoE",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246607_english_hls_d8a2b1573c67728_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784258344~_GO=Generated~acl=/mumbai/4246607_english_hls_d8a2b1573c67728_1ta-di_h264/*~Signature=AeRM5cWe_dr2n8pilMt1mxWfzVhyHeJu6hrDbfbjIr4GTJxYyXKU2VSrtrUnyVD43RI7w3MpjxLhxNn_VKGKSHhf2XoE"
-    },
     {
       "event_category": "Golf",
       "title": "Day 1",
@@ -182,22 +166,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Live Events",
-      "title": "Day 10",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "team_1": "Day 10",
-      "team_2": "Goa",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Dream UTT Juniors 2026",
-      "match_name": "Day 10",
-      "match_id": 4246608,
-      "startTime": "17 July 2026 09:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Jaffna Kings Vs Galle Gallants",
       "src": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
@@ -210,6 +178,22 @@
       "match_name": "Jaffna Kings Vs Galle Gallants",
       "match_id": 4246710,
       "startTime": "17 July 2026 07:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Day 10",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "team_1": "Day 10",
+      "team_2": "Goa",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Dream UTT Juniors 2026",
+      "match_name": "Day 10",
+      "match_id": 4246608,
+      "startTime": "17 July 2026 09:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -642,6 +626,22 @@
       "match_name": "Dambulla Sixers Vs Jaffna Kings",
       "match_id": 4246717,
       "startTime": "19 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Live Events",
+      "title": "Final",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "team_1": "Final",
+      "team_2": "Goa",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Dream UTT Juniors 2026",
+      "match_name": "Final",
+      "match_id": 4246610,
+      "startTime": "19 July 2026 09:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     }
