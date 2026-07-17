@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 09:00:44 PM 17-07-2026 (BD Time)
-# 📺 Live Matches (BD): 3
+# 🕒 Last Updated: 10:00:40 PM 17-07-2026 (BD Time)
+# 📺 Live Matches (BD): 4
 #=================================
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Jaffna Kings
@@ -14,3 +14,6 @@ https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-d
 
 #EXTINF:-1 tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="Tennis",Day 5   World Feed
 https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784377146~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cUns2zsGlo0j4uSoxHyB2BaFchOH-AMQMqh_qnkYj0pwxoOFTchrTJrbbXwMnbLQPjYIQTfxeZX4Y1lwSed0ngE
+
+#EXTINF:-1 tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="Formula 1",Practice 2
+https://bd-mc-flive.fancode.com/mumbai/139468_english_hls_b0f123ce9b83862_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784387105~_GO=Generated~acl=/mumbai/139468_english_hls_b0f123ce9b83862_1ta-di_h264/*~Signature=AeRM5cXUJAec3T6ZXArw-LL8PryrY4bnFHxJFM9DdL5bu7q3JnlepA77gIfeBENuxuW1VwK3JB-SpSXvuiVtls1hBfEG
