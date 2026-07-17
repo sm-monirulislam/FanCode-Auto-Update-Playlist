@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:00:41 PM 17-07-2026",
+  "last update time": "04:00:40 PM 17-07-2026",
   "matches": [
     {
       "event_category": "Golf",
@@ -18,24 +18,8 @@
       "match_name": "Day 2",
       "match_id": 4246809,
       "startTime": "17 July 2026 11:00 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784351945~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cWNEnU8YbbLnhWvqCrACnqJGryB1R2VjtdnI5YZEqPk8OYqwn-AhMAMYsE946SjSeZsAURtELLNPGu-tgWDkyIJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784351945~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cWNEnU8YbbLnhWvqCrACnqJGryB1R2VjtdnI5YZEqPk8OYqwn-AhMAMYsE946SjSeZsAURtELLNPGu-tgWDkyIJ"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Practice Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Spa-Francorchamps",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F3 BELGIUM 2026",
-      "match_name": "Practice Session",
-      "match_id": 139729,
-      "startTime": "17 July 2026 01:25 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE"
     },
     {
       "event_category": "Tennis",
@@ -68,22 +52,6 @@
       "startTime": "17 July 2026 02:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP"
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Practice Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "F2 BELGIUM 2026",
-      "match_name": "Practice Session",
-      "match_id": 139638,
-      "startTime": "17 July 2026 02:35 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139638_english_hls_f0c614ced53339_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784365085~_GO=Generated~acl=/mumbai/139638_english_hls_f0c614ced53339_1ta-di_h264/*~Signature=AeRM5cUH0cIPtWBcq3pw2Yn0Al4qxWpHExg3Sl5-13j6Pbnl6XKgKTTV4d3i-S_06Z4kOzQlmF7SAM0r0L15N-Zh0tYI",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139638_english_hls_f0c614ced53339_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784365085~_GO=Generated~acl=/mumbai/139638_english_hls_f0c614ced53339_1ta-di_h264/*~Signature=AeRM5cUH0cIPtWBcq3pw2Yn0Al4qxWpHExg3Sl5-13j6Pbnl6XKgKTTV4d3i-S_06Z4kOzQlmF7SAM0r0L15N-Zh0tYI"
     },
     {
       "event_category": "Cricket",
@@ -610,6 +578,38 @@
       "match_name": "Day 7",
       "match_id": 143489,
       "startTime": "19 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 7",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "team_1": "Day 7",
+      "team_2": "Switzerland",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_name": "Day 7",
+      "match_id": 143496,
+      "startTime": "19 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Race",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Race",
+      "team_2": "Spa-Francorchamps",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Supercup 2026",
+      "match_name": "Race",
+      "match_id": 143610,
+      "startTime": "19 July 2026 03:15 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
