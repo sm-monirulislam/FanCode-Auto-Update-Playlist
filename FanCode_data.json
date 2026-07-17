@@ -3,24 +3,8 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "12:00:38 AM 18-07-2026",
+  "last update time": "01:00:39 AM 18-07-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "title": "Galle Gallants Vs Jaffna Kings",
-      "src": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
-      "team_1": "Galle Gallants",
-      "team_2": "Jaffna Kings",
-      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
-      "status": "LIVE",
-      "event_name": "Lanka Premier League, 2026",
-      "match_name": "Galle Gallants Vs Jaffna Kings",
-      "match_id": 4246710,
-      "startTime": "17 July 2026 07:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784394305~_GO=Generated~acl=/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/*~Signature=AeRM5cV_63s0F1J9RHzj3eMBlSLNztFjEJ3cJOfBfXm8cpD7xS3-atrm2W7WPLOE0hzIBYQRKnKYmNabqzxfl2iIjb0B",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784394305~_GO=Generated~acl=/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/*~Signature=AeRM5cV_63s0F1J9RHzj3eMBlSLNztFjEJ3cJOfBfXm8cpD7xS3-atrm2W7WPLOE0hzIBYQRKnKYmNabqzxfl2iIjb0B"
-    },
     {
       "event_category": "Golf",
       "title": "Day 2",
@@ -36,22 +20,6 @@
       "startTime": "17 July 2026 11:00 AM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784395804~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cUj9ktLKyjUZkrqWw3t7jJaGu0o_oy0Yd4KN63QUh2qJxR3pPwMUsFaLh2SrP0Ev5sJsqgUHs21PZIK3E5ShXIH",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784395804~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cUj9ktLKyjUZkrqWw3t7jJaGu0o_oy0Yd4KN63QUh2qJxR3pPwMUsFaLh2SrP0Ev5sJsqgUHs21PZIK3E5ShXIH"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Day 5   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "team_1": "Day 5 - World Feed",
-      "team_2": "Switzerland",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_name": "Day 5   World Feed",
-      "match_id": 143494,
-      "startTime": "17 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784391551~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cWlyfnGLc1GsIjIaTt8SMI8kfhGW3mPuTwNX6dmd1Av9spSBj39w5GVxJhKzI_ZZGagMTtJO_qFqjaBntmhvMEE",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784391551~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cWlyfnGLc1GsIjIaTt8SMI8kfhGW3mPuTwNX6dmd1Av9spSBj39w5GVxJhKzI_ZZGagMTtJO_qFqjaBntmhvMEE"
     },
     {
       "event_category": "Tennis",
@@ -274,6 +242,22 @@
       "match_name": "Bangladesh Vs Zimbabwe",
       "match_id": 143404,
       "startTime": "17 July 2026 04:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Galle Gallants Vs Jaffna Kings",
+      "src": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
+      "team_1": "Galle Gallants",
+      "team_2": "Jaffna Kings",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
+      "status": "UPCOMING",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Galle Gallants Vs Jaffna Kings",
+      "match_id": 4246710,
+      "startTime": "17 July 2026 07:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -610,6 +594,22 @@
       "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "match_id": 4247195,
       "startTime": "21 July 2026 07:30 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Nepal Vs Namibia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4246703_52990_NEP_NAM_fc-App.png",
+      "team_1": "Nepal",
+      "team_2": "Namibia",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2 Netherlands, 2026",
+      "match_name": "Nepal Vs Namibia",
+      "match_id": 4246703,
+      "startTime": "21 July 2026 02:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
