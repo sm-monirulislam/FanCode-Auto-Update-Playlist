@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "07:00:44 PM 17-07-2026",
+  "last update time": "08:00:40 PM 17-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -22,6 +22,22 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784369105~_GO=Generated~acl=/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/*~Signature=AeRM5cXBbdciWEoiExzPHiHJ3pAf7ZN4odWQhWK-XEOxGhD6tAaNNJIxguNuu5Uj3UX7NWzK-opF2TZ361L1WMpa8WgA"
     },
     {
+      "event_category": "Cricket",
+      "title": "Jaffna Kings Vs Galle Gallants",
+      "src": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
+      "team_1": "Jaffna Kings",
+      "team_2": "Galle Gallants",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
+      "status": "LIVE",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Jaffna Kings Vs Galle Gallants",
+      "match_id": 4246710,
+      "startTime": "17 July 2026 07:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379905~_GO=Generated~acl=/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/*~Signature=AeRM5cXJ_SvaEM6WOtwEpDRQY-gzaG1h5nXJPRohqRj1mdXXJf-0NP5J2NzzvaI-UjzFIdIqG8HxBOYX7B9oG3eVmjsP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379905~_GO=Generated~acl=/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/*~Signature=AeRM5cXJ_SvaEM6WOtwEpDRQY-gzaG1h5nXJPRohqRj1mdXXJf-0NP5J2NzzvaI-UjzFIdIqG8HxBOYX7B9oG3eVmjsP"
+    },
+    {
       "event_category": "Golf",
       "title": "Day 2",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
@@ -34,8 +50,8 @@
       "match_name": "Day 2",
       "match_id": 4246809,
       "startTime": "17 July 2026 11:00 AM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784366346~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cXuRs-DIewF74Ko9gaKQB9n-59pvUpSRw-oEzsD3eKjcEoop7GbkJcciRK5YyU--FaDuPltp5SI9OvxsqfJftsE"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784381165~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cVIDSpNBa_ssfnuB0UY_MuvReUZQbc5Y94zFrweHLI7-OF3DoDXc0VaYGDOltWwq-kB-qxe2ni8-aE4Fja_KXcL",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784381165~_GO=Generated~acl=/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/*~Signature=AeRM5cVIDSpNBa_ssfnuB0UY_MuvReUZQbc5Y94zFrweHLI7-OF3DoDXc0VaYGDOltWwq-kB-qxe2ni8-aE4Fja_KXcL"
     },
     {
       "event_category": "Tennis",
@@ -70,52 +86,20 @@
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379068~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXGADoh2a_pyRLRg9PCYgPsc3Bg-qEXendHAUzGzUdobTt7kbHYS_fph3xPyHIrpJOOYzM4_-1wgRaUqGIMVdEH"
     },
     {
-      "event_category": "Formula 1",
-      "title": "Practice 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
-      "team_1": "Practice 1",
-      "team_2": "Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "LIVE",
-      "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_name": "Practice 1",
-      "match_id": 139467,
-      "startTime": "17 July 2026 05:00 PM",
-      "fancode_bd": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8",
-      "fancode_in": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8"
-    },
-    {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
       "team_1": "Qualifying Session",
-      "team_2": "Spa-Francorchamps",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2": "Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
       "status": "LIVE",
-      "event_name": "F3 BELGIUM 2026",
+      "event_name": "F2 BELGIUM 2026",
       "match_name": "Qualifying Session",
-      "match_id": 139730,
-      "startTime": "17 July 2026 06:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Jaffna Kings Vs Galle Gallants",
-      "src": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
-      "team_1": "Jaffna Kings",
-      "team_2": "Galle Gallants",
-      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
-      "status": "UPCOMING",
-      "event_name": "Lanka Premier League, 2026",
-      "match_name": "Jaffna Kings Vs Galle Gallants",
-      "match_id": 4246710,
-      "startTime": "17 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
+      "match_id": 139639,
+      "startTime": "17 July 2026 07:25 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD"
     },
     {
       "event_category": "Cricket",
@@ -146,22 +130,6 @@
       "match_name": "Galle Gallants Vs Colombo Kaps",
       "match_id": 4246711,
       "startTime": "18 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F2 BELGIUM 2026",
-      "match_name": "Qualifying Session",
-      "match_id": 139639,
-      "startTime": "17 July 2026 07:25 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -200,7 +168,7 @@
     {
       "event_category": "Motorsports",
       "title": "Practice Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
       "team_1": "Practice Session",
       "team_2": "Spa-Francorchamps",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
@@ -296,7 +264,7 @@
     {
       "event_category": "Motorsports",
       "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
       "team_1": "Qualifying Session",
       "team_2": "Spa-Francorchamps",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
@@ -600,7 +568,7 @@
     {
       "event_category": "Motorsports",
       "title": "Race",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
       "team_1": "Race",
       "team_2": "Spa-Francorchamps",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
@@ -610,6 +578,38 @@
       "match_name": "Race",
       "match_id": 143610,
       "startTime": "19 July 2026 03:15 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Europe   Race 2",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "team_1": "Europe - Race 2",
+      "team_2": "Portimao, Portugal",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Ferrari Challenge Series 2026",
+      "match_name": "Europe   Race 2",
+      "match_id": 143701,
+      "startTime": "19 July 2026 06:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Race",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "team_1": "Race",
+      "team_2": "Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_name": "Race",
+      "match_id": 139471,
+      "startTime": "19 July 2026 06:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
