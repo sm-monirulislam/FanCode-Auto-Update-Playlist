@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "06:00:42 PM 17-07-2026",
+  "last update time": "07:00:44 PM 17-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -50,8 +50,8 @@
       "match_name": "Day 5   World Feed",
       "match_id": 143494,
       "startTime": "17 July 2026 02:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784377146~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cUns2zsGlo0j4uSoxHyB2BaFchOH-AMQMqh_qnkYj0pwxoOFTchrTJrbbXwMnbLQPjYIQTfxeZX4Y1lwSed0ngE",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784377146~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cUns2zsGlo0j4uSoxHyB2BaFchOH-AMQMqh_qnkYj0pwxoOFTchrTJrbbXwMnbLQPjYIQTfxeZX4Y1lwSed0ngE"
     },
     {
       "event_category": "Tennis",
@@ -66,8 +66,40 @@
       "match_name": "Day 5   World Feed",
       "match_id": 143487,
       "startTime": "17 July 2026 02:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784364665~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXTi72Qth2aaRwY8RidaHBT0ZPCETyKzVAE-vHx4t_KsHW-IcU7DHmxyvgiP1K2sTr40UPTwLcJmoCxl4H_eGwP"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379068~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXGADoh2a_pyRLRg9PCYgPsc3Bg-qEXendHAUzGzUdobTt7kbHYS_fph3xPyHIrpJOOYzM4_-1wgRaUqGIMVdEH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784379068~_GO=Generated~acl=/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/*~Signature=AeRM5cXGADoh2a_pyRLRg9PCYgPsc3Bg-qEXendHAUzGzUdobTt7kbHYS_fph3xPyHIrpJOOYzM4_-1wgRaUqGIMVdEH"
+    },
+    {
+      "event_category": "Formula 1",
+      "title": "Practice 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "team_1": "Practice 1",
+      "team_2": "Belgium",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "status": "LIVE",
+      "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_name": "Practice 1",
+      "match_id": 139467,
+      "startTime": "17 July 2026 05:00 PM",
+      "fancode_bd": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8",
+      "fancode_in": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8"
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Qualifying Session",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "team_1": "Qualifying Session",
+      "team_2": "Spa-Francorchamps",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "F3 BELGIUM 2026",
+      "match_name": "Qualifying Session",
+      "match_id": 139730,
+      "startTime": "17 July 2026 06:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH"
     },
     {
       "event_category": "Cricket",
@@ -102,22 +134,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Formula 1",
-      "title": "Practice 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
-      "team_1": "Practice 1",
-      "team_2": "Belgium",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "status": "LIVE",
-      "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_name": "Practice 1",
-      "match_id": 139467,
-      "startTime": "17 July 2026 05:00 PM",
-      "fancode_bd": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8",
-      "fancode_in": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8"
-    },
-    {
       "event_category": "Cricket",
       "title": "Galle Gallants Vs Colombo Kaps",
       "src": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
@@ -130,22 +146,6 @@
       "match_name": "Galle Gallants Vs Colombo Kaps",
       "match_id": 4246711,
       "startTime": "18 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Motorsports",
-      "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Spa-Francorchamps",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F3 BELGIUM 2026",
-      "match_name": "Qualifying Session",
-      "match_id": 139730,
-      "startTime": "17 July 2026 06:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
