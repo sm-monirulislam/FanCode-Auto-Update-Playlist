@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "08:00:39 PM 18-07-2026",
+  "last update time": "09:00:41 PM 18-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,22 +20,6 @@
       "startTime": "18 July 2026 07:30 PM",
       "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784467805~_GO=Generated~acl=/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/*~Signature=AeRM5cXrGc3sTEnfC1UpZ4-qarNMXM5BMRc-US0maRklYMEq1Ou9qkcDrp0biWQaGIN4jOvIzUgq8o3zZduCoTVyZ9kB",
       "fancode_in": "https://in-mc-flive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784467805~_GO=Generated~acl=/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/*~Signature=AeRM5cXrGc3sTEnfC1UpZ4-qarNMXM5BMRc-US0maRklYMEq1Ou9qkcDrp0biWQaGIN4jOvIzUgq8o3zZduCoTVyZ9kB"
-    },
-    {
-      "event_category": "Tennis",
-      "title": "Semi Finals",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "team_1": "Semi-Finals",
-      "team_2": "Switzerland",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_name": "Semi Finals",
-      "match_id": 143495,
-      "startTime": "18 July 2026 02:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784469066~_GO=Generated~acl=/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/*~Signature=AeRM5cWLXOv-WAgJKUaag1IfNtG72kN3I4XGESKF-Ynk0-5hYgfUG5fNB0RzK_sskbvzY1MgiziH516h47eUiywe7CQI",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784469066~_GO=Generated~acl=/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/*~Signature=AeRM5cWLXOv-WAgJKUaag1IfNtG72kN3I4XGESKF-Ynk0-5hYgfUG5fNB0RzK_sskbvzY1MgiziH516h47eUiywe7CQI"
     },
     {
       "event_category": "Golf",
@@ -77,13 +61,13 @@
       "team_2": "Portimao, Portugal",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "Ferrari Challenge Series 2026",
       "match_name": "Europe   Race 1",
       "match_id": 143700,
       "startTime": "18 July 2026 06:00 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Formula 1",
@@ -226,22 +210,6 @@
       "match_name": "Feature Race",
       "match_id": 139732,
       "startTime": "19 July 2026 12:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Bangladesh Vs Zimbabwe",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "team_1": "Bangladesh",
-      "team_2": "Zimbabwe",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Zimbabwe, 2026",
-      "match_name": "Bangladesh Vs Zimbabwe",
-      "match_id": 143404,
-      "startTime": "17 July 2026 04:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -610,6 +578,38 @@
       "match_name": "Atp 250   Millenium Estoril Open 2026",
       "match_id": 143511,
       "startTime": "22 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Netherlands Vs Nepal",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-App.png",
+      "team_1": "Netherlands",
+      "team_2": "Nepal",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2 Netherlands, 2026",
+      "match_name": "Netherlands Vs Nepal",
+      "match_id": 4246704,
+      "startTime": "23 July 2026 02:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Kandy Royals Vs Colombo Kaps",
+      "src": "https://images.fancode.com/aig/match/v1784105762382/4246723_CASACARDS_SPORTY_APP.png",
+      "team_1": "Kandy Royals",
+      "team_2": "Colombo Kaps",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+      "status": "UPCOMING",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Kandy Royals Vs Colombo Kaps",
+      "match_id": 4246723,
+      "startTime": "23 July 2026 03:00 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
