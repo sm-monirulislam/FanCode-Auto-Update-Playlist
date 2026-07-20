@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "03:00:38 AM 21-07-2026",
+  "last update time": "04:00:37 AM 21-07-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -13,13 +13,13 @@
       "team_2": "Portugal",
       "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
       "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "event_name": "ATP 250 - Millenium Estoril Open 2026",
       "match_name": "Day 1",
       "match_id": 143509,
       "startTime": "20 July 2026 04:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784667485~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp4r5vPPhbQcg70M1j1K3Vawv_KtMzCixX6Yg9y9dXvfTT15qE05Qh5HwcF8xi5baliSTB-W41yTsayhps9978QJ",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784667485~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp4r5vPPhbQcg70M1j1K3Vawv_KtMzCixX6Yg9y9dXvfTT15qE05Qh5HwcF8xi5baliSTB-W41yTsayhps9978QJ"
+      "fancode_bd": "",
+      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -55,22 +55,6 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
-      "team_1": "Malaysia XI",
-      "team_2": "Sea Hawks Cricket Club",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Seahawks.png",
-      "status": "UPCOMING",
-      "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "match_id": 4247195,
-      "startTime": "21 July 2026 07:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
       "title": "West Indies Vs New Zealand",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
       "team_1": "West Indies",
@@ -82,6 +66,22 @@
       "match_name": "West Indies Vs New Zealand",
       "match_id": 143607,
       "startTime": "22 July 2026 12:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
+      "team_1": "Malaysia XI",
+      "team_2": "Sea Hawks Cricket Club",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Seahawks.png",
+      "status": "UPCOMING",
+      "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "match_id": 4247195,
+      "startTime": "21 July 2026 07:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
