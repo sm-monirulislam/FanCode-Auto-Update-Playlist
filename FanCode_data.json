@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 38,
-  "last update time": "08:00:49 PM 20-07-2026",
+  "last update time": "09:00:45 PM 20-07-2026",
   "matches": [
     {
       "event_category": "Tennis",
@@ -18,8 +18,24 @@
       "match_name": "Day 1",
       "match_id": 143503,
       "startTime": "20 July 2026 02:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784623865~_GO=Generated~acl=/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/*~Signature=AeRM5cUQxgCsLpu4BmnJpblujF6wBrARJu7wSDGXBn-8zS45GUG6KzuphtWdZqZlB5DGBaeg98u5BEbnYr5Q8S-mWOYC",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784623865~_GO=Generated~acl=/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/*~Signature=AeRM5cUQxgCsLpu4BmnJpblujF6wBrARJu7wSDGXBn-8zS45GUG6KzuphtWdZqZlB5DGBaeg98u5BEbnYr5Q8S-mWOYC"
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784642285~_GO=Generated~acl=/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/*~Signature=AeouRp7-dlzts1_8Aj4ND_a61vINkcnuwkNFhpzITd8JW3vv4lhqltgV5j2eSpDPey4-iIJk2AZ9ODlSo4MgotNA5WgP",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784642285~_GO=Generated~acl=/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/*~Signature=AeouRp7-dlzts1_8Aj4ND_a61vINkcnuwkNFhpzITd8JW3vv4lhqltgV5j2eSpDPey4-iIJk2AZ9ODlSo4MgotNA5WgP"
+    },
+    {
+      "event_category": "Tennis",
+      "title": "Day 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
+      "team_1": "Day 1",
+      "team_2": "Portugal",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Millenium Estoril Open 2026",
+      "match_name": "Day 1",
+      "match_id": 143509,
+      "startTime": "20 July 2026 04:30 PM",
+      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784630646~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp6n56zqS-Vl6vUJnsIIrhT4UxSKmd-vAcEX7RKwWleLninJBxHz_YsccrJj7mVzjwJmJEtif0FvaLN8nltdYTED",
+      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784630646~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp6n56zqS-Vl6vUJnsIIrhT4UxSKmd-vAcEX7RKwWleLninJBxHz_YsccrJj7mVzjwJmJEtif0FvaLN8nltdYTED"
     },
     {
       "event_category": "Cricket",
@@ -54,22 +70,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Tennis",
-      "title": "Atp 250   Millenium Estoril Open 2026",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
-      "team_1": "ATP 250 - Millenium Estoril Open 2026",
-      "team_2": "Portugal",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Millenium Estoril Open 2026",
-      "match_name": "Atp 250   Millenium Estoril Open 2026",
-      "match_id": 143509,
-      "startTime": "20 July 2026 04:30 PM",
-      "fancode_bd": "https://bd-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784630646~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp6n56zqS-Vl6vUJnsIIrhT4UxSKmd-vAcEX7RKwWleLninJBxHz_YsccrJj7mVzjwJmJEtif0FvaLN8nltdYTED",
-      "fancode_in": "https://in-mc-flive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784630646~_GO=Generated~acl=/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/*~Signature=AeouRp6n56zqS-Vl6vUJnsIIrhT4UxSKmd-vAcEX7RKwWleLninJBxHz_YsccrJj7mVzjwJmJEtif0FvaLN8nltdYTED"
-    },
-    {
       "event_category": "Cricket",
       "title": "Dambulla Sixers Vs Kandy Royals",
       "src": "https://images.fancode.com/aig/match/v1784105762381/4246724_CASACARDS_SPORTY_APP.png",
@@ -87,17 +87,17 @@
     },
     {
       "event_category": "Cricket",
-      "title": "Dambulla Sixers Vs Jaffna Kings",
-      "src": "https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png",
-      "team_1": "Dambulla Sixers",
-      "team_2": "Jaffna Kings",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
+      "title": "West Indies Vs New Zealand",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
       "status": "UPCOMING",
-      "event_name": "Lanka Premier League, 2026",
-      "match_name": "Dambulla Sixers Vs Jaffna Kings",
-      "match_id": 4246717,
-      "startTime": "19 July 2026 03:00 PM",
+      "event_name": "New Zealand tour of West Indies, 2026",
+      "match_name": "West Indies Vs New Zealand",
+      "match_id": 143607,
+      "startTime": "22 July 2026 12:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -146,22 +146,6 @@
       "match_name": "West Indies Vs New Zealand",
       "match_id": 143606,
       "startTime": "19 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Cricket",
-      "title": "West Indies Vs New Zealand",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "New Zealand tour of West Indies, 2026",
-      "match_name": "West Indies Vs New Zealand",
-      "match_id": 143607,
-      "startTime": "22 July 2026 12:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -610,6 +594,22 @@
       "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "match_id": 4247198,
       "startTime": "25 July 2026 07:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Namibia Vs Netherlands",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
+      "team_1": "Namibia",
+      "team_2": "Netherlands",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2 Netherlands, 2026",
+      "match_name": "Namibia Vs Netherlands",
+      "match_id": 4246705,
+      "startTime": "25 July 2026 02:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     }
