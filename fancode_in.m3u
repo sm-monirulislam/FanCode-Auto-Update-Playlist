@@ -2,15 +2,12 @@
 #=================================
 # Developed by: Monirul Islam
 # Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 09:00:51 PM 22-07-2026 (BD Time)
-# Live Matches (IN): 3
+# Last Updated: 10:00:41 PM 22-07-2026 (BD Time)
+# Live Matches (IN): 2
 #=================================
 
 #EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Dambulla Sixers
 https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Tennis",Day 3
-https://in-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis",Atp 250   Millenium Estoril Open 2026
 https://in-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
