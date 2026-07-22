@@ -3,23 +3,23 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "07:00:39 PM 22-07-2026",
+  "last update time": "08:00:58 PM 22-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
-      "title": "Jaffna Kings Vs Colombo Kaps",
-      "src": "https://images.fancode.com/aig/match/v1784105762383/4246715_CASACARDS_SPORTY_APP.png",
-      "team_1": "Jaffna Kings",
-      "team_2": "Colombo Kaps",
-      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+      "title": "Dambulla Sixers Vs Galle Gallants",
+      "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
+      "team_1": "Dambulla Sixers",
+      "team_2": "Galle Gallants",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
       "status": "LIVE",
       "event_name": "Lanka Premier League, 2026",
-      "match_name": "Jaffna Kings Vs Colombo Kaps",
-      "match_id": 4246715,
-      "startTime": "22 July 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
-      "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8"
+      "match_name": "Dambulla Sixers Vs Galle Gallants",
+      "match_id": 4246714,
+      "startTime": "22 July 2026 07:30 PM",
+      "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+      "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8"
     },
     {
       "event_category": "Tennis",
@@ -52,22 +52,6 @@
       "startTime": "22 July 2026 04:30 PM",
       "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8",
       "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Dambulla Sixers Vs Galle Gallants",
-      "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
-      "team_1": "Dambulla Sixers",
-      "team_2": "Galle Gallants",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png",
-      "status": "UPCOMING",
-      "event_name": "Lanka Premier League, 2026",
-      "match_name": "Dambulla Sixers Vs Galle Gallants",
-      "match_id": 4246714,
-      "startTime": "22 July 2026 07:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
     },
     {
       "event_category": "Cricket",
@@ -214,6 +198,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Jaffna Kings Vs Colombo Kaps",
+      "src": "https://images.fancode.com/aig/match/v1784105762383/4246715_CASACARDS_SPORTY_APP.png",
+      "team_1": "Jaffna Kings",
+      "team_2": "Colombo Kaps",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-Team-Logo.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+      "status": "UPCOMING",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Jaffna Kings Vs Colombo Kaps",
+      "match_id": 4246715,
+      "startTime": "22 July 2026 03:00 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 1   World Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
@@ -294,22 +294,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Golf",
-      "title": "Day 1   World Feed",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-      "team_1": "Day 1 - World Feed",
-      "team_2": "TPC Twin Cities - Blaine, Minnesota",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "3M Open 2026",
-      "match_name": "Day 1   World Feed",
-      "match_id": 4246799,
-      "startTime": "24 July 2026 02:30 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
@@ -322,6 +306,22 @@
       "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "match_id": 4247197,
       "startTime": "24 July 2026 07:30 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Golf",
+      "title": "Day 1   World Feed",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+      "team_1": "Day 1 - World Feed",
+      "team_2": "TPC Twin Cities - Blaine, Minnesota",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "3M Open 2026",
+      "match_name": "Day 1   World Feed",
+      "match_id": 4246799,
+      "startTime": "24 July 2026 02:30 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
