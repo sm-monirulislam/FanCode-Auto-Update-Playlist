@@ -2,8 +2,8 @@
   "name": "Fancode Live + Upcoming Matches Data",
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
-  "match_amount": 41,
-  "last update time": "08:00:46 PM 23-07-2026",
+  "match_amount": 40,
+  "last update time": "09:00:43 PM 23-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -20,38 +20,6 @@
       "startTime": "23 July 2026 02:30 PM",
       "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
       "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs India",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "India",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "status": "LIVE",
-      "event_name": "India tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs India",
-      "match_id": 143351,
-      "startTime": "23 July 2026 04:30 PM",
-      "fancode_bd": "Unavailable",
-      "fancode_in": "Unavailable"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Zimbabwe Vs India",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "India",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "status": "LIVE",
-      "event_name": "India tour of Zimbabwe, 2026",
-      "match_name": "Zimbabwe Vs India",
-      "match_id": 143351,
-      "startTime": "23 July 2026 04:30 PM",
-      "fancode_bd": "Unavailable",
-      "fancode_in": "Unavailable"
     },
     {
       "event_category": "Cricket",
@@ -198,6 +166,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Football",
+      "title": "Rosenborg Vs Manchester United",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png",
+      "team_1": "Rosenborg",
+      "team_2": "Manchester United",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROSB-FT1@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUN@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2026",
+      "match_name": "Rosenborg Vs Manchester United",
+      "match_id": 4248010,
+      "startTime": "24 July 2026 09:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Cricket",
       "title": "Galle Gallants Vs Dambulla Sixers",
       "src": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
@@ -246,6 +230,22 @@
       "fancode_in": ""
     },
     {
+      "event_category": "Cricket",
+      "title": "Zimbabwe Vs India",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "India",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "status": "UPCOMING",
+      "event_name": "India tour of Zimbabwe, 2026",
+      "match_name": "Zimbabwe Vs India",
+      "match_id": 143351,
+      "startTime": "23 July 2026 04:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
       "event_category": "Golf",
       "title": "Day 2   World Feed",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
@@ -258,22 +258,6 @@
       "match_name": "Day 2   World Feed",
       "match_id": 4247418,
       "startTime": "24 July 2026 02:00 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
-      "event_category": "Football",
-      "title": "Rosenborg Vs Manchester United",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Rosenborg",
-      "team_2": "Manchester United",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROSB-FT1@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUN@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Football Club Friendlies 2026",
-      "match_name": "Rosenborg Vs Manchester United",
-      "match_id": 4248010,
-      "startTime": "24 July 2026 09:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -454,22 +438,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Motorsports",
-      "title": "Qualifying Session",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Budapest",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "F3 HUNGARY 2026",
-      "match_name": "Qualifying Session",
-      "match_id": 139734,
-      "startTime": "24 July 2026 06:30 PM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
@@ -482,6 +450,22 @@
       "match_name": "Malaysia Xi Vs Sea Hawks Cricket Club",
       "match_id": 4247198,
       "startTime": "25 July 2026 07:00 AM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Qualifying Session",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "team_1": "Qualifying Session",
+      "team_2": "Budapest",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "F3 HUNGARY 2026",
+      "match_name": "Qualifying Session",
+      "match_id": 139734,
+      "startTime": "24 July 2026 06:30 PM",
       "fancode_bd": "",
       "fancode_in": ""
     },
@@ -550,22 +534,6 @@
       "fancode_in": ""
     },
     {
-      "event_category": "Motorsports",
-      "title": "Japan   Race 1",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
-      "team_1": "Japan - Race 1",
-      "team_2": "Suzuka City, Japan",
-      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "status": "UPCOMING",
-      "event_name": "Ferrari Challenge Series 2026",
-      "match_name": "Japan   Race 1",
-      "match_id": 143794,
-      "startTime": "25 July 2026 10:00 AM",
-      "fancode_bd": "",
-      "fancode_in": ""
-    },
-    {
       "event_category": "Cricket",
       "title": "Zimbabwe Vs India",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
@@ -578,6 +546,22 @@
       "match_name": "Zimbabwe Vs India",
       "match_id": 143352,
       "startTime": "25 July 2026 04:30 PM",
+      "fancode_bd": "",
+      "fancode_in": ""
+    },
+    {
+      "event_category": "Motorsports",
+      "title": "Japan   Race 1",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+      "team_1": "Japan - Race 1",
+      "team_2": "Suzuka City, Japan",
+      "team_1_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2_logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "status": "UPCOMING",
+      "event_name": "Ferrari Challenge Series 2026",
+      "match_name": "Japan   Race 1",
+      "match_id": 143794,
+      "startTime": "25 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
