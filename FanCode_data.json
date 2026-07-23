@@ -3,7 +3,7 @@
   "owner": "Monirul Islam",
   "telegram": "https://t.me/monirul_Islam_SM",
   "match_amount": 40,
-  "last update time": "03:00:46 PM 23-07-2026",
+  "last update time": "04:00:41 PM 23-07-2026",
   "matches": [
     {
       "event_category": "Cricket",
@@ -18,8 +18,8 @@
       "match_name": "Sri Lanka Women Vs Pakistan Women",
       "match_id": 4247425,
       "startTime": "23 July 2026 10:00 AM",
-      "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8",
-      "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8"
+      "fancode_bd": "Unavailable",
+      "fancode_in": "Unavailable"
     },
     {
       "event_category": "Cricket",
@@ -36,6 +36,22 @@
       "startTime": "23 July 2026 02:30 PM",
       "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
       "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8"
+    },
+    {
+      "event_category": "Cricket",
+      "title": "Colombo Kaps Vs Kandy Royals",
+      "src": "https://images.fancode.com/aig/match/v1784105762382/4246723_CASACARDS_SPORTY_APP.png",
+      "team_1": "Colombo Kaps",
+      "team_2": "Kandy Royals",
+      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
+      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
+      "status": "LIVE",
+      "event_name": "Lanka Premier League, 2026",
+      "match_name": "Colombo Kaps Vs Kandy Royals",
+      "match_id": 4246723,
+      "startTime": "23 July 2026 03:00 PM",
+      "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8",
+      "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8"
     },
     {
       "event_category": "Golf",
@@ -68,22 +84,6 @@
       "startTime": "23 July 2026 02:30 PM",
       "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8",
       "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8"
-    },
-    {
-      "event_category": "Cricket",
-      "title": "Kandy Royals Vs Colombo Kaps",
-      "src": "https://images.fancode.com/aig/match/v1784105762382/4246723_CASACARDS_SPORTY_APP.png",
-      "team_1": "Kandy Royals",
-      "team_2": "Colombo Kaps",
-      "team_1_logo": "https://www.fancode.com/skillup-uploads/cms-media/Kandy-Royals.png",
-      "team_2_logo": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png",
-      "status": "LIVE",
-      "event_name": "Lanka Premier League, 2026",
-      "match_name": "Kandy Royals Vs Colombo Kaps",
-      "match_id": 4246723,
-      "startTime": "23 July 2026 03:00 PM",
-      "fancode_bd": "https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8",
-      "fancode_in": "https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8"
     },
     {
       "event_category": "Cricket",
@@ -561,7 +561,7 @@
       "event_name": "Ferrari Challenge Series 2026",
       "match_name": "Japan   Race 1",
       "match_id": 143794,
-      "startTime": "25 July 2026 10:05 AM",
+      "startTime": "25 July 2026 10:00 AM",
       "fancode_bd": "",
       "fancode_in": ""
     },
